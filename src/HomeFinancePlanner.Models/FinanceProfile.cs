@@ -9,6 +9,8 @@ public class FinanceProfile
 {
     public int Id { get; set; }
 
+    public string? Name { get; set; }
+
     public decimal CurrentSavings { get; set; }
 
     public decimal MonthlySavingsContribution { get; set; }
