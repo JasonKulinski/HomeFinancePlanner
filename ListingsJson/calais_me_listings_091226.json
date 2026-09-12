@@ -1,0 +1,2308 @@
+[
+	{
+		"id": "S-River-Rd,-Calais,-ME-04619",
+		"formattedAddress": "S River Rd, Calais, ME 04619",
+		"addressLine1": "S River Rd",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.169745,
+		"longitude": -67.248836,
+		"propertyType": "Land",
+		"lotSize": 16095420,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2025-03-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:26:33.239Z",
+		"daysOnMarket": 552,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1615768",
+		"listingAgent": {
+			"name": "Billy Howard",
+			"phone": "2072147886",
+			"email": "billyhoward207@yahoo.com",
+			"website": "http://www.dueeast.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2025-03-10": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 552
+			}
+		}
+	},
+	{
+		"id": "15-Whitney-St,-Calais,-ME-04619",
+		"formattedAddress": "15 Whitney St, Calais, ME 04619",
+		"addressLine1": "15 Whitney St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.190352,
+		"longitude": -67.283044,
+		"propertyType": "Land",
+		"lotSize": 36590,
+		"status": "Active",
+		"price": 82000,
+		"listingType": "Standard",
+		"listedDate": "2025-09-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.522Z",
+		"daysOnMarket": 366,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1637410",
+		"listingAgent": {
+			"name": "Kevin Raye",
+			"phone": "2072147900",
+			"email": "kevin@kevinraye.com",
+			"website": "https://www.facebook.com/kevinrayerealtor"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2078532626",
+			"email": "office@dueeast.com",
+			"website": "http://www.dueeast.com"
+		},
+		"history": {
+			"2023-12-08": {
+				"event": "Sale Listing",
+				"price": 179900,
+				"listingType": "Standard",
+				"listedDate": "2023-12-08T00:00:00.000Z",
+				"removedDate": "2024-12-07T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2025-09-12": {
+				"event": "Sale Listing",
+				"price": 82000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 366
+			}
+		}
+	},
+	{
+		"id": "M16L10-Huckins-Cove-Rd,-Calais,-ME-04619",
+		"formattedAddress": "M16L10 Huckins Cove Rd, Calais, ME 04619",
+		"addressLine1": "M16L10 Huckins Cove Rd",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.116511,
+		"longitude": -67.142025,
+		"propertyType": "Land",
+		"lotSize": 299693,
+		"status": "Active",
+		"price": 249900,
+		"listingType": "Standard",
+		"listedDate": "2025-10-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.490Z",
+		"daysOnMarket": 318,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642262",
+		"listingAgent": {
+			"name": "Todd Bassett",
+			"phone": "2072143411",
+			"email": "tgbassett@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2025-10-30": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 318
+			}
+		}
+	},
+	{
+		"id": "101-S-River-Rd,-Calais,-ME-04619",
+		"formattedAddress": "101 S River Rd, Calais, ME 04619",
+		"addressLine1": "101 S River Rd",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.173584,
+		"longitude": -67.247347,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1200,
+		"lotSize": 43560,
+		"yearBuilt": 1937,
+		"status": "Active",
+		"price": 146000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.484Z",
+		"daysOnMarket": 219,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651337",
+		"listingAgent": {
+			"name": "Meredith Tupper",
+			"phone": "5184697129",
+			"email": "meredithtupper23@gmail.com",
+			"website": "https://meredithtupper.mynexthomeexperience.com/"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-02-06": {
+				"event": "Sale Listing",
+				"price": 146000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 219
+			}
+		}
+	},
+	{
+		"id": "19-Fowler-St,-Calais,-ME-04619",
+		"formattedAddress": "19 Fowler St, Calais, ME 04619",
+		"addressLine1": "19 Fowler St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.168274,
+		"longitude": -67.287508,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1250,
+		"lotSize": 10454,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 99999,
+		"listingType": "Standard",
+		"listedDate": "2026-02-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.482Z",
+		"daysOnMarket": 218,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651373",
+		"listingAgent": {
+			"name": "Meredith Tupper",
+			"phone": "5184697129",
+			"email": "meredithtupper23@gmail.com",
+			"website": "https://meredithtupper.mynexthomeexperience.com/"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-02-07": {
+				"event": "Sale Listing",
+				"price": 99999,
+				"listingType": "Standard",
+				"listedDate": "2026-02-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 218
+			}
+		}
+	},
+	{
+		"id": "44-Boardman-St,-Calais,-ME-04619",
+		"formattedAddress": "44 Boardman St, Calais, ME 04619",
+		"addressLine1": "44 Boardman St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.166601,
+		"longitude": -67.290467,
+		"propertyType": "Land",
+		"lotSize": 65340,
+		"status": "Active",
+		"price": 49900,
+		"listingType": "Standard",
+		"listedDate": "2026-02-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.478Z",
+		"daysOnMarket": 205,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652328",
+		"listingAgent": {
+			"name": "Billy Howard",
+			"phone": "2072147886",
+			"email": "billyhoward207@yahoo.com",
+			"website": "http://www.dueeast.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-02-20": {
+				"event": "Sale Listing",
+				"price": 49900,
+				"listingType": "Standard",
+				"listedDate": "2026-02-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 205
+			}
+		}
+	},
+	{
+		"id": "16-Downes-St,-Calais,-ME-04619",
+		"formattedAddress": "16 Downes St, Calais, ME 04619",
+		"addressLine1": "16 Downes St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.185489,
+		"longitude": -67.271625,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2457,
+		"lotSize": 11761,
+		"yearBuilt": 1851,
+		"status": "Active",
+		"price": 135000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.477Z",
+		"daysOnMarket": 290,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1644411",
+		"listingAgent": {
+			"name": "Melissa Small",
+			"phone": "2072147706",
+			"email": "mapreston00@hotmail.com",
+			"website": "https://www.dueeast.com/"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2025-11-27": {
+				"event": "Sale Listing",
+				"price": 135000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 290
+			}
+		}
+	},
+	{
+		"id": "Baring-St,-Calais,-ME-04619",
+		"formattedAddress": "Baring St, Calais, ME 04619",
+		"addressLine1": "Baring St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.155796,
+		"longitude": -67.28965,
+		"propertyType": "Land",
+		"lotSize": 2464189,
+		"status": "Active",
+		"price": 249000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.475Z",
+		"daysOnMarket": 276,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646291",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2025-12-11": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 276
+			}
+		}
+	},
+	{
+		"id": "900-Main-St,-Calais,-ME-04619",
+		"formattedAddress": "900 Main St, Calais, ME 04619",
+		"addressLine1": "900 Main St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.180621,
+		"longitude": -67.25815,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2112,
+		"lotSize": 17860,
+		"yearBuilt": 1862,
+		"status": "Active",
+		"price": 119000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.471Z",
+		"daysOnMarket": 197,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652918",
+		"listingAgent": {
+			"name": "Melissa Small",
+			"phone": "2072147706",
+			"email": "mapreston00@hotmail.com",
+			"website": "https://www.dueeast.com/"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-02-28": {
+				"event": "Sale Listing",
+				"price": 119000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 197
+			}
+		}
+	},
+	{
+		"id": "9-Calais-Ave,-Calais,-ME-04619",
+		"formattedAddress": "9 Calais Ave, Calais, ME 04619",
+		"addressLine1": "9 Calais Ave",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.187721,
+		"longitude": -67.275482,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 3958,
+		"lotSize": 18731,
+		"yearBuilt": 1840,
+		"status": "Active",
+		"price": 159900,
+		"listingType": "Standard",
+		"listedDate": "2026-01-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:11:51.464Z",
+		"daysOnMarket": 226,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1650738",
+		"listingAgent": {
+			"name": "Melissa Small",
+			"phone": "2072147706",
+			"email": "mapreston00@hotmail.com",
+			"website": "https://www.dueeast.com/"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-01-30": {
+				"event": "Sale Listing",
+				"price": 159900,
+				"listingType": "Standard",
+				"listedDate": "2026-01-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 226
+			}
+		}
+	},
+	{
+		"id": "112-South-St,-Calais,-ME-04619",
+		"formattedAddress": "112 South St, Calais, ME 04619",
+		"addressLine1": "112 South St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.183097,
+		"longitude": -67.268422,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2400,
+		"lotSize": 8712,
+		"yearBuilt": 1896,
+		"status": "Active",
+		"price": 279900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-22T06:10:55.414Z",
+		"lastSeenDate": "2026-09-12T08:31:27.518Z",
+		"daysOnMarket": 160,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656702",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2024-09-27": {
+				"event": "Sale Listing",
+				"price": 329900,
+				"listingType": "Standard",
+				"listedDate": "2024-09-27T00:00:00.000Z",
+				"removedDate": "2025-09-27T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2025-10-09": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-09T00:00:00.000Z",
+				"removedDate": "2026-03-10T00:00:00.000Z",
+				"daysOnMarket": 152
+			},
+			"2026-04-06": {
+				"event": "Sale Listing",
+				"price": 279900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 160
+			}
+		}
+	},
+	{
+		"id": "27-Swan-St,-Calais,-ME-04619",
+		"formattedAddress": "27 Swan St, Calais, ME 04619",
+		"addressLine1": "27 Swan St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.184104,
+		"longitude": -67.271961,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"squareFootage": 3032,
+		"lotSize": 12197,
+		"yearBuilt": 1898,
+		"status": "Active",
+		"price": 306900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-12-12T11:59:09.861Z",
+		"lastSeenDate": "2026-09-12T08:31:27.517Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656911",
+		"listingAgent": {
+			"name": "Holly Greenleaf Whitney",
+			"phone": "2072558133",
+			"email": "hollywhitney@masiello.com",
+			"website": "hollywhitney.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2072558133",
+			"email": "machias@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 306900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "495-North-St,-Calais,-ME-04619",
+		"formattedAddress": "495 North St, Calais, ME 04619",
+		"addressLine1": "495 North St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.168906,
+		"longitude": -67.292944,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 2460,
+		"lotSize": 871,
+		"yearBuilt": 1850,
+		"status": "Active",
+		"price": 169000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:31:27.516Z",
+		"daysOnMarket": 157,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657132",
+		"listingAgent": {
+			"name": "Billy Howard",
+			"phone": "2072147886",
+			"email": "billyhoward207@yahoo.com",
+			"website": "http://www.dueeast.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2024-09-26": {
+				"event": "Sale Listing",
+				"price": 139900,
+				"listingType": "Standard",
+				"listedDate": "2024-09-26T00:00:00.000Z",
+				"removedDate": "2025-09-27T00:00:00.000Z",
+				"daysOnMarket": 366
+			},
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 169000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 157
+			}
+		}
+	},
+	{
+		"id": "84-South-St,-Calais,-ME-04619",
+		"formattedAddress": "84 South St, Calais, ME 04619",
+		"addressLine1": "84 South St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.184316,
+		"longitude": -67.26725,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1590,
+		"lotSize": 10890,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 220000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-12-12T11:17:49.975Z",
+		"lastSeenDate": "2026-09-12T08:31:27.484Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659476",
+		"listingAgent": {
+			"name": "Melissa Small",
+			"phone": "2072147706",
+			"email": "mapreston00@hotmail.com",
+			"website": "https://www.dueeast.com/"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 220000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "950-Main-St,-Calais,-ME-04619",
+		"formattedAddress": "950 Main St, Calais, ME 04619",
+		"addressLine1": "950 Main St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.179836,
+		"longitude": -67.256369,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1792,
+		"lotSize": 33541,
+		"yearBuilt": 1999,
+		"status": "Active",
+		"price": 189900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:31:27.480Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659519",
+		"listingAgent": {
+			"name": "Elena Korotkikh",
+			"phone": "2079426310",
+			"email": "elena.korotkikh@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Bangor",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 189900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "721-River-Rd,-Calais,-ME-04619",
+		"formattedAddress": "721 River Rd, Calais, ME 04619",
+		"addressLine1": "721 River Rd",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.16237,
+		"longitude": -67.198357,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2160,
+		"lotSize": 78408,
+		"yearBuilt": 2023,
+		"status": "Active",
+		"price": 354000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-01-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:31:27.479Z",
+		"daysOnMarket": 130,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660984",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 354000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 130
+			}
+		}
+	},
+	{
+		"id": "13-Calais-Ave,-Calais,-ME-04619",
+		"formattedAddress": "13 Calais Ave, Calais, ME 04619",
+		"addressLine1": "13 Calais Ave",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.187478,
+		"longitude": -67.275808,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 4149,
+		"lotSize": 21780,
+		"yearBuilt": 1840,
+		"status": "Active",
+		"price": 569900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:31:27.477Z",
+		"daysOnMarket": 129,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661043",
+		"listingAgent": {
+			"name": "Melissa Small",
+			"phone": "2072147706",
+			"email": "mapreston00@hotmail.com",
+			"website": "https://www.dueeast.com/"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-05-07": {
+				"event": "Sale Listing",
+				"price": 569900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 129
+			}
+		}
+	},
+	{
+		"id": "Map9-Swan-St,-Lot-7,-Calais,-ME-04619",
+		"formattedAddress": "Map9 Swan St, Lot 7, Calais, ME 04619",
+		"addressLine1": "Map9 Swan St",
+		"addressLine2": "Lot 7",
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.179928,
+		"longitude": -67.275959,
+		"propertyType": "Land",
+		"lotSize": 21780,
+		"status": "Active",
+		"price": 22000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:31:27.471Z",
+		"daysOnMarket": 126,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661422",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-05-10": {
+				"event": "Sale Listing",
+				"price": 22000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 126
+			}
+		}
+	},
+	{
+		"id": "M35-L56-Nashs-Lk,-Calais,-ME-04619",
+		"formattedAddress": "M35 L56 Nashs Lk, Calais, ME 04619",
+		"addressLine1": "M35 L56 Nashs Lk",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.102615,
+		"longitude": -67.206529,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 788,
+		"lotSize": 100188,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:31:27.454Z",
+		"daysOnMarket": 123,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661967",
+		"listingAgent": {
+			"name": "Beth Johnson",
+			"phone": "2072144696",
+			"email": "tandb.realtyteam@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2024-09-03": {
+				"event": "Sale Listing",
+				"price": 374900,
+				"listingType": "Standard",
+				"listedDate": "2024-09-03T00:00:00.000Z",
+				"removedDate": "2025-08-29T00:00:00.000Z",
+				"daysOnMarket": 360
+			},
+			"2026-05-13": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 123
+			}
+		}
+	},
+	{
+		"id": "52-Church-St,-Calais,-ME-04619",
+		"formattedAddress": "52 Church St, Calais, ME 04619",
+		"addressLine1": "52 Church St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.186193,
+		"longitude": -67.278455,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 2094,
+		"lotSize": 15682,
+		"yearBuilt": 1917,
+		"status": "Active",
+		"price": 84900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-07-02T07:40:29.168Z",
+		"lastSeenDate": "2026-09-12T08:31:27.433Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662893",
+		"listingAgent": {
+			"name": "Todd Bassett",
+			"phone": "2072143411",
+			"email": "tgbassett@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 84900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "1590-River-Rd,-Calais,-ME-04619",
+		"formattedAddress": "1590 River Rd, Calais, ME 04619",
+		"addressLine1": "1590 River Rd",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.120207,
+		"longitude": -67.145291,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1470,
+		"lotSize": 130244,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:31:27.430Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663905",
+		"listingAgent": {
+			"name": "Allyson Karter",
+			"phone": "2076496826",
+			"email": "akarter@masiello.com",
+			"website": "http://allysonkarter.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group - Augusta",
+			"phone": "2074801050",
+			"email": "region3@masiello.com",
+			"website": "https://www.masiello.com/augusta-me/"
+		},
+		"history": {
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "21-Red-Beach-Ln,-Calais,-ME-04619",
+		"formattedAddress": "21 Red Beach Ln, Calais, ME 04619",
+		"addressLine1": "21 Red Beach Ln",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.126303,
+		"longitude": -67.147505,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1730,
+		"lotSize": 87120,
+		"yearBuilt": 2023,
+		"status": "Active",
+		"price": 1495000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.872Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670536",
+		"listingAgent": {
+			"name": "Gregory Gordon",
+			"phone": "2072364777",
+			"email": "gregbgordon@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Greg Gordon Real Estate",
+			"phone": "2078539606",
+			"email": "greggordonrealestate@gmail.com"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "89-Washington-St,-Calais,-ME-04619",
+		"formattedAddress": "89 Washington St, Calais, ME 04619",
+		"addressLine1": "89 Washington St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.183477,
+		"longitude": -67.272551,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2249,
+		"lotSize": 9148,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 199900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.863Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671648",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2025-07-10": {
+				"event": "Sale Listing",
+				"price": 229000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-10T00:00:00.000Z",
+				"removedDate": "2025-11-11T00:00:00.000Z",
+				"daysOnMarket": 124
+			},
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 199900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "7-Boardman-St,-Calais,-ME-04619",
+		"formattedAddress": "7 Boardman St, Calais, ME 04619",
+		"addressLine1": "7 Boardman St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.16849,
+		"longitude": -67.292462,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1760,
+		"lotSize": 16988,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 249000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.849Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674021",
+		"listingAgent": {
+			"name": "Heidi A Holley",
+			"phone": "2073470880",
+			"email": "heidiholley3@gmail.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Ellsworth",
+			"phone": "2076672300",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "11-Garfield-St,-Calais,-ME-04619",
+		"formattedAddress": "11 Garfield St, Calais, ME 04619",
+		"addressLine1": "11 Garfield St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.182565,
+		"longitude": -67.287922,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2380,
+		"lotSize": 25265,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 249900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.841Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671803",
+		"listingAgent": {
+			"name": "Beth Johnson",
+			"phone": "2072144696",
+			"email": "tandb.realtyteam@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "52-Calais-Ave,-Calais,-ME-04619",
+		"formattedAddress": "52 Calais Ave, Calais, ME 04619",
+		"addressLine1": "52 Calais Ave",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.18518,
+		"longitude": -67.277541,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1488,
+		"lotSize": 20909,
+		"yearBuilt": 1868,
+		"status": "Active",
+		"price": 268888,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.838Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670905",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 268888,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "15-20-02-Saint-Croix-Dr,-Calais,-ME-04619",
+		"formattedAddress": "15-20-02 Saint Croix Dr, Calais, ME 04619",
+		"addressLine1": "15-20-02 Saint Croix Dr",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.128479,
+		"longitude": -67.149673,
+		"propertyType": "Land",
+		"lotSize": 76230,
+		"status": "Active",
+		"price": 259000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.834Z",
+		"daysOnMarket": 50,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673538",
+		"listingAgent": {
+			"name": "Gregory Gordon",
+			"phone": "2072364777",
+			"email": "gregbgordon@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Greg Gordon Real Estate",
+			"phone": "2078539606",
+			"email": "greggordonrealestate@gmail.com"
+		},
+		"history": {
+			"2026-07-25": {
+				"event": "Sale Listing",
+				"price": 259000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 50
+			}
+		}
+	},
+	{
+		"id": "1481-S-River-Rd,-Calais,-ME-04619",
+		"formattedAddress": "1481 S River Rd, Calais, ME 04619",
+		"addressLine1": "1481 S River Rd",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.125444,
+		"longitude": -67.150979,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 3672,
+		"lotSize": 827640,
+		"yearBuilt": 1973,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.830Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674015",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "15-20-01-St-Croix-Dr,-Calais,-ME-04619",
+		"formattedAddress": "15-20-01 St Croix Dr, Calais, ME 04619",
+		"addressLine1": "15-20-01 St Croix Dr",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.128479,
+		"longitude": -67.149673,
+		"propertyType": "Land",
+		"lotSize": 145055,
+		"status": "Active",
+		"price": 295000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:16:09.828Z",
+		"daysOnMarket": 50,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673534",
+		"listingAgent": {
+			"name": "Gregory Gordon",
+			"phone": "2072364777",
+			"email": "gregbgordon@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Greg Gordon Real Estate",
+			"phone": "2078539606",
+			"email": "greggordonrealestate@gmail.com"
+		},
+		"history": {
+			"2026-07-25": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 50
+			}
+		}
+	},
+	{
+		"id": "22-Bella-Vista-Ln,-Calais,-ME-04619",
+		"formattedAddress": "22 Bella Vista Ln, Calais, ME 04619",
+		"addressLine1": "22 Bella Vista Ln",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.161963,
+		"longitude": -67.230231,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2860,
+		"lotSize": 188615,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.521Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677186",
+		"listingAgent": {
+			"name": "Emma Peterson",
+			"phone": "2075380950",
+			"email": "emma@mainehomeswithemma.com",
+			"website": "http://www.mainehomeswithemma.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "M30-L1b-Carson-Rd,-Calais,-ME-04619",
+		"formattedAddress": "M30 L1b Carson Rd, Calais, ME 04619",
+		"addressLine1": "M30 L1b Carson Rd",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.152496,
+		"longitude": -67.197709,
+		"propertyType": "Land",
+		"lotSize": 303178,
+		"status": "Active",
+		"price": 29900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.511Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674375",
+		"listingAgent": {
+			"name": "Scott Greeley",
+			"phone": "2073138727",
+			"email": "scottgreeley@masiello.com",
+			"website": "http://scottgreeley.masiello.com/"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2072558133",
+			"email": "machias@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2024-07-22": {
+				"event": "Sale Listing",
+				"price": 19900,
+				"listingType": "Standard",
+				"listedDate": "2024-07-22T00:00:00.000Z",
+				"removedDate": "2025-01-14T00:00:00.000Z",
+				"daysOnMarket": 176
+			},
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 29900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "33-Pleasant-St,-Calais,-ME-04619",
+		"formattedAddress": "33 Pleasant St, Calais, ME 04619",
+		"addressLine1": "33 Pleasant St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.182368,
+		"longitude": -67.28589,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 925,
+		"lotSize": 7405,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 60000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.493Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675167",
+		"listingAgent": {
+			"name": "Beth Johnson",
+			"phone": "2072144696",
+			"email": "tandb.realtyteam@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2025-09-25": {
+				"event": "Sale Listing",
+				"price": 60000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-25T00:00:00.000Z",
+				"removedDate": "2026-03-26T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 60000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "20-Shado-Ln,-Calais,-ME-04619",
+		"formattedAddress": "20 Shado Ln, Calais, ME 04619",
+		"addressLine1": "20 Shado Ln",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.162497,
+		"longitude": -67.230495,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1176,
+		"lotSize": 104980,
+		"yearBuilt": 1939,
+		"status": "Active",
+		"price": 369000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.490Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675375",
+		"listingAgent": {
+			"name": "Lauri Logue",
+			"phone": "2074975725",
+			"email": "lauri@boldcoastpropertiesllc.com",
+			"website": "http://www.downeastmaineproperties.com"
+		},
+		"listingOffice": {
+			"name": "Bold Coast Properties",
+			"phone": "2074975725",
+			"email": "jonesportrealty@aol.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 369000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "8-Cleveland-St,-Calais,-ME-04619",
+		"formattedAddress": "8 Cleveland St, Calais, ME 04619",
+		"addressLine1": "8 Cleveland St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.17205,
+		"longitude": -67.289067,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 783,
+		"lotSize": 18295,
+		"yearBuilt": 1957,
+		"status": "Active",
+		"price": 178000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.489Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675384",
+		"listingAgent": {
+			"name": "Beth Johnson",
+			"phone": "2072144696",
+			"email": "tandb.realtyteam@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 178000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "90-Downes-St,-Calais,-ME-04619",
+		"formattedAddress": "90 Downes St, Calais, ME 04619",
+		"addressLine1": "90 Downes St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.181152,
+		"longitude": -67.275737,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1056,
+		"lotSize": 11761,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 239143,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.487Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675614",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 239143,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "M5B7L8-Pleasant-St,-Calais,-ME-04619",
+		"formattedAddress": "M5B7L8 Pleasant St, Calais, ME 04619",
+		"addressLine1": "M5B7L8 Pleasant St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.183624,
+		"longitude": -67.28801,
+		"propertyType": "Land",
+		"lotSize": 29621,
+		"status": "Active",
+		"price": 15000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.483Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676186",
+		"listingAgent": {
+			"name": "Beth Johnson",
+			"phone": "2072144696",
+			"email": "tandb.realtyteam@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2025-10-10": {
+				"event": "Sale Listing",
+				"price": 20000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-10T00:00:00.000Z",
+				"removedDate": "2026-03-26T00:00:00.000Z",
+				"daysOnMarket": 167
+			},
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 15000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "20-King-St,-Calais,-ME-04619",
+		"formattedAddress": "20 King St, Calais, ME 04619",
+		"addressLine1": "20 King St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.168488,
+		"longitude": -67.289942,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 960,
+		"lotSize": 14375,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 159500,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.480Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678112",
+		"listingAgent": {
+			"name": "Tyler Farrington",
+			"phone": "2072559099",
+			"email": "tyler@pointseastre.com"
+		},
+		"listingOffice": {
+			"name": "Points East Real Estate",
+			"phone": "2072559099",
+			"email": "jsmith@pointseastre.com",
+			"website": "www.pointseastre.net"
+		},
+		"history": {
+			"2025-01-31": {
+				"event": "Sale Listing",
+				"price": 24500,
+				"listingType": "Standard",
+				"listedDate": "2025-01-31T00:00:00.000Z",
+				"removedDate": "2025-10-12T00:00:00.000Z",
+				"daysOnMarket": 254
+			},
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 159500,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "93-Lincoln-St,-Calais,-ME-04619",
+		"formattedAddress": "93 Lincoln St, Calais, ME 04619",
+		"addressLine1": "93 Lincoln St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.180958,
+		"longitude": -67.274383,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1920,
+		"lotSize": 16117,
+		"yearBuilt": 1892,
+		"status": "Active",
+		"price": 239000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.466Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676519",
+		"listingAgent": {
+			"name": "Melissa Small",
+			"phone": "2072147706",
+			"email": "mapreston00@hotmail.com",
+			"website": "https://www.dueeast.com/"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 239000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "20-Willow-St,-Calais,-ME-04619",
+		"formattedAddress": "20 Willow St, Calais, ME 04619",
+		"addressLine1": "20 Willow St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.17902,
+		"longitude": -67.27778,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1056,
+		"lotSize": 13504,
+		"yearBuilt": 1977,
+		"status": "Active",
+		"price": 199000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.465Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676623",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "30-Franklin-St,-Calais,-ME-04619",
+		"formattedAddress": "30 Franklin St, Calais, ME 04619",
+		"addressLine1": "30 Franklin St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.182108,
+		"longitude": -67.267528,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1850,
+		"lotSize": 10019,
+		"yearBuilt": 1885,
+		"status": "Active",
+		"price": 239000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.464Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676627",
+		"listingAgent": {
+			"name": "Emilia Fullerton",
+			"phone": "2078532626",
+			"email": "mia@eastcoastrentalsllc.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2078532626",
+			"email": "office@dueeast.com",
+			"website": "http://www.dueeast.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 239000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "136-South-St,-Calais,-ME-04619",
+		"formattedAddress": "136 South St, Calais, ME 04619",
+		"addressLine1": "136 South St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.182421,
+		"longitude": -67.269205,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 800,
+		"lotSize": 13068,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 155000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.454Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677968",
+		"listingAgent": {
+			"name": "Melissa Small",
+			"phone": "2072147706",
+			"email": "mapreston00@hotmail.com",
+			"website": "https://www.dueeast.com/"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 155000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "16-Beech-St,-Calais,-ME-04619",
+		"formattedAddress": "16 Beech St, Calais, ME 04619",
+		"addressLine1": "16 Beech St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.17902,
+		"longitude": -67.289283,
+		"propertyType": "Multi-Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 2880,
+		"lotSize": 12197,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-04-18T09:28:39.122Z",
+		"lastSeenDate": "2026-09-12T06:09:48.421Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678827",
+		"listingAgent": {
+			"name": "Britani Holloway",
+			"phone": "2079428261",
+			"email": "milesandus@yahoo.com",
+			"website": "www.bhhsnere.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "80-Monroe-St,-Calais,-ME-04619",
+		"formattedAddress": "80 Monroe St, Calais, ME 04619",
+		"addressLine1": "80 Monroe St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.183933,
+		"longitude": -67.28439,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1313,
+		"lotSize": 11761,
+		"yearBuilt": 1892,
+		"status": "Active",
+		"price": 85000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-01-15T09:42:11.629Z",
+		"lastSeenDate": "2026-09-12T06:09:48.413Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679959",
+		"listingAgent": {
+			"name": "Beth Johnson",
+			"phone": "2072144696",
+			"email": "tandb.realtyteam@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Due East Real Estate",
+			"phone": "2074542525",
+			"email": "office@dueeast.com"
+		},
+		"history": {
+			"2023-06-16": {
+				"event": "Sale Listing",
+				"price": 112000,
+				"listingType": "Standard",
+				"listedDate": "2023-06-16T00:00:00.000Z",
+				"removedDate": "2025-06-17T00:00:00.000Z",
+				"daysOnMarket": 732
+			},
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 85000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "92-Lafayette-St,-Calais,-ME-04619",
+		"formattedAddress": "92 Lafayette St, Calais, ME 04619",
+		"addressLine1": "92 Lafayette St",
+		"addressLine2": null,
+		"city": "Calais",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04619",
+		"county": "Washington",
+		"countyFips": "029",
+		"latitude": 45.181269,
+		"longitude": -67.277256,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2012,
+		"lotSize": 10019,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 214900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:09:48.410Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680214",
+		"listingAgent": {
+			"name": "Jason A Smith",
+			"phone": "2072639187",
+			"email": "jsmith@pointseastre.com",
+			"website": "http://www.pointseastre.com"
+		},
+		"listingOffice": {
+			"name": "Points East Real Estate",
+			"phone": "2072559099",
+			"email": "jsmith@pointseastre.com",
+			"website": "www.pointseastre.net"
+		},
+		"history": {
+			"2026-02-09": {
+				"event": "Sale Listing",
+				"price": 215900,
+				"listingType": "Standard",
+				"listedDate": "2026-02-09T00:00:00.000Z",
+				"removedDate": "2026-07-01T00:00:00.000Z",
+				"daysOnMarket": 142
+			},
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 214900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	}
+]

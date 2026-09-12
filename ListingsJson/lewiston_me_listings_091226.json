@@ -1,0 +1,7037 @@
+[
+	{
+		"id": "Chase-Ln,-Lot-3,-Lewiston,-ME-04240",
+		"formattedAddress": "Chase Ln, Lot 3, Lewiston, ME 04240",
+		"addressLine1": "Chase Ln",
+		"addressLine2": "Lot 3",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122635,
+		"longitude": -70.177756,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1400,
+		"lotSize": 20038,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.154Z",
+		"daysOnMarket": 335,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640703",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2025-01-02": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "New Construction",
+				"listedDate": "2025-01-02T00:00:00.000Z",
+				"removedDate": "2025-04-16T00:00:00.000Z",
+				"daysOnMarket": 104
+			},
+			"2025-04-22": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-22T00:00:00.000Z",
+				"removedDate": "2025-10-13T00:00:00.000Z",
+				"daysOnMarket": 174
+			},
+			"2025-10-13": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 335
+			}
+		}
+	},
+	{
+		"id": "Chase-Ln,-Lot-4,-Lewiston,-ME-04240",
+		"formattedAddress": "Chase Ln, Lot 4, Lewiston, ME 04240",
+		"addressLine1": "Chase Ln",
+		"addressLine2": "Lot 4",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122634,
+		"longitude": -70.177755,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1400,
+		"lotSize": 20909,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.153Z",
+		"daysOnMarket": 335,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640707",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2025-10-13": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 335
+			}
+		}
+	},
+	{
+		"id": "Chase-Ln,-Lot-5,-Lewiston,-ME-04240",
+		"formattedAddress": "Chase Ln, Lot 5, Lewiston, ME 04240",
+		"addressLine1": "Chase Ln",
+		"addressLine2": "Lot 5",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122635,
+		"longitude": -70.177756,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1400,
+		"lotSize": 23087,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.152Z",
+		"daysOnMarket": 335,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640710",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2025-01-05": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "New Construction",
+				"listedDate": "2025-01-05T00:00:00.000Z",
+				"removedDate": "2025-04-16T00:00:00.000Z",
+				"daysOnMarket": 101
+			},
+			"2025-04-23": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-23T00:00:00.000Z",
+				"removedDate": "2025-10-13T00:00:00.000Z",
+				"daysOnMarket": 173
+			},
+			"2025-10-13": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 335
+			}
+		}
+	},
+	{
+		"id": "Chase-Ln,-Lot-2,-Lewiston,-ME-04240",
+		"formattedAddress": "Chase Ln, Lot 2, Lewiston, ME 04240",
+		"addressLine1": "Chase Ln",
+		"addressLine2": "Lot 2",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122635,
+		"longitude": -70.177756,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1400,
+		"lotSize": 27007,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.152Z",
+		"daysOnMarket": 334,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640717",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2025-10-14": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 334
+			}
+		}
+	},
+	{
+		"id": "15-Howe-St,-Lewiston,-ME-04240",
+		"formattedAddress": "15 Howe St, Lewiston, ME 04240",
+		"addressLine1": "15 Howe St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099459,
+		"longitude": -70.210969,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2512,
+		"lotSize": 4792,
+		"yearBuilt": 1887,
+		"status": "Active",
+		"price": 289000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.147Z",
+		"daysOnMarket": 274,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646547",
+		"listingAgent": {
+			"name": "Stephen Morgan",
+			"phone": "2077542773",
+			"email": "steve@stevemorgangroup.com",
+			"website": "http://www.stevemorgangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Pros",
+			"phone": "4013238700",
+			"email": "soldbygreg@gmail.com"
+		},
+		"history": {
+			"2025-12-13": {
+				"event": "Sale Listing",
+				"price": 289000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 274
+			}
+		}
+	},
+	{
+		"id": "8-Sheldon-Pl,-Lewiston,-ME-04240",
+		"formattedAddress": "8 Sheldon Pl, Lewiston, ME 04240",
+		"addressLine1": "8 Sheldon Pl",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097399,
+		"longitude": -70.142747,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1456,
+		"yearBuilt": 2012,
+		"hoa": {
+			"fee": 545
+		},
+		"status": "Active",
+		"price": 144500,
+		"listingType": "Standard",
+		"listedDate": "2026-01-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.143Z",
+		"daysOnMarket": 249,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1648752",
+		"listingAgent": {
+			"name": "Hannah Clark",
+			"phone": "2077828311",
+			"email": "400005.lead@leads.leadrouter.com",
+			"website": "http://www.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2024-12-05": {
+				"event": "Sale Listing",
+				"price": 172500,
+				"listingType": "Standard",
+				"listedDate": "2024-12-05T00:00:00.000Z",
+				"removedDate": "2026-01-02T00:00:00.000Z",
+				"daysOnMarket": 393
+			},
+			"2026-01-07": {
+				"event": "Sale Listing",
+				"price": 144500,
+				"listingType": "Standard",
+				"listedDate": "2026-01-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 249
+			}
+		}
+	},
+	{
+		"id": "476-Main-St,-Lewiston,-ME-04240",
+		"formattedAddress": "476 Main St, Lewiston, ME 04240",
+		"addressLine1": "476 Main St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.107566,
+		"longitude": -70.210573,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 3726,
+		"lotSize": 5227,
+		"yearBuilt": 1892,
+		"status": "Active",
+		"price": 419000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.142Z",
+		"daysOnMarket": 240,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1633343",
+		"listingOffice": {
+			"name": "Breakwater Realty Group, LLC",
+			"phone": "2077124041",
+			"email": "matt@breakwaterrealtygroup.com",
+			"website": "https://www.breakwaterrealtygroup.com/"
+		},
+		"history": {
+			"2025-07-18": {
+				"event": "Sale Listing",
+				"price": 474900,
+				"listingType": "Standard",
+				"listedDate": "2025-07-18T00:00:00.000Z",
+				"removedDate": "2025-10-30T00:00:00.000Z",
+				"daysOnMarket": 104
+			},
+			"2026-01-16": {
+				"event": "Sale Listing",
+				"price": 419000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 240
+			}
+		}
+	},
+	{
+		"id": "49-Lisbon-St,-Unit-2,-Lewiston,-ME-04240",
+		"formattedAddress": "49 Lisbon St, Unit 2, Lewiston, ME 04240",
+		"addressLine1": "49 Lisbon St",
+		"addressLine2": "Unit 2",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097452,
+		"longitude": -70.217949,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 5500,
+		"lotSize": 4792,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 1000
+		},
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.124Z",
+		"daysOnMarket": 153,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657627",
+		"listingAgent": {
+			"name": "Kate Huntress",
+			"phone": "2078464300",
+			"email": "kate@portsidereg.com",
+			"website": "http://www.katehuntress.com"
+		},
+		"listingOffice": {
+			"name": "U&R Real Estate",
+			"phone": "2073331050",
+			"email": "uandrrealestate@gmail.com",
+			"website": "http://www.uandrrealestate.com"
+		},
+		"history": {
+			"2026-04-13": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 153
+			}
+		}
+	},
+	{
+		"id": "159-Pine-St,-Lewiston,-ME-04240",
+		"formattedAddress": "159 Pine St, Lewiston, ME 04240",
+		"addressLine1": "159 Pine St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097483,
+		"longitude": -70.208594,
+		"propertyType": "Land",
+		"lotSize": 4792,
+		"status": "Active",
+		"price": 29900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.123Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657004",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 29900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "97-Sabattus-St,-Lewiston,-ME-04240",
+		"formattedAddress": "97 Sabattus St, Lewiston, ME 04240",
+		"addressLine1": "97 Sabattus St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099819,
+		"longitude": -70.210317,
+		"propertyType": "Land",
+		"lotSize": 5663,
+		"status": "Active",
+		"price": 39900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.122Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657003",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 39900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "23-Howe-St,-Lewiston,-ME-04240",
+		"formattedAddress": "23 Howe St, Lewiston, ME 04240",
+		"addressLine1": "23 Howe St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099213,
+		"longitude": -70.210815,
+		"propertyType": "Land",
+		"lotSize": 4792,
+		"status": "Active",
+		"price": 29900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.122Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656994",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 29900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "1294-Sabattus-St,-Lewiston,-ME-04240",
+		"formattedAddress": "1294 Sabattus St, Lewiston, ME 04240",
+		"addressLine1": "1294 Sabattus St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.104868,
+		"longitude": -70.133138,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1960,
+		"lotSize": 65776,
+		"yearBuilt": 1961,
+		"status": "Active",
+		"price": 600000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.120Z",
+		"daysOnMarket": 153,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657568",
+		"listingAgent": {
+			"name": "Jeanne Martin",
+			"phone": "2077840159",
+			"email": "jeannemartin865@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Northeast Real Estate",
+			"phone": "2077840159",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-04-13": {
+				"event": "Sale Listing",
+				"price": 600000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 153
+			}
+		}
+	},
+	{
+		"id": "109-Shawmut-St,-Lewiston,-ME-04240",
+		"formattedAddress": "109 Shawmut St, Lewiston, ME 04240",
+		"addressLine1": "109 Shawmut St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096257,
+		"longitude": -70.207947,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 2550,
+		"lotSize": 4792,
+		"yearBuilt": 1911,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.120Z",
+		"daysOnMarket": 151,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657936",
+		"listingAgent": {
+			"name": "Angela Lee Team",
+			"phone": "2073443300",
+			"email": "angelaleehomes@gmail.com",
+			"website": "http://www.angelaleehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-15": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 151
+			}
+		}
+	},
+	{
+		"id": "12-Johnson-St,-Lewiston,-ME-04240",
+		"formattedAddress": "12 Johnson St, Lewiston, ME 04240",
+		"addressLine1": "12 Johnson St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.10183,
+		"longitude": -70.172083,
+		"propertyType": "Land",
+		"lotSize": 18295,
+		"status": "Active",
+		"price": 24900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.117Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656990",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 24900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "420-E-Rear-Ave-Unit-R,-Lewiston,-ME-04240",
+		"formattedAddress": "420 E Rear Ave Unit R, Lewiston, ME 04240",
+		"addressLine1": "420 E Rear Ave Unit R",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.085926,
+		"longitude": -70.169166,
+		"propertyType": "Land",
+		"lotSize": 20038,
+		"status": "Active",
+		"price": 5500,
+		"listingType": "Standard",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.117Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663885",
+		"listingAgent": {
+			"name": "The Gina Team - Gina Letourneau",
+			"phone": "2077544959",
+			"email": "ginaletourneau@masiello.com",
+			"website": "http://theginateam.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 5500,
+				"listingType": "Standard",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "1639-Main-St,-Lewiston,-ME-04240",
+		"formattedAddress": "1639 Main St, Lewiston, ME 04240",
+		"addressLine1": "1639 Main St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.154213,
+		"longitude": -70.186449,
+		"propertyType": "Land",
+		"lotSize": 167270,
+		"status": "Active",
+		"price": 130000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.115Z",
+		"daysOnMarket": 173,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655221",
+		"listingAgent": {
+			"name": "Ligaya Atwood",
+			"phone": "2078799800",
+			"email": "ligaya@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-31": {
+				"event": "Sale Listing",
+				"price": 130000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-31T00:00:00.000Z",
+				"removedDate": "2026-03-02T00:00:00.000Z",
+				"daysOnMarket": 122
+			},
+			"2026-03-24": {
+				"event": "Sale Listing",
+				"price": 130000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 173
+			}
+		}
+	},
+	{
+		"id": "Chase-Ln,-Lot-6,-Lewiston,-ME-04240",
+		"formattedAddress": "Chase Ln, Lot 6, Lewiston, ME 04240",
+		"addressLine1": "Chase Ln",
+		"addressLine2": "Lot 6",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122973,
+		"longitude": -70.178885,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2016,
+		"lotSize": 23087,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 530000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.113Z",
+		"daysOnMarket": 146,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658432",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2026-04-20": {
+				"event": "Sale Listing",
+				"price": 530000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 146
+			}
+		}
+	},
+	{
+		"id": "5-Newman-St,-Lewiston,-ME-04240",
+		"formattedAddress": "5 Newman St, Lewiston, ME 04240",
+		"addressLine1": "5 Newman St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100296,
+		"longitude": -70.19643,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1438,
+		"lotSize": 4792,
+		"yearBuilt": 1901,
+		"status": "Active",
+		"price": 265000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.113Z",
+		"daysOnMarket": 143,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659008",
+		"listingAgent": {
+			"name": "Kim Tarbox",
+			"phone": "2074092961",
+			"email": "kim@kimtarbox.com",
+			"website": "http://www.kimtarbox.com"
+		},
+		"listingOffice": {
+			"name": "FIV Realty Co Maine, LLC",
+			"phone": "2074092961",
+			"email": "kim@kimtarbox.com"
+		},
+		"history": {
+			"2026-04-23": {
+				"event": "Sale Listing",
+				"price": 265000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 143
+			}
+		}
+	},
+	{
+		"id": "621-Main-St,-Lewiston,-ME-04240",
+		"formattedAddress": "621 Main St, Lewiston, ME 04240",
+		"addressLine1": "621 Main St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.116742,
+		"longitude": -70.205149,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2000,
+		"lotSize": 7405,
+		"yearBuilt": 1906,
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.108Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662959",
+		"listingAgent": {
+			"name": "The Libby Starnes Team",
+			"phone": "2078388051",
+			"email": "info@libbystarnesteam.com",
+			"website": "https://www.libbystarnesteamhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2078388051",
+			"email": "info@libbystarnsteam.com"
+		},
+		"history": {
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "7-Shawmut-St,-Unit-4,-Lewiston,-ME-04240",
+		"formattedAddress": "7 Shawmut St, Unit 4, Lewiston, ME 04240",
+		"addressLine1": "7 Shawmut St",
+		"addressLine2": "Unit 4",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099892,
+		"longitude": -70.210106,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 5720,
+		"lotSize": 10019,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 595000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.107Z",
+		"daysOnMarket": 118,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662695",
+		"listingAgent": {
+			"name": "Jay Weinberg",
+			"phone": "2077731990",
+			"email": "jay.weinberg@nemoves.com",
+			"website": "http://jayweinberg.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-05-18": {
+				"event": "Sale Listing",
+				"price": 595000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 118
+			}
+		}
+	},
+	{
+		"id": "60-Waters-Edge-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "60 Waters Edge Dr, Lewiston, ME 04240",
+		"addressLine1": "60 Waters Edge Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.132349,
+		"longitude": -70.1362,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 4612,
+		"lotSize": 52708,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 14
+		},
+		"status": "Active",
+		"price": 550000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-01-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.105Z",
+		"daysOnMarket": 108,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664364",
+		"listingAgent": {
+			"name": "Brock Bergeron",
+			"phone": "2077843800",
+			"email": "brock@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-05-28": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 108
+			}
+		}
+	},
+	{
+		"id": "17-Fireslate-Pl,-Lewiston,-ME-04240",
+		"formattedAddress": "17 Fireslate Pl, Lewiston, ME 04240",
+		"addressLine1": "17 Fireslate Pl",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.141642,
+		"longitude": -70.165545,
+		"propertyType": "Land",
+		"lotSize": 99317,
+		"status": "Active",
+		"price": 120000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.102Z",
+		"daysOnMarket": 132,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660524",
+		"listingAgent": {
+			"name": "Kevin Fletcher",
+			"phone": "2077549311",
+			"email": "kevin@malonecb.com",
+			"website": "http://www.malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 120000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 132
+			}
+		}
+	},
+	{
+		"id": "7-June-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "7 June Ave, Lewiston, ME 04240",
+		"addressLine1": "7 June Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.094087,
+		"longitude": -70.162553,
+		"propertyType": "Land",
+		"lotSize": 134600,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.102Z",
+		"daysOnMarket": 117,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662813",
+		"listingAgent": {
+			"name": "Clayton Larochelle - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766524",
+			"email": "clay@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2025-02-12": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-12T00:00:00.000Z",
+				"removedDate": "2026-03-01T00:00:00.000Z",
+				"daysOnMarket": 382
+			},
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 117
+			}
+		}
+	},
+	{
+		"id": "10-Riley-St,-Lewiston,-ME-04240",
+		"formattedAddress": "10 Riley St, Lewiston, ME 04240",
+		"addressLine1": "10 Riley St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.10192,
+		"longitude": -70.14329,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1080,
+		"lotSize": 18295,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 319000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.098Z",
+		"daysOnMarket": 129,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661158",
+		"listingAgent": {
+			"name": "Stephen Miller",
+			"phone": "2072128634",
+			"email": "smillerrealtor@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-05-07": {
+				"event": "Sale Listing",
+				"price": 319000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 129
+			}
+		}
+	},
+	{
+		"id": "89-Oak-St,-Lewiston,-ME-04240",
+		"formattedAddress": "89 Oak St, Lewiston, ME 04240",
+		"addressLine1": "89 Oak St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099702,
+		"longitude": -70.213521,
+		"propertyType": "Multi-Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1413,
+		"lotSize": 3485,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 209000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.097Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664554",
+		"listingAgent": {
+			"name": "Kenneth Jacques",
+			"phone": "2077790367",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2025-06-13": {
+				"event": "Sale Listing",
+				"price": 234000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-13T00:00:00.000Z",
+				"removedDate": "2025-12-13T00:00:00.000Z",
+				"daysOnMarket": 183
+			},
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 209000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "5-Lynn-St,-Lewiston,-ME-04240",
+		"formattedAddress": "5 Lynn St, Lewiston, ME 04240",
+		"addressLine1": "5 Lynn St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.103249,
+		"longitude": -70.184629,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1355,
+		"lotSize": 10454,
+		"yearBuilt": 1951,
+		"status": "Active",
+		"price": 339900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.094Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661811",
+		"listingAgent": {
+			"name": "Carey Murcin",
+			"phone": "2075768065",
+			"email": "carey@meservier.com",
+			"website": "https://careymurcin.meservierhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 339900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "533-Webster-St,-Lewiston,-ME-04240",
+		"formattedAddress": "533 Webster St, Lewiston, ME 04240",
+		"addressLine1": "533 Webster St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.088165,
+		"longitude": -70.183134,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2658,
+		"lotSize": 21344,
+		"yearBuilt": 1867,
+		"status": "Active",
+		"price": 429000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.094Z",
+		"daysOnMarket": 104,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664791",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-01": {
+				"event": "Sale Listing",
+				"price": 429000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 104
+			}
+		}
+	},
+	{
+		"id": "174-Bartlett-St,-Lewiston,-ME-04240",
+		"formattedAddress": "174 Bartlett St, Lewiston, ME 04240",
+		"addressLine1": "174 Bartlett St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.094347,
+		"longitude": -70.209259,
+		"propertyType": "Multi-Family",
+		"bedrooms": 8,
+		"bathrooms": 3,
+		"squareFootage": 3486,
+		"lotSize": 4792,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-02-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.092Z",
+		"daysOnMarket": 129,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661151",
+		"listingAgent": {
+			"name": "Bennett Wade",
+			"phone": "2077510532",
+			"email": "bennettwade@kw.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-05-07": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 129
+			}
+		}
+	},
+	{
+		"id": "22-Wood-St,-Lewiston,-ME-04240",
+		"formattedAddress": "22 Wood St, Lewiston, ME 04240",
+		"addressLine1": "22 Wood St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.10099,
+		"longitude": -70.210343,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1750,
+		"lotSize": 4792,
+		"yearBuilt": 1906,
+		"status": "Active",
+		"price": 305000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.091Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666349",
+		"listingAgent": {
+			"name": "Scott Berry",
+			"phone": "8008447653",
+			"email": "maineproperty1@gmail.com",
+			"website": "http://www.scottberryrealtor.com"
+		},
+		"listingOffice": {
+			"name": "Startpoint Realty",
+			"phone": "9784223999",
+			"email": "jeffreybastress@gmail.com",
+			"website": "http://www.startpoint.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 305000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "48-S-Lisbon-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "48 S Lisbon Rd, Lewiston, ME 04240",
+		"addressLine1": "48 S Lisbon Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.062662,
+		"longitude": -70.144007,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1008,
+		"lotSize": 217800,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 359000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.090Z",
+		"daysOnMarket": 123,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661905",
+		"listingAgent": {
+			"name": "Erika Robert",
+			"phone": "2073305290",
+			"email": "erikadrobert@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Dot Fernald Team, Inc.",
+			"phone": "2072400052",
+			"email": "dotfernaldteam@gmail.com",
+			"website": "https://the-dot-fernald-team-inc.business.site/"
+		},
+		"history": {
+			"2026-05-13": {
+				"event": "Sale Listing",
+				"price": 359000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 123
+			}
+		}
+	},
+	{
+		"id": "117-Shawmut-St,-Lewiston,-ME-04240",
+		"formattedAddress": "117 Shawmut St, Lewiston, ME 04240",
+		"addressLine1": "117 Shawmut St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096011,
+		"longitude": -70.207794,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2350,
+		"lotSize": 4792,
+		"yearBuilt": 1915,
+		"status": "Active",
+		"price": 380000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.089Z",
+		"daysOnMarket": 100,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665843",
+		"listingAgent": {
+			"name": "Kim Carignan",
+			"phone": "2078928100",
+			"email": "kimcarignan@masiello.com",
+			"website": "https://kimcarignan.masiello.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2024-12-04": {
+				"event": "Sale Listing",
+				"price": 280000,
+				"listingType": "Standard",
+				"listedDate": "2024-12-04T00:00:00.000Z",
+				"removedDate": "2025-02-27T00:00:00.000Z",
+				"daysOnMarket": 85
+			},
+			"2026-05-10": {
+				"event": "Sale Listing",
+				"price": 390000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-10T00:00:00.000Z",
+				"removedDate": "2026-06-05T00:00:00.000Z",
+				"daysOnMarket": 26
+			},
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 380000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 100
+			}
+		}
+	},
+	{
+		"id": "3-Fox-Run-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "3 Fox Run Dr, Lewiston, ME 04240",
+		"addressLine1": "3 Fox Run Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105477,
+		"longitude": -70.133517,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1452,
+		"yearBuilt": 2009,
+		"hoa": {
+			"fee": 600
+		},
+		"status": "Active",
+		"price": 169900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.088Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668057",
+		"listingAgent": {
+			"name": "Charmaine Raby",
+			"phone": "2075771034",
+			"email": "charmaine@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 169900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "31-Dill-St,-Lewiston,-ME-04240",
+		"formattedAddress": "31 Dill St, Lewiston, ME 04240",
+		"addressLine1": "31 Dill St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.07734,
+		"longitude": -70.184814,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1365,
+		"lotSize": 16553,
+		"yearBuilt": 1921,
+		"status": "Active",
+		"price": 329000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.087Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667689",
+		"listingAgent": {
+			"name": "Samantha Beaudoin",
+			"phone": "2072320609",
+			"email": "samanthab@merealestateco.com",
+			"website": "https://merealestateco.com/samantha-beaudoin/"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 329000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "32-Horton-St,-Lewiston,-ME-04240",
+		"formattedAddress": "32 Horton St, Lewiston, ME 04240",
+		"addressLine1": "32 Horton St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099056,
+		"longitude": -70.211136,
+		"propertyType": "Land",
+		"lotSize": 4792,
+		"status": "Active",
+		"price": 29900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.086Z",
+		"daysOnMarket": 118,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662605",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-18": {
+				"event": "Sale Listing",
+				"price": 29900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 118
+			}
+		}
+	},
+	{
+		"id": "14-Kensington-Ter,-Lewiston,-ME-04240",
+		"formattedAddress": "14 Kensington Ter, Lewiston, ME 04240",
+		"addressLine1": "14 Kensington Ter",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.106853,
+		"longitude": -70.174519,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2324,
+		"lotSize": 10454,
+		"yearBuilt": 1991,
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.081Z",
+		"daysOnMarket": 104,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664914",
+		"listingAgent": {
+			"name": "Trisha Millett Fletcher",
+			"phone": "2077828311",
+			"email": "trishafletcher@masiello.com",
+			"website": "https://www.bhgre.com/better-homes-and-gardens-real-estate-the-masiello-group-10865c/trisha-millett-fletcher-412491a"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-06-01": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 104
+			}
+		}
+	},
+	{
+		"id": "72-Walnut-St,-Lewiston,-ME-04240",
+		"formattedAddress": "72 Walnut St, Lewiston, ME 04240",
+		"addressLine1": "72 Walnut St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096393,
+		"longitude": -70.209385,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2560,
+		"lotSize": 2614,
+		"yearBuilt": 1865,
+		"status": "Active",
+		"price": 400000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.081Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667613",
+		"listingAgent": {
+			"name": "Melissa Greenwood",
+			"phone": "2075779055",
+			"email": "melissagreenwoodrealestate@gmail.com",
+			"website": "https://www.homesbymg.com/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "99-College-St,-Lewiston,-ME-04240",
+		"formattedAddress": "99 College St, Lewiston, ME 04240",
+		"addressLine1": "99 College St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101041,
+		"longitude": -70.210764,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 5957,
+		"lotSize": 4792,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.079Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666169",
+		"listingAgent": {
+			"name": "Linda Davis",
+			"phone": "2072125373",
+			"email": "lindadavis@masiello.com",
+			"website": "http://lindadavis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "37-Union-St,-Lewiston,-ME-04240",
+		"formattedAddress": "37 Union St, Lewiston, ME 04240",
+		"addressLine1": "37 Union St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101528,
+		"longitude": -70.211452,
+		"propertyType": "Multi-Family",
+		"bathrooms": 10,
+		"squareFootage": 7200,
+		"lotSize": 5227,
+		"yearBuilt": 1916,
+		"status": "Active",
+		"price": 969000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.077Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667692",
+		"listingAgent": {
+			"name": "Daniel Weber Nicholas Laverriere",
+			"phone": "2078799800",
+			"email": "info@vistareb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 969000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "11-Car-Ct,-Lewiston,-ME-04240",
+		"formattedAddress": "11 Car Ct, Lewiston, ME 04240",
+		"addressLine1": "11 Car Ct",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.092017,
+		"longitude": -70.168449,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1232,
+		"lotSize": 10454,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 389000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.076Z",
+		"daysOnMarket": 109,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664137",
+		"listingAgent": {
+			"name": "Erika Robert",
+			"phone": "2073305290",
+			"email": "erikadrobert@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Dot Fernald Team, Inc.",
+			"phone": "2072400052",
+			"email": "dotfernaldteam@gmail.com",
+			"website": "https://the-dot-fernald-team-inc.business.site/"
+		},
+		"history": {
+			"2026-05-27": {
+				"event": "Sale Listing",
+				"price": 389000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 109
+			}
+		}
+	},
+	{
+		"id": "281-Randall-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "281 Randall Rd, Lewiston, ME 04240",
+		"addressLine1": "281 Randall Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.090193,
+		"longitude": -70.167475,
+		"propertyType": "Land",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2240,
+		"lotSize": 696960,
+		"yearBuilt": 2024,
+		"status": "Active",
+		"price": 209000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-22T08:11:24.535Z",
+		"lastSeenDate": "2026-09-12T07:09:19.076Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666227",
+		"listingAgent": {
+			"name": "Shane Patrick"
+		},
+		"listingOffice": {
+			"name": "Whitetail Property Real Estate, LLC",
+			"phone": "2172859000",
+			"email": "listing@whitetailproperties.com",
+			"website": "http://www.whitetailproperties.com"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 209000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "128-Horton-St,-Lewiston,-ME-04240",
+		"formattedAddress": "128 Horton St, Lewiston, ME 04240",
+		"addressLine1": "128 Horton St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.095383,
+		"longitude": -70.208847,
+		"propertyType": "Multi-Family",
+		"bedrooms": 8,
+		"bathrooms": 3,
+		"squareFootage": 3663,
+		"lotSize": 4792,
+		"yearBuilt": 1903,
+		"status": "Active",
+		"price": 530000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-22T08:07:58.324Z",
+		"lastSeenDate": "2026-09-12T07:09:19.074Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668187",
+		"listingAgent": {
+			"name": "Joseph De La Cruz",
+			"phone": "2074085875",
+			"email": "dlcfreedomrealty@pm.me",
+			"website": "https://freedomrealtyme.com/"
+		},
+		"listingOffice": {
+			"name": "Freedom Realty",
+			"phone": "2075905760",
+			"email": "mcardullo@gmail.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 530000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "78-King-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "78 King Ave, Lewiston, ME 04240",
+		"addressLine1": "78 King Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122063,
+		"longitude": -70.198257,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2544,
+		"lotSize": 6098,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 355000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.073Z",
+		"daysOnMarket": 90,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667234",
+		"listingAgent": {
+			"name": "Luke Kelleher",
+			"phone": "8608164335",
+			"email": "luke@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 355000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "643-Main-St,-Lewiston,-ME-04240",
+		"formattedAddress": "643 Main St, Lewiston, ME 04240",
+		"addressLine1": "643 Main St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.117643,
+		"longitude": -70.204457,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1961,
+		"lotSize": 25265,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 337500,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.356Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668737",
+		"listingAgent": {
+			"name": "Aaron Kollmeyer",
+			"phone": "2072825988",
+			"email": "aaron.kollmeyer@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 337500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "18-Caron-St,-Lewiston,-ME-04240",
+		"formattedAddress": "18 Caron St, Lewiston, ME 04240",
+		"addressLine1": "18 Caron St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096255,
+		"longitude": -70.203048,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1692,
+		"lotSize": 12632,
+		"yearBuilt": 1974,
+		"status": "Active",
+		"price": 319900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.353Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669131",
+		"listingAgent": {
+			"name": "Amy L Fontaine",
+			"phone": "5083953767",
+			"email": "amy.fontaine@exprealty.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 319900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "112-Shawmut-St,-Lewiston,-ME-04240",
+		"formattedAddress": "112 Shawmut St, Lewiston, ME 04240",
+		"addressLine1": "112 Shawmut St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096298,
+		"longitude": -70.20734,
+		"propertyType": "Land",
+		"lotSize": 4792,
+		"status": "Active",
+		"price": 32500,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.352Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669212",
+		"listingAgent": {
+			"name": "Kevin Fletcher",
+			"phone": "2077549311",
+			"email": "kevin@malonecb.com",
+			"website": "http://www.malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-12-16": {
+				"event": "Sale Listing",
+				"price": 24900,
+				"listingType": "Standard",
+				"listedDate": "2024-12-16T00:00:00.000Z",
+				"removedDate": "2025-11-14T00:00:00.000Z",
+				"daysOnMarket": 333
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 32500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "115-Shawmut-St,-Lewiston,-ME-04240",
+		"formattedAddress": "115 Shawmut St, Lewiston, ME 04240",
+		"addressLine1": "115 Shawmut St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096134,
+		"longitude": -70.20787,
+		"propertyType": "Land",
+		"lotSize": 4792,
+		"status": "Active",
+		"price": 37500,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.352Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669213",
+		"listingAgent": {
+			"name": "Kevin Fletcher",
+			"phone": "2077549311",
+			"email": "kevin@malonecb.com",
+			"website": "http://www.malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-12-16": {
+				"event": "Sale Listing",
+				"price": 24900,
+				"listingType": "Standard",
+				"listedDate": "2024-12-16T00:00:00.000Z",
+				"removedDate": "2025-11-14T00:00:00.000Z",
+				"daysOnMarket": 333
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 37500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "4-Belleview-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "4 Belleview Ave, Lewiston, ME 04240",
+		"addressLine1": "4 Belleview Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.109203,
+		"longitude": -70.190594,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1547,
+		"lotSize": 10019,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.347Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669747",
+		"listingAgent": {
+			"name": "Cindy Morin",
+			"phone": "2077843800",
+			"email": "cindy@fontaineteam.com",
+			"website": "http://www.brendafontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "65-Cram-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "65 Cram Ave, Lewiston, ME 04240",
+		"addressLine1": "65 Cram Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100251,
+		"longitude": -70.169707,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 1630,
+		"lotSize": 8712,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 379900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.346Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669831",
+		"listingAgent": {
+			"name": "Bill Bergeron - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766523",
+			"email": "bill@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2025-01-27": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-27T00:00:00.000Z",
+				"removedDate": "2025-06-10T00:00:00.000Z",
+				"daysOnMarket": 134
+			},
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 379900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "25-Orestis-Way,-Lewiston,-ME-04240",
+		"formattedAddress": "25 Orestis Way, Lewiston, ME 04240",
+		"addressLine1": "25 Orestis Way",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.114428,
+		"longitude": -70.194665,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1900,
+		"lotSize": 24829,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.346Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669809",
+		"listingAgent": {
+			"name": "Bill Bergeron - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766523",
+			"email": "bill@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "92-No-Name-Pond-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "92 No Name Pond Rd, Lewiston, ME 04240",
+		"addressLine1": "92 No Name Pond Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.128856,
+		"longitude": -70.130751,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1092,
+		"lotSize": 435600,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 390000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.345Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669892",
+		"listingAgent": {
+			"name": "Toni Ferraro",
+			"phone": "2075146006",
+			"email": "tonijferraro@gmail.com",
+			"website": "http://www.ferraro-realty.com"
+		},
+		"listingOffice": {
+			"name": "Ferraro Realty LLC",
+			"phone": "2072410800",
+			"email": "toni@ferraro-realty.com"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 390000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "19-Wood-St,-Lewiston,-ME-04240",
+		"formattedAddress": "19 Wood St, Lewiston, ME 04240",
+		"addressLine1": "19 Wood St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100872,
+		"longitude": -70.209427,
+		"propertyType": "Multi-Family",
+		"bedrooms": 0,
+		"bathrooms": 30,
+		"squareFootage": 57362,
+		"lotSize": 57499,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 6975000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.334Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670665",
+		"listingAgent": {
+			"name": "Thomas Gadbois, Agent",
+			"phone": "2074098339",
+			"email": "tom@tomsellsmaine.com",
+			"website": "http://www.fobaileyrealestate.com/agents/8666-thomas-gadbois"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 6975000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "54-Pettingill-St,-Lewiston,-ME-04240",
+		"formattedAddress": "54 Pettingill St, Lewiston, ME 04240",
+		"addressLine1": "54 Pettingill St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.1126,
+		"longitude": -70.204688,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2067,
+		"lotSize": 198634,
+		"yearBuilt": 1928,
+		"status": "Active",
+		"price": 394500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.334Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670636",
+		"listingAgent": {
+			"name": "Dodie Gagne",
+			"phone": "2073764830",
+			"email": "dodie@legacy-realty.com"
+		},
+		"listingOffice": {
+			"name": "Integrity Homes Real Estate Group, PC",
+			"phone": "2075769755",
+			"email": "buffydumont@gmail.com"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 394500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "141-Bradbury-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "141 Bradbury Rd, Lewiston, ME 04240",
+		"addressLine1": "141 Bradbury Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.116182,
+		"longitude": -70.131685,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 3652,
+		"lotSize": 751846,
+		"yearBuilt": 2013,
+		"status": "Active",
+		"price": 625000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.330Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671043",
+		"listingAgent": {
+			"name": "Cindy Morin",
+			"phone": "2077843800",
+			"email": "cindy@fontaineteam.com",
+			"website": "http://www.brendafontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-01-15": {
+				"event": "Sale Listing",
+				"price": 635000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-15T00:00:00.000Z",
+				"removedDate": "2026-07-09T00:00:00.000Z",
+				"daysOnMarket": 175
+			},
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 625000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "25-Roger-St,-Lewiston,-ME-04240",
+		"formattedAddress": "25 Roger St, Lewiston, ME 04240",
+		"addressLine1": "25 Roger St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102456,
+		"longitude": -70.160635,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2118,
+		"lotSize": 25265,
+		"yearBuilt": 1924,
+		"status": "Active",
+		"price": 285000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.306Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671224",
+		"listingAgent": {
+			"name": "Anthony Poulin",
+			"phone": "2072121746",
+			"email": "tony@meservier.com",
+			"website": "http://www.meservier.com/"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "86-Heather-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "86 Heather Dr, Lewiston, ME 04240",
+		"addressLine1": "86 Heather Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.127025,
+		"longitude": -70.195261,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 880,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 545
+		},
+		"status": "Active",
+		"price": 116000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.302Z",
+		"daysOnMarket": 64,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671350",
+		"listingAgent": {
+			"name": "Stephen Kenney"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-11": {
+				"event": "Sale Listing",
+				"price": 116000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 64
+			}
+		}
+	},
+	{
+		"id": "14-Darcy-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "14 Darcy Dr, Lewiston, ME 04240",
+		"addressLine1": "14 Darcy Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.093546,
+		"longitude": -70.145178,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1544,
+		"lotSize": 18731,
+		"yearBuilt": 2006,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.301Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671650",
+		"listingAgent": {
+			"name": "Didace Shima",
+			"email": "dshima@kw.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "1-Curtis-St,-Lewiston,-ME-04240",
+		"formattedAddress": "1 Curtis St, Lewiston, ME 04240",
+		"addressLine1": "1 Curtis St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.106441,
+		"longitude": -70.212387,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1838,
+		"lotSize": 4356,
+		"yearBuilt": 1911,
+		"status": "Active",
+		"price": 274500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.300Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671657",
+		"listingAgent": {
+			"name": "Jeff Mateja",
+			"phone": "2075532605",
+			"email": "jeff@kwmateja.com",
+			"website": "http://www.jeffsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2075532605",
+			"email": "klrw318@kw.com",
+			"website": "findmainehomesnow.com"
+		},
+		"history": {
+			"2026-05-22": {
+				"event": "Sale Listing",
+				"price": 284999,
+				"listingType": "Standard",
+				"listedDate": "2026-05-22T00:00:00.000Z",
+				"removedDate": "2026-07-11T00:00:00.000Z",
+				"daysOnMarket": 50
+			},
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 274500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "171-175-Walnut-St,-Lewiston,-ME-04240",
+		"formattedAddress": "171-175 Walnut St, Lewiston, ME 04240",
+		"addressLine1": "171-175 Walnut St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097881,
+		"longitude": -70.203629,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3124,
+		"lotSize": 9583,
+		"yearBuilt": 1926,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.298Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672103",
+		"listingAgent": {
+			"name": "Deborah A Meek",
+			"phone": "2075532662",
+			"email": "dmeek@kw.com",
+			"website": "http://www.findportlandmainehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "1048-Sabattus-St,-Lot-5,-Lewiston,-ME-04240",
+		"formattedAddress": "1048 Sabattus St, Lot 5, Lewiston, ME 04240",
+		"addressLine1": "1048 Sabattus St",
+		"addressLine2": "Lot 5",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101466,
+		"longitude": -70.155506,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1056,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 600
+		},
+		"status": "Active",
+		"price": 155000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.295Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672370",
+		"listingAgent": {
+			"name": "Erika Robert",
+			"phone": "2073305290",
+			"email": "erikadrobert@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Dot Fernald Team, Inc.",
+			"phone": "2072400052",
+			"email": "dotfernaldteam@gmail.com",
+			"website": "https://the-dot-fernald-team-inc.business.site/"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 155000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "24-River-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "24 River Rd, Lewiston, ME 04240",
+		"addressLine1": "24 River Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.073267,
+		"longitude": -70.198938,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2616,
+		"lotSize": 40075,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 524999,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.294Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672422",
+		"listingAgent": {
+			"name": "Derek Eisenberg",
+			"phone": "8779965728",
+			"email": "propertyinquiry@listingcheckout.com",
+			"website": "http://www.multiplelistingsystem.com"
+		},
+		"listingOffice": {
+			"name": "Continental Real Estate Group, Inc",
+			"phone": "8779965728",
+			"email": "propertyinquiry@continentalrealestate.com",
+			"website": "http://www.mls2u.com"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 524999,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "29-Orange-St,-Lewiston,-ME-04240",
+		"formattedAddress": "29 Orange St, Lewiston, ME 04240",
+		"addressLine1": "29 Orange St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099375,
+		"longitude": -70.199798,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2838,
+		"lotSize": 24829,
+		"yearBuilt": 1861,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.292Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672579",
+		"listingAgent": {
+			"name": "Liam Mccoy",
+			"phone": "2077126860",
+			"email": "liammccoy33@gmail.com",
+			"website": "https://www.cottageandcomaine.com/"
+		},
+		"listingOffice": {
+			"name": "Cottage & Co Real Estate",
+			"phone": "2076531188",
+			"email": "thebissonteam@gmail.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "520-Lisbon-St,-Lewiston,-ME-04240",
+		"formattedAddress": "520 Lisbon St, Lewiston, ME 04240",
+		"addressLine1": "520 Lisbon St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.089527,
+		"longitude": -70.212306,
+		"propertyType": "Land",
+		"lotSize": 30056,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-11-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.290Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672673",
+		"listingAgent": {
+			"name": "Michael Anderson",
+			"phone": "2077722422",
+			"email": "mike@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2024-11-22": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2024-11-22T00:00:00.000Z",
+				"removedDate": "2025-11-02T00:00:00.000Z",
+				"daysOnMarket": 345
+			},
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "21-Elm-St,-Lewiston,-ME-04240",
+		"formattedAddress": "21 Elm St, Lewiston, ME 04240",
+		"addressLine1": "21 Elm St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105025,
+		"longitude": -70.213102,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3793,
+		"lotSize": 5663,
+		"yearBuilt": 1914,
+		"status": "Active",
+		"price": 439000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.289Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672703",
+		"listingAgent": {
+			"name": "Buffy Dumont",
+			"phone": "2075769755",
+			"email": "buffy@integrityhomesregroup.com",
+			"website": "https://integrityhomesrealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Integrity Homes Real Estate Group, PC",
+			"phone": "2075769755",
+			"email": "buffydumont@gmail.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 439000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "56-Webster-St,-Lewiston,-ME-04240",
+		"formattedAddress": "56 Webster St, Lewiston, ME 04240",
+		"addressLine1": "56 Webster St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099018,
+		"longitude": -70.203267,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3159,
+		"lotSize": 2178,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.288Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672761",
+		"listingAgent": {
+			"name": "Derek Miller",
+			"phone": "2077721333",
+			"email": "dmiller@boulos.com",
+			"website": "http://www.boulos.com"
+		},
+		"listingOffice": {
+			"name": "The Boulos Company",
+			"phone": "2077721333",
+			"email": "nstevens@boulos.com",
+			"website": "http://www.boulos.com"
+		},
+		"history": {
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "13-Saint-Tekakwitha-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "13 Saint Tekakwitha Dr, Lewiston, ME 04240",
+		"addressLine1": "13 Saint Tekakwitha Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.127564,
+		"longitude": -70.174352,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 2100,
+		"lotSize": 255697,
+		"yearBuilt": 1999,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.286Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673035",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "560-Old-Greene-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "560 Old Greene Rd, Lewiston, ME 04240",
+		"addressLine1": "560 Old Greene Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.128307,
+		"longitude": -70.156137,
+		"propertyType": "Land",
+		"lotSize": 914760,
+		"status": "Active",
+		"price": 159000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.285Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673054",
+		"listingAgent": {
+			"name": "Stephen Dick",
+			"phone": "2077818524",
+			"email": "stephendick@roadrunner.com"
+		},
+		"listingOffice": {
+			"name": "Anchor Realty",
+			"phone": "2078006616",
+			"email": "allenj.bauer@gmail.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 159000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "15-Sylvan-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "15 Sylvan Ave, Lewiston, ME 04240",
+		"addressLine1": "15 Sylvan Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.098398,
+		"longitude": -70.199002,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1638,
+		"lotSize": 5227,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 359900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.284Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673059",
+		"listingAgent": {
+			"name": "Daniel Coleman",
+			"phone": "2072128771",
+			"email": "dan@androvise.com"
+		},
+		"listingOffice": {
+			"name": "Androvise Realty",
+			"phone": "2073336020",
+			"email": "chad@androvise.com",
+			"website": "http://www.androvise.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 359900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "37-Acadia-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "37 Acadia Ave, Lewiston, ME 04240",
+		"addressLine1": "37 Acadia Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.083678,
+		"longitude": -70.198068,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1646,
+		"lotSize": 10019,
+		"yearBuilt": 1914,
+		"status": "Active",
+		"price": 264999,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.282Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673323",
+		"listingAgent": {
+			"name": "Erica Berube",
+			"phone": "2076017047",
+			"email": "erica.berube@kw.com",
+			"website": "http://ericaberube.kw.com/"
+		},
+		"listingOffice": {
+			"name": "American Real Estate",
+			"phone": "2073315131",
+			"email": "slevineare@gmail.com"
+		},
+		"history": {
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 264999,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "4-Brault-St,-Lewiston,-ME-04240",
+		"formattedAddress": "4 Brault St, Lewiston, ME 04240",
+		"addressLine1": "4 Brault St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.111276,
+		"longitude": -70.194454,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1547,
+		"lotSize": 23087,
+		"yearBuilt": 1969,
+		"status": "Active",
+		"price": 330000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.280Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673388",
+		"listingAgent": {
+			"name": "Jaime Brochu",
+			"phone": "2077843800",
+			"email": "jaime@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 330000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "71-Grove-St,-Lewiston,-ME-04240",
+		"formattedAddress": "71 Grove St, Lewiston, ME 04240",
+		"addressLine1": "71 Grove St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097256,
+		"longitude": -70.157152,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1702,
+		"lotSize": 9148,
+		"yearBuilt": 2008,
+		"status": "Active",
+		"price": 365000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.276Z",
+		"daysOnMarket": 49,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673556",
+		"listingAgent": {
+			"name": "Matthew Dame",
+			"phone": "2077760843"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-07-26": {
+				"event": "Sale Listing",
+				"price": 365000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 49
+			}
+		}
+	},
+	{
+		"id": "25-Howe-St,-Lewiston,-ME-04240",
+		"formattedAddress": "25 Howe St, Lewiston, ME 04240",
+		"addressLine1": "25 Howe St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099077,
+		"longitude": -70.210731,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 5436,
+		"lotSize": 4792,
+		"yearBuilt": 1906,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.272Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673772",
+		"listingAgent": {
+			"name": "Elisabeth Cardali",
+			"phone": "2076075965",
+			"email": "elisabethcardali@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "378-Randall-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "378 Randall Rd, Lewiston, ME 04240",
+		"addressLine1": "378 Randall Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.088335,
+		"longitude": -70.149052,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1877,
+		"lotSize": 20038,
+		"yearBuilt": 1989,
+		"status": "Active",
+		"price": 428000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.270Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673965",
+		"listingAgent": {
+			"name": "Andrea Mckay",
+			"phone": "2074404066",
+			"email": "mckayhomes207@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 428000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "199-Pinewoods-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "199 Pinewoods Rd, Lewiston, ME 04240",
+		"addressLine1": "199 Pinewoods Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.039662,
+		"longitude": -70.153552,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2573,
+		"lotSize": 893416,
+		"yearBuilt": 1862,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.269Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673986",
+		"listingAgent": {
+			"name": "Marnie Dubois",
+			"phone": "2073122125",
+			"email": "marnie@duboisrealtygroup.net",
+			"website": "http://www.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "149-College-St,-Lewiston,-ME-04240",
+		"formattedAddress": "149 College St, Lewiston, ME 04240",
+		"addressLine1": "149 College St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102539,
+		"longitude": -70.20935,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 3145,
+		"lotSize": 8712,
+		"yearBuilt": 1856,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.267Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674020",
+		"listingAgent": {
+			"name": "Shawn Knight",
+			"phone": "2078913406",
+			"website": "https://shawnknight.realtyonegroupmaine.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "132-Apple-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "132 Apple Rd, Lewiston, ME 04240",
+		"addressLine1": "132 Apple Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.067101,
+		"longitude": -70.176453,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 836,
+		"lotSize": 60113,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 289900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.266Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674024",
+		"listingAgent": {
+			"name": "Keegan Roma",
+			"phone": "2077731990",
+			"email": "keegan.roma@nemoves.com",
+			"website": "http://keeganroma.cbintouch.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 289900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "23-Beckett-St,-Lewiston,-ME-04240",
+		"formattedAddress": "23 Beckett St, Lewiston, ME 04240",
+		"addressLine1": "23 Beckett St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.078865,
+		"longitude": -70.185741,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 952,
+		"lotSize": 7405,
+		"yearBuilt": 1961,
+		"status": "Active",
+		"price": 264000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.263Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674319",
+		"listingAgent": {
+			"name": "Christopher Voynik",
+			"phone": "2073130959",
+			"email": "chris@listingsdirectme.com",
+			"website": "www.listingsdirectme.com"
+		},
+		"listingOffice": {
+			"name": "Listings Direct",
+			"phone": "2073130959",
+			"email": "chris@listingsdirectme.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 264000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "121-Dow-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "121 Dow Ave, Lewiston, ME 04240",
+		"addressLine1": "121 Dow Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097079,
+		"longitude": -70.16563,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1008,
+		"lotSize": 10019,
+		"yearBuilt": 1973,
+		"status": "Active",
+		"price": 300000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.259Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674439",
+		"listingAgent": {
+			"name": "David A Marshall",
+			"phone": "2074096617",
+			"email": "david@davidmarshallteam.com",
+			"website": "https://www.davidmarshallteam.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 300000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "7-Champlain-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "7 Champlain Ave, Lewiston, ME 04240",
+		"addressLine1": "7 Champlain Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.11764,
+		"longitude": -70.196968,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 3203,
+		"lotSize": 10019,
+		"yearBuilt": 1962,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.256Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674696",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-07-31": {
+				"event": "Sale Listing",
+				"price": 398000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-31T00:00:00.000Z",
+				"removedDate": "2025-01-18T00:00:00.000Z",
+				"daysOnMarket": 171
+			},
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "17-Judith-St,-Lewiston,-ME-04240",
+		"formattedAddress": "17 Judith St, Lewiston, ME 04240",
+		"addressLine1": "17 Judith St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.091396,
+		"longitude": -70.145629,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1008,
+		"lotSize": 12197,
+		"yearBuilt": 2006,
+		"status": "Active",
+		"price": 300000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.254Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674791",
+		"listingAgent": {
+			"name": "David A Marshall",
+			"phone": "2074096617",
+			"email": "david@davidmarshallteam.com",
+			"website": "https://www.davidmarshallteam.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 300000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "74-King-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "74 King Ave, Lewiston, ME 04240",
+		"addressLine1": "74 King Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122155,
+		"longitude": -70.198447,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1926,
+		"lotSize": 6098,
+		"yearBuilt": 1924,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.252Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674828",
+		"listingAgent": {
+			"name": "Erika Ewers",
+			"phone": "2078359277",
+			"email": "erika@erikasellsmaine.com",
+			"website": "http://www.erikasellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-05-28": {
+				"event": "Sale Listing",
+				"price": 340000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-28T00:00:00.000Z",
+				"removedDate": "2025-10-30T00:00:00.000Z",
+				"daysOnMarket": 155
+			},
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "149-No-Name-Pond-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "149 No Name Pond Rd, Lewiston, ME 04240",
+		"addressLine1": "149 No Name Pond Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.118929,
+		"longitude": -70.126413,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1496,
+		"lotSize": 522720,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.251Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674860",
+		"listingAgent": {
+			"name": "Brittney Barr",
+			"phone": "2075962431",
+			"email": "cmcolby@maine.rr.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "157-College-St,-Lewiston,-ME-04240",
+		"formattedAddress": "157 College St, Lewiston, ME 04240",
+		"addressLine1": "157 College St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102799,
+		"longitude": -70.20924,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3363,
+		"lotSize": 8276,
+		"yearBuilt": 1891,
+		"status": "Active",
+		"price": 444000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.248Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675020",
+		"listingAgent": {
+			"name": "Shawn Boulet",
+			"phone": "2073291499",
+			"email": "sboulet@maine.rr.com",
+			"website": "http://shawnboulet.mreis.mlxchange.com/"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 444000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "7-And-9-Orange-St,-Lewiston,-ME-04240",
+		"formattedAddress": "7 And 9 Orange St, Lewiston, ME 04240",
+		"addressLine1": "7 And 9 Orange St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.098267,
+		"longitude": -70.200821,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2985,
+		"lotSize": 20909,
+		"yearBuilt": 1883,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.245Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675047",
+		"listingAgent": {
+			"name": "Chad Doucette",
+			"phone": "2077843800",
+			"email": "chad@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "20-Bolduc-St,-Lewiston,-ME-04240",
+		"formattedAddress": "20 Bolduc St, Lewiston, ME 04240",
+		"addressLine1": "20 Bolduc St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.083847,
+		"longitude": -70.19418,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1664,
+		"lotSize": 10454,
+		"yearBuilt": 1956,
+		"status": "Active",
+		"price": 310000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.237Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675529",
+		"listingAgent": {
+			"name": "Lorraine Bennett",
+			"phone": "2075765543",
+			"email": "lorrainebennett@masiello.com",
+			"website": "http://lorrainebennett.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 310000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "986-Sabattus-St,-Lewiston,-ME-04240",
+		"formattedAddress": "986 Sabattus St, Lewiston, ME 04240",
+		"addressLine1": "986 Sabattus St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.103828,
+		"longitude": -70.163161,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1932,
+		"lotSize": 19602,
+		"yearBuilt": 1959,
+		"status": "Active",
+		"price": 369900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.620Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675659",
+		"listingAgent": {
+			"name": "Tiana Lacombe",
+			"phone": "2073129643",
+			"email": "tianalacombe@rogcompass.com",
+			"website": "http://tianalacombe.realtyonegrouomaine.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 369900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "291-Bates-St,-Lewiston,-ME-04240",
+		"formattedAddress": "291 Bates St, Lewiston, ME 04240",
+		"addressLine1": "291 Bates St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.092383,
+		"longitude": -70.211765,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2000,
+		"lotSize": 2178,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 239900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.619Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675678",
+		"listingAgent": {
+			"name": "Anthony Poulin",
+			"phone": "2072121746",
+			"email": "tony@meservier.com",
+			"website": "http://www.meservier.com/"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2025-01-20": {
+				"event": "Sale Listing",
+				"price": 359900,
+				"listingType": "Standard",
+				"listedDate": "2025-01-20T00:00:00.000Z",
+				"removedDate": "2025-06-15T00:00:00.000Z",
+				"daysOnMarket": 146
+			},
+			"2026-03-12": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-12T00:00:00.000Z",
+				"removedDate": "2026-07-12T00:00:00.000Z",
+				"daysOnMarket": 122
+			},
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 239900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "209-213-Sabattus-St,-Lewiston,-ME-04240",
+		"formattedAddress": "209-213 Sabattus St, Lewiston, ME 04240",
+		"addressLine1": "209-213 Sabattus St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100079,
+		"longitude": -70.204445,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3160,
+		"lotSize": 7841,
+		"yearBuilt": 1891,
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.617Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675865",
+		"listingAgent": {
+			"name": "Mark Pilot",
+			"phone": "2077828311",
+			"email": "markpilot@masiello.com",
+			"website": "http://www.markpilot.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "4-Judy-St,-Lewiston,-ME-04240",
+		"formattedAddress": "4 Judy St, Lewiston, ME 04240",
+		"addressLine1": "4 Judy St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.111587,
+		"longitude": -70.160962,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1752,
+		"lotSize": 10019,
+		"yearBuilt": 1973,
+		"status": "Active",
+		"price": 398700,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.615Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676074",
+		"listingAgent": {
+			"name": "Jeff Mateja",
+			"phone": "2075532605",
+			"email": "jeff@kwmateja.com",
+			"website": "http://www.jeffsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2075532605",
+			"email": "klrw318@kw.com",
+			"website": "findmainehomesnow.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 398700,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "5-Acorn-Ln,-Lewiston,-ME-04240",
+		"formattedAddress": "5 Acorn Ln, Lewiston, ME 04240",
+		"addressLine1": "5 Acorn Ln",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.11643,
+		"longitude": -70.156604,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2912,
+		"lotSize": 104544,
+		"yearBuilt": 1997,
+		"status": "Active",
+		"price": 574000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.614Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676109",
+		"listingAgent": {
+			"name": "Mark Michaud",
+			"phone": "2074586309",
+			"email": "mark@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 574000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "10-Lowell-Ct,-Lewiston,-ME-04240",
+		"formattedAddress": "10 Lowell Ct, Lewiston, ME 04240",
+		"addressLine1": "10 Lowell Ct",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101053,
+		"longitude": -70.21618,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2016,
+		"lotSize": 2178,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 325999,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.607Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676388",
+		"listingAgent": {
+			"name": "Franklin Katunda",
+			"phone": "2075188371",
+			"email": "francokatunda@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 325999,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "84-Old-Greene-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "84 Old Greene Rd, Lewiston, ME 04240",
+		"addressLine1": "84 Old Greene Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105831,
+		"longitude": -70.171863,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 1401,
+		"lotSize": 10019,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.605Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676425",
+		"listingAgent": {
+			"name": "Daniel Coleman",
+			"phone": "2072128771",
+			"email": "dan@androvise.com"
+		},
+		"listingOffice": {
+			"name": "Androvise Realty",
+			"phone": "2073336020",
+			"email": "chad@androvise.com",
+			"website": "http://www.androvise.com"
+		},
+		"history": {
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "9-Nash-St,-Lewiston,-ME-04240",
+		"formattedAddress": "9 Nash St, Lewiston, ME 04240",
+		"addressLine1": "9 Nash St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.08054,
+		"longitude": -70.189556,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1543,
+		"lotSize": 17424,
+		"yearBuilt": 1928,
+		"status": "Active",
+		"price": 299999,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.593Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676940",
+		"listingAgent": {
+			"name": "Stephen Kenney"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 299999,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "28-Boston-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "28 Boston Ave, Lewiston, ME 04240",
+		"addressLine1": "28 Boston Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.093835,
+		"longitude": -70.19606,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"squareFootage": 700,
+		"lotSize": 9148,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 245000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.592Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676953",
+		"listingAgent": {
+			"name": "Susan Brown",
+			"phone": "2072412327",
+			"email": "sue207sells@gmail.com",
+			"website": "https://www.hearthandkeyrealty.com/agents/1798769/sue+brown"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 245000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "67-Wood-St,-Lewiston,-ME-04240",
+		"formattedAddress": "67 Wood St, Lewiston, ME 04240",
+		"addressLine1": "67 Wood St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101878,
+		"longitude": -70.208844,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 6412,
+		"lotSize": 10019,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.591Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676963",
+		"listingAgent": {
+			"name": "Amanda Berube",
+			"phone": "2076021662",
+			"email": "amandaberube7@gmail.com",
+			"website": "https://homesmart.com/real-estate-agent/maine/southportland/5475"
+		},
+		"listingOffice": {
+			"name": "HomeSmart",
+			"phone": "2072922800"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "80-Fairlawn-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "80 Fairlawn Ave, Lewiston, ME 04240",
+		"addressLine1": "80 Fairlawn Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102815,
+		"longitude": -70.187166,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1290,
+		"lotSize": 5227,
+		"yearBuilt": 1945,
+		"status": "Active",
+		"price": 314000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.585Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677157",
+		"listingAgent": {
+			"name": "Kayla Brown",
+			"phone": "2075722483",
+			"email": "kayla@kwlifestyleproperties.com",
+			"website": "http://www.kwlifestyleproperties.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 314000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "65-Jefferson-St,-Lewiston,-ME-04240",
+		"formattedAddress": "65 Jefferson St, Lewiston, ME 04240",
+		"addressLine1": "65 Jefferson St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097981,
+		"longitude": -70.205884,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 4521,
+		"lotSize": 4792,
+		"yearBuilt": 1924,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.583Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677223",
+		"listingAgent": {
+			"name": "Clayton Larochelle - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766524",
+			"email": "clay@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "139-South-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "139 South Ave, Lewiston, ME 04240",
+		"addressLine1": "139 South Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.078757,
+		"longitude": -70.198757,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1890,
+		"lotSize": 12197,
+		"yearBuilt": 1934,
+		"status": "Active",
+		"price": 290000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.582Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677237",
+		"listingAgent": {
+			"name": "Matthew Mocciola",
+			"phone": "2073464900",
+			"email": "mattmocciola@tmree.com",
+			"website": "https://themainerealestateexperience.com/meet-the-team/matt-mocciola/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2025-06-02": {
+				"event": "Sale Listing",
+				"price": 265000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-02T00:00:00.000Z",
+				"removedDate": "2025-10-18T00:00:00.000Z",
+				"daysOnMarket": 138
+			},
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 290000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "59-Lafayette-St,-Lewiston,-ME-04240",
+		"formattedAddress": "59 Lafayette St, Lewiston, ME 04240",
+		"addressLine1": "59 Lafayette St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102769,
+		"longitude": -70.195355,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1066,
+		"lotSize": 4792,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 329000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.572Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677297",
+		"listingAgent": {
+			"name": "Shawna Cotter",
+			"phone": "2075770924",
+			"email": "shawnac@greeneteam.me",
+			"website": "http://shawnac.greene-team.me/"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Pros",
+			"phone": "4013238700",
+			"email": "soldbygreg@gmail.com"
+		},
+		"history": {
+			"2024-08-25": {
+				"event": "Sale Listing",
+				"price": 295900,
+				"listingType": "Standard",
+				"listedDate": "2024-08-25T00:00:00.000Z",
+				"removedDate": "2024-12-13T00:00:00.000Z",
+				"daysOnMarket": 110
+			},
+			"2026-08-22": {
+				"event": "Sale Listing",
+				"price": 329000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	},
+	{
+		"id": "31-Leavitt-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "31 Leavitt Ave, Lewiston, ME 04240",
+		"addressLine1": "31 Leavitt Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.106454,
+		"longitude": -70.190844,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2088,
+		"lotSize": 8276,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.571Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677737",
+		"listingAgent": {
+			"name": "Jason Didonato",
+			"phone": "2072290307",
+			"email": "baywatchrealty.sme@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Bay Watch Realty, Llc",
+			"phone": "2078999321",
+			"email": "mdonovan6952@gmail.com"
+		},
+		"history": {
+			"2025-10-09": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-09T00:00:00.000Z",
+				"removedDate": "2025-12-10T00:00:00.000Z",
+				"daysOnMarket": 62
+			},
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "526-East-Ave,-Apt-102,-Lewiston,-ME-04240",
+		"formattedAddress": "526 East Ave, Apt 102, Lewiston, ME 04240",
+		"addressLine1": "526 East Ave",
+		"addressLine2": "Apt 102",
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.113538,
+		"longitude": -70.182855,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 928,
+		"yearBuilt": 1974,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 210000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.570Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678113",
+		"listingAgent": {
+			"name": "Mindy Sanderson",
+			"phone": "2077479985",
+			"email": "mainerealestatesales@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 210000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "500-Webster-St,-Lewiston,-ME-04240",
+		"formattedAddress": "500 Webster St, Lewiston, ME 04240",
+		"addressLine1": "500 Webster St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.089647,
+		"longitude": -70.184646,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1890,
+		"lotSize": 19166,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 395000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.569Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677785",
+		"listingAgent": {
+			"name": "The Gina Team - Gina Letourneau",
+			"phone": "2077544959",
+			"email": "ginaletourneau@masiello.com",
+			"website": "http://theginateam.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 395000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "1235-Sabattus-St,-Lewiston,-ME-04240",
+		"formattedAddress": "1235 Sabattus St, Lewiston, ME 04240",
+		"addressLine1": "1235 Sabattus St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102459,
+		"longitude": -70.136747,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 2276,
+		"lotSize": 43560,
+		"yearBuilt": 1917,
+		"status": "Active",
+		"price": 370000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.569Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678201",
+		"listingAgent": {
+			"name": "Deborah Brackett",
+			"phone": "2076502348",
+			"email": "debbrackett12@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 370000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "87-Gagne-St,-Lewiston,-ME-04240",
+		"formattedAddress": "87 Gagne St, Lewiston, ME 04240",
+		"addressLine1": "87 Gagne St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.082935,
+		"longitude": -70.187157,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1102,
+		"lotSize": 8276,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.567Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677887",
+		"listingAgent": {
+			"name": "Julie Peacock",
+			"phone": "2074467227",
+			"email": "juliepeacockrealtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "253-Lincoln-St,-Lewiston,-ME-04240",
+		"formattedAddress": "253 Lincoln St, Lewiston, ME 04240",
+		"addressLine1": "253 Lincoln St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.089762,
+		"longitude": -70.217461,
+		"propertyType": "Multi-Family",
+		"bedrooms": 7,
+		"bathrooms": 3,
+		"squareFootage": 2602,
+		"lotSize": 6534,
+		"yearBuilt": 1891,
+		"status": "Active",
+		"price": 340000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.564Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677429",
+		"listingAgent": {
+			"name": "Daniel Demers",
+			"phone": "8882193009",
+			"email": "mlsbydan@gmail.com",
+			"website": "https://www.houzeo.com/homes-for-sale"
+		},
+		"listingOffice": {
+			"name": "Sell Your Home Services",
+			"phone": "8882193009"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 340000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "98-Rosedale-St,-Lewiston,-ME-04240",
+		"formattedAddress": "98 Rosedale St, Lewiston, ME 04240",
+		"addressLine1": "98 Rosedale St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.081748,
+		"longitude": -70.202101,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1560,
+		"lotSize": 6970,
+		"yearBuilt": 1924,
+		"status": "Active",
+		"price": 339000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.562Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678500",
+		"listingAgent": {
+			"name": "Terry Bragdon Fletcher",
+			"phone": "2078384270",
+			"email": "tbragdonfletcher@gmail.com",
+			"website": "http://www.regencyme.com"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 339000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "1-Fisher-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "1 Fisher Ave, Lewiston, ME 04240",
+		"addressLine1": "1 Fisher Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097825,
+		"longitude": -70.166752,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1728,
+		"lotSize": 11326,
+		"yearBuilt": 1951,
+		"status": "Active",
+		"price": 324000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.561Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677774",
+		"listingAgent": {
+			"name": "Adam Murray",
+			"phone": "8884398743",
+			"email": "adam@sellsmaine.com",
+			"website": "https://sellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 324000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "28-Arkwright-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "28 Arkwright Ave, Lewiston, ME 04240",
+		"addressLine1": "28 Arkwright Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.088502,
+		"longitude": -70.20714,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1560,
+		"lotSize": 6970,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 299999,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.559Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677933",
+		"listingAgent": {
+			"name": "Cameron Gagne",
+			"phone": "2077136199",
+			"email": "cam@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 299999,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "6-Champlain-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "6 Champlain Ave, Lewiston, ME 04240",
+		"addressLine1": "6 Champlain Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.117037,
+		"longitude": -70.197081,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 3406,
+		"lotSize": 20038,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 510000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-03-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.558Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677865",
+		"listingAgent": {
+			"name": "Brandon Caruso",
+			"phone": "2073129148"
+		},
+		"listingOffice": {
+			"name": "Maine Source Realty, Inc.",
+			"phone": "2073336001",
+			"email": "jon@mainsource.com",
+			"website": "http://www.mainesourcerealty.com"
+		},
+		"history": {
+			"2025-03-31": {
+				"event": "Sale Listing",
+				"price": 505000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-31T00:00:00.000Z",
+				"removedDate": "2025-04-02T00:00:00.000Z",
+				"daysOnMarket": 2
+			},
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 510000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "139-Oak-St,-Lewiston,-ME-04240",
+		"formattedAddress": "139 Oak St, Lewiston, ME 04240",
+		"addressLine1": "139 Oak St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101424,
+		"longitude": -70.212287,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 6680,
+		"lotSize": 5663,
+		"yearBuilt": 1891,
+		"status": "Active",
+		"price": 500000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.557Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678447",
+		"listingAgent": {
+			"name": "Jonathan Keenan",
+			"phone": "2078923377",
+			"email": "jon.keenan@raveis.com",
+			"website": "https://www.raveis.com/agentprofile.asp"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 500000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "23-Orchard-Cir,-Lewiston,-ME-04240",
+		"formattedAddress": "23 Orchard Cir, Lewiston, ME 04240",
+		"addressLine1": "23 Orchard Cir",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.104978,
+		"longitude": -70.167374,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2860,
+		"lotSize": 14810,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 474999,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.555Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678043",
+		"listingAgent": {
+			"name": "Franklin Katunda",
+			"phone": "2075188371",
+			"email": "francokatunda@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 474999,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "389-Randall-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "389 Randall Rd, Lewiston, ME 04240",
+		"addressLine1": "389 Randall Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.086231,
+		"longitude": -70.146817,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 990,
+		"lotSize": 217800,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 489000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.552Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678729",
+		"listingAgent": {
+			"name": "Jennifer Banton",
+			"phone": "2074171033",
+			"email": "jenniferbanton@kw.com",
+			"website": "http://jenniferbanton.kw.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 489000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "27-29-Elm-St,-Lewiston,-ME-04240",
+		"formattedAddress": "27-29 Elm St, Lewiston, ME 04240",
+		"addressLine1": "27-29 Elm St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.104733,
+		"longitude": -70.212158,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 3445,
+		"lotSize": 4356,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.550Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678453",
+		"listingAgent": {
+			"name": "Jonathan Keenan",
+			"phone": "2078923377",
+			"email": "jon.keenan@raveis.com",
+			"website": "https://www.raveis.com/agentprofile.asp"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "72-Village-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "72 Village Dr, Lewiston, ME 04240",
+		"addressLine1": "72 Village Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096342,
+		"longitude": -70.142757,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 545
+		},
+		"status": "Active",
+		"price": 79900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.548Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678170",
+		"listingAgent": {
+			"name": "Kaleb Swan",
+			"phone": "2077292820",
+			"email": "kswan@legacysir.com",
+			"website": "https://kalebswan.legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077292820",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 79900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "26-Elm-St,-Lewiston,-ME-04240",
+		"formattedAddress": "26 Elm St, Lewiston, ME 04240",
+		"addressLine1": "26 Elm St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105234,
+		"longitude": -70.212718,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 2952,
+		"lotSize": 3485,
+		"yearBuilt": 1861,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.547Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678448",
+		"listingAgent": {
+			"name": "Jonathan Keenan",
+			"phone": "2078923377",
+			"email": "jon.keenan@raveis.com",
+			"website": "https://www.raveis.com/agentprofile.asp"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "143-Oak-St,-Lewiston,-ME-04240",
+		"formattedAddress": "143 Oak St, Lewiston, ME 04240",
+		"addressLine1": "143 Oak St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101547,
+		"longitude": -70.212208,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2568,
+		"lotSize": 5663,
+		"yearBuilt": 1891,
+		"status": "Active",
+		"price": 399500,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.540Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678769",
+		"listingAgent": {
+			"name": "Cheryl Pelletier",
+			"phone": "2077297297",
+			"email": "cheryl@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 399500,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "314-Pond-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "314 Pond Rd, Lewiston, ME 04240",
+		"addressLine1": "314 Pond Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101628,
+		"longitude": -70.153964,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 3410,
+		"lotSize": 54886,
+		"yearBuilt": 1946,
+		"status": "Active",
+		"price": 565000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.539Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678703",
+		"listingAgent": {
+			"name": "Anthony Poulin",
+			"phone": "2072121746",
+			"email": "tony@meservier.com",
+			"website": "http://www.meservier.com/"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 565000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "140-Hogan-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "140 Hogan Rd, Lewiston, ME 04240",
+		"addressLine1": "140 Hogan Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.124693,
+		"longitude": -70.180215,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1584,
+		"lotSize": 39640,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 373735,
+		"listingType": "Standard",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.533Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679472",
+		"listingAgent": {
+			"name": "Jann  Perkins Farrington",
+			"phone": "2077541435",
+			"email": "jannzmailbox@gmail.com",
+			"website": "https://my.flexmls.com/jannperkinsfarrington"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Pros",
+			"phone": "4013238700",
+			"email": "soldbygreg@gmail.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 373735,
+				"listingType": "Standard",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "26-Laurier-St,-Lewiston,-ME-04240",
+		"formattedAddress": "26 Laurier St, Lewiston, ME 04240",
+		"addressLine1": "26 Laurier St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102785,
+		"longitude": -70.185309,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1757,
+		"lotSize": 3920,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 324900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.532Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680299",
+		"listingAgent": {
+			"name": "Linda Davis",
+			"phone": "2072125373",
+			"email": "lindadavis@masiello.com",
+			"website": "http://lindadavis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 324900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "29-Vista-Bella-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "29 Vista Bella Dr, Lewiston, ME 04240",
+		"addressLine1": "29 Vista Bella Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.034411,
+		"longitude": -70.148371,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1316,
+		"lotSize": 4792,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 535000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.531Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679611",
+		"listingAgent": {
+			"name": "Daniel Demers",
+			"phone": "8882193009",
+			"email": "mlsbydan@gmail.com",
+			"website": "https://www.houzeo.com/homes-for-sale"
+		},
+		"listingOffice": {
+			"name": "Sell Your Home Services",
+			"phone": "8882193009"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 535000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "154-Rideout-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "154 Rideout Ave, Lewiston, ME 04240",
+		"addressLine1": "154 Rideout Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.094838,
+		"longitude": -70.168172,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 960,
+		"lotSize": 13504,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.530Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679168",
+		"listingAgent": {
+			"name": "Tim Dunham",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "www.dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2025-06-24": {
+				"event": "Sale Listing",
+				"price": 280000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-24T00:00:00.000Z",
+				"removedDate": "2025-10-10T00:00:00.000Z",
+				"daysOnMarket": 108
+			},
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "3-Parkview-Ln,-Lewiston,-ME-04240",
+		"formattedAddress": "3 Parkview Ln, Lewiston, ME 04240",
+		"addressLine1": "3 Parkview Ln",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096451,
+		"longitude": -70.14423,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 2020,
+		"hoa": {
+			"fee": 545
+		},
+		"status": "Active",
+		"price": 100000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.527Z",
+		"daysOnMarket": 1,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680313",
+		"listingAgent": {
+			"name": "Beth Bell",
+			"phone": "2077546500",
+			"email": "bethbellhomes@roadrunner.com",
+			"website": "http://www.bethbellhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-07-20": {
+				"event": "Sale Listing",
+				"price": 96500,
+				"listingType": "Standard",
+				"listedDate": "2024-07-20T00:00:00.000Z",
+				"removedDate": "2025-01-07T00:00:00.000Z",
+				"daysOnMarket": 171
+			},
+			"2026-09-12": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 1
+			}
+		}
+	},
+	{
+		"id": "651-Pleasant-St,-Lewiston,-ME-04240",
+		"formattedAddress": "651 Pleasant St, Lewiston, ME 04240",
+		"addressLine1": "651 Pleasant St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.0709,
+		"longitude": -70.176985,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1490,
+		"lotSize": 15246,
+		"yearBuilt": 1897,
+		"status": "Active",
+		"price": 320000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.526Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679590",
+		"listingAgent": {
+			"name": "Angela Lee Team",
+			"phone": "2073443300",
+			"email": "angelaleehomes@gmail.com",
+			"website": "http://www.angelaleehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 320000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "256-Park-St,-Lewiston,-ME-04240",
+		"formattedAddress": "256 Park St, Lewiston, ME 04240",
+		"addressLine1": "256 Park St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.091455,
+		"longitude": -70.212663,
+		"propertyType": "Multi-Family",
+		"bedrooms": 9,
+		"bathrooms": 6,
+		"squareFootage": 6200,
+		"lotSize": 4792,
+		"yearBuilt": 1891,
+		"status": "Active",
+		"price": 649999,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.525Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679581",
+		"listingAgent": {
+			"name": "Franklin Katunda",
+			"phone": "2075188371",
+			"email": "francokatunda@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 649999,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "10-Bonnaille-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "10 Bonnaille Ave, Lewiston, ME 04240",
+		"addressLine1": "10 Bonnaille Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.116632,
+		"longitude": -70.198171,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3180,
+		"lotSize": 83635,
+		"yearBuilt": 1983,
+		"status": "Active",
+		"price": 519000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.525Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680201",
+		"listingAgent": {
+			"name": "Sandra Wendland",
+			"phone": "2072337788",
+			"email": "swendland@legacysir.com",
+			"website": "http://www.legacysir.com/swendland"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 519000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "7-Swale-Ln,-Lewiston,-ME-04240",
+		"formattedAddress": "7 Swale Ln, Lewiston, ME 04240",
+		"addressLine1": "7 Swale Ln",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.08054,
+		"longitude": -70.18149,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1164,
+		"lotSize": 10019,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 319900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.524Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679282",
+		"listingAgent": {
+			"name": "Jodie Davis",
+			"phone": "2076536557",
+			"email": "jodiedavis@kw.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 319900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "7-Autumn-Ln,-Lewiston,-ME-04240",
+		"formattedAddress": "7 Autumn Ln, Lewiston, ME 04240",
+		"addressLine1": "7 Autumn Ln",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100565,
+		"longitude": -70.142605,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 545
+		},
+		"status": "Active",
+		"price": 100000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.521Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680186",
+		"listingAgent": {
+			"name": "Sarah Foster",
+			"phone": "2073805805",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "304-East-Ave,-Lewiston,-ME-04240",
+		"formattedAddress": "304 East Ave, Lewiston, ME 04240",
+		"addressLine1": "304 East Ave",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102366,
+		"longitude": -70.193147,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1773,
+		"lotSize": 4792,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 112000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.520Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679835",
+		"listingAgent": {
+			"name": "Claire M Poussard",
+			"phone": "2075768444",
+			"email": "cmp.broker@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Northeast Real Estate",
+			"phone": "2077840159",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 112000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "1338-Sabattus-St,-Lewiston,-ME-04240",
+		"formattedAddress": "1338 Sabattus St, Lewiston, ME 04240",
+		"addressLine1": "1338 Sabattus St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.110032,
+		"longitude": -70.130876,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 980,
+		"lotSize": 379408,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 289000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.519Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679834",
+		"listingAgent": {
+			"name": "Clayton Larochelle - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766524",
+			"email": "clay@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 289000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "36-Winter-St,-Lewiston,-ME-04240",
+		"formattedAddress": "36 Winter St, Lewiston, ME 04240",
+		"addressLine1": "36 Winter St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.104923,
+		"longitude": -70.219668,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1029,
+		"lotSize": 4792,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 289000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.516Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680266",
+		"listingAgent": {
+			"name": "Josh Cousineau",
+			"phone": "2072121523",
+			"email": "josh@cousineaumaine.com",
+			"website": "cousineaumaine.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 289000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "33-Waters-Edge-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "33 Waters Edge Dr, Lewiston, ME 04240",
+		"addressLine1": "33 Waters Edge Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.130733,
+		"longitude": -70.134501,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1696,
+		"lotSize": 34412,
+		"yearBuilt": 2000,
+		"hoa": {
+			"fee": 14
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.514Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680012",
+		"listingAgent": {
+			"name": "Bill Bergeron - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766523",
+			"email": "bill@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "25-Village-Dr,-Lewiston,-ME-04250",
+		"formattedAddress": "25 Village Dr, Lewiston, ME 04250",
+		"addressLine1": "25 Village Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.030266,
+		"longitude": -70.106026,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1500,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 545
+		},
+		"status": "Active",
+		"price": 79900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T05:25:52.072Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663830",
+		"listingAgent": {
+			"name": "Kayla Mayberry",
+			"phone": "2076153520"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-05-25": {
+				"event": "Sale Listing",
+				"price": 79900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "2-Nancy-St,-Lewiston,-ME-04240",
+		"formattedAddress": "2 Nancy St, Lewiston, ME 04240",
+		"addressLine1": "2 Nancy St",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097377,
+		"longitude": -70.190478,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 3009,
+		"lotSize": 9148,
+		"yearBuilt": 1959,
+		"status": "Active",
+		"price": 449900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T06:26:50.818Z",
+		"daysOnMarket": 132,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660334",
+		"listingAgent": {
+			"name": "Didace Shima",
+			"email": "dshima@kw.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-05-02": {
+				"event": "Sale Listing",
+				"price": 449900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 132
+			}
+		}
+	},
+	{
+		"id": "62-Village-Dr,-Lewiston,-ME-04240",
+		"formattedAddress": "62 Village Dr, Lewiston, ME 04240",
+		"addressLine1": "62 Village Dr",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.09681,
+		"longitude": -70.142064,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1232,
+		"yearBuilt": 2010,
+		"hoa": {
+			"fee": 545
+		},
+		"status": "Active",
+		"price": 139000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T06:22:13.957Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668739",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2025-08-29": {
+				"event": "Sale Listing",
+				"price": 163000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-29T00:00:00.000Z",
+				"removedDate": "2025-11-09T00:00:00.000Z",
+				"daysOnMarket": 72
+			},
+			"2026-02-17": {
+				"event": "Sale Listing",
+				"price": 145000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-17T00:00:00.000Z",
+				"removedDate": "2026-05-07T00:00:00.000Z",
+				"daysOnMarket": 79
+			},
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 139000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "105-Pond-Rd,-Lewiston,-ME-04240",
+		"formattedAddress": "105 Pond Rd, Lewiston, ME 04240",
+		"addressLine1": "105 Pond Rd",
+		"addressLine2": null,
+		"city": "Lewiston",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04240",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.088058,
+		"longitude": -70.164601,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1650,
+		"lotSize": 27443,
+		"yearBuilt": 1951,
+		"status": "Active",
+		"price": 77900,
+		"listingType": "Short Sale",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T05:11:16.516Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679865",
+		"listingAgent": {
+			"name": "Lisa Zlomke",
+			"phone": "2078371997",
+			"email": "lisazlomke1@gmail.com",
+			"website": "https://www.facebook.com/profile.php"
+		},
+		"listingOffice": {
+			"name": "Shore & Country Real Estate",
+			"phone": "8662217467",
+			"email": "sofc21@aol.com",
+			"website": "www.century21shoreandcountry.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 77900,
+				"listingType": "Short Sale",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	}
+]

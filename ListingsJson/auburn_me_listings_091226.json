@@ -1,0 +1,5191 @@
+[
+	{
+		"id": "Minot-Ave,-Lot-11,-Auburn,-ME-04210",
+		"formattedAddress": "Minot Ave, Lot 11, Auburn, ME 04210",
+		"addressLine1": "Minot Ave",
+		"addressLine2": "Lot 11",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.09753,
+		"longitude": -70.231368,
+		"propertyType": "Land",
+		"lotSize": 185566,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2025-04-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.160Z",
+		"daysOnMarket": 506,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1620268",
+		"listingAgent": {
+			"name": "Roy L'italien Jr",
+			"phone": "2077822121",
+			"email": "roylitalien@gmail.com",
+			"website": "https://profile.realsatisfied.com/roy-litalien"
+		},
+		"listingOffice": {
+			"name": "Century 21 Advantage",
+			"phone": "2077822121",
+			"email": "century21advant@gmail.com",
+			"website": "http://www.century21-advantage.com/"
+		},
+		"history": {
+			"2025-04-25": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 506
+			}
+		}
+	},
+	{
+		"id": "351-W-Auburn-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "351 W Auburn Rd, Auburn, ME 04210",
+		"addressLine1": "351 W Auburn Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.142969,
+		"longitude": -70.271041,
+		"propertyType": "Land",
+		"lotSize": 115870,
+		"status": "Active",
+		"price": 55000,
+		"listingType": "Standard",
+		"listedDate": "2025-09-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.155Z",
+		"daysOnMarket": 359,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1638336",
+		"listingAgent": {
+			"name": "Amy Landry",
+			"phone": "2075771767",
+			"email": "amy.landry@exprealty.com",
+			"website": "http://www.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-09-19": {
+				"event": "Sale Listing",
+				"price": 55000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 359
+			}
+		}
+	},
+	{
+		"id": "15-Western-Prom,-Auburn,-ME-04210",
+		"formattedAddress": "15 Western Prom, Auburn, ME 04210",
+		"addressLine1": "15 Western Prom",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.10295,
+		"longitude": -70.234119,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2.5,
+		"squareFootage": 2808,
+		"lotSize": 10890,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.148Z",
+		"daysOnMarket": 275,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646480",
+		"listingAgent": {
+			"name": "Ann M Parker",
+			"phone": "2077822121",
+			"email": "amjparker@yahoo.com",
+			"website": "http://www.century21-advantage.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 Advantage",
+			"phone": "2077822121",
+			"email": "century21advant@gmail.com",
+			"website": "http://www.century21-advantage.com/"
+		},
+		"history": {
+			"2025-12-12": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 275
+			}
+		}
+	},
+	{
+		"id": "912-Washington-St-N,-Auburn,-ME-04210",
+		"formattedAddress": "912 Washington St N, Auburn, ME 04210",
+		"addressLine1": "912 Washington St N",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.062765,
+		"longitude": -70.248455,
+		"propertyType": "Land",
+		"lotSize": 392040,
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.145Z",
+		"daysOnMarket": 254,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1647500",
+		"listingAgent": {
+			"name": "Don Spann",
+			"phone": "2073197815",
+			"email": "donspann@remax.net"
+		},
+		"listingOffice": {
+			"name": "Remax Shoreline",
+			"phone": "2077258505",
+			"email": "info@remax-riverside-maine.com",
+			"website": "shoreline-topsham-me.remax.com"
+		},
+		"history": {
+			"2026-01-02": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 254
+			}
+		}
+	},
+	{
+		"id": "137-S-Main-St,-Auburn,-ME-04210",
+		"formattedAddress": "137 S Main St, Auburn, ME 04210",
+		"addressLine1": "137 S Main St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.081104,
+		"longitude": -70.224457,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 3004,
+		"lotSize": 23087,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.140Z",
+		"daysOnMarket": 219,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651341",
+		"listingAgent": {
+			"name": "Garret Getch",
+			"phone": "2078419433",
+			"email": "garretgetch@gmail.com",
+			"website": "http://www.garretgetch.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-02-06": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 219
+			}
+		}
+	},
+	{
+		"id": "1315-Minot-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "1315 Minot Ave, Auburn, ME 04210",
+		"addressLine1": "1315 Minot Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.080296,
+		"longitude": -70.286968,
+		"propertyType": "Land",
+		"lotSize": 613325,
+		"status": "Active",
+		"price": 465000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-22T08:11:24.533Z",
+		"lastSeenDate": "2026-09-12T07:09:19.137Z",
+		"daysOnMarket": 201,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652633",
+		"listingAgent": {
+			"name": "Roy L'italien Jr",
+			"phone": "2077822121",
+			"email": "roylitalien@gmail.com",
+			"website": "https://profile.realsatisfied.com/roy-litalien"
+		},
+		"listingOffice": {
+			"name": "Century 21 Advantage",
+			"phone": "2077822121",
+			"email": "century21advant@gmail.com",
+			"website": "http://www.century21-advantage.com/"
+		},
+		"history": {
+			"2026-02-24": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 201
+			}
+		}
+	},
+	{
+		"id": "17-Streamside-Dr,-Auburn,-ME-04210",
+		"formattedAddress": "17 Streamside Dr, Auburn, ME 04210",
+		"addressLine1": "17 Streamside Dr",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.135353,
+		"longitude": -70.223755,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1456,
+		"lotSize": 6970,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 50
+		},
+		"status": "Active",
+		"price": 374900,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.135Z",
+		"daysOnMarket": 194,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653102",
+		"listingAgent": {
+			"name": "Jon Mercier",
+			"phone": "2073336001",
+			"email": "jon@mainesource.com",
+			"website": "http://www.mainesourcerealty.com"
+		},
+		"listingOffice": {
+			"name": "Maine Source Realty, Inc.",
+			"phone": "2073336001",
+			"email": "jon@mainsource.com",
+			"website": "http://www.mainesourcerealty.com"
+		},
+		"history": {
+			"2026-03-03": {
+				"event": "Sale Listing",
+				"price": 374900,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 194
+			}
+		}
+	},
+	{
+		"id": "46-Fair-St,-Auburn,-ME-04210",
+		"formattedAddress": "46 Fair St, Auburn, ME 04210",
+		"addressLine1": "46 Fair St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.145182,
+		"longitude": -70.225433,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 1984,
+		"lotSize": 23522,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 465000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.130Z",
+		"daysOnMarket": 173,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655219",
+		"listingAgent": {
+			"name": "Andrea Mckay",
+			"phone": "2074404066",
+			"email": "mckayhomes207@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-03-24": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 173
+			}
+		}
+	},
+	{
+		"id": "152-Lake-St,-Auburn,-ME-04210",
+		"formattedAddress": "152 Lake St, Auburn, ME 04210",
+		"addressLine1": "152 Lake St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.103859,
+		"longitude": -70.244083,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1267,
+		"lotSize": 6534,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 260000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.121Z",
+		"daysOnMarket": 164,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656211",
+		"listingAgent": {
+			"name": "Malachi Winslow",
+			"phone": "2077408577",
+			"email": "malachiwinslow@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-02": {
+				"event": "Sale Listing",
+				"price": 260000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 164
+			}
+		}
+	},
+	{
+		"id": "437-Hatch-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "437 Hatch Rd, Auburn, ME 04210",
+		"addressLine1": "437 Hatch Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.091824,
+		"longitude": -70.301358,
+		"propertyType": "Land",
+		"lotSize": 527512,
+		"status": "Active",
+		"price": 110000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.121Z",
+		"daysOnMarket": 129,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661099",
+		"listingAgent": {
+			"name": "Loretta Warriner",
+			"phone": "6034342377",
+			"email": "lori.warriner@verani.com"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "margherita.verani@verani.com",
+			"website": "http://www.verani.com"
+		},
+		"history": {
+			"2026-05-07": {
+				"event": "Sale Listing",
+				"price": 110000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 129
+			}
+		}
+	},
+	{
+		"id": "26-Vernon-St,-Auburn,-ME-04210",
+		"formattedAddress": "26 Vernon St, Auburn, ME 04210",
+		"addressLine1": "26 Vernon St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.104792,
+		"longitude": -70.22718,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1229,
+		"lotSize": 4792,
+		"yearBuilt": 1917,
+		"status": "Active",
+		"price": 269000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.118Z",
+		"daysOnMarket": 130,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660986",
+		"listingAgent": {
+			"name": "Michael And Lauryn Hamilton",
+			"phone": "2075708998",
+			"email": "info@homesweetmaine.com",
+			"website": "http://homesweetmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-12-02": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2024-12-02T00:00:00.000Z",
+				"removedDate": "2025-01-01T00:00:00.000Z",
+				"daysOnMarket": 30
+			},
+			"2025-06-11": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-11T00:00:00.000Z",
+				"removedDate": "2025-07-02T00:00:00.000Z",
+				"daysOnMarket": 21
+			},
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 269000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 130
+			}
+		}
+	},
+	{
+		"id": "207-N-Auburn-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "207 N Auburn Rd, Auburn, ME 04210",
+		"addressLine1": "207 N Auburn Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.163083,
+		"longitude": -70.278099,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 4532,
+		"lotSize": 706543,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 899900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.114Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667016",
+		"listingAgent": {
+			"name": "Linda Beaulieu",
+			"phone": "2077543310",
+			"email": "lindab@masiello.com",
+			"website": "http://lindab.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-09-04": {
+				"event": "Sale Listing",
+				"price": 925000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-04T00:00:00.000Z",
+				"removedDate": "2026-03-30T00:00:00.000Z",
+				"daysOnMarket": 207
+			},
+			"2025-10-08": {
+				"event": "Sale Listing",
+				"price": 925000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-08T00:00:00.000Z",
+				"removedDate": "2026-05-28T00:00:00.000Z",
+				"daysOnMarket": 232
+			},
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 899900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "194-Oak-Hill-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "194 Oak Hill Rd, Auburn, ME 04210",
+		"addressLine1": "194 Oak Hill Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.147225,
+		"longitude": -70.22572,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2103,
+		"lotSize": 30492,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 359900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.112Z",
+		"daysOnMarket": 132,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660441",
+		"listingAgent": {
+			"name": "The Gina Team - Gina Letourneau",
+			"phone": "2077544959",
+			"email": "ginaletourneau@masiello.com",
+			"website": "http://theginateam.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 359900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 132
+			}
+		}
+	},
+	{
+		"id": "15-17-Pleasant-St,-Auburn,-ME-04210",
+		"formattedAddress": "15-17 Pleasant St, Auburn, ME 04210",
+		"addressLine1": "15-17 Pleasant St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099361,
+		"longitude": -70.227783,
+		"propertyType": "Multi-Family",
+		"bathrooms": 9,
+		"squareFootage": 5596,
+		"lotSize": 7405,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 1050000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.109Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659802",
+		"listingAgent": {
+			"name": "Garret Getch",
+			"phone": "2078419433",
+			"email": "garretgetch@gmail.com",
+			"website": "http://www.garretgetch.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 1050000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "144-Third-St,-Auburn,-ME-04210",
+		"formattedAddress": "144 Third St, Auburn, ME 04210",
+		"addressLine1": "144 Third St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.084447,
+		"longitude": -70.218116,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2070,
+		"lotSize": 6098,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.100Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659475",
+		"listingAgent": {
+			"name": "Tyler Stewart",
+			"phone": "2072137644",
+			"email": "jeannette@themainerealestatenetwork.com"
+		},
+		"listingOffice": {
+			"name": "Elevate Realty LLC",
+			"phone": "2073314565",
+			"email": "info@elevatemaine.com"
+		},
+		"history": {
+			"2024-06-27": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2024-06-27T00:00:00.000Z",
+				"removedDate": "2024-10-16T00:00:00.000Z",
+				"daysOnMarket": 111
+			},
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "66-Harvard-St,-Auburn,-ME-04210",
+		"formattedAddress": "66 Harvard St, Auburn, ME 04210",
+		"addressLine1": "66 Harvard St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.11001,
+		"longitude": -70.22957,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1876,
+		"lotSize": 16553,
+		"yearBuilt": 1888,
+		"status": "Active",
+		"price": 290000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.092Z",
+		"daysOnMarket": 92,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667083",
+		"listingAgent": {
+			"name": "Alysia Berry",
+			"phone": "2077822121",
+			"email": "alysia@c21advant.com"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2026-06-13": {
+				"event": "Sale Listing",
+				"price": 290000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 92
+			}
+		}
+	},
+	{
+		"id": "4-Pineway-Dr,-Auburn,-ME-04210",
+		"formattedAddress": "4 Pineway Dr, Auburn, ME 04210",
+		"addressLine1": "4 Pineway Dr",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105501,
+		"longitude": -70.237416,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2144,
+		"lotSize": 48787,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 339900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.090Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667813",
+		"listingAgent": {
+			"name": "Terry  Keiser",
+			"phone": "2073293515",
+			"email": "terry.keiser@beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 339900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "7-Grove-St,-Auburn,-ME-04210",
+		"formattedAddress": "7 Grove St, Auburn, ME 04210",
+		"addressLine1": "7 Grove St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.104305,
+		"longitude": -70.226078,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2268,
+		"lotSize": 6534,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-02-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.086Z",
+		"daysOnMarket": 109,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664023",
+		"listingAgent": {
+			"name": "Mike Cloutier",
+			"phone": "2078089488",
+			"email": "mike.cloutier@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com/me/portland/agent/mike-cloutier/aid_198152/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-05-27": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 109
+			}
+		}
+	},
+	{
+		"id": "529-Riverside-Dr,-Auburn,-ME-04210",
+		"formattedAddress": "529 Riverside Dr, Auburn, ME 04210",
+		"addressLine1": "529 Riverside Dr",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.072885,
+		"longitude": -70.211385,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 780,
+		"lotSize": 103237,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 150000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.080Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640992",
+		"listingAgent": {
+			"name": "Maggie Ferland",
+			"phone": "2074020477",
+			"email": "maggie@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2025-10-16": {
+				"event": "Sale Listing",
+				"price": 150000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-16T00:00:00.000Z",
+				"removedDate": "2026-03-08T00:00:00.000Z",
+				"daysOnMarket": 143
+			},
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 150000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "36-And-21-Newbury-St,-Auburn,-ME-04210",
+		"formattedAddress": "36 And 21 Newbury St, Auburn, ME 04210",
+		"addressLine1": "36 And 21 Newbury St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.091251,
+		"longitude": -70.224258,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1516,
+		"lotSize": 7405,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 309000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.078Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668126",
+		"listingAgent": {
+			"name": "Sarah Foster",
+			"phone": "2073805805",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 309000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "4-Haskell-St,-Unit-1,-Auburn,-ME-04210",
+		"formattedAddress": "4 Haskell St, Unit 1, Auburn, ME 04210",
+		"addressLine1": "4 Haskell St",
+		"addressLine2": "Unit 1",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.098268,
+		"longitude": -70.237763,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1356,
+		"lotSize": 11761,
+		"yearBuilt": 1878,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 199000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.075Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663890",
+		"listingAgent": {
+			"name": "Billie Gammon",
+			"phone": "2078799800",
+			"email": "bjo@kw.com"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "319-Harmons-Corner-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "319 Harmons Corner Rd, Auburn, ME 04210",
+		"addressLine1": "319 Harmons Corner Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.039628,
+		"longitude": -70.223882,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2242,
+		"lotSize": 64904,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 599900,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.075Z",
+		"daysOnMarket": 85,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668242",
+		"listingAgent": {
+			"name": "Jon Mercier",
+			"phone": "2073336001",
+			"email": "jon@mainesource.com",
+			"website": "http://www.mainesourcerealty.com"
+		},
+		"listingOffice": {
+			"name": "Maine Source Realty, Inc.",
+			"phone": "2073336001",
+			"email": "jon@mainsource.com",
+			"website": "http://www.mainesourcerealty.com"
+		},
+		"history": {
+			"2026-06-20": {
+				"event": "Sale Listing",
+				"price": 599900,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 85
+			}
+		}
+	},
+	{
+		"id": "127-Broad-St,-Auburn,-ME-04210",
+		"formattedAddress": "127 Broad St, Auburn, ME 04210",
+		"addressLine1": "127 Broad St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.085175,
+		"longitude": -70.225757,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1392,
+		"lotSize": 10019,
+		"yearBuilt": 1918,
+		"status": "Active",
+		"price": 269900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.073Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668070",
+		"listingAgent": {
+			"name": "Sandra Irish",
+			"phone": "2072120003",
+			"email": "sandy@duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 269900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "21-Laurel-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "21 Laurel Ave, Auburn, ME 04210",
+		"addressLine1": "21 Laurel Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.09022,
+		"longitude": -70.225794,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 3713,
+		"lotSize": 7405,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 385000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.072Z",
+		"daysOnMarket": 94,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666814",
+		"listingAgent": {
+			"name": "David A Marshall",
+			"phone": "2074096617",
+			"email": "david@davidmarshallteam.com",
+			"website": "https://www.davidmarshallteam.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-08-25": {
+				"event": "Sale Listing",
+				"price": 419000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-25T00:00:00.000Z",
+				"removedDate": "2025-11-25T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2026-06-11": {
+				"event": "Sale Listing",
+				"price": 385000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 94
+			}
+		}
+	},
+	{
+		"id": "229-Hersey-Hill-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "229 Hersey Hill Rd, Auburn, ME 04210",
+		"addressLine1": "229 Hersey Hill Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.175898,
+		"longitude": -70.288528,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2172,
+		"lotSize": 1973268,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.071Z",
+		"daysOnMarket": 89,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667525",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-16": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 89
+			}
+		}
+	},
+	{
+		"id": "56-Gammon-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "56 Gammon Ave, Auburn, ME 04210",
+		"addressLine1": "56 Gammon Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105225,
+		"longitude": -70.241718,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2111,
+		"lotSize": 16117,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 333333,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.070Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666912",
+		"listingAgent": {
+			"name": "Peter Forbes",
+			"phone": "2078928100",
+			"email": "peterforbes@masiello.com",
+			"website": "http://www.peterforbes.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Pine Tree Realty of Maine",
+			"phone": "2078938006",
+			"email": "pinetreeme@outlook.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 333333,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "1159-Hotel-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "1159 Hotel Rd, Auburn, ME 04210",
+		"addressLine1": "1159 Hotel Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.092005,
+		"longitude": -70.264644,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2040,
+		"lotSize": 113692,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.350Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669393",
+		"listingAgent": {
+			"name": "Sandra S Tassinari",
+			"phone": "2077840159",
+			"email": "stassinari@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "47-Field-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "47 Field Ave, Auburn, ME 04210",
+		"addressLine1": "47 Field Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.107368,
+		"longitude": -70.238343,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2265,
+		"lotSize": 7841,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.340Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670107",
+		"listingAgent": {
+			"name": "Heather Linkin",
+			"phone": "2078075099",
+			"email": "heatherlinkin@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "10-Pearl-St,-Auburn,-ME-04210",
+		"formattedAddress": "10 Pearl St, Auburn, ME 04210",
+		"addressLine1": "10 Pearl St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099706,
+		"longitude": -70.23154,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2714,
+		"lotSize": 3920,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 419000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.338Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670375",
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 419000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "800-Summer-St,-Auburn,-ME-04210",
+		"formattedAddress": "800 Summer St, Auburn, ME 04210",
+		"addressLine1": "800 Summer St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.120374,
+		"longitude": -70.253165,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1344,
+		"lotSize": 270508,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.337Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670454",
+		"listingAgent": {
+			"name": "Bill Bergeron - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766523",
+			"email": "bill@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "6-Colonial-Way,-Unit-6,-Auburn,-ME-04210",
+		"formattedAddress": "6 Colonial Way, Unit 6, Auburn, ME 04210",
+		"addressLine1": "6 Colonial Way",
+		"addressLine2": "Unit 6",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.107615,
+		"longitude": -70.258293,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1107,
+		"yearBuilt": 1981,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.333Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670699",
+		"listingAgent": {
+			"name": "Toni Ferraro",
+			"phone": "2075146006",
+			"email": "tonijferraro@gmail.com",
+			"website": "http://www.ferraro-realty.com"
+		},
+		"listingOffice": {
+			"name": "Ferraro Realty LLC",
+			"phone": "2072410800",
+			"email": "toni@ferraro-realty.com"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "59-Mystique-Way,-Unit-4,-Auburn,-ME-04210",
+		"formattedAddress": "59 Mystique Way, Unit 4, Auburn, ME 04210",
+		"addressLine1": "59 Mystique Way",
+		"addressLine2": "Unit 4",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.078526,
+		"longitude": -70.277962,
+		"propertyType": "Land",
+		"lotSize": 32234,
+		"status": "Active",
+		"price": 150000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.328Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671159",
+		"listingAgent": {
+			"name": "Michael Anderson",
+			"phone": "2077722422",
+			"email": "mike@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 150000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "59-Mystique-Way,-Unit-5,-Auburn,-ME-04210",
+		"formattedAddress": "59 Mystique Way, Unit 5, Auburn, ME 04210",
+		"addressLine1": "59 Mystique Way",
+		"addressLine2": "Unit 5",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.078526,
+		"longitude": -70.277962,
+		"propertyType": "Land",
+		"lotSize": 57935,
+		"status": "Active",
+		"price": 175000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.307Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671161",
+		"listingAgent": {
+			"name": "Michael Anderson",
+			"phone": "2077722422",
+			"email": "mike@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "403-Summer-St,-Auburn,-ME-04210",
+		"formattedAddress": "403 Summer St, Auburn, ME 04210",
+		"addressLine1": "403 Summer St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.113682,
+		"longitude": -70.237824,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1221,
+		"lotSize": 19602,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 208000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.307Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671189",
+		"listingAgent": {
+			"name": "Hannah Clark",
+			"phone": "2077828311",
+			"email": "400005.lead@leads.leadrouter.com",
+			"website": "http://www.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 208000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "36-Vernon-St,-Auburn,-ME-04210",
+		"formattedAddress": "36 Vernon St, Auburn, ME 04210",
+		"addressLine1": "36 Vernon St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105084,
+		"longitude": -70.226646,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1839,
+		"lotSize": 10019,
+		"yearBuilt": 1912,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.305Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671270",
+		"listingAgent": {
+			"name": "Amy L Fontaine",
+			"phone": "5083953767",
+			"email": "amy.fontaine@exprealty.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "188-Second-St,-Auburn,-ME-04210",
+		"formattedAddress": "188 Second St, Auburn, ME 04210",
+		"addressLine1": "188 Second St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.08428,
+		"longitude": -70.21629,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1248,
+		"lotSize": 18731,
+		"yearBuilt": 1923,
+		"status": "Active",
+		"price": 274900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.304Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671277",
+		"listingAgent": {
+			"name": "Tyler Ham",
+			"phone": "2077842525",
+			"email": "tyler@meservier.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 274900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "89-Pride-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "89 Pride Rd, Auburn, ME 04210",
+		"addressLine1": "89 Pride Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.079683,
+		"longitude": -70.25131,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1655,
+		"lotSize": 7405,
+		"yearBuilt": 1934,
+		"status": "Active",
+		"price": 209900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.302Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671590",
+		"listingAgent": {
+			"name": "Renee's Realty Network - Renee Roy",
+			"phone": "2077828311",
+			"email": "reneeroy@masiello.com",
+			"website": "http://www.yourrealtynetwork.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-06-30": {
+				"event": "Sale Listing",
+				"price": 219500,
+				"listingType": "Standard",
+				"listedDate": "2025-06-30T00:00:00.000Z",
+				"removedDate": "2025-10-09T00:00:00.000Z",
+				"daysOnMarket": 101
+			},
+			"2026-04-03": {
+				"event": "Sale Listing",
+				"price": 219900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-03T00:00:00.000Z",
+				"removedDate": "2026-05-27T00:00:00.000Z",
+				"daysOnMarket": 54
+			},
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 209900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "26-Cook-St,-Auburn,-ME-04210",
+		"formattedAddress": "26 Cook St, Auburn, ME 04210",
+		"addressLine1": "26 Cook St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.086023,
+		"longitude": -70.222279,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1442,
+		"lotSize": 4792,
+		"yearBuilt": 1934,
+		"status": "Active",
+		"price": 243800,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.300Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672032",
+		"listingAgent": {
+			"name": "Jeanne Martin",
+			"phone": "2077840159",
+			"email": "jeannemartin865@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Northeast Real Estate",
+			"phone": "2077840159",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 243800,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "16-Temple-St,-Auburn,-ME-04210",
+		"formattedAddress": "16 Temple St, Auburn, ME 04210",
+		"addressLine1": "16 Temple St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101216,
+		"longitude": -70.229557,
+		"propertyType": "Multi-Family",
+		"bedrooms": 8,
+		"bathrooms": 4,
+		"squareFootage": 2758,
+		"lotSize": 4792,
+		"yearBuilt": 1878,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.297Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672349",
+		"listingAgent": {
+			"name": "Matthew Tifft",
+			"phone": "2077136701"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "20-Temple-St,-Auburn,-ME-04210",
+		"formattedAddress": "20 Temple St, Auburn, ME 04210",
+		"addressLine1": "20 Temple St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.101328,
+		"longitude": -70.229388,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 2906,
+		"lotSize": 6534,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 489000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.297Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672329",
+		"listingAgent": {
+			"name": "Erika Robert",
+			"phone": "2073305290",
+			"email": "erikadrobert@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Dot Fernald Team, Inc.",
+			"phone": "2072400052",
+			"email": "dotfernaldteam@gmail.com",
+			"website": "https://the-dot-fernald-team-inc.business.site/"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 489000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "21-7th-St,-Auburn,-ME-04210",
+		"formattedAddress": "21 7th St, Auburn, ME 04210",
+		"addressLine1": "21 7th St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.085818,
+		"longitude": -70.227775,
+		"propertyType": "Single Family",
+		"bedrooms": 0,
+		"squareFootage": 615,
+		"lotSize": 10890,
+		"yearBuilt": 1997,
+		"status": "Active",
+		"price": 65000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.296Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672358",
+		"listingAgent": {
+			"name": "Jason Erwin"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 65000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "52-James-St,-Auburn,-ME-04210",
+		"formattedAddress": "52 James St, Auburn, ME 04210",
+		"addressLine1": "52 James St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099818,
+		"longitude": -70.234033,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1721,
+		"lotSize": 6098,
+		"yearBuilt": 1918,
+		"status": "Active",
+		"price": 365000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.293Z",
+		"daysOnMarket": 56,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672545",
+		"listingOffice": {
+			"name": "American Real Estate",
+			"phone": "2073315131",
+			"email": "slevineare@gmail.com"
+		},
+		"history": {
+			"2026-07-19": {
+				"event": "Sale Listing",
+				"price": 365000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 56
+			}
+		}
+	},
+	{
+		"id": "15-W-Waterman-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "15 W Waterman Rd, Auburn, ME 04210",
+		"addressLine1": "15 W Waterman Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.175476,
+		"longitude": -70.232648,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1202,
+		"lotSize": 17860,
+		"yearBuilt": 1947,
+		"status": "Active",
+		"price": 239900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.290Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672653",
+		"listingAgent": {
+			"name": "Bill Bergeron - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766523",
+			"email": "bill@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 239900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "27-Flanders-St,-Auburn,-ME-04210",
+		"formattedAddress": "27 Flanders St, Auburn, ME 04210",
+		"addressLine1": "27 Flanders St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.072055,
+		"longitude": -70.22612,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3320,
+		"lotSize": 9148,
+		"yearBuilt": 1953,
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.287Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672777",
+		"listingAgent": {
+			"name": "Malayka Harriman",
+			"phone": "2078911572",
+			"email": "malayka@mainesource.com"
+		},
+		"listingOffice": {
+			"name": "Maine Source Realty, Inc.",
+			"phone": "2073336001",
+			"email": "jon@mainsource.com",
+			"website": "http://www.mainesourcerealty.com"
+		},
+		"history": {
+			"2025-11-24": {
+				"event": "Sale Listing",
+				"price": 385000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-24T00:00:00.000Z",
+				"removedDate": "2026-02-16T00:00:00.000Z",
+				"daysOnMarket": 84
+			},
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "1776-Perkins-Ridge-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "1776 Perkins Ridge Rd, Auburn, ME 04210",
+		"addressLine1": "1776 Perkins Ridge Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.155925,
+		"longitude": -70.281578,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1353,
+		"lotSize": 27007,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.274Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673703",
+		"listingAgent": {
+			"name": "Susan Cameron",
+			"phone": "2077828311",
+			"email": "susancameron@masiello.com",
+			"website": "http://www.susancameron.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "64-Jennifer-Dr,-Auburn,-ME-04210",
+		"formattedAddress": "64 Jennifer Dr, Auburn, ME 04210",
+		"addressLine1": "64 Jennifer Dr",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.044901,
+		"longitude": -70.264131,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3369,
+		"lotSize": 124582,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 729995,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.273Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673753",
+		"listingAgent": {
+			"name": "Shivam Kumar",
+			"phone": "2073444414",
+			"email": "shivamsells207@gmail.com",
+			"website": "https://www.facebook.com/207shivamkumar/"
+		},
+		"listingOffice": {
+			"name": "Rockstar Real Estate",
+			"phone": "2073171338",
+			"email": "abkrikken@gmail.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 729995,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "115-Shepley-St,-Auburn,-ME-04210",
+		"formattedAddress": "115 Shepley St, Auburn, ME 04210",
+		"addressLine1": "115 Shepley St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.10213,
+		"longitude": -70.23953,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1583,
+		"lotSize": 4792,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 374900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.266Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674108",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 374900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "46-Broadview-Ave,-Unit-46,-Auburn,-ME-04210",
+		"formattedAddress": "46 Broadview Ave, Unit 46, Auburn, ME 04210",
+		"addressLine1": "46 Broadview Ave",
+		"addressLine2": "Unit 46",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.114477,
+		"longitude": -70.225681,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1024,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 219900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.265Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674110",
+		"listingAgent": {
+			"name": "Brett Davis",
+			"phone": "2078659919",
+			"email": "brettsteam@brettdavisre.com",
+			"website": "https://brettdavis.exprealty.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 219900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "226-Summer-St,-Auburn,-ME-04210",
+		"formattedAddress": "226 Summer St, Auburn, ME 04210",
+		"addressLine1": "226 Summer St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.107916,
+		"longitude": -70.233351,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 3164,
+		"lotSize": 10890,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 345000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.264Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674135",
+		"listingAgent": {
+			"name": "Sarah Foster",
+			"phone": "2073805805",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 345000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "184-Whitney-St,-Auburn,-ME-04210",
+		"formattedAddress": "184 Whitney St, Auburn, ME 04210",
+		"addressLine1": "184 Whitney St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.108649,
+		"longitude": -70.231713,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1656,
+		"lotSize": 11326,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.261Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674330",
+		"listingAgent": {
+			"name": "Clayton Larochelle - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766524",
+			"email": "clay@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "58-Marshall-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "58 Marshall Ave, Auburn, ME 04210",
+		"addressLine1": "58 Marshall Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.087135,
+		"longitude": -70.242495,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1852,
+		"lotSize": 7405,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.261Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674357",
+		"listingAgent": {
+			"name": "Beth Bell",
+			"phone": "2077546500",
+			"email": "bethbellhomes@roadrunner.com",
+			"website": "http://www.bethbellhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "114-Garden-Cir,-Auburn,-ME-04210",
+		"formattedAddress": "114 Garden Cir, Auburn, ME 04210",
+		"addressLine1": "114 Garden Cir",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.04129,
+		"longitude": -70.270394,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2060,
+		"lotSize": 38768,
+		"yearBuilt": 1983,
+		"status": "Active",
+		"price": 469000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.260Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674437",
+		"listingAgent": {
+			"name": "Andrea Mckay",
+			"phone": "2074404066",
+			"email": "mckayhomes207@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2025-10-07": {
+				"event": "Sale Listing",
+				"price": 470000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-07T00:00:00.000Z",
+				"removedDate": "2026-01-30T00:00:00.000Z",
+				"daysOnMarket": 115
+			},
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "2241-Turner-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "2241 Turner Rd, Auburn, ME 04210",
+		"addressLine1": "2241 Turner Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.150009,
+		"longitude": -70.228841,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1070,
+		"lotSize": 372874,
+		"yearBuilt": 1937,
+		"status": "Active",
+		"price": 380000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.258Z",
+		"daysOnMarket": 41,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674487",
+		"listingAgent": {
+			"name": "Jason Elvin",
+			"phone": "2078879543",
+			"email": "jason.elvin@cbrealty.com",
+			"website": "https://www.jasonelvinrealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 380000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 41
+			}
+		}
+	},
+	{
+		"id": "16-Beacon-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "16 Beacon Ave, Auburn, ME 04210",
+		"addressLine1": "16 Beacon Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099418,
+		"longitude": -70.236418,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1179,
+		"lotSize": 5227,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.256Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674686",
+		"listingAgent": {
+			"name": "Jason Elvin",
+			"phone": "2078879543",
+			"email": "jason.elvin@cbrealty.com",
+			"website": "https://www.jasonelvinrealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "Mystique-Way,-Auburn,-ME-04210",
+		"formattedAddress": "Mystique Way, Auburn, ME 04210",
+		"addressLine1": "Mystique Way",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.080183,
+		"longitude": -70.27919,
+		"propertyType": "Land",
+		"lotSize": 125453,
+		"hoa": {
+			"fee": 288
+		},
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.255Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674727",
+		"listingAgent": {
+			"name": "Christopher Paszyc",
+			"phone": "2079394147",
+			"email": "cpaszyc@boulos.com"
+		},
+		"listingOffice": {
+			"name": "The Boulos Company",
+			"phone": "2077721333",
+			"email": "nstevens@boulos.com",
+			"website": "http://www.boulos.com"
+		},
+		"history": {
+			"2025-04-03": {
+				"event": "Sale Listing",
+				"price": 195000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-03T00:00:00.000Z",
+				"removedDate": "2025-09-17T00:00:00.000Z",
+				"daysOnMarket": 167
+			},
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "48-Drummond-St,-Auburn,-ME-04210",
+		"formattedAddress": "48 Drummond St, Auburn, ME 04210",
+		"addressLine1": "48 Drummond St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.095208,
+		"longitude": -70.228002,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2500,
+		"lotSize": 6970,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.253Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674794",
+		"listingAgent": {
+			"name": "Demetris Webster Jr",
+			"phone": "2078323011",
+			"email": "demetriswebsterrealtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Pooley Realty Group",
+			"phone": "2078323011",
+			"email": "jessicapooleyrealtor@gmail.com",
+			"website": "https://www.mainecoastre.com/"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "345-W-Auburn-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "345 W Auburn Rd, Auburn, ME 04210",
+		"addressLine1": "345 W Auburn Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.142605,
+		"longitude": -70.26929,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 3100,
+		"lotSize": 233917,
+		"yearBuilt": 1879,
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.249Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674938",
+		"listingAgent": {
+			"name": "Amy Landry",
+			"phone": "2075771767",
+			"email": "amy.landry@exprealty.com",
+			"website": "http://www.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "344-N-Auburn-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "344 N Auburn Rd, Auburn, ME 04210",
+		"addressLine1": "344 N Auburn Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.16916,
+		"longitude": -70.2811,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 4491,
+		"lotSize": 124582,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 684900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.240Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675261",
+		"listingAgent": {
+			"name": "Trisha Millett Fletcher",
+			"phone": "2077828311",
+			"email": "trishafletcher@masiello.com",
+			"website": "https://www.bhgre.com/better-homes-and-gardens-real-estate-the-masiello-group-10865c/trisha-millett-fletcher-412491a"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 684900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "301-Gamage-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "301 Gamage Ave, Auburn, ME 04210",
+		"addressLine1": "301 Gamage Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.105068,
+		"longitude": -70.247972,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1440,
+		"lotSize": 5227,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 309900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.239Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675294",
+		"listingAgent": {
+			"name": "Susan Dube - Team Leader Or Team Dube",
+			"phone": "2072402613",
+			"email": "susandube@masiello.com",
+			"website": "http://dubeteam.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 309900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "68-Smith-St,-Auburn,-ME-04210",
+		"formattedAddress": "68 Smith St, Auburn, ME 04210",
+		"addressLine1": "68 Smith St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.078818,
+		"longitude": -70.25071,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1344,
+		"lotSize": 4792,
+		"yearBuilt": 1944,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.239Z",
+		"daysOnMarket": 35,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675430",
+		"listingAgent": {
+			"name": "Dave Demeo",
+			"phone": "2072953293",
+			"email": "dave@davedemeo.com",
+			"website": "https://www.homesin.me/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-08-09": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 35
+			}
+		}
+	},
+	{
+		"id": "54-Nottingham-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "54 Nottingham Rd, Auburn, ME 04210",
+		"addressLine1": "54 Nottingham Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.103068,
+		"longitude": -70.249776,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1350,
+		"lotSize": 33541,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 369000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.618Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675752",
+		"listingAgent": {
+			"name": "Matthew Tifft",
+			"phone": "2077136701"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 369000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "9-Fairway-Dr,-Auburn,-ME-04210",
+		"formattedAddress": "9 Fairway Dr, Auburn, ME 04210",
+		"addressLine1": "9 Fairway Dr",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.057235,
+		"longitude": -70.264727,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2064,
+		"lotSize": 54014,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.611Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676183",
+		"listingAgent": {
+			"name": "Buffy Dumont",
+			"phone": "2075769755",
+			"email": "buffy@integrityhomesregroup.com",
+			"website": "https://integrityhomesrealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Integrity Homes Real Estate Group, PC",
+			"phone": "2075769755",
+			"email": "buffydumont@gmail.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "176-Harvard-St,-Auburn,-ME-04210",
+		"formattedAddress": "176 Harvard St, Auburn, ME 04210",
+		"addressLine1": "176 Harvard St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.11292,
+		"longitude": -70.226518,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1789,
+		"lotSize": 12197,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.610Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676195",
+		"listingAgent": {
+			"name": "Elaine Pratte",
+			"phone": "2073448291",
+			"email": "elaine@meservier.com",
+			"website": "http://elainepratte.meservierhomes.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "54-Lake-St,-Auburn,-ME-04210",
+		"formattedAddress": "54 Lake St, Auburn, ME 04210",
+		"addressLine1": "54 Lake St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.099832,
+		"longitude": -70.238375,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1504,
+		"lotSize": 6098,
+		"yearBuilt": 1926,
+		"status": "Active",
+		"price": 265000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.608Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676217",
+		"listingAgent": {
+			"name": "Theresa Campbell",
+			"phone": "2075764180",
+			"email": "teri@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 265000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "27-W-Dartmouth-St,-Auburn,-ME-04210",
+		"formattedAddress": "27 W Dartmouth St, Auburn, ME 04210",
+		"addressLine1": "27 W Dartmouth St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.117797,
+		"longitude": -70.226146,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2440,
+		"lotSize": 10019,
+		"yearBuilt": 1903,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.604Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676430",
+		"listingAgent": {
+			"name": "Josh Cousineau",
+			"phone": "2072121523",
+			"email": "josh@cousineaumaine.com",
+			"website": "cousineaumaine.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "117-Goff-St,-Auburn,-ME-04210",
+		"formattedAddress": "117 Goff St, Auburn, ME 04210",
+		"addressLine1": "117 Goff St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.102155,
+		"longitude": -70.233263,
+		"propertyType": "Multi-Family",
+		"bedrooms": 7,
+		"bathrooms": 2,
+		"squareFootage": 4354,
+		"lotSize": 8276,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 415000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.603Z",
+		"daysOnMarket": 28,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676457",
+		"listingAgent": {
+			"name": "Emilie Levecque",
+			"phone": "2073296716",
+			"email": "emilie@portsidereg.com",
+			"website": "http://www.emilielevecque.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-16": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 28
+			}
+		}
+	},
+	{
+		"id": "111-Pleasant-St,-Auburn,-ME-04210",
+		"formattedAddress": "111 Pleasant St, Auburn, ME 04210",
+		"addressLine1": "111 Pleasant St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.096008,
+		"longitude": -70.228745,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3146,
+		"lotSize": 4356,
+		"yearBuilt": 1860,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.601Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676664",
+		"listingAgent": {
+			"name": "Anthony Poulin",
+			"phone": "2072121746",
+			"email": "tony@meservier.com",
+			"website": "http://www.meservier.com/"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "1233-Turner-St,-Auburn,-ME-04210",
+		"formattedAddress": "1233 Turner St, Auburn, ME 04210",
+		"addressLine1": "1233 Turner St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.132505,
+		"longitude": -70.227438,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1165,
+		"lotSize": 15246,
+		"yearBuilt": 1977,
+		"status": "Active",
+		"price": 329900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.600Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676733",
+		"listingAgent": {
+			"name": "Daniel Coleman",
+			"phone": "2072128771",
+			"email": "dan@androvise.com"
+		},
+		"listingOffice": {
+			"name": "Androvise Realty",
+			"phone": "2073336020",
+			"email": "chad@androvise.com",
+			"website": "http://www.androvise.com"
+		},
+		"history": {
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 260000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": "2026-06-12T00:00:00.000Z",
+				"daysOnMarket": 7
+			},
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 329900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "49-Newbury-St,-Auburn,-ME-04210",
+		"formattedAddress": "49 Newbury St, Auburn, ME 04210",
+		"addressLine1": "49 Newbury St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.090643,
+		"longitude": -70.224567,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1550,
+		"lotSize": 9583,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.598Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676796",
+		"listingAgent": {
+			"name": "Brandon Caruso",
+			"phone": "2073129148"
+		},
+		"listingOffice": {
+			"name": "Maine Source Realty, Inc.",
+			"phone": "2073336001",
+			"email": "jon@mainsource.com",
+			"website": "http://www.mainesourcerealty.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "1340-Minot-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "1340 Minot Ave, Auburn, ME 04210",
+		"addressLine1": "1340 Minot Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.077872,
+		"longitude": -70.285848,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2544,
+		"lotSize": 270943,
+		"yearBuilt": 1984,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.596Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676819",
+		"listingAgent": {
+			"name": "Hailey Lebel",
+			"phone": "2077135941",
+			"email": "haileylebel@rogcompass.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "38-Royal-Oaks-Dr,-Unit-38,-Auburn,-ME-04210",
+		"formattedAddress": "38 Royal Oaks Dr, Unit 38, Auburn, ME 04210",
+		"addressLine1": "38 Royal Oaks Dr",
+		"addressLine2": "Unit 38",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.115675,
+		"longitude": -70.22836,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1300,
+		"lotSize": 4356,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 260
+		},
+		"status": "Active",
+		"price": 220000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.590Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676976",
+		"listingAgent": {
+			"name": "Peggy Macdonald",
+			"phone": "2074686145",
+			"email": "pegsellsmaine@gmail.com",
+			"website": "pegsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 220000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "203-Summer-St,-Auburn,-ME-04210",
+		"formattedAddress": "203 Summer St, Auburn, ME 04210",
+		"addressLine1": "203 Summer St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.107161,
+		"longitude": -70.232225,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 3213,
+		"lotSize": 8276,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 295000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.589Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677029",
+		"listingAgent": {
+			"name": "Stephen Miller",
+			"phone": "2072128634",
+			"email": "smillerrealtor@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "Beaver-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "Beaver Rd, Auburn, ME 04210",
+		"addressLine1": "Beaver Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.177873,
+		"longitude": -70.257457,
+		"propertyType": "Land",
+		"lotSize": 89298,
+		"status": "Active",
+		"price": 65000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.588Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677113",
+		"listingAgent": {
+			"name": "Evan Dube/susan Dube",
+			"phone": "2077959649",
+			"email": "400005.lead@leads.leadrouter.com",
+			"website": "http://www.evandube.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-08-31": {
+				"event": "Sale Listing",
+				"price": 65000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-31T00:00:00.000Z",
+				"removedDate": "2026-03-03T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2026-03-16": {
+				"event": "Sale Listing",
+				"price": 65000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-16T00:00:00.000Z",
+				"removedDate": "2026-08-18T00:00:00.000Z",
+				"daysOnMarket": 155
+			},
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 65000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "112-Taywood-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "112 Taywood Rd, Auburn, ME 04210",
+		"addressLine1": "112 Taywood Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.113181,
+		"longitude": -70.272868,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 848,
+		"lotSize": 10454,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 299995,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.587Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677152",
+		"listingAgent": {
+			"name": "Shivam Kumar",
+			"phone": "2073444414",
+			"email": "shivamsells207@gmail.com",
+			"website": "https://www.facebook.com/207shivamkumar/"
+		},
+		"listingOffice": {
+			"name": "Rockstar Real Estate",
+			"phone": "2073171338",
+			"email": "abkrikken@gmail.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 299995,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "38-Towle-St,-Auburn,-ME-04210",
+		"formattedAddress": "38 Towle St, Auburn, ME 04210",
+		"addressLine1": "38 Towle St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.083825,
+		"longitude": -70.247946,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1776,
+		"lotSize": 14810,
+		"yearBuilt": 1957,
+		"status": "Active",
+		"price": 435000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.574Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677498",
+		"listingAgent": {
+			"name": "Mike Sahabo",
+			"phone": "2078799800",
+			"email": "mike.sahabo@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 435000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "271-S-Main-St,-Auburn,-ME-04210",
+		"formattedAddress": "271 S Main St, Auburn, ME 04210",
+		"addressLine1": "271 S Main St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.072453,
+		"longitude": -70.225085,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1170,
+		"lotSize": 5227,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 279500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.573Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677301",
+		"listingAgent": {
+			"name": "Scott Richard",
+			"phone": "2075766349",
+			"email": "realtorscottrichard@gmail.com",
+			"website": "www.cbtre.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Team Real Estate",
+			"phone": "2078924759",
+			"email": "karentufts@gmail.com",
+			"website": "www.cbtre.com"
+		},
+		"history": {
+			"2026-08-22": {
+				"event": "Sale Listing",
+				"price": 279500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	},
+	{
+		"id": "12-Seventeenth-St,-Auburn,-ME-04210",
+		"formattedAddress": "12 Seventeenth St, Auburn, ME 04210",
+		"addressLine1": "12 Seventeenth St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.078649,
+		"longitude": -70.225446,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2600,
+		"lotSize": 25265,
+		"yearBuilt": 1947,
+		"status": "Active",
+		"price": 400000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.566Z",
+		"daysOnMarket": 15,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678257",
+		"listingAgent": {
+			"name": "Stephen Morgan",
+			"phone": "2077542773",
+			"email": "steve@stevemorgangroup.com",
+			"website": "http://www.stevemorgangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Pros",
+			"phone": "4013238700",
+			"email": "soldbygreg@gmail.com"
+		},
+		"history": {
+			"2026-08-29": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 15
+			}
+		}
+	},
+	{
+		"id": "595-N-River-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "595 N River Rd, Auburn, ME 04210",
+		"addressLine1": "595 N River Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.122712,
+		"longitude": -70.212738,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2192,
+		"lotSize": 392040,
+		"yearBuilt": 1860,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.565Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677554",
+		"listingAgent": {
+			"name": "Sierra Lemieux",
+			"phone": "2077843800",
+			"email": "sierra@fontaineteam.com",
+			"website": "https://brendafontaine.com/b/sierra-lemieux"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "30-Whitney-St,-Auburn,-ME-04210",
+		"formattedAddress": "30 Whitney St, Auburn, ME 04210",
+		"addressLine1": "30 Whitney St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.103729,
+		"longitude": -70.227221,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1974,
+		"lotSize": 4356,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 380000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.564Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677725",
+		"listingAgent": {
+			"name": "Mike Sahabo",
+			"phone": "2078799800",
+			"email": "mike.sahabo@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 380000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "Gamage-Ave,-Lot-3,-Auburn,-ME-04210",
+		"formattedAddress": "Gamage Ave, Lot 3, Auburn, ME 04210",
+		"addressLine1": "Gamage Ave",
+		"addressLine2": "Lot 3",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.106102,
+		"longitude": -70.237683,
+		"propertyType": "Land",
+		"lotSize": 5227,
+		"status": "Active",
+		"price": 43000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.561Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679053",
+		"listingAgent": {
+			"name": "Megan & Erl Brown",
+			"phone": "2075443523",
+			"email": "brownmainerealty@gmail.com",
+			"website": "http://brownmainerealty.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2075222729",
+			"email": "brownmainerealty@gmail.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 43000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "27-Cook-St,-Auburn,-ME-04210",
+		"formattedAddress": "27 Cook St, Auburn, ME 04210",
+		"addressLine1": "27 Cook St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.086162,
+		"longitude": -70.222804,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 5,
+		"squareFootage": 2684,
+		"lotSize": 34848,
+		"yearBuilt": 1923,
+		"status": "Active",
+		"price": 465000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.560Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678452",
+		"listingAgent": {
+			"name": "Jonathan Keenan",
+			"phone": "2078923377",
+			"email": "jon.keenan@raveis.com",
+			"website": "https://www.raveis.com/agentprofile.asp"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2025-05-08": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-08T00:00:00.000Z",
+				"removedDate": "2025-06-24T00:00:00.000Z",
+				"daysOnMarket": 47
+			},
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "73-Elmwood-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "73 Elmwood Rd, Auburn, ME 04210",
+		"addressLine1": "73 Elmwood Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.141826,
+		"longitude": -70.2218,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1332,
+		"lotSize": 9583,
+		"yearBuilt": 1928,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.559Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678790",
+		"listingAgent": {
+			"name": "Linda Davis",
+			"phone": "2072125373",
+			"email": "lindadavis@masiello.com",
+			"website": "http://lindadavis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "10-Nottingham-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "10 Nottingham Rd, Auburn, ME 04210",
+		"addressLine1": "10 Nottingham Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.104585,
+		"longitude": -70.249073,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 4265,
+		"lotSize": 48352,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.551Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679682",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "64-Elm-St,-Auburn,-ME-04210",
+		"formattedAddress": "64 Elm St, Auburn, ME 04210",
+		"addressLine1": "64 Elm St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.093821,
+		"longitude": -70.230116,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 3369,
+		"lotSize": 7841,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 600000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.550Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678463",
+		"listingAgent": {
+			"name": "Jonathan Keenan",
+			"phone": "2078923377",
+			"email": "jon.keenan@raveis.com",
+			"website": "https://www.raveis.com/agentprofile.asp"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 600000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "31-Pine-St,-Auburn,-ME-04210",
+		"formattedAddress": "31 Pine St, Auburn, ME 04210",
+		"addressLine1": "31 Pine St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100601,
+		"longitude": -70.232201,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 4020,
+		"lotSize": 4356,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.549Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678456",
+		"listingAgent": {
+			"name": "Jonathan Keenan",
+			"phone": "2078923377",
+			"email": "jon.keenan@raveis.com",
+			"website": "https://www.raveis.com/agentprofile.asp"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "118-Gamage-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "118 Gamage Ave, Auburn, ME 04210",
+		"addressLine1": "118 Gamage Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.106059,
+		"longitude": -70.237788,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2184,
+		"lotSize": 4792,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 419000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.543Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679049",
+		"listingAgent": {
+			"name": "Megan & Erl Brown",
+			"phone": "2075443523",
+			"email": "brownmainerealty@gmail.com",
+			"website": "http://brownmainerealty.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2075222729",
+			"email": "brownmainerealty@gmail.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 419000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "885-Minot-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "885 Minot Ave, Auburn, ME 04210",
+		"addressLine1": "885 Minot Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.081449,
+		"longitude": -70.266131,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1300,
+		"lotSize": 6098,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 285000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.542Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678441",
+		"listingAgent": {
+			"name": "Jonathan Keenan",
+			"phone": "2078923377",
+			"email": "jon.keenan@raveis.com",
+			"website": "https://www.raveis.com/agentprofile.asp"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "178-Davis-Ave,-Auburn,-ME-04210",
+		"formattedAddress": "178 Davis Ave, Auburn, ME 04210",
+		"addressLine1": "178 Davis Ave",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100741,
+		"longitude": -70.243361,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2638,
+		"lotSize": 4356,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 376000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.540Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679605",
+		"listingAgent": {
+			"name": "Scott Berry",
+			"phone": "8008447653",
+			"email": "maineproperty1@gmail.com",
+			"website": "http://www.scottberryrealtor.com"
+		},
+		"listingOffice": {
+			"name": "Startpoint Realty",
+			"phone": "9784223999",
+			"email": "jeffreybastress@gmail.com",
+			"website": "http://www.startpoint.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 376000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "Gamage-Ave,-Lot-1,-Auburn,-ME-04210",
+		"formattedAddress": "Gamage Ave, Lot 1, Auburn, ME 04210",
+		"addressLine1": "Gamage Ave",
+		"addressLine2": "Lot 1",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.106196,
+		"longitude": -70.238005,
+		"propertyType": "Land",
+		"lotSize": 3485,
+		"status": "Active",
+		"price": 39000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.538Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679051",
+		"listingAgent": {
+			"name": "Megan & Erl Brown",
+			"phone": "2075443523",
+			"email": "brownmainerealty@gmail.com",
+			"website": "http://brownmainerealty.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2075222729",
+			"email": "brownmainerealty@gmail.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 39000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "32-Cook-St,-Auburn,-ME-04210",
+		"formattedAddress": "32 Cook St, Auburn, ME 04210",
+		"addressLine1": "32 Cook St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.085942,
+		"longitude": -70.222453,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2434,
+		"lotSize": 3049,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 394900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.536Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679711",
+		"listingAgent": {
+			"name": "Garret Getch",
+			"phone": "2078419433",
+			"email": "garretgetch@gmail.com",
+			"website": "http://www.garretgetch.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 394900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "177-Sunderland-Dr,-Auburn,-ME-04210",
+		"formattedAddress": "177 Sunderland Dr, Auburn, ME 04210",
+		"addressLine1": "177 Sunderland Dr",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.089927,
+		"longitude": -70.274856,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2442,
+		"lotSize": 42689,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.533Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679630",
+		"listingAgent": {
+			"name": "Claire M Poussard",
+			"phone": "2075768444",
+			"email": "cmp.broker@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Northeast Real Estate",
+			"phone": "2077840159",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "959-S-Witham-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "959 S Witham Rd, Auburn, ME 04210",
+		"addressLine1": "959 S Witham Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.022568,
+		"longitude": -70.221094,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2228,
+		"lotSize": 1170022,
+		"yearBuilt": 1973,
+		"status": "Active",
+		"price": 419900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.532Z",
+		"daysOnMarket": 7,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679511",
+		"listingAgent": {
+			"name": "Toni Ferraro",
+			"phone": "2075146006",
+			"email": "tonijferraro@gmail.com",
+			"website": "http://www.ferraro-realty.com"
+		},
+		"listingOffice": {
+			"name": "Ferraro Realty LLC",
+			"phone": "2072410800",
+			"email": "toni@ferraro-realty.com"
+		},
+		"history": {
+			"2026-09-06": {
+				"event": "Sale Listing",
+				"price": 419900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 7
+			}
+		}
+	},
+	{
+		"id": "419-Sopers-Mill-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "419 Sopers Mill Rd, Auburn, ME 04210",
+		"addressLine1": "419 Sopers Mill Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.02907,
+		"longitude": -70.212696,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 3,
+		"squareFootage": 4602,
+		"lotSize": 1426590,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 649900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.531Z",
+		"daysOnMarket": 7,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679516",
+		"listingAgent": {
+			"name": "Anne Marie Cooke",
+			"phone": "2078384705",
+			"email": "annemarie@annemariecooke.com",
+			"website": "http://www.mainehomeconnection.com"
+		},
+		"listingOffice": {
+			"name": "Maine Home Connection",
+			"phone": "2075173100",
+			"email": "info@mainehomeconnection.com",
+			"website": "http://www.mainehomeconnection.com"
+		},
+		"history": {
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": "2026-09-06T00:00:00.000Z",
+				"daysOnMarket": 53
+			},
+			"2026-09-06": {
+				"event": "Sale Listing",
+				"price": 649900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 7
+			}
+		}
+	},
+	{
+		"id": "88-Sunderland-Dr,-Auburn,-ME-04210",
+		"formattedAddress": "88 Sunderland Dr, Auburn, ME 04210",
+		"addressLine1": "88 Sunderland Dr",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.092481,
+		"longitude": -70.27329,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2400,
+		"lotSize": 23522,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.523Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679939",
+		"listingAgent": {
+			"name": "Sarah Vincent",
+			"phone": "2078799800",
+			"email": "sarah.vincent@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "107-Broad-St,-Auburn,-ME-04210",
+		"formattedAddress": "107 Broad St, Auburn, ME 04210",
+		"addressLine1": "107 Broad St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.085783,
+		"longitude": -70.225007,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 3156,
+		"lotSize": 5227,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 625000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.522Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680074",
+		"listingAgent": {
+			"name": "Patrick Matheson",
+			"phone": "2076537653",
+			"email": "patrickbmatheson@gmail.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 625000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "42-Harvest-Hill-Ln,-Unit-11,-Auburn,-ME-04210",
+		"formattedAddress": "42 Harvest Hill Ln, Unit 11, Auburn, ME 04210",
+		"addressLine1": "42 Harvest Hill Ln",
+		"addressLine2": "Unit 11",
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.041206,
+		"longitude": -70.267227,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2144,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 390
+		},
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.521Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680125",
+		"listingAgent": {
+			"name": "Mike Floridino",
+			"phone": "2077661467"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "6-Harris-St,-Auburn,-ME-04210",
+		"formattedAddress": "6 Harris St, Auburn, ME 04210",
+		"addressLine1": "6 Harris St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.097124,
+		"longitude": -70.238137,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1512,
+		"lotSize": 6534,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 265000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.516Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680257",
+		"listingAgent": {
+			"name": "Shannon White",
+			"phone": "2078911473",
+			"email": "shannonsellsmaine1@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 265000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "3-Lillian-St,-Auburn,-ME-04210",
+		"formattedAddress": "3 Lillian St, Auburn, ME 04210",
+		"addressLine1": "3 Lillian St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.141859,
+		"longitude": -70.227189,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1080,
+		"lotSize": 13504,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 259000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.512Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680170",
+		"listingAgent": {
+			"name": "Andrea Croteau",
+			"phone": "2078948484",
+			"email": "andrea@ateammaine.com"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 259000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "82-Hampshire-St,-Auburn,-ME-04210",
+		"formattedAddress": "82 Hampshire St, Auburn, ME 04210",
+		"addressLine1": "82 Hampshire St",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.100237,
+		"longitude": -70.230917,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 3272,
+		"lotSize": 3920,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T05:19:30.863Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670997",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "182-Manley-Rd,-Auburn,-ME-04210",
+		"formattedAddress": "182 Manley Rd, Auburn, ME 04210",
+		"addressLine1": "182 Manley Rd",
+		"addressLine2": null,
+		"city": "Auburn",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04210",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.076263,
+		"longitude": -70.260663,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1504,
+		"lotSize": 36590,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T05:14:32.612Z",
+		"daysOnMarket": 35,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675335",
+		"listingAgent": {
+			"name": "Kim Mcmanus",
+			"phone": "2077405813",
+			"email": "kimmcmanus@rogcompass.com",
+			"website": "http://kimmcmanus.realtyonegroupmaine.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 35
+			}
+		}
+	}
+]

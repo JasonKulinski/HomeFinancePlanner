@@ -1,0 +1,4763 @@
+[
+	{
+		"id": "23-Harmon-Park-Rd,-York,-ME-03909",
+		"formattedAddress": "23 Harmon Park Rd, York, ME 03909",
+		"addressLine1": "23 Harmon Park Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.133556,
+		"longitude": -70.642964,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 2.5,
+		"squareFootage": 3478,
+		"lotSize": 29621,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 3700000,
+		"listingType": "Standard",
+		"listedDate": "2025-01-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.901Z",
+		"daysOnMarket": 603,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1612778",
+		"listingAgent": {
+			"name": "Jason Clark",
+			"phone": "2073634053",
+			"email": "clark@c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2025-01-18": {
+				"event": "Sale Listing",
+				"price": 3700000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 603
+			}
+		}
+	},
+	{
+		"id": "4-Bhoireann-Ln,-York,-ME-03909",
+		"formattedAddress": "4 Bhoireann Ln, York, ME 03909",
+		"addressLine1": "4 Bhoireann Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.18578,
+		"longitude": -70.754899,
+		"propertyType": "Land",
+		"lotSize": 291852,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2025-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.975Z",
+		"daysOnMarket": 369,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1636989",
+		"listingAgent": {
+			"name": "Nola Cady",
+			"phone": "2074750999",
+			"email": "nola@kw.com",
+			"website": "www.nola.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2025-09-09": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 369
+			}
+		}
+	},
+	{
+		"id": "21-Starboard-Ln,-York,-ME-03909",
+		"formattedAddress": "21 Starboard Ln, York, ME 03909",
+		"addressLine1": "21 Starboard Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.133769,
+		"longitude": -70.633987,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 5.5,
+		"squareFootage": 6376,
+		"lotSize": 36590,
+		"yearBuilt": 1961,
+		"status": "Active",
+		"price": 6800000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.970Z",
+		"daysOnMarket": 346,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1639633",
+		"listingAgent": {
+			"name": "Virginia Whitney",
+			"phone": "2079670934",
+			"email": "gwhitney@legacysir.com",
+			"website": "http://www.greatseacoasthomes.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-10-02": {
+				"event": "Sale Listing",
+				"price": 6800000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 346
+			}
+		}
+	},
+	{
+		"id": "2-Lils-Aly,-York,-ME-03909",
+		"formattedAddress": "2 Lils Aly, York, ME 03909",
+		"addressLine1": "2 Lils Aly",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.163044,
+		"longitude": -70.697922,
+		"propertyType": "Land",
+		"lotSize": 115434,
+		"status": "Active",
+		"price": 295000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-23T09:38:21.063Z",
+		"lastSeenDate": "2026-09-12T09:54:55.952Z",
+		"daysOnMarket": 299,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5069987",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 Atlantic Realty",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com/"
+		},
+		"history": {
+			"2025-03-19": {
+				"event": "Sale Listing",
+				"price": 337000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-19T00:00:00.000Z",
+				"removedDate": "2025-09-19T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2025-11-18": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 299
+			}
+		}
+	},
+	{
+		"id": "294-York-St,-Unit-2,-York,-ME-03909",
+		"formattedAddress": "294 York St, Unit 2, York, ME 03909",
+		"addressLine1": "294 York St",
+		"addressLine2": "Unit 2",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.142185,
+		"longitude": -70.647934,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1805,
+		"lotSize": 23522,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 360
+		},
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "New Construction",
+		"listedDate": "2025-11-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.950Z",
+		"daysOnMarket": 298,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1643924",
+		"listingAgent": {
+			"name": "Lori Barrett, Broker",
+			"phone": "2073371515",
+			"email": "loribarrettbroker@gmail.com",
+			"website": "http://www.loribarrettbroker.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Yorke Realty",
+			"phone": "2073634300",
+			"email": "coldwellbankeryorkerealty@gmail.com",
+			"website": "http://www.yorkerealty.com"
+		},
+		"history": {
+			"2025-11-19": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "New Construction",
+				"listedDate": "2025-11-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 298
+			}
+		}
+	},
+	{
+		"id": "294-York-St,-Unit-1,-York,-ME-03909",
+		"formattedAddress": "294 York St, Unit 1, York, ME 03909",
+		"addressLine1": "294 York St",
+		"addressLine2": "Unit 1",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.142185,
+		"longitude": -70.647934,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1816,
+		"lotSize": 23522,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 360
+		},
+		"status": "Active",
+		"price": 1089000,
+		"listingType": "New Construction",
+		"listedDate": "2025-11-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.922Z",
+		"daysOnMarket": 297,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5070280",
+		"listingAgent": {
+			"name": "Lori Barrett, Broker",
+			"phone": "2073371515",
+			"email": "loribarrettbroker@gmail.com",
+			"website": "http://www.loribarrettbroker.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Yorke Realty",
+			"phone": "2073634300",
+			"email": "coldwellbankeryorkerealty@gmail.com",
+			"website": "http://www.yorkerealty.com"
+		},
+		"history": {
+			"2025-11-20": {
+				"event": "Sale Listing",
+				"price": 1089000,
+				"listingType": "New Construction",
+				"listedDate": "2025-11-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 297
+			}
+		}
+	},
+	{
+		"id": "294-York-St,-Unit-3,-York,-ME-03909",
+		"formattedAddress": "294 York St, Unit 3, York, ME 03909",
+		"addressLine1": "294 York St",
+		"addressLine2": "Unit 3",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.142185,
+		"longitude": -70.647934,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1906,
+		"lotSize": 23522,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 380
+		},
+		"status": "Active",
+		"price": 1195000,
+		"listingType": "New Construction",
+		"listedDate": "2025-12-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.921Z",
+		"daysOnMarket": 283,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5071257",
+		"listingAgent": {
+			"name": "Lori Barrett, Broker",
+			"phone": "2073371515",
+			"email": "loribarrettbroker@gmail.com",
+			"website": "http://www.loribarrettbroker.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Yorke Realty",
+			"phone": "2073634300",
+			"email": "coldwellbankeryorkerealty@gmail.com",
+			"website": "http://www.yorkerealty.com"
+		},
+		"history": {
+			"2025-12-04": {
+				"event": "Sale Listing",
+				"price": 1195000,
+				"listingType": "New Construction",
+				"listedDate": "2025-12-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 283
+			}
+		}
+	},
+	{
+		"id": "4-Ice-House-Pt,-York,-ME-03909",
+		"formattedAddress": "4 Ice House Pt, York, ME 03909",
+		"addressLine1": "4 Ice House Pt",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.127201,
+		"longitude": -70.639728,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3976,
+		"lotSize": 281398,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 8595000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.916Z",
+		"daysOnMarket": 241,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649459",
+		"listingAgent": {
+			"name": "Patrick Carey, Broker/owner",
+			"phone": "6034743401",
+			"email": "patrickwcarey2017@gmail.com",
+			"website": "http://careyandgiampa.com"
+		},
+		"listingOffice": {
+			"name": "Carey and Giampa, LLC, Realtors / Maine Agents",
+			"phone": "6034743401",
+			"email": "jgiampa@careyandgiampa.com",
+			"website": "http://www.careyandgiampa.com"
+		},
+		"history": {
+			"2025-06-10": {
+				"event": "Sale Listing",
+				"price": 9889000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-10T00:00:00.000Z",
+				"removedDate": "2025-12-09T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-01-15": {
+				"event": "Sale Listing",
+				"price": 8595000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 241
+			}
+		}
+	},
+	{
+		"id": "293-Long-Beach-Ave,-York,-ME-03909",
+		"formattedAddress": "293 Long Beach Ave, York, ME 03909",
+		"addressLine1": "293 Long Beach Ave",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.156667,
+		"longitude": -70.623021,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2755,
+		"lotSize": 12197,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 2700000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.908Z",
+		"daysOnMarket": 214,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651602",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2024-10-03": {
+				"event": "Sale Listing",
+				"price": 1975000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-03T00:00:00.000Z",
+				"removedDate": "2024-10-26T00:00:00.000Z",
+				"daysOnMarket": 23
+			},
+			"2026-02-11": {
+				"event": "Sale Listing",
+				"price": 2700000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 214
+			}
+		}
+	},
+	{
+		"id": "8-Zoes-Way,-York,-ME-03902",
+		"formattedAddress": "8 Zoes Way, York, ME 03902",
+		"addressLine1": "8 Zoes Way",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.221649,
+		"longitude": -70.61277,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2317,
+		"lotSize": 56628,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1395000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.890Z",
+		"daysOnMarket": 168,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655704",
+		"listingAgent": {
+			"name": "Jason Clark",
+			"phone": "2073634053",
+			"email": "clark@c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-03-29": {
+				"event": "Sale Listing",
+				"price": 1395000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 168
+			}
+		}
+	},
+	{
+		"id": "15-Candlewood-Ln,-York,-ME-03909",
+		"formattedAddress": "15 Candlewood Ln, York, ME 03909",
+		"addressLine1": "15 Candlewood Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.15579,
+		"longitude": -70.642435,
+		"propertyType": "Land",
+		"lotSize": 46609,
+		"status": "Active",
+		"price": 459000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-09-16T08:28:30.485Z",
+		"lastSeenDate": "2026-09-12T09:54:55.872Z",
+		"daysOnMarket": 164,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656189",
+		"listingAgent": {
+			"name": "Cameron Avery",
+			"phone": "6033037361",
+			"email": "cam.avery@livetheseacoasthomes.com",
+			"website": "http://livetheseacoasthomes.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2025-08-11": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-11T00:00:00.000Z",
+				"removedDate": "2025-11-11T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2026-04-02": {
+				"event": "Sale Listing",
+				"price": 459000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 164
+			}
+		}
+	},
+	{
+		"id": "131-Seabury-Rd,-York,-ME-03909",
+		"formattedAddress": "131 Seabury Rd, York, ME 03909",
+		"addressLine1": "131 Seabury Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.128223,
+		"longitude": -70.654807,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 1884,
+		"lotSize": 87556,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 1195000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.865Z",
+		"daysOnMarket": 160,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656694",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2025-11-06": {
+				"event": "Sale Listing",
+				"price": 799999,
+				"listingType": "Standard",
+				"listedDate": "2025-11-06T00:00:00.000Z",
+				"removedDate": "2025-11-14T00:00:00.000Z",
+				"daysOnMarket": 8
+			},
+			"2026-04-06": {
+				"event": "Sale Listing",
+				"price": 1195000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 160
+			}
+		}
+	},
+	{
+		"id": "51-Flint-Rock-Dr,-York,-ME-03909",
+		"formattedAddress": "51 Flint Rock Dr, York, ME 03909",
+		"addressLine1": "51 Flint Rock Dr",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.143557,
+		"longitude": -70.674175,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 2633,
+		"lotSize": 22651,
+		"yearBuilt": 2012,
+		"hoa": {
+			"fee": 8
+		},
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.864Z",
+		"daysOnMarket": 159,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656844",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2026-04-07": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 159
+			}
+		}
+	},
+	{
+		"id": "18-Zoes-Way,-York,-ME-03902",
+		"formattedAddress": "18 Zoes Way, York, ME 03902",
+		"addressLine1": "18 Zoes Way",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.223347,
+		"longitude": -70.611771,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2748,
+		"lotSize": 28314,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1650000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.453Z",
+		"daysOnMarket": 156,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657308",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-04-10": {
+				"event": "Sale Listing",
+				"price": 1650000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 156
+			}
+		}
+	},
+	{
+		"id": "1-Maxwell-Way,-York,-ME-03902",
+		"formattedAddress": "1 Maxwell Way, York, ME 03902",
+		"addressLine1": "1 Maxwell Way",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.24471,
+		"longitude": -70.62208,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2489,
+		"lotSize": 106722,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1190000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.451Z",
+		"daysOnMarket": 156,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657393",
+		"listingAgent": {
+			"name": "Scott Rafferty",
+			"phone": "6033807151",
+			"email": "srafferty@openconceptsrealty.com",
+			"website": "http://openconceptsrealty.com"
+		},
+		"listingOffice": {
+			"name": "Open Concepts Realty",
+			"phone": "6033807151",
+			"email": "admin@openconceptsrealty.com"
+		},
+		"history": {
+			"2026-04-10": {
+				"event": "Sale Listing",
+				"price": 1190000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 156
+			}
+		}
+	},
+	{
+		"id": "Cherry-Ln,-Lot-2,-York,-ME-03909",
+		"formattedAddress": "Cherry Ln, Lot 2, York, ME 03909",
+		"addressLine1": "Cherry Ln",
+		"addressLine2": "Lot 2",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.117448,
+		"longitude": -70.665383,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2380,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 278
+		},
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.429Z",
+		"daysOnMarket": 150,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5084009",
+		"listingAgent": {
+			"name": "Susan Green",
+			"phone": "6039961396",
+			"email": "susan@greenandcompany.com",
+			"website": "http://www.greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company",
+			"phone": "8004298615",
+			"email": "mgreen@greenandcompany.com",
+			"website": "http://www.greenandcompany.com/"
+		},
+		"history": {
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "Cherry-Ln,-Lot-1,-York,-ME-03909",
+		"formattedAddress": "Cherry Ln, Lot 1, York, ME 03909",
+		"addressLine1": "Cherry Ln",
+		"addressLine2": "Lot 1",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.116118999,
+		"longitude": -70.6649266,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2850,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 278
+		},
+		"status": "Active",
+		"price": 1305000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.428Z",
+		"daysOnMarket": 150,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5084013",
+		"listingAgent": {
+			"name": "Grant Parhan",
+			"phone": "6039647572",
+			"email": "grant@greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company",
+			"phone": "8004298615",
+			"email": "mgreen@greenandcompany.com",
+			"website": "http://www.greenandcompany.com/"
+		},
+		"history": {
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 1305000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "5-Village-Park-Dr,-Unit-22,-York,-ME-03909",
+		"formattedAddress": "5 Village Park Dr, Unit 22, York, ME 03909",
+		"addressLine1": "5 Village Park Dr",
+		"addressLine2": "Unit 22",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.185074,
+		"longitude": -70.625674,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 3035,
+		"lotSize": 314503,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 489
+		},
+		"status": "Active",
+		"price": 799000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.424Z",
+		"daysOnMarket": 145,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658562",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2026-04-21": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 145
+			}
+		}
+	},
+	{
+		"id": "1-Cove-Rd,-York,-ME-03902",
+		"formattedAddress": "1 Cove Rd, York, ME 03902",
+		"addressLine1": "1 Cove Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.190674,
+		"longitude": -70.597115,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 5.5,
+		"squareFootage": 6753,
+		"lotSize": 54014,
+		"yearBuilt": 2008,
+		"status": "Active",
+		"price": 4795000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.391Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659121",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 4795000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "3-Pine-Is,-York,-ME-03909",
+		"formattedAddress": "3 Pine Is, York, ME 03909",
+		"addressLine1": "3 Pine Is",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.134279,
+		"longitude": -70.6503,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3464,
+		"lotSize": 129373,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 4400000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.385Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659991",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 4400000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "7-Cappys-Ln,-York,-ME-03909",
+		"formattedAddress": "7 Cappys Ln, York, ME 03909",
+		"addressLine1": "7 Cappys Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.180452,
+		"longitude": -70.610746,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2159,
+		"lotSize": 20038,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 995000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-11-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.385Z",
+		"daysOnMarket": 132,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660544",
+		"listingAgent": {
+			"name": "Luke Morris",
+			"phone": "6034015858"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2024-10-31": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-31T00:00:00.000Z",
+				"removedDate": "2024-11-20T00:00:00.000Z",
+				"daysOnMarket": 20
+			},
+			"2025-08-13": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-13T00:00:00.000Z",
+				"removedDate": "2026-01-02T00:00:00.000Z",
+				"daysOnMarket": 142
+			},
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 132
+			}
+		}
+	},
+	{
+		"id": "33-Paul-St,-York,-ME-03909",
+		"formattedAddress": "33 Paul St, York, ME 03909",
+		"addressLine1": "33 Paul St",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.168446,
+		"longitude": -70.628777,
+		"propertyType": "Land",
+		"lotSize": 43996,
+		"status": "Active",
+		"price": 420000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-09-09T05:46:45.520Z",
+		"lastSeenDate": "2026-09-12T09:49:40.366Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661553",
+		"listingAgent": {
+			"name": "Cameron Avery",
+			"phone": "6033037361",
+			"email": "cam.avery@livetheseacoasthomes.com",
+			"website": "http://livetheseacoasthomes.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 420000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "2-Mckenna-Ln,-York,-ME-03909",
+		"formattedAddress": "2 Mckenna Ln, York, ME 03909",
+		"addressLine1": "2 Mckenna Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.171494,
+		"longitude": -70.630861,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 960,
+		"lotSize": 20038,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 535000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.359Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659887",
+		"listingAgent": {
+			"name": "Cameron Avery",
+			"phone": "6033037361",
+			"email": "cam.avery@livetheseacoasthomes.com",
+			"website": "http://livetheseacoasthomes.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2024-08-23": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-23T00:00:00.000Z",
+				"removedDate": "2024-10-19T00:00:00.000Z",
+				"daysOnMarket": 57
+			},
+			"2025-06-07": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-07T00:00:00.000Z",
+				"removedDate": "2025-11-25T00:00:00.000Z",
+				"daysOnMarket": 171
+			},
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 535000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "56-Plaisted-Rd,-York,-ME-03909",
+		"formattedAddress": "56 Plaisted Rd, York, ME 03909",
+		"addressLine1": "56 Plaisted Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.155273,
+		"longitude": -70.664633,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2438,
+		"lotSize": 21780,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 649900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.359Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659864",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2025-08-14": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-14T00:00:00.000Z",
+				"removedDate": "2025-11-11T00:00:00.000Z",
+				"daysOnMarket": 89
+			},
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 649900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "21-Zoes-Way,-York,-ME-03902",
+		"formattedAddress": "21 Zoes Way, York, ME 03902",
+		"addressLine1": "21 Zoes Way",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.223244,
+		"longitude": -70.611115,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2850,
+		"lotSize": 31799,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1399900,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.351Z",
+		"daysOnMarket": 123,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662053",
+		"listingAgent": {
+			"name": "Grant Parhan",
+			"phone": "6039647572",
+			"email": "grant@greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company Real Estate & Development",
+			"phone": "6039647572",
+			"email": "jenna@greenandcompany.com"
+		},
+		"history": {
+			"2026-05-13": {
+				"event": "Sale Listing",
+				"price": 1399900,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 123
+			}
+		}
+	},
+	{
+		"id": "23-Zoes-Way,-York,-ME-03902",
+		"formattedAddress": "23 Zoes Way, York, ME 03902",
+		"addressLine1": "23 Zoes Way",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.223564,
+		"longitude": -70.610657,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3185,
+		"lotSize": 45738,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1450000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.349Z",
+		"daysOnMarket": 123,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662055",
+		"listingAgent": {
+			"name": "Susan Green",
+			"phone": "6039961396",
+			"email": "susan@greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company Real Estate & Development",
+			"phone": "6039647572",
+			"email": "jenna@greenandcompany.com"
+		},
+		"history": {
+			"2026-05-13": {
+				"event": "Sale Listing",
+				"price": 1450000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 123
+			}
+		}
+	},
+	{
+		"id": "439-York-St,-York,-ME-03909",
+		"formattedAddress": "439 York St, York, ME 03909",
+		"addressLine1": "439 York St",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.134344,
+		"longitude": -70.641488,
+		"propertyType": "Multi-Family",
+		"bedrooms": 2,
+		"bathrooms": 4,
+		"squareFootage": 5501,
+		"lotSize": 7405,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 2990000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T23:48:48.791Z",
+		"lastSeenDate": "2026-09-12T09:49:40.340Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662449",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 2990000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "16-Gowen-Ln,-York,-ME-03909",
+		"formattedAddress": "16 Gowen Ln, York, ME 03909",
+		"addressLine1": "16 Gowen Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.151465,
+		"longitude": -70.688312,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2117,
+		"lotSize": 683892,
+		"yearBuilt": 1714,
+		"status": "Active",
+		"price": 1375000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.334Z",
+		"daysOnMarket": 122,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662109",
+		"listingAgent": {
+			"name": "Abigail Douris, Broker/owner",
+			"phone": "2072521944",
+			"email": "abigail@abigaildouris.com",
+			"website": "http://www.abigaildourisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Abigail Douris Real EstateLLC",
+			"phone": "2072521944",
+			"email": "abigail@abigaildouris.com"
+		},
+		"history": {
+			"2026-05-14": {
+				"event": "Sale Listing",
+				"price": 1375000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 122
+			}
+		}
+	},
+	{
+		"id": "2-Grover-Ln,-York,-ME-03909",
+		"formattedAddress": "2 Grover Ln, York, ME 03909",
+		"addressLine1": "2 Grover Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.173815,
+		"longitude": -70.671472,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1790,
+		"lotSize": 164657,
+		"yearBuilt": 1994,
+		"status": "Active",
+		"price": 744900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.741Z",
+		"daysOnMarket": 117,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662745",
+		"listingAgent": {
+			"name": "Valerie Ellmer",
+			"phone": "6038189722",
+			"email": "valerie.ellmer@verani.com",
+			"website": "http://www.verani.com/agent/valerie-ellmer"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group, Llc",
+			"phone": "6035010463",
+			"email": "chris@alandrealty.com",
+			"website": "http://www.alandrealty.com"
+		},
+		"history": {
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 744900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 117
+			}
+		}
+	},
+	{
+		"id": "5-Fairbourne-Ln,-York,-ME-03902",
+		"formattedAddress": "5 Fairbourne Ln, York, ME 03902",
+		"addressLine1": "5 Fairbourne Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.215446,
+		"longitude": -70.580829,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 8499,
+		"lotSize": 115870,
+		"yearBuilt": 2008,
+		"status": "Active",
+		"price": 11700000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.739Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663284",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2026-05-21": {
+				"event": "Sale Listing",
+				"price": 11700000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "6-Dingle-Rd,-Unit-4,-York,-ME-03909",
+		"formattedAddress": "6 Dingle Rd, Unit 4, York, ME 03909",
+		"addressLine1": "6 Dingle Rd",
+		"addressLine2": "Unit 4",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.155314,
+		"longitude": -70.624051,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 379,
+		"lotSize": 1742,
+		"yearBuilt": 1960,
+		"hoa": {
+			"fee": 310
+		},
+		"status": "Active",
+		"price": 319000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.732Z",
+		"daysOnMarket": 118,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662683",
+		"listingAgent": {
+			"name": "Katie Watts",
+			"phone": "2073634300",
+			"email": "katie.yorkerealty@gmail.com",
+			"website": "http://www.coldwellbanker.com/website/katiewatts"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Yorke Realty",
+			"phone": "2073634300",
+			"email": "coldwellbankeryorkerealty@gmail.com",
+			"website": "http://www.yorkerealty.com"
+		},
+		"history": {
+			"2025-04-29": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-29T00:00:00.000Z",
+				"removedDate": "2026-04-30T00:00:00.000Z",
+				"daysOnMarket": 366
+			},
+			"2026-05-18": {
+				"event": "Sale Listing",
+				"price": 319000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 118
+			}
+		}
+	},
+	{
+		"id": "34-York-St,-York,-ME-03909",
+		"formattedAddress": "34 York St, York, ME 03909",
+		"addressLine1": "34 York St",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.150391,
+		"longitude": -70.662659,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2750,
+		"lotSize": 20909,
+		"yearBuilt": 1721,
+		"status": "Active",
+		"price": 749000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T22:27:20.807Z",
+		"lastSeenDate": "2026-09-12T09:45:41.696Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663906",
+		"listingAgent": {
+			"name": "Robert Coles",
+			"phone": "2076040577",
+			"email": "robert@buyandsellmaine.com",
+			"website": "http://buyandsellmaine.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Realty One",
+			"phone": "2073632497",
+			"email": "admin@yorkmaine.com",
+			"website": "http://www.southernmainehomes.com"
+		},
+		"history": {
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "6-Dingle-Rd,-Unit-5,-York,-ME-03909",
+		"formattedAddress": "6 Dingle Rd, Unit 5, York, ME 03909",
+		"addressLine1": "6 Dingle Rd",
+		"addressLine2": "Unit 5",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.155314,
+		"longitude": -70.624051,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 373,
+		"lotSize": 1742,
+		"yearBuilt": 1960,
+		"hoa": {
+			"fee": 305
+		},
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.691Z",
+		"daysOnMarket": 118,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662686",
+		"listingAgent": {
+			"name": "Katie Watts",
+			"phone": "2073634300",
+			"email": "katie.yorkerealty@gmail.com",
+			"website": "http://www.coldwellbanker.com/website/katiewatts"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Yorke Realty",
+			"phone": "2073634300",
+			"email": "coldwellbankeryorkerealty@gmail.com",
+			"website": "http://www.yorkerealty.com"
+		},
+		"history": {
+			"2025-04-30": {
+				"event": "Sale Listing",
+				"price": 319900,
+				"listingType": "Standard",
+				"listedDate": "2025-04-30T00:00:00.000Z",
+				"removedDate": "2026-04-30T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2026-05-18": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 118
+			}
+		}
+	},
+	{
+		"id": "53-Sentry-Hill-Rd,-Apt-A,-York,-ME-03909",
+		"formattedAddress": "53 Sentry Hill Rd, Apt A, York, ME 03909",
+		"addressLine1": "53 Sentry Hill Rd",
+		"addressLine2": "Apt A",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.139973,
+		"longitude": -70.639458,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 2004,
+		"lotSize": 26572,
+		"yearBuilt": 1880,
+		"hoa": {
+			"fee": 1021
+		},
+		"status": "Active",
+		"price": 850000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.678Z",
+		"daysOnMarket": 113,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663694",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-05-23": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 113
+			}
+		}
+	},
+	{
+		"id": "20-Witchtrot-Rd,-York,-ME-03909",
+		"formattedAddress": "20 Witchtrot Rd, York, ME 03909",
+		"addressLine1": "20 Witchtrot Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.191184,
+		"longitude": -70.748682,
+		"propertyType": "Land",
+		"lotSize": 217800,
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.640Z",
+		"daysOnMarket": 90,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667355",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-04-14": {
+				"event": "Sale Listing",
+				"price": 318000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-14T00:00:00.000Z",
+				"removedDate": "2026-06-07T00:00:00.000Z",
+				"daysOnMarket": 54
+			},
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "33-Bay-Haven-Rd,-Lot-B,-York,-ME-03909",
+		"formattedAddress": "33 Bay Haven Rd, Lot B, York, ME 03909",
+		"addressLine1": "33 Bay Haven Rd",
+		"addressLine2": "Lot B",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.182777,
+		"longitude": -70.605026,
+		"propertyType": "Land",
+		"lotSize": 35719,
+		"status": "Active",
+		"price": 1575000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.632Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665459",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 1575000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "1-Fieldstone-Estates-Rd,-York,-ME-03909",
+		"formattedAddress": "1 Fieldstone Estates Rd, York, ME 03909",
+		"addressLine1": "1 Fieldstone Estates Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.161177,
+		"longitude": -70.647784,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 8024,
+		"lotSize": 87991,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 1795000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.631Z",
+		"daysOnMarket": 90,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5094701",
+		"listingAgent": {
+			"name": "Gregory Gosselin",
+			"phone": "2073632414",
+			"email": "greg@greggosselin.com"
+		},
+		"listingOffice": {
+			"name": "Gosselin Realty Group",
+			"phone": "2073632414",
+			"email": "greg@greggosselin.com",
+			"website": "www.teamgosselin.com"
+		},
+		"history": {
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 1795000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "1327-Us-Rte,-1,-York,-ME-03902",
+		"formattedAddress": "1327 Us Rte, 1, York, ME 03902",
+		"addressLine1": "1327 Us Rte",
+		"addressLine2": "1",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.196118,
+		"longitude": -70.620604,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 3,
+		"squareFootage": 2427,
+		"lotSize": 41382,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 750000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.622Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664999",
+		"listingAgent": {
+			"name": "Robert Coles",
+			"phone": "2076040577",
+			"email": "robert@buyandsellmaine.com",
+			"website": "http://buyandsellmaine.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Realty One",
+			"phone": "2073632497",
+			"email": "admin@yorkmaine.com",
+			"website": "http://www.southernmainehomes.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "115-Agamenticus-Ave,-York,-ME-03902",
+		"formattedAddress": "115 Agamenticus Ave, York, ME 03902",
+		"addressLine1": "115 Agamenticus Ave",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.19532,
+		"longitude": -70.595799,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1700,
+		"lotSize": 53579,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 750000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.613Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666260",
+		"listingAgent": {
+			"name": "Linda Pratt",
+			"phone": "8008447653",
+			"email": "lindaprattcentury21@gmail.com",
+			"website": "https://homesforsale.century21.com/century-21-north-east-3287c/linda-pratt-420473a"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "jdamico@c21ne.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "19-River-Rd,-York,-ME-03902",
+		"formattedAddress": "19 River Rd, York, ME 03902",
+		"addressLine1": "19 River Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.193214,
+		"longitude": -70.619247,
+		"propertyType": "Land",
+		"lotSize": 57499,
+		"status": "Active",
+		"price": 519000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.612Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666216",
+		"listingAgent": {
+			"name": "Don Wunder",
+			"phone": "2072521775",
+			"email": "don@donwunder.com",
+			"website": "http://www.donwunder.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Realty One",
+			"phone": "2073632497",
+			"email": "admin@yorkmaine.com",
+			"website": "http://www.southernmainehomes.com"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 519000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "22-Brave-Boat-Harbor-Rd,-York,-ME-03909",
+		"formattedAddress": "22 Brave Boat Harbor Rd, York, ME 03909",
+		"addressLine1": "22 Brave Boat Harbor Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.120658,
+		"longitude": -70.655527,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3118,
+		"lotSize": 148104,
+		"yearBuilt": 2012,
+		"status": "Active",
+		"price": 1825000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.604Z",
+		"daysOnMarket": 90,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667356",
+		"listingAgent": {
+			"name": "Abigail Douris, Broker/owner",
+			"phone": "2072521944",
+			"email": "abigail@abigaildouris.com",
+			"website": "http://www.abigaildourisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Abigail Douris Real EstateLLC",
+			"phone": "2072521944",
+			"email": "abigail@abigaildouris.com"
+		},
+		"history": {
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 1825000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "5-Anbelwold-Circuit,-York,-ME-03902",
+		"formattedAddress": "5 Anbelwold Circuit, York, ME 03902",
+		"addressLine1": "5 Anbelwold Circuit",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.187642,
+		"longitude": -70.596624,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 5210,
+		"lotSize": 54450,
+		"yearBuilt": 1995,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 7900000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.670Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669190",
+		"listingAgent": {
+			"name": "John Scribner",
+			"phone": "2078742057",
+			"email": "jscribner@landvest.com",
+			"website": "http://www.landvest.com"
+		},
+		"listingOffice": {
+			"name": "LANDVEST, INC.",
+			"phone": "2077748518",
+			"email": "ddewhurst@landvest.com",
+			"website": "http://www.landvest.com"
+		},
+		"history": {
+			"2025-08-28": {
+				"event": "Sale Listing",
+				"price": 8650000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-28T00:00:00.000Z",
+				"removedDate": "2025-10-30T00:00:00.000Z",
+				"daysOnMarket": 63
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 7900000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "3-Meadowlark-Dr,-York,-ME-03909",
+		"formattedAddress": "3 Meadowlark Dr, York, ME 03909",
+		"addressLine1": "3 Meadowlark Dr",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.178787,
+		"longitude": -70.634841,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2206,
+		"lotSize": 70567,
+		"yearBuilt": 1998,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 895000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.658Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667708",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 895000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "1-Ocean-Ave,-Units-307-&-2,-York,-ME-03909",
+		"formattedAddress": "1 Ocean Ave, Units 307 & 2, York, ME 03909",
+		"addressLine1": "1 Ocean Ave",
+		"addressLine2": "Units 307 & 2",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.175205,
+		"longitude": -70.610771,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 633,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 314
+		},
+		"status": "Active",
+		"price": 95000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.623Z",
+		"daysOnMarket": 82,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5096232",
+		"listingAgent": {
+			"name": "The Colwellellis  Group",
+			"phone": "6036108988",
+			"email": "colwell-ellis@kw.com",
+			"website": "www.ceg-re.com"
+		},
+		"listingOffice": {
+			"name": "KW Coastal and Lakes & Mountains Realty/Dover",
+			"phone": "6039696632",
+			"email": "agentservices@kwclm.com"
+		},
+		"history": {
+			"2026-06-23": {
+				"event": "Sale Listing",
+				"price": 95000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 82
+			}
+		}
+	},
+	{
+		"id": "28-Ossipee-Rd,-York,-ME-03902",
+		"formattedAddress": "28 Ossipee Rd, York, ME 03902",
+		"addressLine1": "28 Ossipee Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.193585,
+		"longitude": -70.593229,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"squareFootage": 1808,
+		"lotSize": 37462,
+		"yearBuilt": 1983,
+		"hoa": {
+			"fee": 31
+		},
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.608Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668832",
+		"listingAgent": {
+			"name": "Margaret Mitchell",
+			"phone": "2077523489",
+			"email": "margaret@margaretmitchellre.com",
+			"website": "http://www.margaretmitchellre.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Yorke Realty",
+			"phone": "2073634300",
+			"email": "coldwellbankeryorkerealty@gmail.com",
+			"website": "http://www.yorkerealty.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "17-Pepperell-Way,-York,-ME-03909",
+		"formattedAddress": "17 Pepperell Way, York, ME 03909",
+		"addressLine1": "17 Pepperell Way",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.120138,
+		"longitude": -70.648669,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 6052,
+		"lotSize": 114563,
+		"yearBuilt": 1989,
+		"status": "Active",
+		"price": 2250000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.595Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670047",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 2250000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "2-Wander-Hill-Rd,-York,-ME-03902",
+		"formattedAddress": "2 Wander Hill Rd, York, ME 03902",
+		"addressLine1": "2 Wander Hill Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.205844,
+		"longitude": -70.615659,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3300,
+		"lotSize": 124582,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 1190000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.591Z",
+		"daysOnMarket": 70,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670330",
+		"listingAgent": {
+			"name": "Jaclyn Bousquet",
+			"phone": "6037672775",
+			"email": "jaclynbousquet@portsidereg.com",
+			"website": "https://jaclynbousquet.portsiderealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-07-05": {
+				"event": "Sale Listing",
+				"price": 1190000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 70
+			}
+		}
+	},
+	{
+		"id": "3-Sonnys-Ln,-York,-ME-03909",
+		"formattedAddress": "3 Sonnys Ln, York, ME 03909",
+		"addressLine1": "3 Sonnys Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.170221,
+		"longitude": -70.620605,
+		"propertyType": "Land",
+		"lotSize": 33106,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.586Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670061",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "5-Winterbrook-Dr,-York,-ME-03909",
+		"formattedAddress": "5 Winterbrook Dr, York, ME 03909",
+		"addressLine1": "5 Winterbrook Dr",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.146197,
+		"longitude": -70.667372,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 2588,
+		"lotSize": 21780,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 995000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-11-20T10:11:59.736Z",
+		"lastSeenDate": "2026-09-12T08:50:22.580Z",
+		"daysOnMarket": 71,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670288",
+		"listingAgent": {
+			"name": "Leslie Tidwell",
+			"phone": "2074750999",
+			"email": "kikitidwell@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-04": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 71
+			}
+		}
+	},
+	{
+		"id": "88-York-St,-York,-ME-03909",
+		"formattedAddress": "88 York St, York, ME 03909",
+		"addressLine1": "88 York St",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.147085,
+		"longitude": -70.660102,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 3001,
+		"lotSize": 13939,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 1325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.579Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670005",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": "2026-06-19T00:00:00.000Z",
+				"daysOnMarket": 56
+			},
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 1325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "17-Woodside-Meadow-Rd,-Apt-7,-York,-ME-03909",
+		"formattedAddress": "17 Woodside Meadow Rd, Apt 7, York, ME 03909",
+		"addressLine1": "17 Woodside Meadow Rd",
+		"addressLine2": "Apt 7",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.133744,
+		"longitude": -70.680867,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 784,
+		"lotSize": 20038,
+		"yearBuilt": 1971,
+		"hoa": {
+			"fee": 320
+		},
+		"status": "Active",
+		"price": 419000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.579Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670075",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 419000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "19-Sheru-Ln,-York,-ME-03909",
+		"formattedAddress": "19 Sheru Ln, York, ME 03909",
+		"addressLine1": "19 Sheru Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.141238,
+		"longitude": -70.632811,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2016,
+		"lotSize": 20909,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 879000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.968Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672617",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2024-09-17": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-17T00:00:00.000Z",
+				"removedDate": "2024-11-12T00:00:00.000Z",
+				"daysOnMarket": 56
+			},
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 879000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "7-Scott-Ave,-York,-ME-03909",
+		"formattedAddress": "7 Scott Ave, York, ME 03909",
+		"addressLine1": "7 Scott Ave",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.139194,
+		"longitude": -70.63387,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 4,
+		"squareFootage": 2806,
+		"lotSize": 12197,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 28
+		},
+		"status": "Active",
+		"price": 899000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.886Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673145",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "249-Nubble-Rd,-York,-ME-03909",
+		"formattedAddress": "249 Nubble Rd, York, ME 03909",
+		"addressLine1": "249 Nubble Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.170047,
+		"longitude": -70.595626,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 4299,
+		"lotSize": 24394,
+		"yearBuilt": 2002,
+		"status": "Active",
+		"price": 3250000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.871Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673007",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2024-07-19": {
+				"event": "Sale Listing",
+				"price": 3500000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-19T00:00:00.000Z",
+				"removedDate": "2025-01-01T00:00:00.000Z",
+				"daysOnMarket": 166
+			},
+			"2025-03-16": {
+				"event": "Sale Listing",
+				"price": 3399000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-16T00:00:00.000Z",
+				"removedDate": "2025-05-21T00:00:00.000Z",
+				"daysOnMarket": 66
+			},
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 3250000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "10-Ocean-House-Way,-Unit-10,-York,-ME-03909",
+		"formattedAddress": "10 Ocean House Way, Unit 10, York, ME 03909",
+		"addressLine1": "10 Ocean House Way",
+		"addressLine2": "Unit 10",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.17311,
+		"longitude": -70.609012,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1240,
+		"lotSize": 167706,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 840
+		},
+		"status": "Active",
+		"price": 750000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-29T10:59:47.387Z",
+		"lastSeenDate": "2026-09-12T08:13:10.888Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674256",
+		"listingAgent": {
+			"name": "Tonya Allen",
+			"phone": "2076596788",
+			"email": "tonya@kw.com",
+			"website": "http://www.facebook.com/tonyaallenkw"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "http://kwmaine.com"
+		},
+		"history": {
+			"2024-12-30": {
+				"event": "Sale Listing",
+				"price": 675000,
+				"listingType": "Standard",
+				"listedDate": "2024-12-30T00:00:00.000Z",
+				"removedDate": "2025-02-27T00:00:00.000Z",
+				"daysOnMarket": 59
+			},
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "190-York-St,-York,-ME-03909",
+		"formattedAddress": "190 York St, York, ME 03909",
+		"addressLine1": "190 York St",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.144746,
+		"longitude": -70.650509,
+		"propertyType": "Land",
+		"lotSize": 14375,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-12-04T00:27:44.805Z",
+		"lastSeenDate": "2026-09-12T08:13:10.851Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675101",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-01-13": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-13T00:00:00.000Z",
+				"removedDate": "2026-07-10T00:00:00.000Z",
+				"daysOnMarket": 178
+			},
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "3-Barn-Point-Rd,-York,-ME-03909",
+		"formattedAddress": "3 Barn Point Rd, York, ME 03909",
+		"addressLine1": "3 Barn Point Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.182639,
+		"longitude": -70.602785,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 2.5,
+		"squareFootage": 2916,
+		"lotSize": 23087,
+		"yearBuilt": 1969,
+		"status": "Active",
+		"price": 3500000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.827Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675511",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 3500000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "35-Emerald-Woods,-Unit-35,-York,-ME-03909",
+		"formattedAddress": "35 Emerald Woods, Unit 35, York, ME 03909",
+		"addressLine1": "35 Emerald Woods",
+		"addressLine2": "Unit 35",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.132646,
+		"longitude": -70.701543,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1820,
+		"lotSize": 544500,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 799000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.821Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675800",
+		"listingAgent": {
+			"name": "Kevin Erikson",
+			"phone": "6033219569",
+			"email": "kevinwerikson@gmail.com",
+			"website": "https://www.careyandgiampa.com"
+		},
+		"listingOffice": {
+			"name": "Carey and Giampa, LLC, Realtors / Maine Agents",
+			"phone": "6034743401",
+			"email": "jgiampa@careyandgiampa.com",
+			"website": "http://www.careyandgiampa.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "33-Emerald-Woods,-Unit-33,-York,-ME-03909",
+		"formattedAddress": "33 Emerald Woods, Unit 33, York, ME 03909",
+		"addressLine1": "33 Emerald Woods",
+		"addressLine2": "Unit 33",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.132579,
+		"longitude": -70.701593,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2210,
+		"lotSize": 544500,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 839000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.765Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676692",
+		"listingAgent": {
+			"name": "Kevin Erikson",
+			"phone": "6033219569",
+			"email": "kevinwerikson@gmail.com",
+			"website": "https://www.careyandgiampa.com"
+		},
+		"listingOffice": {
+			"name": "Carey and Giampa, LLC, Realtors / Maine Agents",
+			"phone": "6034743401",
+			"email": "jgiampa@careyandgiampa.com",
+			"website": "http://www.careyandgiampa.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 839000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "221-Shore-Rd,-York,-ME-03902",
+		"formattedAddress": "221 Shore Rd, York, ME 03902",
+		"addressLine1": "221 Shore Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.199184,
+		"longitude": -70.594117,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 1828,
+		"lotSize": 33541,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.760Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676729",
+		"listingAgent": {
+			"name": "Marcia Giniusz",
+			"phone": "2077520472",
+			"email": "marcia@yorkmaine.com",
+			"website": "www.yorkmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "10-Oceanside-Ave-W,-York,-ME-03909",
+		"formattedAddress": "10 Oceanside Ave W, York, ME 03909",
+		"addressLine1": "10 Oceanside Ave W",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.166941,
+		"longitude": -70.624608,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 1355,
+		"lotSize": 8712,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 999700,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.702Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677103",
+		"listingAgent": {
+			"name": "Nola Cady",
+			"phone": "2074750999",
+			"email": "nola@kw.com",
+			"website": "www.nola.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 999700,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "5-Ruby-Rd,-Lot-22,-York,-ME-03909",
+		"formattedAddress": "5 Ruby Rd, Lot 22, York, ME 03909",
+		"addressLine1": "5 Ruby Rd",
+		"addressLine2": "Lot 22",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.155896414,
+		"longitude": -70.65192996,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2925,
+		"lotSize": 40946,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1499900,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.696Z",
+		"daysOnMarket": 19,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5106572",
+		"listingAgent": {
+			"name": "Susan Green",
+			"phone": "6039961396",
+			"email": "susan@greenandcompany.com",
+			"website": "http://www.greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company",
+			"phone": "8004298615",
+			"email": "mgreen@greenandcompany.com",
+			"website": "http://www.greenandcompany.com/"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 1499900,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "13-Ruby-Rd,-Lot-26,-York,-ME-03909",
+		"formattedAddress": "13 Ruby Rd, Lot 26, York, ME 03909",
+		"addressLine1": "13 Ruby Rd",
+		"addressLine2": "Lot 26",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.150385,
+		"longitude": -70.664436,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3180,
+		"lotSize": 30056,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1540000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.689Z",
+		"daysOnMarket": 19,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5106573",
+		"listingAgent": {
+			"name": "Grant Parhan",
+			"phone": "6039647572",
+			"email": "grant@greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company",
+			"phone": "8004298615",
+			"email": "mgreen@greenandcompany.com",
+			"website": "http://www.greenandcompany.com/"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 1540000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "52-Caincrest-Rd,-York,-ME-03909",
+		"formattedAddress": "52 Caincrest Rd, York, ME 03909",
+		"addressLine1": "52 Caincrest Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.131731,
+		"longitude": -70.696379,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1116,
+		"yearBuilt": 1978,
+		"hoa": {
+			"fee": 625
+		},
+		"status": "Active",
+		"price": 175000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.687Z",
+		"daysOnMarket": 21,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677398",
+		"listingAgent": {
+			"name": "Bill Jones",
+			"phone": "2076367531",
+			"email": "bjonesre@maine.rr.com",
+			"website": "http://billjonesrealtyteam.com"
+		},
+		"listingOffice": {
+			"name": "Bill Jones Realty Team",
+			"phone": "2073321003",
+			"email": "bjonesre@maine.rr.com",
+			"website": "www.billjonesrealtyteam.com"
+		},
+		"history": {
+			"2026-08-23": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 21
+			}
+		}
+	},
+	{
+		"id": "21-Marsh-Brook-Ln,-York,-ME-03902",
+		"formattedAddress": "21 Marsh Brook Ln, York, ME 03902",
+		"addressLine1": "21 Marsh Brook Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.229064,
+		"longitude": -70.632777,
+		"propertyType": "Land",
+		"lotSize": 106722,
+		"status": "Active",
+		"price": 244900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.687Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677437",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 244900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "27-High-Rock-Rd,-York,-ME-03909",
+		"formattedAddress": "27 High Rock Rd, York, ME 03909",
+		"addressLine1": "27 High Rock Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.117356,
+		"longitude": -70.656566,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2033,
+		"lotSize": 33541,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 799997,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.677Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677727",
+		"listingAgent": {
+			"name": "Jaylan Archer",
+			"phone": "6035340104",
+			"email": "realestate@jaylanarcher.com",
+			"website": "http://archerteamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 799997,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "194-Birch-Hill-Rd,-York,-ME-03909",
+		"formattedAddress": "194 Birch Hill Rd, York, ME 03909",
+		"addressLine1": "194 Birch Hill Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.155025,
+		"longitude": -70.734669,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 3308,
+		"lotSize": 105851,
+		"yearBuilt": 1991,
+		"status": "Active",
+		"price": 959000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-17T08:10:05.621Z",
+		"lastSeenDate": "2026-09-12T06:55:56.774Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677853",
+		"listingAgent": {
+			"name": "Ali Goodwin",
+			"phone": "6039578466",
+			"email": "ali@aligoodwin.com",
+			"website": "http://www.havenhomeslifestyle.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes Mountains Realty",
+			"email": "klrw463@kw.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 959000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "13-Wavecrest-Dr,-York,-ME-03909",
+		"formattedAddress": "13 Wavecrest Dr, York, ME 03909",
+		"addressLine1": "13 Wavecrest Dr",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.138506,
+		"longitude": -70.627441,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2184,
+		"lotSize": 25265,
+		"yearBuilt": 1977,
+		"status": "Active",
+		"price": 1295000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.753Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678014",
+		"listingAgent": {
+			"name": "Jeffrey Jellison",
+			"phone": "2073634053",
+			"email": "jellison@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": "2026-08-08T00:00:00.000Z",
+				"daysOnMarket": 67
+			},
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 1295000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "13-Ruby-Rd,-York,-ME-03909",
+		"formattedAddress": "13 Ruby Rd, York, ME 03909",
+		"addressLine1": "13 Ruby Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.150385,
+		"longitude": -70.664436,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3180,
+		"lotSize": 30056,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1540000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.744Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678070",
+		"listingAgent": {
+			"name": "Grant Parhan",
+			"phone": "6039647572",
+			"email": "grant@greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company Real Estate & Development",
+			"phone": "6039647572",
+			"email": "jenna@greenandcompany.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 1540000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "419-And-425-York-St,-York,-ME-03909",
+		"formattedAddress": "419 And 425 York St, York, ME 03909",
+		"addressLine1": "419 And 425 York St",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.134716,
+		"longitude": -70.64328,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 5.5,
+		"squareFootage": 6070,
+		"lotSize": 43996,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 3390000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.703Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678725",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2025-07-14": {
+				"event": "Sale Listing",
+				"price": 3390000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-14T00:00:00.000Z",
+				"removedDate": "2026-07-28T00:00:00.000Z",
+				"daysOnMarket": 379
+			},
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 3390000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "63-Garrison-Ave,-York,-ME-03909",
+		"formattedAddress": "63 Garrison Ave, York, ME 03909",
+		"addressLine1": "63 Garrison Ave",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.156603,
+		"longitude": -70.624794,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 792,
+		"lotSize": 3485,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 699900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.702Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678581",
+		"listingAgent": {
+			"name": "Greg Gosselin",
+			"phone": "2077522353",
+			"email": "greg@greggosselin.com",
+			"website": "http://www.teamgosselin.com"
+		},
+		"listingOffice": {
+			"name": "Gosselin Realty Group",
+			"phone": "2073632414",
+			"email": "greg@greggosselin.com",
+			"website": "www.teamgosselin.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 699900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "32-Logging-Rd,-York,-ME-03902",
+		"formattedAddress": "32 Logging Rd, York, ME 03902",
+		"addressLine1": "32 Logging Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.210524,
+		"longitude": -70.621545,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2187,
+		"lotSize": 192971,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 749900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.702Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679261",
+		"listingAgent": {
+			"name": "Shayna Wright",
+			"phone": "2079679900",
+			"email": "shayna.wright@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 749900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "15-Rocky-Hill-Rd,-York,-ME-03909",
+		"formattedAddress": "15 Rocky Hill Rd, York, ME 03909",
+		"addressLine1": "15 Rocky Hill Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.125,
+		"longitude": -70.644785,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1176,
+		"lotSize": 32234,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.696Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678455",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "1-Ocean-408-6-Ave,-Unit-406,-York,-ME-03909",
+		"formattedAddress": "1 Ocean 408 6 Ave, Unit 406, York, ME 03909",
+		"addressLine1": "1 Ocean 408 6 Ave",
+		"addressLine2": "Unit 406",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.175205,
+		"longitude": -70.610771,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"squareFootage": 820,
+		"lotSize": 13504,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 412
+		},
+		"status": "Active",
+		"price": 99999,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.278Z",
+		"daysOnMarket": 5,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5108676",
+		"listingAgent": {
+			"name": "Anne Whitney-gray",
+			"phone": "6039888591",
+			"email": "annewhitneygray@gmail.com",
+			"website": "https://www.parmleyproperties.com"
+		},
+		"listingOffice": {
+			"name": "Parmley Properties Realty LLC",
+			"phone": "6039888591",
+			"email": "nicolemparmley@gmail.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 99999,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "3-Rowe-Falls-Ln,-York,-ME-03909",
+		"formattedAddress": "3 Rowe Falls Ln, York, ME 03909",
+		"addressLine1": "3 Rowe Falls Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.188317,
+		"longitude": -70.737298,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 5566,
+		"lotSize": 134600,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 1395000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.191Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679285",
+		"listingAgent": {
+			"name": "Jason Clark",
+			"phone": "2073634053",
+			"email": "clark@c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 1395000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "56-Spring-St,-York,-ME-03909",
+		"formattedAddress": "56 Spring St, York, ME 03909",
+		"addressLine1": "56 Spring St",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.16672,
+		"longitude": -70.595919,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1400,
+		"lotSize": 16117,
+		"yearBuilt": 1977,
+		"status": "Active",
+		"price": 1195000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.182Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679413",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 1195000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "4-Collinsport-Way,-Unit-1,-York,-ME-03909",
+		"formattedAddress": "4 Collinsport Way, Unit 1, York, ME 03909",
+		"addressLine1": "4 Collinsport Way",
+		"addressLine2": "Unit 1",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.180655,
+		"longitude": -70.607933,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1580,
+		"lotSize": 23958,
+		"yearBuilt": 1955,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 899900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.179Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679426",
+		"listingAgent": {
+			"name": "Jocelyn Chavez",
+			"phone": "6035025174",
+			"email": "jocelyn@brickandbarngroup.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 899900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "5-Primrose-Ln,-Lot-A,-York,-ME-03902",
+		"formattedAddress": "5 Primrose Ln, Lot A, York, ME 03902",
+		"addressLine1": "5 Primrose Ln",
+		"addressLine2": "Lot A",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.227383,
+		"longitude": -70.593948,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 4340,
+		"lotSize": 219107,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 167
+		},
+		"status": "Active",
+		"price": 3495000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.164Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679777",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 3495000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "5-Primrose-Ln,-York,-ME-03902",
+		"formattedAddress": "5 Primrose Ln, York, ME 03902",
+		"addressLine1": "5 Primrose Ln",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.226948,
+		"longitude": -70.59867,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 4340,
+		"lotSize": 129809,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 167
+		},
+		"status": "Active",
+		"price": 2995000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.162Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679775",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 3495000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": "2026-08-15T00:00:00.000Z",
+				"daysOnMarket": 67
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 2995000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "Primrose-Ln,-Lot-A,-York,-ME-03902",
+		"formattedAddress": "Primrose Ln, Lot A, York, ME 03902",
+		"addressLine1": "Primrose Ln",
+		"addressLine2": "Lot A",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.22672,
+		"longitude": -70.595148,
+		"propertyType": "Land",
+		"lotSize": 89298,
+		"hoa": {
+			"fee": 167
+		},
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.144Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679776",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "261-Clay-Hill-Rd,-York,-ME-03902",
+		"formattedAddress": "261 Clay Hill Rd, York, ME 03902",
+		"addressLine1": "261 Clay Hill Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.230198,
+		"longitude": -70.622582,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 4572,
+		"lotSize": 75794,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-03-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.138Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679963",
+		"listingAgent": {
+			"name": "Kenneth Knowles",
+			"phone": "2074510386",
+			"email": "kenk@yorkmaine.com",
+			"website": "www.yorkmaine.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Realty One",
+			"phone": "2073632497",
+			"email": "admin@yorkmaine.com",
+			"website": "http://www.southernmainehomes.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "62-Dewey-Rd,-York,-ME-03909",
+		"formattedAddress": "62 Dewey Rd, York, ME 03909",
+		"addressLine1": "62 Dewey Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.174862,
+		"longitude": -70.625019,
+		"propertyType": "Land",
+		"lotSize": 20038,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.131Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680301",
+		"listingAgent": {
+			"name": "Melinda Torrens",
+			"phone": "2077761620",
+			"email": "rebymelinda@gmail.com",
+			"website": "http://realestatebymelinda.com"
+		},
+		"listingOffice": {
+			"name": "Epique Realty",
+			"phone": "8888938937",
+			"email": "mebroker@epiquerealty.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "44-Organug-Rd,-York,-ME-03909",
+		"formattedAddress": "44 Organug Rd, York, ME 03909",
+		"addressLine1": "44 Organug Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.143322,
+		"longitude": -70.66186,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1596,
+		"lotSize": 17424,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 649000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.129Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679958",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "44B-Chases-Pond-Rd,-Unit-B,-York,-ME-03909",
+		"formattedAddress": "44B Chases Pond Rd, Unit B, York, ME 03909",
+		"addressLine1": "44B Chases Pond Rd",
+		"addressLine2": "Unit B",
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.163981,
+		"longitude": -70.667021,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2486,
+		"lotSize": 278784,
+		"yearBuilt": 1740,
+		"hoa": {
+			"fee": 117
+		},
+		"status": "Active",
+		"price": 715000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.115Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680209",
+		"listingAgent": {
+			"name": "Nola Cady",
+			"phone": "2074750999",
+			"email": "nola@kw.com",
+			"website": "www.nola.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 715000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "44B-Chases-Pond-Rd,-York,-ME-03909",
+		"formattedAddress": "44B Chases Pond Rd, York, ME 03909",
+		"addressLine1": "44B Chases Pond Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.164143,
+		"longitude": -70.667,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2486,
+		"lotSize": 278784,
+		"yearBuilt": 1740,
+		"hoa": {
+			"fee": 117
+		},
+		"status": "Active",
+		"price": 715000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.110Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680042",
+		"listingAgent": {
+			"name": "Nola Cady",
+			"phone": "2074750999",
+			"email": "nola@kw.com",
+			"website": "www.nola.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 715000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "20-Spring-Pond-Cir,-York,-ME-03909",
+		"formattedAddress": "20 Spring Pond Cir, York, ME 03909",
+		"addressLine1": "20 Spring Pond Cir",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.163557,
+		"longitude": -70.629701,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1592,
+		"lotSize": 1742,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 270
+		},
+		"status": "Active",
+		"price": 664999,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.106Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680136",
+		"listingAgent": {
+			"name": "Adam Barzelay",
+			"phone": "2073379331",
+			"email": "abarz@kw.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 664999,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "170-Shore-Rd,-York,-ME-03902",
+		"formattedAddress": "170 Shore Rd, York, ME 03902",
+		"addressLine1": "170 Shore Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03902",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.196461,
+		"longitude": -70.595768,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2052,
+		"lotSize": 43560,
+		"yearBuilt": 1978,
+		"status": "Active",
+		"price": 1095000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.104Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680115",
+		"listingAgent": {
+			"name": "Janna Syrene",
+			"phone": "2074758626",
+			"email": "janna@beangroup.com",
+			"website": "https://www.teamsyrene.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 1095000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "9-Lucas-Farm-Rd,-York,-ME-03909",
+		"formattedAddress": "9 Lucas Farm Rd, York, ME 03909",
+		"addressLine1": "9 Lucas Farm Rd",
+		"addressLine2": null,
+		"city": "York",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03909",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.175099,
+		"longitude": -70.630924,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2901,
+		"lotSize": 44431,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 108
+		},
+		"status": "Active",
+		"price": 1250000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-06T08:11:03.129Z",
+		"lastSeenDate": "2026-09-11T10:38:11.542Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669941",
+		"listingOffice": {
+			"name": "Compass New England, LLC",
+			"phone": "6033194660",
+			"email": "sales@brickandbarngroup.com"
+		},
+		"history": {
+			"2025-03-25": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2025-03-25T00:00:00.000Z",
+				"removedDate": "2025-09-05T00:00:00.000Z",
+				"daysOnMarket": 164
+			},
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 1250000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	}
+]
