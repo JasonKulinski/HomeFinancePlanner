@@ -41,6 +41,9 @@ namespace HomeFinancePlanner.Data.Migrations
                     b.Property<decimal>("MonthlySavingsContribution")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Name")
+                        .HasColumnType("TEXT");
+
                     b.Property<decimal>("TargetDownPaymentPercent")
                         .HasColumnType("TEXT");
 
@@ -138,6 +141,63 @@ namespace HomeFinancePlanner.Data.Migrations
                     b.HasIndex("ZipCode");
 
                     b.ToTable("RentalListings");
+                });
+
+            modelBuilder.Entity("HomeFinancePlanner.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("HomeFinancePlanner.Models.LedgerEntry", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<decimal>("Amount")
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("INTEGER");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("LedgerEntries");
+                });
+
+            modelBuilder.Entity("HomeFinancePlanner.Models.LedgerEntry", b =>
+                {
+                    b.HasOne("HomeFinancePlanner.Models.User", "User")
+                        .WithMany("LedgerEntries")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("HomeFinancePlanner.Models.User", b =>
+                {
+                    b.Navigation("LedgerEntries");
                 });
 #pragma warning restore 612, 618
         }
