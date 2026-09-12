@@ -1,0 +1,2621 @@
+[
+	{
+		"id": "419-Middle-Rd,-Standish,-ME-04085",
+		"formattedAddress": "419 Middle Rd, Standish, ME 04085",
+		"addressLine1": "419 Middle Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.768658,
+		"longitude": -70.617295,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1456,
+		"lotSize": 152024,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 565000,
+		"listingType": "New Construction",
+		"listedDate": "2025-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-02T09:19:25.455Z",
+		"lastSeenDate": "2026-09-12T09:52:04.687Z",
+		"daysOnMarket": 376,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1636277",
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2076465131",
+			"email": "wells@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-09-02": {
+				"event": "Sale Listing",
+				"price": 565000,
+				"listingType": "New Construction",
+				"listedDate": "2025-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 376
+			}
+		}
+	},
+	{
+		"id": "Woodbrey-Ln,-Lot-34,-Standish,-ME-04084",
+		"formattedAddress": "Woodbrey Ln, Lot 34, Standish, ME 04084",
+		"addressLine1": "Woodbrey Ln",
+		"addressLine2": "Lot 34",
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.749241,
+		"longitude": -70.524381,
+		"propertyType": "Land",
+		"lotSize": 20038,
+		"hoa": {
+			"fee": 17
+		},
+		"status": "Active",
+		"price": 157500,
+		"listingType": "Standard",
+		"listedDate": "2025-09-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.685Z",
+		"daysOnMarket": 360,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1638176",
+		"listingAgent": {
+			"name": "Robert Metayer",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com",
+			"website": "http://www.robsoldmyhome.com/"
+		},
+		"listingOffice": {
+			"name": "Client First Realty Maine",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com"
+		},
+		"history": {
+			"2025-09-18": {
+				"event": "Sale Listing",
+				"price": 157500,
+				"listingType": "Standard",
+				"listedDate": "2025-09-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 360
+			}
+		}
+	},
+	{
+		"id": "72-Sand-Beach-Rd,-Standish,-ME-04084",
+		"formattedAddress": "72 Sand Beach Rd, Standish, ME 04084",
+		"addressLine1": "72 Sand Beach Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.838157,
+		"longitude": -70.481076,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2746,
+		"lotSize": 8712,
+		"yearBuilt": 1960,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 1099999,
+		"listingType": "Standard",
+		"listedDate": "2025-10-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-13T08:59:07.702Z",
+		"lastSeenDate": "2026-09-12T09:52:04.682Z",
+		"daysOnMarket": 331,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1641162",
+		"listingAgent": {
+			"name": "The Tufts Team",
+			"phone": "2077125942",
+			"email": "karentufts@gmail.com",
+			"website": "http://cbtre.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Team Real Estate",
+			"phone": "2078924759",
+			"email": "karentufts@gmail.com",
+			"website": "www.cbtre.com"
+		},
+		"history": {
+			"2025-05-19": {
+				"event": "Sale Listing",
+				"price": 825000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-19T00:00:00.000Z",
+				"removedDate": "2025-07-14T00:00:00.000Z",
+				"daysOnMarket": 56
+			},
+			"2025-10-17": {
+				"event": "Sale Listing",
+				"price": 1099999,
+				"listingType": "Standard",
+				"listedDate": "2025-10-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 331
+			}
+		}
+	},
+	{
+		"id": "Eastern-Ln,-Lot-65,-Standish,-ME-04084",
+		"formattedAddress": "Eastern Ln, Lot 65, Standish, ME 04084",
+		"addressLine1": "Eastern Ln",
+		"addressLine2": "Lot 65",
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.75172,
+		"longitude": -70.526573,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"hoa": {
+			"fee": 17
+		},
+		"status": "Active",
+		"price": 157500,
+		"listingType": "Standard",
+		"listedDate": "2025-10-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.679Z",
+		"daysOnMarket": 318,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642354",
+		"listingAgent": {
+			"name": "Robert Metayer",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com",
+			"website": "http://www.robsoldmyhome.com/"
+		},
+		"listingOffice": {
+			"name": "Client First Realty Maine",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com"
+		},
+		"history": {
+			"2025-10-30": {
+				"event": "Sale Listing",
+				"price": 157500,
+				"listingType": "Standard",
+				"listedDate": "2025-10-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 318
+			}
+		}
+	},
+	{
+		"id": "15-Manchester-Rd,-Standish,-ME-04085",
+		"formattedAddress": "15 Manchester Rd, Standish, ME 04085",
+		"addressLine1": "15 Manchester Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.741252,
+		"longitude": -70.6294,
+		"propertyType": "Land",
+		"lotSize": 193406,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.659Z",
+		"daysOnMarket": 229,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1650355",
+		"listingAgent": {
+			"name": "Amy Warner",
+			"phone": "2076422100",
+			"email": "amysellsthe207@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2025-01-24": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-24T00:00:00.000Z",
+				"removedDate": "2025-07-24T00:00:00.000Z",
+				"daysOnMarket": 181
+			},
+			"2026-01-27": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 229
+			}
+		}
+	},
+	{
+		"id": "3-Cortland-Pl,-Unit-8,-Standish,-ME-04084",
+		"formattedAddress": "3 Cortland Pl, Unit 8, Standish, ME 04084",
+		"addressLine1": "3 Cortland Pl",
+		"addressLine2": "Unit 8",
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.731965,
+		"longitude": -70.560145,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1685,
+		"lotSize": 130680,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 519000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.634Z",
+		"daysOnMarket": 168,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655694",
+		"listingAgent": {
+			"name": "Mary Daniels",
+			"phone": "2076712248"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2025-02-03": {
+				"event": "Sale Listing",
+				"price": 569000,
+				"listingType": "New Construction",
+				"listedDate": "2025-02-03T00:00:00.000Z",
+				"removedDate": "2025-04-17T00:00:00.000Z",
+				"daysOnMarket": 73
+			},
+			"2025-07-09": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "New Construction",
+				"listedDate": "2025-07-09T00:00:00.000Z",
+				"removedDate": "2025-09-12T00:00:00.000Z",
+				"daysOnMarket": 65
+			},
+			"2026-03-29": {
+				"event": "Sale Listing",
+				"price": 519000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 168
+			}
+		}
+	},
+	{
+		"id": "Woodbrey-Ln,-Lot-54,-Standish,-ME-04084",
+		"formattedAddress": "Woodbrey Ln, Lot 54, Standish, ME 04084",
+		"addressLine1": "Woodbrey Ln",
+		"addressLine2": "Lot 54",
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.753082,
+		"longitude": -70.531383,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"hoa": {
+			"fee": 17
+		},
+		"status": "Active",
+		"price": 157500,
+		"listingType": "Standard",
+		"listedDate": "2026-01-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.632Z",
+		"daysOnMarket": 237,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1616081",
+		"listingAgent": {
+			"name": "Robert Metayer",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com",
+			"website": "http://www.robsoldmyhome.com/"
+		},
+		"listingOffice": {
+			"name": "Client First Realty Maine",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com"
+		},
+		"history": {
+			"2025-03-13": {
+				"event": "Sale Listing",
+				"price": 157500,
+				"listingType": "Standard",
+				"listedDate": "2025-03-13T00:00:00.000Z",
+				"removedDate": "2025-11-01T00:00:00.000Z",
+				"daysOnMarket": 233
+			},
+			"2026-01-19": {
+				"event": "Sale Listing",
+				"price": 157500,
+				"listingType": "Standard",
+				"listedDate": "2026-01-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 237
+			}
+		}
+	},
+	{
+		"id": "4-Sarah-Ln,-Standish,-ME-04084",
+		"formattedAddress": "4 Sarah Ln, Standish, ME 04084",
+		"addressLine1": "4 Sarah Ln",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.834064,
+		"longitude": -70.608912,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 624,
+		"lotSize": 8712,
+		"yearBuilt": 1950,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 430000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.603Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656949",
+		"listingAgent": {
+			"name": "Tammy Ruda",
+			"phone": "2077808900",
+			"email": "truda@legacysir.com",
+			"website": "https://tammyruda.legacysir.com/eng/profile"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-09-03": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-03T00:00:00.000Z",
+				"removedDate": "2025-12-13T00:00:00.000Z",
+				"daysOnMarket": 101
+			},
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 430000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "17-Eastern-Ln,-Standish,-ME-04084",
+		"formattedAddress": "17 Eastern Ln, Standish, ME 04084",
+		"addressLine1": "17 Eastern Ln",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.807185,
+		"longitude": -70.442397,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2194,
+		"lotSize": 26136,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 17
+		},
+		"status": "Active",
+		"price": 739000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.600Z",
+		"daysOnMarket": 150,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658079",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 739000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "Eastern-Ln,-Lot-5,-Standish,-ME-04084",
+		"formattedAddress": "Eastern Ln, Lot 5, Standish, ME 04084",
+		"addressLine1": "Eastern Ln",
+		"addressLine2": "Lot 5",
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.752783,
+		"longitude": -70.529524,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"hoa": {
+			"fee": 17
+		},
+		"status": "Active",
+		"price": 157500,
+		"listingType": "Standard",
+		"listedDate": "2026-04-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.277Z",
+		"daysOnMarket": 144,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658847",
+		"listingAgent": {
+			"name": "Robert Metayer",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com",
+			"website": "http://www.robsoldmyhome.com/"
+		},
+		"listingOffice": {
+			"name": "Client First Realty Maine",
+			"phone": "2078313017",
+			"email": "robmetayer.realtor@gmail.com"
+		},
+		"history": {
+			"2026-04-22": {
+				"event": "Sale Listing",
+				"price": 157500,
+				"listingType": "Standard",
+				"listedDate": "2026-04-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 144
+			}
+		}
+	},
+	{
+		"id": "13-Cider-Mill-Ln,-Standish,-ME-04084",
+		"formattedAddress": "13 Cider Mill Ln, Standish, ME 04084",
+		"addressLine1": "13 Cider Mill Ln",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.672341,
+		"longitude": -70.473395,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2131,
+		"lotSize": 37462,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 50
+		},
+		"status": "Active",
+		"price": 629999,
+		"listingType": "Standard",
+		"listedDate": "2026-05-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-01-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.245Z",
+		"daysOnMarket": 131,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660585",
+		"listingAgent": {
+			"name": "Belinda Desmond",
+			"phone": "6174629826",
+			"email": "belindadesmond@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-05": {
+				"event": "Sale Listing",
+				"price": 629999,
+				"listingType": "Standard",
+				"listedDate": "2026-05-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 131
+			}
+		}
+	},
+	{
+		"id": "27-Ossipee-Trl-E,-Unit-1,-Standish,-ME-04084",
+		"formattedAddress": "27 Ossipee Trl E, Unit 1, Standish, ME 04084",
+		"addressLine1": "27 Ossipee Trl E",
+		"addressLine2": "Unit 1",
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.734411,
+		"longitude": -70.549707,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 3071,
+		"yearBuilt": 1912,
+		"status": "Active",
+		"price": 249900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.239Z",
+		"daysOnMarket": 135,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660086",
+		"listingAgent": {
+			"name": "Mark Adler",
+			"phone": "2074902900",
+			"email": "madler@patco.com",
+			"website": "https://www.markadler.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-06-20": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2025-06-20T00:00:00.000Z",
+				"removedDate": "2025-09-04T00:00:00.000Z",
+				"daysOnMarket": 76
+			},
+			"2025-10-27": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-27T00:00:00.000Z",
+				"removedDate": "2026-04-25T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 135
+			}
+		}
+	},
+	{
+		"id": "8-Bonny-Eagle-Pond-Rd,-Standish,-ME-04084",
+		"formattedAddress": "8 Bonny Eagle Pond Rd, Standish, ME 04084",
+		"addressLine1": "8 Bonny Eagle Pond Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.693048,
+		"longitude": -70.578065,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 820,
+		"lotSize": 8712,
+		"yearBuilt": 1980,
+		"status": "Active",
+		"price": 395000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.616Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665418",
+		"listingAgent": {
+			"name": "Andy Lord",
+			"phone": "2077498198",
+			"email": "andysellsmaine@gmail.com",
+			"website": "lordgroupmaine.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2024-09-24": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-24T00:00:00.000Z",
+				"removedDate": "2024-10-19T00:00:00.000Z",
+				"daysOnMarket": 25
+			},
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 395000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "81-Highland-Rd,-Standish,-ME-04084",
+		"formattedAddress": "81 Highland Rd, Standish, ME 04084",
+		"addressLine1": "81 Highland Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.828385,
+		"longitude": -70.467222,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1778,
+		"lotSize": 43124,
+		"yearBuilt": 1974,
+		"status": "Active",
+		"price": 459000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.570Z",
+		"daysOnMarket": 102,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665245",
+		"listingAgent": {
+			"name": "Mary Dugans",
+			"phone": "2072320690",
+			"email": "mdugans@hotmail.com",
+			"website": "http://marydugans.remax-maine.com"
+		},
+		"listingOffice": {
+			"name": "Allied Real Estate",
+			"phone": "2078922214",
+			"email": "kellykeenanremax@gmail.com",
+			"website": "http://www.alliedmainehomes.com"
+		},
+		"history": {
+			"2026-06-03": {
+				"event": "Sale Listing",
+				"price": 459000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 102
+			}
+		}
+	},
+	{
+		"id": "39-Birch-Dr,-Standish,-ME-04084",
+		"formattedAddress": "39 Birch Dr, Standish, ME 04084",
+		"addressLine1": "39 Birch Dr",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.729424,
+		"longitude": -70.604364,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1120,
+		"yearBuilt": 2020,
+		"hoa": {
+			"fee": 1000
+		},
+		"status": "Active",
+		"price": 114900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.536Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666236",
+		"listingAgent": {
+			"name": "Timothy Burch",
+			"phone": "2072498095",
+			"email": "timburchrealty@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 114900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "7-Starlit-Way,-Standish,-ME-04084",
+		"formattedAddress": "7 Starlit Way, Standish, ME 04084",
+		"addressLine1": "7 Starlit Way",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.804594,
+		"longitude": -70.48923,
+		"propertyType": "Single Family",
+		"bedrooms": 8,
+		"bathrooms": 9.5,
+		"squareFootage": 9417,
+		"lotSize": 239580,
+		"yearBuilt": 2009,
+		"status": "Active",
+		"price": 7795000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-20T20:11:15.819Z",
+		"lastSeenDate": "2026-09-12T08:52:34.530Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667014",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 7795000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "6-Page-Brook-Rd,-Standish,-ME-04084",
+		"formattedAddress": "6 Page Brook Rd, Standish, ME 04084",
+		"addressLine1": "6 Page Brook Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.74928,
+		"longitude": -70.615646,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1205,
+		"lotSize": 8712,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 439900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.519Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667909",
+		"listingAgent": {
+			"name": "Veronica Schneider",
+			"phone": "2078384034",
+			"email": "veronica@veronicasellsmaine.com",
+			"website": "https://veronicasellsmaine.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 439900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "5-Sunset-Dr,-Standish,-ME-04084",
+		"formattedAddress": "5 Sunset Dr, Standish, ME 04084",
+		"addressLine1": "5 Sunset Dr",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.73175,
+		"longitude": -70.607679,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1216,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 1000
+		},
+		"status": "Active",
+		"price": 109900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.515Z",
+		"daysOnMarket": 89,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667372",
+		"listingAgent": {
+			"name": "Michael Morong",
+			"phone": "2072866489",
+			"email": "southernmainerealestate@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-06-16": {
+				"event": "Sale Listing",
+				"price": 109900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 89
+			}
+		}
+	},
+	{
+		"id": "1-Roosevelt-Trl,-Standish,-ME-04084",
+		"formattedAddress": "1 Roosevelt Trl, Standish, ME 04084",
+		"addressLine1": "1 Roosevelt Trl",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.722737,
+		"longitude": -70.651828,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2692,
+		"lotSize": 13068,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.877Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668319",
+		"listingAgent": {
+			"name": "Calvin Shelley",
+			"phone": "2078799800",
+			"email": "calvinshelley@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-03-30": {
+				"event": "Sale Listing",
+				"price": 639900,
+				"listingType": "Standard",
+				"listedDate": "2026-03-30T00:00:00.000Z",
+				"removedDate": "2026-05-30T00:00:00.000Z",
+				"daysOnMarket": 61
+			},
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "40-Basin-Harbor-Dr,-Standish,-ME-04084",
+		"formattedAddress": "40 Basin Harbor Dr, Standish, ME 04084",
+		"addressLine1": "40 Basin Harbor Dr",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.836682,
+		"longitude": -70.471466,
+		"propertyType": "Land",
+		"lotSize": 54450,
+		"hoa": {
+			"fee": 38
+		},
+		"status": "Active",
+		"price": 289000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-02-10T05:42:39.316Z",
+		"lastSeenDate": "2026-09-12T08:45:51.875Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668361",
+		"listingAgent": {
+			"name": "Rebecca Marcinuk",
+			"phone": "2075396060",
+			"email": "becca@bearfootrealty.com"
+		},
+		"listingOffice": {
+			"name": "Five Star Realty",
+			"phone": "2079396971",
+			"email": "matt@fivestarrealtymaine.com",
+			"website": "www.fivestarrealtymaine.com"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 289000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "5-Ossipee-Trl-E,-Standish,-ME-04084",
+		"formattedAddress": "5 Ossipee Trl E, Standish, ME 04084",
+		"addressLine1": "5 Ossipee Trl E",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.734954,
+		"longitude": -70.550702,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2677,
+		"lotSize": 13068,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.868Z",
+		"daysOnMarket": 82,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668520",
+		"listingAgent": {
+			"name": "Jason Norton",
+			"phone": "2073195568",
+			"email": "jason.norton@cbrealty.com",
+			"website": "https://jnorton.sites.cbmoxi.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077258522",
+			"email": "kathy.duca@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/brunswick/office/brunswick/oid_3581/"
+		},
+		"history": {
+			"2026-06-23": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 82
+			}
+		}
+	},
+	{
+		"id": "79-Whites-Point-Rd,-Standish,-ME-04084",
+		"formattedAddress": "79 Whites Point Rd, Standish, ME 04084",
+		"addressLine1": "79 Whites Point Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.844885,
+		"longitude": -70.476409,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2880,
+		"lotSize": 8712,
+		"yearBuilt": 1960,
+		"hoa": {
+			"fee": 15
+		},
+		"status": "Active",
+		"price": 1599000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-31T12:25:25.870Z",
+		"lastSeenDate": "2026-09-12T08:45:51.860Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668694",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2024-06-24": {
+				"event": "Sale Listing",
+				"price": 1575000,
+				"listingType": "Standard",
+				"listedDate": "2024-06-24T00:00:00.000Z",
+				"removedDate": "2024-10-19T00:00:00.000Z",
+				"daysOnMarket": 117
+			},
+			"2025-11-21": {
+				"event": "Sale Listing",
+				"price": 1740000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-21T00:00:00.000Z",
+				"removedDate": "2026-02-27T00:00:00.000Z",
+				"daysOnMarket": 98
+			},
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 1599000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "110-Oak-Hill-Rd,-Standish,-ME-04084",
+		"formattedAddress": "110 Oak Hill Rd, Standish, ME 04084",
+		"addressLine1": "110 Oak Hill Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.739639,
+		"longitude": -70.56055,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1634,
+		"lotSize": 201683,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.790Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670106",
+		"listingAgent": {
+			"name": "Janice Pompeo",
+			"phone": "2073294534",
+			"email": "janice.pompeo@beangroup.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Group",
+			"email": "janice@themainerealestategroup.com"
+		},
+		"history": {
+			"2024-10-23": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-23T00:00:00.000Z",
+				"removedDate": "2024-10-27T00:00:00.000Z",
+				"daysOnMarket": 4
+			},
+			"2025-10-09": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-09T00:00:00.000Z",
+				"removedDate": "2025-11-21T00:00:00.000Z",
+				"daysOnMarket": 43
+			},
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "45-Bliss-Rd,-Standish,-ME-04084",
+		"formattedAddress": "45 Bliss Rd, Standish, ME 04084",
+		"addressLine1": "45 Bliss Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.715045,
+		"longitude": -70.656587,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1217,
+		"lotSize": 28314,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 679900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.779Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669729",
+		"listingAgent": {
+			"name": "Darren Mcgovern",
+			"phone": "2077123325",
+			"email": "dmcgovern@advisorsliving.com",
+			"website": "http://www.darrenmacthemover.com/"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2078088333",
+			"email": "capeelizabeth@masiello.com",
+			"website": "https://www.masiello.com/capeelizabeth-me/"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 679900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "27-Watchic-Terrace-Rd,-Standish,-ME-04084",
+		"formattedAddress": "27 Watchic Terrace Rd, Standish, ME 04084",
+		"addressLine1": "27 Watchic Terrace Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.745268,
+		"longitude": -70.609188,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1520,
+		"lotSize": 13068,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 699900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.762Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670351",
+		"listingAgent": {
+			"name": "Angela Lee Team",
+			"phone": "2073443300",
+			"email": "angelaleehomes@gmail.com",
+			"website": "http://www.angelaleehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-12-16": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-16T00:00:00.000Z",
+				"removedDate": "2026-07-01T00:00:00.000Z",
+				"daysOnMarket": 197
+			},
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 699900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "50-Cole-Hill-Rd,-Standish,-ME-04084",
+		"formattedAddress": "50 Cole Hill Rd, Standish, ME 04084",
+		"addressLine1": "50 Cole Hill Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.80058,
+		"longitude": -70.56961,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1885,
+		"lotSize": 217800,
+		"yearBuilt": 1850,
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.749Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670638",
+		"listingAgent": {
+			"name": "Laura Madsen"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-05-07": {
+				"event": "Sale Listing",
+				"price": 674900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-07T00:00:00.000Z",
+				"removedDate": "2026-07-08T00:00:00.000Z",
+				"daysOnMarket": 62
+			},
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "10-Angelwood-Rd,-Standish,-ME-04084",
+		"formattedAddress": "10 Angelwood Rd, Standish, ME 04084",
+		"addressLine1": "10 Angelwood Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.727168,
+		"longitude": -70.637661,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1536,
+		"lotSize": 119790,
+		"yearBuilt": 2000,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.847Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672590",
+		"listingAgent": {
+			"name": "Cynthia Quimby",
+			"phone": "2072700267",
+			"email": "cynthiaquimby@remax.net",
+			"website": "http://www.livemainelivebetter.com"
+		},
+		"listingOffice": {
+			"name": "Remax Infinity",
+			"phone": "2079242264",
+			"email": "remax.381183@fs.remaxintegra.com",
+			"website": "infinity-dexter-me.remax.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "39-Main-St,-Standish,-ME-04085",
+		"formattedAddress": "39 Main St, Standish, ME 04085",
+		"addressLine1": "39 Main St",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.791774,
+		"longitude": -70.65657,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 1,
+		"squareFootage": 3008,
+		"lotSize": 43560,
+		"yearBuilt": 1850,
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.684Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674635",
+		"listingAgent": {
+			"name": "Maureen Zemrak",
+			"phone": "2072722202",
+			"email": "mzemrak@kw.com",
+			"website": "http://www.zemrakfontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Locations Real Estate Group Llc",
+			"phone": "2078051811",
+			"email": "info@locationsinmaine.com"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "121-126-Whites-Point-Rd,-Standish,-ME-04084",
+		"formattedAddress": "121 126 Whites Point Rd, Standish, ME 04084",
+		"addressLine1": "121 126 Whites Point Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.844395,
+		"longitude": -70.47982,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 3336,
+		"lotSize": 13068,
+		"yearBuilt": 1927,
+		"hoa": {
+			"fee": 18
+		},
+		"status": "Active",
+		"price": 1990000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.672Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676337",
+		"listingAgent": {
+			"name": "Duncan Macdougall",
+			"phone": "2072324991",
+			"website": "http://www.homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 1990000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "955-Ossipee-Trl-W,-Standish,-ME-04084",
+		"formattedAddress": "955 Ossipee Trl W, Standish, ME 04084",
+		"addressLine1": "955 Ossipee Trl W",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.738515,
+		"longitude": -70.643151,
+		"propertyType": "Land",
+		"lotSize": 522720,
+		"status": "Active",
+		"price": 285000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.615Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675739",
+		"listingAgent": {
+			"name": "Mark D Floor",
+			"phone": "2074156415",
+			"email": "marksellsmaine@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2024-04-28": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2024-04-28T00:00:00.000Z",
+				"removedDate": "2025-04-28T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "34-Highland-Rd,-Standish,-ME-04084",
+		"formattedAddress": "34 Highland Rd, Standish, ME 04084",
+		"addressLine1": "34 Highland Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.830855,
+		"longitude": -70.470474,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1320,
+		"lotSize": 44431,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.611Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676241",
+		"listingAgent": {
+			"name": "Cindy Dan Cynthia {Cindy} Cox",
+			"phone": "2078945722",
+			"email": "maineporbatebrokers@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2078945722",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "10-Natures-Way,-Standish,-ME-04085",
+		"formattedAddress": "10 Natures Way, Standish, ME 04085",
+		"addressLine1": "10 Natures Way",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.788656,
+		"longitude": -70.609284,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1536,
+		"lotSize": 120226,
+		"yearBuilt": 2002,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-03-16T08:46:08.997Z",
+		"lastSeenDate": "2026-09-12T07:52:49.605Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676175",
+		"listingAgent": {
+			"name": "Josh Plowman",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com",
+			"website": "http://plowmanrealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 529000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": "2026-08-14T00:00:00.000Z",
+				"daysOnMarket": 71
+			},
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "133-Saco-Rd,-Standish,-ME-04084",
+		"formattedAddress": "133 Saco Rd, Standish, ME 04084",
+		"addressLine1": "133 Saco Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.728973,
+		"longitude": -70.627537,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1344,
+		"lotSize": 26136,
+		"yearBuilt": 1978,
+		"status": "Active",
+		"price": 400000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.591Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675575",
+		"listingAgent": {
+			"name": "Collette Conley",
+			"phone": "2074155642",
+			"email": "collette@homesinmaine.com",
+			"website": "http://www.collettesteam.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "77-Whites-Point-Rd,-Standish,-ME-04084",
+		"formattedAddress": "77 Whites Point Rd, Standish, ME 04084",
+		"addressLine1": "77 Whites Point Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.844846,
+		"longitude": -70.476238,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2504,
+		"lotSize": 13068,
+		"yearBuilt": 1920,
+		"hoa": {
+			"fee": 15
+		},
+		"status": "Active",
+		"price": 1500000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.586Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675930",
+		"listingAgent": {
+			"name": "Zachariah Oja",
+			"phone": "2076996998",
+			"email": "zoja@kw.com",
+			"website": "https://propertydreams.me/"
+		},
+		"listingOffice": {
+			"name": "Realty ONE Group Next Level",
+			"phone": "6032523500"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 1500000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "6-Hidden-Creek-Ln,-Standish,-ME-04084",
+		"formattedAddress": "6 Hidden Creek Ln, Standish, ME 04084",
+		"addressLine1": "6 Hidden Creek Ln",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.816405,
+		"longitude": -70.471396,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1938,
+		"lotSize": 64469,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 548500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.463Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677188",
+		"listingAgent": {
+			"name": "Cindy Dan  ",
+			"phone": "2075761615",
+			"email": "cindysdan@yahoo.com",
+			"website": "http://cindysdan.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2078945722",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 548500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "150-Ossipee-Trl-E,-Standish,-ME-04084",
+		"formattedAddress": "150 Ossipee Trl E, Standish, ME 04084",
+		"addressLine1": "150 Ossipee Trl E",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.730445,
+		"longitude": -70.539213,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2106,
+		"lotSize": 261360,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 659000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.434Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676800",
+		"listingAgent": {
+			"name": "Lisa Napolitano",
+			"phone": "2077731990",
+			"email": "lisa.napolitano@cbrealty.com",
+			"website": "http://www.lisanapolitano.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 659000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "6-Deer-Hill-Ave,-Standish,-ME-04084",
+		"formattedAddress": "6 Deer Hill Ave, Standish, ME 04084",
+		"addressLine1": "6 Deer Hill Ave",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.731174,
+		"longitude": -70.599071,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1120,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 1000
+		},
+		"status": "Active",
+		"price": 155300,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.390Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677979",
+		"listingAgent": {
+			"name": "Sylvia Rhodes",
+			"phone": "6154912001",
+			"email": "sylvia@fontaineteam.com",
+			"website": "https://www.brendafontaine.com/realestate/agent/sylvia-rhodes/"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family-The Real Estate Leader",
+			"phone": "2072893830"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 155300,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "850-Richville-Rd,-Standish,-ME-04084",
+		"formattedAddress": "850 Richville Rd, Standish, ME 04084",
+		"addressLine1": "850 Richville Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.801065,
+		"longitude": -70.579526,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2409,
+		"lotSize": 217800,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 649999,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.386Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677534",
+		"listingAgent": {
+			"name": "Joyce Boxer",
+			"phone": "2072727740",
+			"email": "joyce@fobailey.com"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 649999,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "52-Fort-Hill-Rd,-Standish,-ME-04084",
+		"formattedAddress": "52 Fort Hill Rd, Standish, ME 04084",
+		"addressLine1": "52 Fort Hill Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.758967,
+		"longitude": -70.52134,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1780,
+		"lotSize": 13068,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 379000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.384Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677416",
+		"listingAgent": {
+			"name": "Kathleen Mcclelland, Broker",
+			"phone": "2076538482",
+			"email": "kathy@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 379000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "3-Estes-Dr,-Standish,-ME-04085",
+		"formattedAddress": "3 Estes Dr, Standish, ME 04085",
+		"addressLine1": "3 Estes Dr",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.793726,
+		"longitude": -70.598882,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1232,
+		"lotSize": 40946,
+		"yearBuilt": 2018,
+		"status": "Active",
+		"price": 424900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.383Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677803",
+		"listingAgent": {
+			"name": "David Willis",
+			"phone": "2078393390",
+			"email": "david@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Willis Real Estate",
+			"phone": "2078393390",
+			"email": "willisteam@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 424900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "300-Manchester-Rd,-Standish,-ME-04085",
+		"formattedAddress": "300 Manchester Rd, Standish, ME 04085",
+		"addressLine1": "300 Manchester Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.756205,
+		"longitude": -70.6421,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1442,
+		"lotSize": 243936,
+		"yearBuilt": 2017,
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.373Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678072",
+		"listingAgent": {
+			"name": "Casey Hooper",
+			"phone": "2073218668",
+			"email": "casey.hooperblre@gmail.com",
+			"website": "http://www.bluelobsterrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Blue Lobster Real Estate Co.",
+			"phone": "2075538125",
+			"email": "amy@bluelobsterrealestate.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "41-Saco-Rd,-Standish,-ME-04085",
+		"formattedAddress": "41 Saco Rd, Standish, ME 04085",
+		"addressLine1": "41 Saco Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.73447,
+		"longitude": -70.63004,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1152,
+		"lotSize": 30492,
+		"yearBuilt": 1982,
+		"status": "Active",
+		"price": 399999,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-05T06:18:14.745Z",
+		"lastSeenDate": "2026-09-12T05:30:06.135Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679552",
+		"listingAgent": {
+			"name": "Heidi Young",
+			"phone": "2074155466",
+			"email": "heidi@heidisellsmaine.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 399999,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "119-Cape-Rd,-Standish,-ME-04084",
+		"formattedAddress": "119 Cape Rd, Standish, ME 04084",
+		"addressLine1": "119 Cape Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.726594,
+		"longitude": -70.582999,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1626,
+		"lotSize": 130680,
+		"yearBuilt": 1984,
+		"status": "Active",
+		"price": 479000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.528Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679836",
+		"listingAgent": {
+			"name": "Daniel Weber Nicholas Laverriere",
+			"phone": "2078799800",
+			"email": "info@vistareb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 479000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "1159-Pequawket-Trl,-Standish,-ME-04085",
+		"formattedAddress": "1159 Pequawket Trl, Standish, ME 04085",
+		"addressLine1": "1159 Pequawket Trl",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04085",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.794382,
+		"longitude": -70.651335,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 4896,
+		"lotSize": 108900,
+		"yearBuilt": 2023,
+		"status": "Active",
+		"price": 1075000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.526Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679924",
+		"listingAgent": {
+			"name": "Malachi Winslow",
+			"phone": "2077408577",
+			"email": "malachiwinslow@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 1260000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": "2026-08-11T00:00:00.000Z",
+				"daysOnMarket": 53
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 1075000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "14-Eastern-Ln,-Standish,-ME-04084",
+		"formattedAddress": "14 Eastern Ln, Standish, ME 04084",
+		"addressLine1": "14 Eastern Ln",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.752749,
+		"longitude": -70.526734,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2400,
+		"lotSize": 21344,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 715000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.478Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680045",
+		"listingAgent": {
+			"name": "Josh Plowman",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com",
+			"website": "http://plowmanrealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 715000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "24-Easy-St,-Standish,-ME-04084",
+		"formattedAddress": "24 Easy St, Standish, ME 04084",
+		"addressLine1": "24 Easy St",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.824481,
+		"longitude": -70.604577,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1896,
+		"lotSize": 87120,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 564000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.463Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680195",
+		"listingAgent": {
+			"name": "Amy Warner",
+			"phone": "2076422100",
+			"email": "amysellsthe207@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 564000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "1-Sleepy-Hollow-Ln,-Standish,-ME-04084",
+		"formattedAddress": "1 Sleepy Hollow Ln, Standish, ME 04084",
+		"addressLine1": "1 Sleepy Hollow Ln",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.729177,
+		"longitude": -70.602886,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 924,
+		"yearBuilt": 1978,
+		"hoa": {
+			"fee": 1000
+		},
+		"status": "Active",
+		"price": 29900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.460Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680261",
+		"listingAgent": {
+			"name": "William Mandell",
+			"phone": "8573315127",
+			"email": "requestsandoffers1@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Cameron Prestige LLC",
+			"phone": "8573315127"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 29900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "757-Bonny-Eagle-Rd,-Standish,-ME-04084",
+		"formattedAddress": "757 Bonny Eagle Rd, Standish, ME 04084",
+		"addressLine1": "757 Bonny Eagle Rd",
+		"addressLine2": null,
+		"city": "Standish",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04084",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.690768,
+		"longitude": -70.60404,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 960,
+		"lotSize": 17424,
+		"yearBuilt": 1967,
+		"status": "Active",
+		"price": 309000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:14:17.835Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679122",
+		"listingAgent": {
+			"name": "Keith Nicely",
+			"phone": "2076502832",
+			"email": "keith@keithnicely.com",
+			"website": "https://realestatedonenicely.com/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Group",
+			"email": "janice@themainerealestategroup.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 309000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	}
+]

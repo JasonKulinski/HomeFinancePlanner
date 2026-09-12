@@ -1,0 +1,2606 @@
+[
+	{
+		"id": "Libby-Ave,-Gorham,-ME-04038",
+		"formattedAddress": "Libby Ave, Gorham, ME 04038",
+		"addressLine1": "Libby Ave",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.685397,
+		"longitude": -70.410028,
+		"propertyType": "Land",
+		"lotSize": 710028,
+		"status": "Active",
+		"price": 1400000,
+		"listingType": "Standard",
+		"listedDate": "2025-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.698Z",
+		"daysOnMarket": 523,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1618390",
+		"listingAgent": {
+			"name": "Michael Anderson",
+			"phone": "2077722422",
+			"email": "mike@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2025-04-08": {
+				"event": "Sale Listing",
+				"price": 1400000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 523
+			}
+		}
+	},
+	{
+		"id": "30-Boreal-Dr,-Gorham,-ME-04038",
+		"formattedAddress": "30 Boreal Dr, Gorham, ME 04038",
+		"addressLine1": "30 Boreal Dr",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.656131,
+		"longitude": -70.458639,
+		"propertyType": "Land",
+		"lotSize": 237838,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2025-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.692Z",
+		"daysOnMarket": 460,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1626043",
+		"listingAgent": {
+			"name": "Kirk Butterfield",
+			"phone": "2072054007",
+			"email": "kabutterfield@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-06-10": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 460
+			}
+		}
+	},
+	{
+		"id": "35-Rust-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "35 Rust Rd, Gorham, ME 04038",
+		"addressLine1": "35 Rust Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.691848,
+		"longitude": -70.48196,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2176,
+		"lotSize": 229997,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 625000,
+		"listingType": "Standard",
+		"listedDate": "2025-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-31T11:01:23.677Z",
+		"lastSeenDate": "2026-09-12T09:52:04.685Z",
+		"daysOnMarket": 372,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1636800",
+		"listingAgent": {
+			"name": "Rosalyn Gonyea",
+			"email": "lynngonyea@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Lynn Gonyea Real Estate",
+			"phone": "2076257428",
+			"email": "lynngonyea@yahoo.com"
+		},
+		"history": {
+			"2022-05-31": {
+				"event": "Sale Listing",
+				"price": 2000000,
+				"listingType": "Standard",
+				"listedDate": "2022-05-31T00:00:00.000Z",
+				"removedDate": "2024-10-01T00:00:00.000Z",
+				"daysOnMarket": 854
+			},
+			"2024-12-10": {
+				"event": "Sale Listing",
+				"price": 2000000,
+				"listingType": "Standard",
+				"listedDate": "2024-12-10T00:00:00.000Z",
+				"removedDate": "2025-09-06T00:00:00.000Z",
+				"daysOnMarket": 270
+			},
+			"2025-09-06": {
+				"event": "Sale Listing",
+				"price": 625000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 372
+			}
+		}
+	},
+	{
+		"id": "16-Thistle-Dr,-Unit-C,-Gorham,-ME-04038",
+		"formattedAddress": "16 Thistle Dr, Unit C, Gorham, ME 04038",
+		"addressLine1": "16 Thistle Dr",
+		"addressLine2": "Unit C",
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.640278,
+		"longitude": -70.411753,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 750,
+		"lotSize": 43560,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 399000,
+		"listingType": "New Construction",
+		"listedDate": "2025-12-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.660Z",
+		"daysOnMarket": 277,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646069",
+		"listingAgent": {
+			"name": "Anne Ross-murray",
+			"phone": "2078315238",
+			"email": "900601.lead.100219977@cendant.leadrouter.com",
+			"website": "http://annemurray.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2025-12-10": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "New Construction",
+				"listedDate": "2025-12-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 277
+			}
+		}
+	},
+	{
+		"id": "11-Gloria-St,-Gorham,-ME-04038",
+		"formattedAddress": "11 Gloria St, Gorham, ME 04038",
+		"addressLine1": "11 Gloria St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.732968,
+		"longitude": -70.512783,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2150,
+		"lotSize": 65340,
+		"yearBuilt": 1975,
+		"hoa": {
+			"fee": 100
+		},
+		"status": "Active",
+		"price": 519000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.599Z",
+		"daysOnMarket": 150,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658038",
+		"listingAgent": {
+			"name": "Mary Daniels",
+			"phone": "2076712248"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 519000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "117-Mclellan-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "117 Mclellan Rd, Gorham, ME 04038",
+		"addressLine1": "117 Mclellan Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.655242,
+		"longitude": -70.404521,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3457,
+		"lotSize": 54450,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 744500,
+		"listingType": "Standard",
+		"listedDate": "2026-05-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-10-30T10:46:48.063Z",
+		"lastSeenDate": "2026-09-12T08:55:21.289Z",
+		"daysOnMarket": 135,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660165",
+		"listingAgent": {
+			"name": "John Hatcher",
+			"phone": "2077752121",
+			"email": "john@johnhatcher.us",
+			"website": "http://www.johnhatcher.us"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2077752121",
+			"email": "dnickerson1@maine.rr.com",
+			"website": "www.johnhatcher.us"
+		},
+		"history": {
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 744500,
+				"listingType": "Standard",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 135
+			}
+		}
+	},
+	{
+		"id": "12-Bumblebee-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "12 Bumblebee Rd, Gorham, ME 04038",
+		"addressLine1": "12 Bumblebee Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.667635,
+		"longitude": -70.418935,
+		"propertyType": "Land",
+		"lotSize": 202118,
+		"status": "Active",
+		"price": 229000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.285Z",
+		"daysOnMarket": 149,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658234",
+		"listingAgent": {
+			"name": "Keith Nicely",
+			"phone": "2076502832",
+			"email": "keith@keithnicely.com",
+			"website": "https://realestatedonenicely.com/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Group",
+			"email": "janice@themainerealestategroup.com"
+		},
+		"history": {
+			"2026-04-17": {
+				"event": "Sale Listing",
+				"price": 229000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 149
+			}
+		}
+	},
+	{
+		"id": "Wescott-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "Wescott Rd, Gorham, ME 04038",
+		"addressLine1": "Wescott Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.753821,
+		"longitude": -70.490692,
+		"propertyType": "Land",
+		"lotSize": 87120,
+		"status": "Active",
+		"price": 139000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.243Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661747",
+		"listingAgent": {
+			"name": "Daniel Weber Nicholas Laverriere",
+			"phone": "2078799800",
+			"email": "info@vistareb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 139000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "33-Lochwood-Dr,-Gorham,-ME-04038",
+		"formattedAddress": "33 Lochwood Dr, Gorham, ME 04038",
+		"addressLine1": "33 Lochwood Dr",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.671912,
+		"longitude": -70.432257,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2132,
+		"lotSize": 8712,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 779650,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.586Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664569",
+		"listingAgent": {
+			"name": "David Willis",
+			"phone": "2078393390",
+			"email": "david@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Willis Real Estate",
+			"phone": "2078393390",
+			"email": "willisteam@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"history": {
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 779650,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "4-N-Gorham-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "4 N Gorham Rd, Gorham, ME 04038",
+		"addressLine1": "4 N Gorham Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.764575,
+		"longitude": -70.475044,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 3444,
+		"lotSize": 21344,
+		"yearBuilt": 1875,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.570Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665343",
+		"listingAgent": {
+			"name": "Lisa Andrade",
+			"phone": "2072392220",
+			"email": "lisa@dreamhomemaine.com",
+			"website": "http://dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "12-Cedar-Cir,-Gorham,-ME-04038",
+		"formattedAddress": "12 Cedar Cir, Gorham, ME 04038",
+		"addressLine1": "12 Cedar Cir",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.622957,
+		"longitude": -70.446273,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1680,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 613
+		},
+		"status": "Active",
+		"price": 269900,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.543Z",
+		"daysOnMarket": 99,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11801773",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-06-06": {
+				"event": "Sale Listing",
+				"price": 269900,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 99
+			}
+		}
+	},
+	{
+		"id": "18-County-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "18 County Rd, Gorham, ME 04038",
+		"addressLine1": "18 County Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.639371,
+		"longitude": -70.409953,
+		"propertyType": "Land",
+		"lotSize": 174240,
+		"status": "Active",
+		"price": 270000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.876Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668350",
+		"listingAgent": {
+			"name": "Kelly Wentworth, Broker",
+			"phone": "2078314934",
+			"email": "kelly@kellywentworth.com",
+			"website": "http://www.kellywentworth.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 270000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "191-New-Portland-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "191 New Portland Rd, Gorham, ME 04038",
+		"addressLine1": "191 New Portland Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.677818,
+		"longitude": -70.416068,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1966,
+		"lotSize": 87120,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 569000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.849Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668976",
+		"listingAgent": {
+			"name": "Cheri Bonawitz",
+			"phone": "2072406844",
+			"email": "cbonawitz@kw.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 569000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "49-Lochwood-Dr,-Gorham,-ME-04038",
+		"formattedAddress": "49 Lochwood Dr, Gorham, ME 04038",
+		"addressLine1": "49 Lochwood Dr",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.676046,
+		"longitude": -70.432466,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1943,
+		"lotSize": 8712,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 689000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.841Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669122",
+		"listingAgent": {
+			"name": "David Willis",
+			"phone": "2078393390",
+			"email": "david@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Willis Real Estate",
+			"phone": "2078393390",
+			"email": "willisteam@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"history": {
+			"2025-09-19": {
+				"event": "Sale Listing",
+				"price": 649900,
+				"listingType": "New Construction",
+				"listedDate": "2025-09-19T00:00:00.000Z",
+				"removedDate": "2026-06-09T00:00:00.000Z",
+				"daysOnMarket": 263
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 689000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "31-County-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "31 County Rd, Gorham, ME 04038",
+		"addressLine1": "31 County Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.639753,
+		"longitude": -70.426772,
+		"propertyType": "Land",
+		"lotSize": 566280,
+		"status": "Active",
+		"price": 1750000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.776Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670446",
+		"listingAgent": {
+			"name": "David Willis",
+			"phone": "2078393390",
+			"email": "david@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Willis Real Estate",
+			"phone": "2078393390",
+			"email": "willisteam@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 1750000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "County-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "County Rd, Gorham, ME 04038",
+		"addressLine1": "County Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.639986,
+		"longitude": -70.425174,
+		"propertyType": "Land",
+		"lotSize": 413820,
+		"status": "Active",
+		"price": 1295000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.752Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670398",
+		"listingAgent": {
+			"name": "Ashley Kilmartin",
+			"phone": "2078389199",
+			"email": "ashley@landinghomesmaine.com",
+			"website": "http://www.kilmartingroup.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 197000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": "2026-07-06T00:00:00.000Z",
+				"daysOnMarket": 27
+			},
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 1295000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "76-Evergreen-Dr,-Gorham,-ME-04038",
+		"formattedAddress": "76 Evergreen Dr, Gorham, ME 04038",
+		"addressLine1": "76 Evergreen Dr",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.624605,
+		"longitude": -70.451457,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 896,
+		"yearBuilt": 1978,
+		"hoa": {
+			"fee": 613
+		},
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.751Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671029",
+		"listingAgent": {
+			"name": "Sonja Nielsen",
+			"phone": "2076502729",
+			"email": "sonjan@maine.rr.com",
+			"website": "http://www.themainerealestatenetwork.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "387-Mosher-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "387 Mosher Rd, Gorham, ME 04038",
+		"addressLine1": "387 Mosher Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.697153,
+		"longitude": -70.404019,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1176,
+		"lotSize": 44867,
+		"yearBuilt": 2013,
+		"status": "Active",
+		"price": 585000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.877Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671722",
+		"listingAgent": {
+			"name": "Jaime Brochu",
+			"phone": "2077843800",
+			"email": "jaime@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 585000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "156-Barstow-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "156 Barstow Rd, Gorham, ME 04038",
+		"addressLine1": "156 Barstow Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.761724,
+		"longitude": -70.49564,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 4679,
+		"lotSize": 3746160,
+		"yearBuilt": 2011,
+		"status": "Active",
+		"price": 3250000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.863Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672165",
+		"listingAgent": {
+			"name": "The Tufts Team",
+			"phone": "2077125942",
+			"email": "karentufts@gmail.com",
+			"website": "http://cbtre.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Team Real Estate",
+			"phone": "2078924759",
+			"email": "karentufts@gmail.com",
+			"website": "www.cbtre.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 3250000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "13-Bumblebee-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "13 Bumblebee Rd, Gorham, ME 04038",
+		"addressLine1": "13 Bumblebee Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.667349,
+		"longitude": -70.418148,
+		"propertyType": "Land",
+		"lotSize": 327136,
+		"status": "Active",
+		"price": 259000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.861Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672196",
+		"listingAgent": {
+			"name": "Keith Nicely",
+			"phone": "2076502832",
+			"email": "keith@keithnicely.com",
+			"website": "https://realestatedonenicely.com/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Group",
+			"email": "janice@themainerealestategroup.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 259000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "22-Cumberland-Ln,-Gorham,-ME-04038",
+		"formattedAddress": "22 Cumberland Ln, Gorham, ME 04038",
+		"addressLine1": "22 Cumberland Ln",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.6845,
+		"longitude": -70.424822,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2425,
+		"lotSize": 14810,
+		"yearBuilt": 2017,
+		"hoa": {
+			"fee": 30
+		},
+		"status": "Active",
+		"price": 719999,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.819Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672990",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 719999,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "12-Middle-Jam-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "12 Middle Jam Rd, Gorham, ME 04038",
+		"addressLine1": "12 Middle Jam Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.802861,
+		"longitude": -70.454938,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1965,
+		"lotSize": 87120,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 995000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.819Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673408",
+		"listingAgent": {
+			"name": "Whitney Tovar",
+			"phone": "2072057789",
+			"email": "whitney.tovar@kw.com",
+			"website": "http://www.kwlifestyleproperties.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2025-05-23": {
+				"event": "Sale Listing",
+				"price": 104900,
+				"listingType": "Standard",
+				"listedDate": "2025-05-23T00:00:00.000Z",
+				"removedDate": "2025-06-07T00:00:00.000Z",
+				"daysOnMarket": 15
+			},
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "12-Bumblebee-Rd,-Unit-Tbb,-Gorham,-ME-04038",
+		"formattedAddress": "12 Bumblebee Rd, Unit Tbb, Gorham, ME 04038",
+		"addressLine1": "12 Bumblebee Rd",
+		"addressLine2": "Unit Tbb",
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.66703,
+		"longitude": -70.419599,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2984,
+		"lotSize": 202118,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 965000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.758Z",
+		"daysOnMarket": 42,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674466",
+		"listingAgent": {
+			"name": "Keith Nicely",
+			"phone": "2076502832",
+			"email": "keith@keithnicely.com",
+			"website": "https://realestatedonenicely.com/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Group",
+			"email": "janice@themainerealestategroup.com"
+		},
+		"history": {
+			"2026-08-02": {
+				"event": "Sale Listing",
+				"price": 965000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 42
+			}
+		}
+	},
+	{
+		"id": "6-Cyr-Dr,-Gorham,-ME-04038",
+		"formattedAddress": "6 Cyr Dr, Gorham, ME 04038",
+		"addressLine1": "6 Cyr Dr",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.67852,
+		"longitude": -70.411184,
+		"propertyType": "Land",
+		"lotSize": 86684,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.653Z",
+		"daysOnMarket": 41,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674514",
+		"listingAgent": {
+			"name": "Kirk Butterfield",
+			"phone": "2072054007",
+			"email": "kabutterfield@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 41
+			}
+		}
+	},
+	{
+		"id": "56-Morrill-Ave,-Gorham,-ME-04038",
+		"formattedAddress": "56 Morrill Ave, Gorham, ME 04038",
+		"addressLine1": "56 Morrill Ave",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.673625,
+		"longitude": -70.445311,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 832,
+		"lotSize": 7841,
+		"yearBuilt": 1954,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.616Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675174",
+		"listingAgent": {
+			"name": "Libby Cassat",
+			"phone": "2074644455"
+		},
+		"listingOffice": {
+			"name": "Redfin Corporation",
+			"phone": "2078087193",
+			"email": "alexcoon@gmail.com",
+			"website": "www.redfin.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "35-Windswept-Dr,-Unit-13,-Gorham,-ME-04038",
+		"formattedAddress": "35 Windswept Dr, Unit 13, Gorham, ME 04038",
+		"addressLine1": "35 Windswept Dr",
+		"addressLine2": "Unit 13",
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.691895,
+		"longitude": -70.439026,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2146,
+		"lotSize": 10890,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 345
+		},
+		"status": "Active",
+		"price": 659000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.601Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675274",
+		"listingAgent": {
+			"name": "Kelley Skillin-smith",
+			"phone": "2076320813",
+			"email": "kelley@kelsells207.com",
+			"website": "http://www.kelsells207.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 First Choice Realty",
+			"phone": "2078392188",
+			"email": "gregfallc21@gmail.com",
+			"website": "http://www.century21fcr.com/"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 659000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "106-Shaws-Mill-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "106 Shaws Mill Rd, Gorham, ME 04038",
+		"addressLine1": "106 Shaws Mill Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.727783,
+		"longitude": -70.516508,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 996,
+		"lotSize": 32670,
+		"yearBuilt": 1974,
+		"status": "Active",
+		"price": 369000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.589Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675469",
+		"listingAgent": {
+			"name": "Kristin Rofe",
+			"phone": "2076152167",
+			"email": "kristin@themainerealestategroup.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 369000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "164-Main-St,-Gorham,-ME-04038",
+		"formattedAddress": "164 Main St, Gorham, ME 04038",
+		"addressLine1": "164 Main St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.681999,
+		"longitude": -70.43663,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 4515,
+		"lotSize": 37026,
+		"yearBuilt": 1905,
+		"status": "Active",
+		"price": 1250000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.583Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675843",
+		"listingAgent": {
+			"name": "Christy Arnett",
+			"phone": "2076533433",
+			"email": "christy.tmren@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 1250000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "6-Settlers-Way,-Gorham,-ME-04038",
+		"formattedAddress": "6 Settlers Way, Gorham, ME 04038",
+		"addressLine1": "6 Settlers Way",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.70166,
+		"longitude": -70.452763,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3120,
+		"lotSize": 87120,
+		"yearBuilt": 1984,
+		"status": "Active",
+		"price": 824900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.583Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676117",
+		"listingAgent": {
+			"name": "Kelley Skillin-smith",
+			"phone": "2076320813",
+			"email": "kelley@kelsells207.com",
+			"website": "http://www.kelsells207.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 First Choice Realty",
+			"phone": "2078392188",
+			"email": "gregfallc21@gmail.com",
+			"website": "http://www.century21fcr.com/"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 824900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "24-Crockett-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "24 Crockett Rd, Gorham, ME 04038",
+		"addressLine1": "24 Crockett Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.772543,
+		"longitude": -70.472778,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1500,
+		"lotSize": 60984,
+		"yearBuilt": 1980,
+		"status": "Active",
+		"price": 439900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.579Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675948",
+		"listingAgent": {
+			"name": "Jeff Mateja",
+			"phone": "2075532605",
+			"email": "jeff@kwmateja.com",
+			"website": "http://www.jeffsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2075532605",
+			"email": "klrw318@kw.com",
+			"website": "findmainehomesnow.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 439900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "243-Fort-Hill-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "243 Fort Hill Rd, Gorham, ME 04038",
+		"addressLine1": "243 Fort Hill Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.696143,
+		"longitude": -70.45181,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 3712,
+		"lotSize": 59677,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.460Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677129",
+		"listingAgent": {
+			"name": "Melissa Lunt",
+			"phone": "2079679900",
+			"email": "melissa.lunt@nemoves.com",
+			"website": "http://melissalunt.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "10-Newton-Dr,-Gorham,-ME-04038",
+		"formattedAddress": "10 Newton Dr, Gorham, ME 04038",
+		"addressLine1": "10 Newton Dr",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.666495,
+		"longitude": -70.408449,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2576,
+		"lotSize": 69696,
+		"yearBuilt": 1974,
+		"status": "Active",
+		"price": 529000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.445Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676644",
+		"listingAgent": {
+			"name": "Kaylin Dore",
+			"phone": "2076530227"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 529000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "23-Fairway-Common-Dr,-Unit-6,-Gorham,-ME-04038",
+		"formattedAddress": "23 Fairway Common Dr, Unit 6, Gorham, ME 04038",
+		"addressLine1": "23 Fairway Common Dr",
+		"addressLine2": "Unit 6",
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.654425,
+		"longitude": -70.415098,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2184,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 375
+		},
+		"status": "Active",
+		"price": 655000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.432Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676900",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 655000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "18-Fairway-Common-Dr,-Unit-1,-Gorham,-ME-04038",
+		"formattedAddress": "18 Fairway Common Dr, Unit 1, Gorham, ME 04038",
+		"addressLine1": "18 Fairway Common Dr",
+		"addressLine2": "Unit 1",
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.654229,
+		"longitude": -70.413415,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2184,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 375
+		},
+		"status": "Active",
+		"price": 650000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.431Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676903",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "103-Harding-Bridge-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "103 Harding Bridge Rd, Gorham, ME 04038",
+		"addressLine1": "103 Harding Bridge Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.714447,
+		"longitude": -70.440829,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2994,
+		"lotSize": 134600,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 799900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.406Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677060",
+		"listingAgent": {
+			"name": "John Parvin",
+			"phone": "2076713958",
+			"email": "parvinhouses@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Dan Anderson Real Estate, Inc.",
+			"phone": "2078783206",
+			"email": "dan@danandersonrealestate.com",
+			"website": "dareinc.mainelistings.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 799900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "11-Windswept-Dr,-Unit-2,-Gorham,-ME-04038",
+		"formattedAddress": "11 Windswept Dr, Unit 2, Gorham, ME 04038",
+		"addressLine1": "11 Windswept Dr",
+		"addressLine2": "Unit 2",
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.690525,
+		"longitude": -70.439827,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2589,
+		"lotSize": 10890,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 345
+		},
+		"status": "Active",
+		"price": 699500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.391Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677171",
+		"listingAgent": {
+			"name": "Mindy Sanderson",
+			"phone": "2077479985",
+			"email": "mainerealestatesales@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 699500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "37-Lochwood-Dr,-Gorham,-ME-04038",
+		"formattedAddress": "37 Lochwood Dr, Gorham, ME 04038",
+		"addressLine1": "37 Lochwood Dr",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.67354,
+		"longitude": -70.435727,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1803,
+		"lotSize": 8712,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 659000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.375Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677813",
+		"listingAgent": {
+			"name": "David Willis",
+			"phone": "2078393390",
+			"email": "david@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Willis Real Estate",
+			"phone": "2078393390",
+			"email": "willisteam@willisrealestate.com",
+			"website": "http://www.willisrealestate.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 659000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "152-State-St,-Gorham,-ME-04038",
+		"formattedAddress": "152 State St, Gorham, ME 04038",
+		"addressLine1": "152 State St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.678669,
+		"longitude": -70.452738,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2736,
+		"lotSize": 16553,
+		"yearBuilt": 2012,
+		"status": "Active",
+		"price": 615000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.282Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678186",
+		"listingAgent": {
+			"name": "Karen Jones",
+			"phone": "2077731990",
+			"email": "karen.jones@nemoves.com",
+			"website": "http://www.karenjonesandcompany.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 615000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "114-County-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "114 County Rd, Gorham, ME 04038",
+		"addressLine1": "114 County Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.638851,
+		"longitude": -70.426465,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 4894,
+		"lotSize": 217800,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 895000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.275Z",
+		"daysOnMarket": 15,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678290",
+		"listingAgent": {
+			"name": "Shonn Moulton",
+			"phone": "2073184423",
+			"email": "shonn@themoultongroupre.com",
+			"website": "http://www.themoultongroupre.com/"
+		},
+		"listingOffice": {
+			"name": "Black Bear Realty",
+			"phone": "2073184423",
+			"email": "shonn@themoultongroupre.com"
+		},
+		"history": {
+			"2026-08-29": {
+				"event": "Sale Listing",
+				"price": 895000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 15
+			}
+		}
+	},
+	{
+		"id": "21-Mighty-St,-Gorham,-ME-04038",
+		"formattedAddress": "21 Mighty St, Gorham, ME 04038",
+		"addressLine1": "21 Mighty St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.721846,
+		"longitude": -70.466445,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 3030,
+		"lotSize": 429502,
+		"yearBuilt": 2023,
+		"status": "Active",
+		"price": 1375000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.252Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678568",
+		"listingAgent": {
+			"name": "Josh Plowman",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com",
+			"website": "http://plowmanrealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 1375000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "South-St,-Gorham,-ME-04038",
+		"formattedAddress": "South St, Gorham, ME 04038",
+		"addressLine1": "South St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.65888,
+		"longitude": -70.440017,
+		"propertyType": "Land",
+		"lotSize": 4607777,
+		"status": "Active",
+		"price": 2200000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-01-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.214Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678877",
+		"listingAgent": {
+			"name": "Thomas Gadbois, Agent",
+			"phone": "2074098339",
+			"email": "tom@tomsellsmaine.com",
+			"website": "http://www.fobaileyrealestate.com/agents/8666-thomas-gadbois"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2023-12-11": {
+				"event": "Sale Listing",
+				"price": 215000,
+				"listingType": "Standard",
+				"listedDate": "2023-12-11T00:00:00.000Z",
+				"removedDate": "2025-10-07T00:00:00.000Z",
+				"daysOnMarket": 666
+			},
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 2200000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "332-Gray-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "332 Gray Rd, Gorham, ME 04038",
+		"addressLine1": "332 Gray Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.720121,
+		"longitude": -70.424779,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1840,
+		"lotSize": 33977,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 430000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.193Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679103",
+		"listingAgent": {
+			"name": "Julie Chandler",
+			"phone": "2076508927",
+			"email": "julie@pogorealty.com",
+			"website": "http://www.pogorealty.com"
+		},
+		"listingOffice": {
+			"name": "Po-Go Realty",
+			"phone": "2078393309",
+			"email": "peter@pogorealty.com",
+			"website": "www.pogorealty.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 430000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "420-Main-St,-Gorham,-ME-04038",
+		"formattedAddress": "420 Main St, Gorham, ME 04038",
+		"addressLine1": "420 Main St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.689358,
+		"longitude": -70.416906,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1872,
+		"lotSize": 13939,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 574900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.179Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679165",
+		"listingAgent": {
+			"name": "Michael Mullett",
+			"phone": "2074150415",
+			"email": "mike@bluecanoerealty.com",
+			"website": "http://www.michaelmullett.com/"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 574900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "59-Patio-Park-Ln,-Gorham,-ME-04038",
+		"formattedAddress": "59 Patio Park Ln, Gorham, ME 04038",
+		"addressLine1": "59 Patio Park Ln",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.681183,
+		"longitude": -70.416797,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 840,
+		"yearBuilt": 1971,
+		"hoa": {
+			"fee": 635
+		},
+		"status": "Active",
+		"price": 84900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.574Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679629",
+		"listingAgent": {
+			"name": "Adrian Griffin",
+			"phone": "2073180460",
+			"email": "ajmikegriffin@yahoo.com",
+			"website": "http://www.pogorealty.com"
+		},
+		"listingOffice": {
+			"name": "Po-Go Realty",
+			"phone": "2078393309",
+			"email": "peter@pogorealty.com",
+			"website": "www.pogorealty.com"
+		},
+		"history": {
+			"2025-05-19": {
+				"event": "Sale Listing",
+				"price": 79900,
+				"listingType": "Standard",
+				"listedDate": "2025-05-19T00:00:00.000Z",
+				"removedDate": "2025-06-24T00:00:00.000Z",
+				"daysOnMarket": 36
+			},
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 84900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "7-Louise-St,-Gorham,-ME-04038",
+		"formattedAddress": "7 Louise St, Gorham, ME 04038",
+		"addressLine1": "7 Louise St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.665663,
+		"longitude": -70.409224,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2614,
+		"lotSize": 77972,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 649000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.557Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679715",
+		"listingAgent": {
+			"name": "Jessica Falcone",
+			"phone": "2077808900",
+			"email": "jfalcone@legacysir.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "29-Tow-Path-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "29 Tow Path Rd, Gorham, ME 04038",
+		"addressLine1": "29 Tow Path Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.733512,
+		"longitude": -70.427288,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1568,
+		"lotSize": 40511,
+		"yearBuilt": 2010,
+		"status": "Active",
+		"price": 537000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.555Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679739",
+		"listingAgent": {
+			"name": "Bonnie Kent",
+			"phone": "2078783206",
+			"email": "bonniekent05@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Dan Anderson Real Estate, Inc.",
+			"phone": "2078783206",
+			"email": "dan@danandersonrealestate.com",
+			"website": "dareinc.mainelistings.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 537000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "15-Lincoln-St,-Gorham,-ME-04038",
+		"formattedAddress": "15 Lincoln St, Gorham, ME 04038",
+		"addressLine1": "15 Lincoln St",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.677022,
+		"longitude": -70.439711,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1144,
+		"lotSize": 11326,
+		"yearBuilt": 1932,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-10-02T11:07:42.237Z",
+		"lastSeenDate": "2026-09-12T05:22:48.546Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679795",
+		"listingAgent": {
+			"name": "Daniel Weber Nicholas Laverriere",
+			"phone": "2078799800",
+			"email": "info@vistareb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "7-Kiara-Ln,-Unit-26,-Gorham,-ME-04038",
+		"formattedAddress": "7 Kiara Ln, Unit 26, Gorham, ME 04038",
+		"addressLine1": "7 Kiara Ln",
+		"addressLine2": "Unit 26",
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.667618,
+		"longitude": -70.432167,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1772,
+		"lotSize": 14810,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 334
+		},
+		"status": "Active",
+		"price": 630000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.541Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679805",
+		"listingAgent": {
+			"name": "Martin Macisso",
+			"phone": "2074004413",
+			"email": "mmacisso@outlook.com",
+			"website": "https://www.facebook.com/martymacissorealestateagent"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 630000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "18-Winslow-Rd,-Gorham,-ME-04038",
+		"formattedAddress": "18 Winslow Rd, Gorham, ME 04038",
+		"addressLine1": "18 Winslow Rd",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.739612,
+		"longitude": -70.452761,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1603,
+		"lotSize": 60113,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.519Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679889",
+		"listingAgent": {
+			"name": "Terry Bragdon Fletcher",
+			"phone": "2078384270",
+			"email": "tbragdonfletcher@gmail.com",
+			"website": "http://www.regencyme.com"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "5-Spruce-Ln,-Gorham,-ME-04038",
+		"formattedAddress": "5 Spruce Ln, Gorham, ME 04038",
+		"addressLine1": "5 Spruce Ln",
+		"addressLine2": null,
+		"city": "Gorham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04038",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.673889,
+		"longitude": -70.438841,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 2009,
+		"lotSize": 10454,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T09:29:28.115Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677048",
+		"listingAgent": {
+			"name": "Aaron Chadbourne",
+			"phone": "2078395122",
+			"email": "aaron@godemetria.com",
+			"website": "http://www.buymaine.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Group",
+			"phone": "8008645122",
+			"email": "demetria@godemetria.com",
+			"website": "www.godemetria.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	}
+]

@@ -1,0 +1,5236 @@
+[
+	{
+		"id": "1042-Roosevelt-Trl,-Windham,-ME-04062",
+		"formattedAddress": "1042 Roosevelt Trl, Windham, ME 04062",
+		"addressLine1": "1042 Roosevelt Trl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.862463,
+		"longitude": -70.465877,
+		"propertyType": "Land",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1390,
+		"lotSize": 34412,
+		"yearBuilt": 1875,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2025-12-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.705Z",
+		"daysOnMarket": 283,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1645370",
+		"listingAgent": {
+			"name": "Lawrence Eliason",
+			"phone": "2078925668",
+			"email": "larryeliasonbcb@gmail.com",
+			"website": "http://www.buttscommercialbrokers.com"
+		},
+		"listingOffice": {
+			"name": "Butts Commercial Brokers",
+			"phone": "2078925668",
+			"email": "merger5000@aol.com"
+		},
+		"history": {
+			"2025-03-12": {
+				"event": "Sale Listing",
+				"price": 289900,
+				"listingType": "Standard",
+				"listedDate": "2025-03-12T00:00:00.000Z",
+				"removedDate": "2025-05-31T00:00:00.000Z",
+				"daysOnMarket": 80
+			},
+			"2025-12-04": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2025-12-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 283
+			}
+		}
+	},
+	{
+		"id": "30-Marshall-Valley-Rd,-Windham,-ME-04062",
+		"formattedAddress": "30 Marshall Valley Rd, Windham, ME 04062",
+		"addressLine1": "30 Marshall Valley Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.746517,
+		"longitude": -70.392404,
+		"propertyType": "Land",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1620,
+		"lotSize": 91912,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 130000,
+		"listingType": "Standard",
+		"listedDate": "2025-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.696Z",
+		"daysOnMarket": 482,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1623139",
+		"listingAgent": {
+			"name": "William Noone",
+			"phone": "2073299440",
+			"email": "billy@alliancemaine.com",
+			"website": "www.alliancemaine.com"
+		},
+		"listingOffice": {
+			"name": "Getty Real Estate Services, Llc",
+			"phone": "2073293335",
+			"email": "ed@trelg.com"
+		},
+		"history": {
+			"2025-05-19": {
+				"event": "Sale Listing",
+				"price": 130000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 482
+			}
+		}
+	},
+	{
+		"id": "Turning-Leaf-Dr,-Windham,-ME-04062",
+		"formattedAddress": "Turning Leaf Dr, Windham, ME 04062",
+		"addressLine1": "Turning Leaf Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.827121,
+		"longitude": -70.432936,
+		"propertyType": "Land",
+		"lotSize": 257440,
+		"status": "Active",
+		"price": 1995000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.682Z",
+		"daysOnMarket": 339,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640377",
+		"listingAgent": {
+			"name": "Michael Anderson",
+			"phone": "2077722422",
+			"email": "mike@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2025-10-09": {
+				"event": "Sale Listing",
+				"price": 1995000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 339
+			}
+		}
+	},
+	{
+		"id": "99-Enterprise-Dr,-Windham,-ME-04062",
+		"formattedAddress": "99 Enterprise Dr, Windham, ME 04062",
+		"addressLine1": "99 Enterprise Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.864902,
+		"longitude": -70.453063,
+		"propertyType": "Land",
+		"lotSize": 161172,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2025-11-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.675Z",
+		"daysOnMarket": 310,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1643005",
+		"listingAgent": {
+			"name": "Lawrence Eliason",
+			"phone": "2078925668",
+			"email": "larryeliasonbcb@gmail.com",
+			"website": "http://www.buttscommercialbrokers.com"
+		},
+		"listingOffice": {
+			"name": "Butts Commercial Brokers",
+			"phone": "2078925668",
+			"email": "merger5000@aol.com"
+		},
+		"history": {
+			"2024-05-07": {
+				"event": "Sale Listing",
+				"price": 429000,
+				"listingType": "Standard",
+				"listedDate": "2024-05-07T00:00:00.000Z",
+				"removedDate": "2025-05-07T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2025-11-07": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2025-11-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 310
+			}
+		}
+	},
+	{
+		"id": "32-Pennywhistle-Dr,-Windham,-ME-04062",
+		"formattedAddress": "32 Pennywhistle Dr, Windham, ME 04062",
+		"addressLine1": "32 Pennywhistle Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.746919,
+		"longitude": -70.411848,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2600,
+		"lotSize": 31799,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 799500,
+		"listingType": "Standard",
+		"listedDate": "2026-03-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.659Z",
+		"daysOnMarket": 185,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654081",
+		"listingAgent": {
+			"name": "John Hatcher",
+			"phone": "2077752121",
+			"email": "john@johnhatcher.us",
+			"website": "http://www.johnhatcher.us"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2077752121",
+			"email": "dnickerson1@maine.rr.com",
+			"website": "www.johnhatcher.us"
+		},
+		"history": {
+			"2025-05-01": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-01T00:00:00.000Z",
+				"removedDate": "2025-05-09T00:00:00.000Z",
+				"daysOnMarket": 8
+			},
+			"2026-03-12": {
+				"event": "Sale Listing",
+				"price": 799500,
+				"listingType": "Standard",
+				"listedDate": "2026-03-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 185
+			}
+		}
+	},
+	{
+		"id": "78-Lakeside-Dr,-Windham,-ME-04062",
+		"formattedAddress": "78 Lakeside Dr, Windham, ME 04062",
+		"addressLine1": "78 Lakeside Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.823103,
+		"longitude": -70.335232,
+		"propertyType": "Land",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1600,
+		"lotSize": 40075,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 162000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.610Z",
+		"daysOnMarket": 156,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657379",
+		"listingOffice": {
+			"name": "Engel & Volkers Portsmouth",
+			"phone": "6034988978",
+			"email": "rosi.andrews@evrealestate.com"
+		},
+		"history": {
+			"2026-04-10": {
+				"event": "Sale Listing",
+				"price": 162000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 156
+			}
+		}
+	},
+	{
+		"id": "Goose-Pond-Rd,-Lot-10,-Windham,-ME-04062",
+		"formattedAddress": "Goose Pond Rd, Lot 10, Windham, ME 04062",
+		"addressLine1": "Goose Pond Rd",
+		"addressLine2": "Lot 10",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.811083,
+		"longitude": -70.333595,
+		"propertyType": "Land",
+		"lotSize": 1566853,
+		"status": "Active",
+		"price": 998900,
+		"listingType": "Standard",
+		"listedDate": "2026-03-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.606Z",
+		"daysOnMarket": 167,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655720",
+		"listingAgent": {
+			"name": "Belinda Desmond",
+			"phone": "6174629826",
+			"email": "belindadesmond@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-03-30": {
+				"event": "Sale Listing",
+				"price": 998900,
+				"listingType": "Standard",
+				"listedDate": "2026-03-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 167
+			}
+		}
+	},
+	{
+		"id": "68-Sky-Dr,-Windham,-ME-04062",
+		"formattedAddress": "68 Sky Dr, Windham, ME 04062",
+		"addressLine1": "68 Sky Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.843253,
+		"longitude": -70.412145,
+		"propertyType": "Land",
+		"lotSize": 69696,
+		"hoa": {
+			"fee": 8
+		},
+		"status": "Active",
+		"price": 180000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.291Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659899",
+		"listingAgent": {
+			"name": "Hannah Richard",
+			"phone": "2076937000",
+			"email": "hannahrichard@masiello.com",
+			"website": "http://www.hannahrichard.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Locations Real Estate Group Llc",
+			"phone": "2078051811",
+			"email": "info@locationsinmaine.com"
+		},
+		"history": {
+			"2025-05-22": {
+				"event": "Sale Listing",
+				"price": 180000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-22T00:00:00.000Z",
+				"removedDate": "2025-11-20T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 180000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "25-Daybreak-Ln,-Unit-8,-Windham,-ME-04062",
+		"formattedAddress": "25 Daybreak Ln, Unit 8, Windham, ME 04062",
+		"addressLine1": "25 Daybreak Ln",
+		"addressLine2": "Unit 8",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.754602,
+		"longitude": -70.361561,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1832,
+		"lotSize": 1568160,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 655
+		},
+		"status": "Active",
+		"price": 699000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.287Z",
+		"daysOnMarket": 130,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660895",
+		"listingAgent": {
+			"name": "Crystal Chandonnet",
+			"phone": "6034342377",
+			"email": "crystal.chandonnet@verani.com"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "margherita.verani@verani.com",
+			"website": "http://www.verani.com"
+		},
+		"history": {
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 130
+			}
+		}
+	},
+	{
+		"id": "39-Cook-Rd,-Windham,-ME-04062",
+		"formattedAddress": "39 Cook Rd, Windham, ME 04062",
+		"addressLine1": "39 Cook Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.775448,
+		"longitude": -70.429884,
+		"propertyType": "Land",
+		"lotSize": 80150,
+		"status": "Active",
+		"price": 235000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.270Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659202",
+		"listingAgent": {
+			"name": "Cristina Eugen",
+			"phone": "2077101477",
+			"email": "cristinaeugen@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 235000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "Cook-Rd,-Windham,-ME-04062",
+		"formattedAddress": "Cook Rd, Windham, ME 04062",
+		"addressLine1": "Cook Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.77562,
+		"longitude": -70.428671,
+		"propertyType": "Land",
+		"lotSize": 128938,
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.269Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659210",
+		"listingAgent": {
+			"name": "Cristina Eugen",
+			"phone": "2077101477",
+			"email": "cristinaeugen@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "1112-Roosevelt-Trl,-Apt-16,-Windham,-ME-04062",
+		"formattedAddress": "1112 Roosevelt Trl, Apt 16, Windham, ME 04062",
+		"addressLine1": "1112 Roosevelt Trl",
+		"addressLine2": "Apt 16",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.871429,
+		"longitude": -70.465834,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1216,
+		"lotSize": 6534,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 329
+		},
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.246Z",
+		"daysOnMarket": 130,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660980",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 130
+			}
+		}
+	},
+	{
+		"id": "6-Dolley-Farm-Rd,-Unit-3,-Windham,-ME-04062",
+		"formattedAddress": "6 Dolley Farm Rd, Unit 3, Windham, ME 04062",
+		"addressLine1": "6 Dolley Farm Rd",
+		"addressLine2": "Unit 3",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.752081,
+		"longitude": -70.432046,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1550,
+		"lotSize": 1342519,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 479000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.237Z",
+		"daysOnMarket": 129,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661164",
+		"listingAgent": {
+			"name": "Marie Flaherty, The Flaherty Group",
+			"phone": "2077769160",
+			"email": "marie@tfre.com",
+			"website": "http://www.theflahertygroup.com"
+		},
+		"listingOffice": {
+			"name": "The Flaherty Group",
+			"phone": "2072218585",
+			"website": "www.theflahertygroup.com"
+		},
+		"history": {
+			"2026-05-07": {
+				"event": "Sale Listing",
+				"price": 479000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 129
+			}
+		}
+	},
+	{
+		"id": "8-Shepherd-Ln,-Unit-4,-Windham,-ME-04062",
+		"formattedAddress": "8 Shepherd Ln, Unit 4, Windham, ME 04062",
+		"addressLine1": "8 Shepherd Ln",
+		"addressLine2": "Unit 4",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.83151,
+		"longitude": -70.399883,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1352,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 469000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.226Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662462",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "20-Ladyslipper-Dr,-Windham,-ME-04062",
+		"formattedAddress": "20 Ladyslipper Dr, Windham, ME 04062",
+		"addressLine1": "20 Ladyslipper Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.858214,
+		"longitude": -70.416525,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2016,
+		"lotSize": 12197,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 1595000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.213Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663172",
+		"listingAgent": {
+			"name": "Judy George",
+			"phone": "2077732345",
+			"email": "judygeorge@homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Judy George Realty",
+			"phone": "2073192445",
+			"email": "jgeorgemaine@hotmail.com"
+		},
+		"history": {
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 1595000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "26-Dolley-Farm-Rd,-Unit-12,-Windham,-ME-04062",
+		"formattedAddress": "26 Dolley Farm Rd, Unit 12, Windham, ME 04062",
+		"addressLine1": "26 Dolley Farm Rd",
+		"addressLine2": "Unit 12",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.791303,
+		"longitude": -70.402534,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1540,
+		"lotSize": 1342519,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 484000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.207Z",
+		"daysOnMarket": 128,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661344",
+		"listingAgent": {
+			"name": "Marie Flaherty, The Flaherty Group",
+			"phone": "2077769160",
+			"email": "marie@tfre.com",
+			"website": "http://www.theflahertygroup.com"
+		},
+		"listingOffice": {
+			"name": "The Flaherty Group",
+			"phone": "2072218585",
+			"website": "www.theflahertygroup.com"
+		},
+		"history": {
+			"2026-05-08": {
+				"event": "Sale Listing",
+				"price": 484000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 128
+			}
+		}
+	},
+	{
+		"id": "20-Freeman-Ct,-Windham,-ME-04062",
+		"formattedAddress": "20 Freeman Ct, Windham, ME 04062",
+		"addressLine1": "20 Freeman Ct",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.851053,
+		"longitude": -70.459028,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 4602,
+		"lotSize": 97139,
+		"yearBuilt": 1990,
+		"hoa": {
+			"fee": 160
+		},
+		"status": "Active",
+		"price": 1485000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.198Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663400",
+		"listingAgent": {
+			"name": "Corinne Holt",
+			"phone": "2078416823",
+			"email": "cori@themainerealestategroup.com"
+		},
+		"listingOffice": {
+			"name": "Holt Realty",
+			"phone": "2078416823",
+			"email": "holtrealtyllc@gmail.com"
+		},
+		"history": {
+			"2026-05-21": {
+				"event": "Sale Listing",
+				"price": 1485000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "44-Johnson-Rd,-Windham,-ME-04062",
+		"formattedAddress": "44 Johnson Rd, Windham, ME 04062",
+		"addressLine1": "44 Johnson Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.772198,
+		"longitude": -70.371541,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 5,
+		"squareFootage": 4580,
+		"lotSize": 80150,
+		"yearBuilt": 1979,
+		"hoa": {
+			"fee": 29
+		},
+		"status": "Active",
+		"price": 1175000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-20T08:44:51.279Z",
+		"lastSeenDate": "2026-09-12T08:55:21.194Z",
+		"daysOnMarket": 113,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663644",
+		"listingAgent": {
+			"name": "Laura Burden",
+			"phone": "2073326458",
+			"email": "lauraburden3@gmail.com",
+			"website": "beaconrealtymaine.com"
+		},
+		"listingOffice": {
+			"name": "Beacon Realty",
+			"phone": "2077761083",
+			"email": "shea@beaconrealtymaine.com",
+			"website": "www.beaconrealtymaine.com"
+		},
+		"history": {
+			"2026-05-23": {
+				"event": "Sale Listing",
+				"price": 1175000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 113
+			}
+		}
+	},
+	{
+		"id": "8-Beaulieu-Dr,-Windham,-ME-04062",
+		"formattedAddress": "8 Beaulieu Dr, Windham, ME 04062",
+		"addressLine1": "8 Beaulieu Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.76425,
+		"longitude": -70.430466,
+		"propertyType": "Land",
+		"lotSize": 85813,
+		"status": "Active",
+		"price": 79900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.620Z",
+		"daysOnMarket": 94,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666662",
+		"listingAgent": {
+			"name": "Richard Yost",
+			"phone": "2078387773",
+			"email": "rickyost63@gmail.com",
+			"website": "https://www.nexthomebyrick.com"
+		},
+		"listingOffice": {
+			"name": "Maine Values Real Estate",
+			"phone": "2078387773",
+			"email": "rickyost63@gmail.com"
+		},
+		"history": {
+			"2025-04-29": {
+				"event": "Sale Listing",
+				"price": 85000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-29T00:00:00.000Z",
+				"removedDate": "2026-06-11T00:00:00.000Z",
+				"daysOnMarket": 408
+			},
+			"2026-06-11": {
+				"event": "Sale Listing",
+				"price": 79900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 94
+			}
+		}
+	},
+	{
+		"id": "Tavern-Hl,-Windham,-ME-04062",
+		"formattedAddress": "Tavern Hl, Windham, ME 04062",
+		"addressLine1": "Tavern Hl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.835161,
+		"longitude": -70.361721,
+		"propertyType": "Land",
+		"lotSize": 409464,
+		"hoa": {
+			"fee": 65
+		},
+		"status": "Active",
+		"price": 445000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.618Z",
+		"daysOnMarket": 97,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666008",
+		"listingAgent": {
+			"name": "Michael Rogers",
+			"phone": "2073189984",
+			"email": "mrogers@ownnewengland.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-03-19": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-19T00:00:00.000Z",
+				"removedDate": "2026-04-08T00:00:00.000Z",
+				"daysOnMarket": 20
+			},
+			"2026-06-08": {
+				"event": "Sale Listing",
+				"price": 445000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 97
+			}
+		}
+	},
+	{
+		"id": "549-Roosevelt-Trl,-Windham,-ME-04062",
+		"formattedAddress": "549 Roosevelt Trl, Windham, ME 04062",
+		"addressLine1": "549 Roosevelt Trl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.814832,
+		"longitude": -70.426216,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 798,
+		"lotSize": 24394,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 329900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.583Z",
+		"daysOnMarket": 105,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664762",
+		"listingAgent": {
+			"name": "Todd Harvey",
+			"phone": "2076503750",
+			"email": "harveybrothersteam@yahoo.com",
+			"website": "https://toddharvey.pinetreeme.com/"
+		},
+		"listingOffice": {
+			"name": "Pine Tree Realty of Maine",
+			"phone": "2078938006",
+			"email": "pinetreeme@outlook.com"
+		},
+		"history": {
+			"2026-05-31": {
+				"event": "Sale Listing",
+				"price": 329900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 105
+			}
+		}
+	},
+	{
+		"id": "40-Highland-Cliff-Rd,-Windham,-ME-04062",
+		"formattedAddress": "40 Highland Cliff Rd, Windham, ME 04062",
+		"addressLine1": "40 Highland Cliff Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.754616,
+		"longitude": -70.38634,
+		"propertyType": "Land",
+		"lotSize": 80150,
+		"status": "Active",
+		"price": 189900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.573Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665096",
+		"listingAgent": {
+			"name": "Reginald Butts",
+			"phone": "2078925668",
+			"email": "merger5000@aol.com",
+			"website": "http://www.hcipropertiesllc.com"
+		},
+		"listingOffice": {
+			"name": "Butts Commercial Brokers",
+			"phone": "2078925668",
+			"email": "merger5000@aol.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 189900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "24-Leonards-Way,-Windham,-ME-04062",
+		"formattedAddress": "24 Leonards Way, Windham, ME 04062",
+		"addressLine1": "24 Leonards Way",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.750598,
+		"longitude": -70.38296,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2981,
+		"lotSize": 30056,
+		"yearBuilt": 2021,
+		"status": "Active",
+		"price": 799000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.558Z",
+		"daysOnMarket": 94,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666776",
+		"listingAgent": {
+			"name": "Brittany Copp",
+			"phone": "2076197571",
+			"email": "brittanycopp@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-06-11": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 94
+			}
+		}
+	},
+	{
+		"id": "132-Roosevelt-Trl,-Windham,-ME-04062",
+		"formattedAddress": "132 Roosevelt Trl, Windham, ME 04062",
+		"addressLine1": "132 Roosevelt Trl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.765899,
+		"longitude": -70.376678,
+		"propertyType": "Land",
+		"lotSize": 79279,
+		"status": "Active",
+		"price": 155000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T03:26:31.268Z",
+		"lastSeenDate": "2026-09-12T08:52:34.524Z",
+		"daysOnMarket": 89,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667414",
+		"listingAgent": {
+			"name": "Suphi Turker",
+			"phone": "2075537325",
+			"email": "sturker@homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-16": {
+				"event": "Sale Listing",
+				"price": 155000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 89
+			}
+		}
+	},
+	{
+		"id": "Hall-Rd,-Windham,-ME-04062",
+		"formattedAddress": "Hall Rd, Windham, ME 04062",
+		"addressLine1": "Hall Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.796365,
+		"longitude": -70.41467,
+		"propertyType": "Land",
+		"lotSize": 385506,
+		"status": "Active",
+		"price": 749900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.869Z",
+		"daysOnMarket": 82,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668478",
+		"listingAgent": {
+			"name": "Lauren Jordan",
+			"phone": "2074612390"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-06-23": {
+				"event": "Sale Listing",
+				"price": 749900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 82
+			}
+		}
+	},
+	{
+		"id": "22-Montgomery-Rd,-Windham,-ME-04062",
+		"formattedAddress": "22 Montgomery Rd, Windham, ME 04062",
+		"addressLine1": "22 Montgomery Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.743422,
+		"longitude": -70.39932,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1255,
+		"lotSize": 123275,
+		"yearBuilt": 1969,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.803Z",
+		"daysOnMarket": 75,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669526",
+		"listingAgent": {
+			"name": "Jen Whitehead",
+			"phone": "2074058503",
+			"email": "jen@dreamhomemaine.com",
+			"website": "http://www.dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-06-30": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 75
+			}
+		}
+	},
+	{
+		"id": "15-Sleepy-Hollow-Rd,-Windham,-ME-04062",
+		"formattedAddress": "15 Sleepy Hollow Rd, Windham, ME 04062",
+		"addressLine1": "15 Sleepy Hollow Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.862624,
+		"longitude": -70.467376,
+		"propertyType": "Single Family",
+		"bedrooms": 7,
+		"bathrooms": 4.5,
+		"squareFootage": 4872,
+		"lotSize": 91476,
+		"yearBuilt": 2018,
+		"status": "Active",
+		"price": 4450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.772Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669939",
+		"listingAgent": {
+			"name": "The Tufts Team",
+			"phone": "2077125942",
+			"email": "karentufts@gmail.com",
+			"website": "http://cbtre.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Team Real Estate",
+			"phone": "2078924759",
+			"email": "karentufts@gmail.com",
+			"website": "www.cbtre.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 4450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "104-Harvest-Hill-Rd,-Windham,-ME-04062",
+		"formattedAddress": "104 Harvest Hill Rd, Windham, ME 04062",
+		"addressLine1": "104 Harvest Hill Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.880853,
+		"longitude": -70.45304,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1164,
+		"lotSize": 39204,
+		"yearBuilt": 2012,
+		"status": "Active",
+		"price": 520000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.770Z",
+		"daysOnMarket": 71,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670259",
+		"listingAgent": {
+			"name": "Jason Saphire",
+			"phone": "8772495478",
+			"email": "entryonly.lead@gmail.com",
+			"website": "http://www.entryonly.com/"
+		},
+		"listingOffice": {
+			"name": "HomeZu.com",
+			"phone": "8772495478",
+			"email": "listings@homezu.com",
+			"website": "http://www.homezu.com"
+		},
+		"history": {
+			"2025-09-10": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-10T00:00:00.000Z",
+				"removedDate": "2025-10-18T00:00:00.000Z",
+				"daysOnMarket": 38
+			},
+			"2026-07-04": {
+				"event": "Sale Listing",
+				"price": 520000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 71
+			}
+		}
+	},
+	{
+		"id": "21-Land-Of-Nod-Rd,-Windham,-ME-04062",
+		"formattedAddress": "21 Land Of Nod Rd, Windham, ME 04062",
+		"addressLine1": "21 Land Of Nod Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.752276,
+		"longitude": -70.368776,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2507,
+		"lotSize": 417740,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 699000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-12-04T10:34:51.172Z",
+		"lastSeenDate": "2026-09-12T08:45:51.763Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671030",
+		"listingAgent": {
+			"name": "Jessica Falcone",
+			"phone": "2077808900",
+			"email": "jfalcone@legacysir.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-09-08": {
+				"event": "Sale Listing",
+				"price": 710000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-08T00:00:00.000Z",
+				"removedDate": "2025-10-02T00:00:00.000Z",
+				"daysOnMarket": 24
+			},
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "14-Emerson-Dr,-Windham,-ME-04062",
+		"formattedAddress": "14 Emerson Dr, Windham, ME 04062",
+		"addressLine1": "14 Emerson Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.835501,
+		"longitude": -70.42536,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 3444,
+		"lotSize": 53143,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 469900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.899Z",
+		"daysOnMarket": 56,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672553",
+		"listingAgent": {
+			"name": "Justin Robbins",
+			"phone": "2074502107",
+			"email": "justin@sellingmainehomes.com",
+			"website": "sellingmainehomes.com"
+		},
+		"listingOffice": {
+			"name": "Excellence Realty",
+			"phone": "2072004703",
+			"email": "eric@sellingmainehomes.com"
+		},
+		"history": {
+			"2025-12-19": {
+				"event": "Sale Listing",
+				"price": 665000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-19T00:00:00.000Z",
+				"removedDate": "2026-05-28T00:00:00.000Z",
+				"daysOnMarket": 160
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 665000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": "2026-07-19T00:00:00.000Z",
+				"daysOnMarket": 23
+			},
+			"2026-07-19": {
+				"event": "Sale Listing",
+				"price": 469900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 56
+			}
+		}
+	},
+	{
+		"id": "7-Hall-Rd,-Windham,-ME-04062",
+		"formattedAddress": "7 Hall Rd, Windham, ME 04062",
+		"addressLine1": "7 Hall Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.794594,
+		"longitude": -70.414527,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1363,
+		"lotSize": 56192,
+		"yearBuilt": 2021,
+		"status": "Active",
+		"price": 565000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.895Z",
+		"daysOnMarket": 57,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672449",
+		"listingAgent": {
+			"name": "Kristal Fecteau",
+			"phone": "2076719712",
+			"email": "kristal.fecteau@outlook.com",
+			"website": "https://www.facebook.com/kristalfecteaurealtor"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Team Real Estate",
+			"phone": "2078924759",
+			"email": "karentufts@gmail.com",
+			"website": "www.cbtre.com"
+		},
+		"history": {
+			"2026-07-18": {
+				"event": "Sale Listing",
+				"price": 565000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 57
+			}
+		}
+	},
+	{
+		"id": "305-Windham-Center-Rd,-Windham,-ME-04062",
+		"formattedAddress": "305 Windham Center Rd, Windham, ME 04062",
+		"addressLine1": "305 Windham Center Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.783396,
+		"longitude": -70.397999,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3217,
+		"lotSize": 143748,
+		"yearBuilt": 1801,
+		"status": "Active",
+		"price": 625000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.871Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671879",
+		"listingAgent": {
+			"name": "Jennifer Sweeney",
+			"phone": "2079926019",
+			"email": "jennifersweeney@kw.com",
+			"website": "http://jennifer.findmainerealestate.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 625000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "439-Falmouth-Rd,-Windham,-ME-04062",
+		"formattedAddress": "439 Falmouth Rd, Windham, ME 04062",
+		"addressLine1": "439 Falmouth Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.832325,
+		"longitude": -70.402259,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1215,
+		"lotSize": 65776,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.845Z",
+		"daysOnMarket": 56,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672556",
+		"listingAgent": {
+			"name": "Amanda Salovitch",
+			"phone": "2079518021"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-07-19": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 56
+			}
+		}
+	},
+	{
+		"id": "3-Lieutenants-Dr,-Windham,-ME-04062",
+		"formattedAddress": "3 Lieutenants Dr, Windham, ME 04062",
+		"addressLine1": "3 Lieutenants Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.812445,
+		"longitude": -70.445275,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1960,
+		"lotSize": 50965,
+		"yearBuilt": 2019,
+		"hoa": {
+			"fee": 67
+		},
+		"status": "Active",
+		"price": 624900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.845Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672622",
+		"listingAgent": {
+			"name": "Matthew Tifft",
+			"phone": "2077136701"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 624900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "26-Whites-Bridge-Rd,-Unit-26,-Windham,-ME-04062",
+		"formattedAddress": "26 Whites Bridge Rd, Unit 26, Windham, ME 04062",
+		"addressLine1": "26 Whites Bridge Rd",
+		"addressLine2": "Unit 26",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.846438,
+		"longitude": -70.450482,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1250,
+		"lotSize": 16553,
+		"yearBuilt": 1984,
+		"hoa": {
+			"fee": 513
+		},
+		"status": "Active",
+		"price": 294000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.832Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673179",
+		"listingAgent": {
+			"name": "The Libby Starnes Team",
+			"phone": "2078388051",
+			"email": "info@libbystarnesteam.com",
+			"website": "https://www.libbystarnesteamhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2078388051",
+			"email": "info@libbystarnsteam.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 294000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "214-Tandberg-Trl,-Windham,-ME-04062",
+		"formattedAddress": "214 Tandberg Trl, Windham, ME 04062",
+		"addressLine1": "214 Tandberg Trl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.839599,
+		"longitude": -70.414345,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2052,
+		"lotSize": 23087,
+		"yearBuilt": 1990,
+		"status": "Active",
+		"price": 523999,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.830Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672947",
+		"listingAgent": {
+			"name": "Jhon Florez",
+			"phone": "2078387687",
+			"email": "jhonflorez@masiello.com",
+			"website": "https://jhonflorez.masiello.com/"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2025-08-27": {
+				"event": "Sale Listing",
+				"price": 479800,
+				"listingType": "Standard",
+				"listedDate": "2025-08-27T00:00:00.000Z",
+				"removedDate": "2025-09-11T00:00:00.000Z",
+				"daysOnMarket": 15
+			},
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 523999,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "605-River-Rd,-Windham,-ME-04062",
+		"formattedAddress": "605 River Rd, Windham, ME 04062",
+		"addressLine1": "605 River Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.769632,
+		"longitude": -70.437563,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2720,
+		"lotSize": 737035,
+		"yearBuilt": 1995,
+		"status": "Active",
+		"price": 849900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.792Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673747",
+		"listingAgent": {
+			"name": "Marc Gup",
+			"phone": "2075531386",
+			"email": "lnorris@kw.com",
+			"website": "http://www.findyourmainehome.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 849900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "14-Family-Cir,-Unit-2,-Windham,-ME-04062",
+		"formattedAddress": "14 Family Cir, Unit 2, Windham, ME 04062",
+		"addressLine1": "14 Family Cir",
+		"addressLine2": "Unit 2",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.846889,
+		"longitude": -70.463333,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1135,
+		"lotSize": 10454,
+		"yearBuilt": 1940,
+		"hoa": {
+			"fee": 167
+		},
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.791Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673244",
+		"listingAgent": {
+			"name": "Ronald Cote",
+			"phone": "6035021766",
+			"email": "ron@realestate2000menh.com"
+		},
+		"listingOffice": {
+			"name": "Real Estate 2000 ME/NH",
+			"phone": "2076369996",
+			"email": "info@realestate2000menh.com",
+			"website": "http://www.realestate2000menh.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "47-Running-Brook-Rd,-Windham,-ME-04062",
+		"formattedAddress": "47 Running Brook Rd, Windham, ME 04062",
+		"addressLine1": "47 Running Brook Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.8346,
+		"longitude": -70.42083,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1570,
+		"lotSize": 20909,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 469999,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.787Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673773",
+		"listingAgent": {
+			"name": "Belinda Desmond",
+			"phone": "6174629826",
+			"email": "belindadesmond@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-07-18": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2025-07-18T00:00:00.000Z",
+				"removedDate": "2025-08-07T00:00:00.000Z",
+				"daysOnMarket": 20
+			},
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 469999,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "36-Belvedere-Dr,-Windham,-ME-04062",
+		"formattedAddress": "36 Belvedere Dr, Windham, ME 04062",
+		"addressLine1": "36 Belvedere Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.830608,
+		"longitude": -70.418951,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1962,
+		"lotSize": 16553,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 70
+		},
+		"status": "Active",
+		"price": 570000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.775Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673848",
+		"listingAgent": {
+			"name": "Tammy Richard",
+			"phone": "2075532427",
+			"email": "trichard@kw.com",
+			"website": "https://tammyrichard.kw.com/agent/tammy-richard/93434"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-03-16": {
+				"event": "Sale Listing",
+				"price": 589000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-16T00:00:00.000Z",
+				"removedDate": "2026-06-18T00:00:00.000Z",
+				"daysOnMarket": 94
+			},
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 570000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "1-Marigold-Ln,-Windham,-ME-04062",
+		"formattedAddress": "1 Marigold Ln, Windham, ME 04062",
+		"addressLine1": "1 Marigold Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.789265,
+		"longitude": -70.407379,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2560,
+		"lotSize": 20038,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 489000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.686Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674354",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 489000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "1-Morgan-Ln,-Windham,-ME-04062",
+		"formattedAddress": "1 Morgan Ln, Windham, ME 04062",
+		"addressLine1": "1 Morgan Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.752974,
+		"longitude": -70.380621,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 1428,
+		"lotSize": 80150,
+		"yearBuilt": 1995,
+		"status": "Active",
+		"price": 529000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-10-21T08:13:18.435Z",
+		"lastSeenDate": "2026-09-12T07:52:49.681Z",
+		"daysOnMarket": 35,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675418",
+		"listingAgent": {
+			"name": "Jonathan Larssen",
+			"phone": "2076076221",
+			"email": "jon@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-08-09": {
+				"event": "Sale Listing",
+				"price": 529000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 35
+			}
+		}
+	},
+	{
+		"id": "William-Knight-Rd,-Windham,-ME-04062",
+		"formattedAddress": "William Knight Rd, Windham, ME 04062",
+		"addressLine1": "William Knight Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.825553,
+		"longitude": -70.412197,
+		"propertyType": "Land",
+		"lotSize": 40075,
+		"status": "Active",
+		"price": 180000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-11-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.667Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675438",
+		"listingAgent": {
+			"name": "Andrew Griffin",
+			"phone": "2074022791",
+			"email": "agriffin@alliancemaine.com",
+			"website": "http://www.alliancemaine.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2024-11-01": {
+				"event": "Sale Listing",
+				"price": 160000,
+				"listingType": "Standard",
+				"listedDate": "2024-11-01T00:00:00.000Z",
+				"removedDate": "2024-11-28T00:00:00.000Z",
+				"daysOnMarket": 27
+			},
+			"2025-03-25": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-25T00:00:00.000Z",
+				"removedDate": "2025-04-06T00:00:00.000Z",
+				"daysOnMarket": 12
+			},
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 180000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "409-Pope-Rd,-Windham,-ME-04062",
+		"formattedAddress": "409 Pope Rd, Windham, ME 04062",
+		"addressLine1": "409 Pope Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.816427,
+		"longitude": -70.43285,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1466,
+		"lotSize": 12197,
+		"yearBuilt": 1946,
+		"status": "Active",
+		"price": 410000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-02-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.665Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675520",
+		"listingAgent": {
+			"name": "Bill Bergeron - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766523",
+			"email": "bill@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 410000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "25-Abby-Rd,-Windham,-ME-04062",
+		"formattedAddress": "25 Abby Rd, Windham, ME 04062",
+		"addressLine1": "25 Abby Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.836242,
+		"longitude": -70.435875,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1248,
+		"lotSize": 15246,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 415000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.618Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675904",
+		"listingAgent": {
+			"name": "Rodney Charest",
+			"phone": "2075764953",
+			"email": "rod@meservier.com",
+			"website": "https://rodcharest.meservierhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "48-Johnson-Rd,-Windham,-ME-04062",
+		"formattedAddress": "48 Johnson Rd, Windham, ME 04062",
+		"addressLine1": "48 Johnson Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.772225,
+		"longitude": -70.371663,
+		"propertyType": "Land",
+		"lotSize": 56628,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 157000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.616Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675364",
+		"listingAgent": {
+			"name": "Stephen Welsh",
+			"phone": "2077490403",
+			"email": "stevesellsmaine@aol.com",
+			"website": "http://westernmaineproperties.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 157000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "65-High-St,-Windham,-ME-04062",
+		"formattedAddress": "65 High St, Windham, ME 04062",
+		"addressLine1": "65 High St",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735412,
+		"longitude": -70.421017,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1508,
+		"lotSize": 30056,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 479000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.612Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675310",
+		"listingAgent": {
+			"name": "Timothy Flaherty",
+			"phone": "2072218585",
+			"email": "tim@tfre.com",
+			"website": "http://www.tfre.com"
+		},
+		"listingOffice": {
+			"name": "The Flaherty Group",
+			"phone": "2072218585",
+			"website": "www.theflahertygroup.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 479000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "129-Forbes-Ln,-Windham,-ME-04062",
+		"formattedAddress": "129 Forbes Ln, Windham, ME 04062",
+		"addressLine1": "129 Forbes Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.831242,
+		"longitude": -70.414864,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2332,
+		"lotSize": 20038,
+		"yearBuilt": 1974,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.610Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675094",
+		"listingAgent": {
+			"name": "Joel Turgo",
+			"phone": "2076998963",
+			"email": "joelturgo@rogcompass.com",
+			"website": "https://joelturgo.myrealtyonegroup.com/"
+		},
+		"listingOffice": {
+			"name": "Elevate Realty LLC",
+			"phone": "2073314565",
+			"email": "info@elevatemaine.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "Betty-Ln,-Lot-2,-Windham,-ME-04062",
+		"formattedAddress": "Betty Ln, Lot 2, Windham, ME 04062",
+		"addressLine1": "Betty Ln",
+		"addressLine2": "Lot 2",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.748518,
+		"longitude": -70.409055,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3300,
+		"lotSize": 30056,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1100000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.604Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675788",
+		"listingAgent": {
+			"name": "Andrea Page",
+			"phone": "2078799800",
+			"email": "andrea.page@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-04-14": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-14T00:00:00.000Z",
+				"removedDate": "2025-07-09T00:00:00.000Z",
+				"daysOnMarket": 86
+			},
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 1100000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "12-Natalie-Ln,-Windham,-ME-04062",
+		"formattedAddress": "12 Natalie Ln, Windham, ME 04062",
+		"addressLine1": "12 Natalie Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.825521,
+		"longitude": -70.408934,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2006,
+		"lotSize": 80150,
+		"yearBuilt": 2008,
+		"status": "Active",
+		"price": 725000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.601Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675307",
+		"listingAgent": {
+			"name": "Timothy Crosta",
+			"phone": "2077563822",
+			"email": "reph@rephchorew.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "5-Cliff-Dr,-Windham,-ME-04062",
+		"formattedAddress": "5 Cliff Dr, Windham, ME 04062",
+		"addressLine1": "5 Cliff Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.781022,
+		"longitude": -70.386134,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2016,
+		"lotSize": 80150,
+		"yearBuilt": 2013,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.596Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675497",
+		"listingAgent": {
+			"name": "Amy Krikken",
+			"phone": "2073171338",
+			"email": "abkrikken@gmail.com",
+			"website": "https://www.bhgre.com/better-homes-and-gardens-real-estate-the-masiello-group-10865c/amy-brochu_krikken-412307a"
+		},
+		"listingOffice": {
+			"name": "Rockstar Real Estate",
+			"phone": "2073171338",
+			"email": "abkrikken@gmail.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "12-Stillwater-Dr,-Apt-1137,-Windham,-ME-04062",
+		"formattedAddress": "12 Stillwater Dr, Apt 1137, Windham, ME 04062",
+		"addressLine1": "12 Stillwater Dr",
+		"addressLine2": "Apt 1137",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.833551,
+		"longitude": -70.442758,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 766,
+		"lotSize": 108464,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 309
+		},
+		"status": "Active",
+		"price": 299900,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.595Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675505",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "29-Lake-Ave,-Windham,-ME-04062",
+		"formattedAddress": "29 Lake Ave, Windham, ME 04062",
+		"addressLine1": "29 Lake Ave",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.864976,
+		"longitude": -70.467341,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1731,
+		"lotSize": 17860,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.595Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675468",
+		"listingAgent": {
+			"name": "Austin Hanthorn",
+			"phone": "2078087193",
+			"email": "austin.hanthron@redfin.com"
+		},
+		"listingOffice": {
+			"name": "Redfin Corporation",
+			"phone": "2078087193",
+			"email": "alexcoon@gmail.com",
+			"website": "www.redfin.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "2-Shepherd-Ln,-Unit-1,-Windham,-ME-04062",
+		"formattedAddress": "2 Shepherd Ln, Unit 1, Windham, ME 04062",
+		"addressLine1": "2 Shepherd Ln",
+		"addressLine2": "Unit 1",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.831293,
+		"longitude": -70.400388,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1706,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 525000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.580Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676306",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "23-Meagans-Way,-Unit-12,-Windham,-ME-04062",
+		"formattedAddress": "23 Meagans Way, Unit 12, Windham, ME 04062",
+		"addressLine1": "23 Meagans Way",
+		"addressLine2": "Unit 12",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.807934,
+		"longitude": -70.423164,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1088,
+		"lotSize": 1315076,
+		"yearBuilt": 1990,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 339900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.456Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676481",
+		"listingAgent": {
+			"name": "Peter Mason",
+			"phone": "2076328822",
+			"email": "peter@pogorealty.com",
+			"website": "http://pogorealty.com/bin/web/real_estate/ar55449/agents/detail/k12216/1121103470.html"
+		},
+		"listingOffice": {
+			"name": "Po-Go Realty",
+			"phone": "2078393309",
+			"email": "peter@pogorealty.com",
+			"website": "www.pogorealty.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 339900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "15-Alpine-Dr,-Windham,-ME-04062",
+		"formattedAddress": "15 Alpine Dr, Windham, ME 04062",
+		"addressLine1": "15 Alpine Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.858246,
+		"longitude": -70.401241,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2458,
+		"lotSize": 87991,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 975000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.452Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676501",
+		"listingAgent": {
+			"name": "Kristen Roy",
+			"phone": "2076718149",
+			"email": "kristen@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com/realestate/"
+		},
+		"listingOffice": {
+			"name": "Elevate Realty LLC",
+			"phone": "2073314565",
+			"email": "info@elevatemaine.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 975000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "27-Motorcycle-Dr,-Windham,-ME-04062",
+		"formattedAddress": "27 Motorcycle Dr, Windham, ME 04062",
+		"addressLine1": "27 Motorcycle Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.829316,
+		"longitude": -70.39402,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2772,
+		"lotSize": 81022,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 639900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.450Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676585",
+		"listingAgent": {
+			"name": "Janisa Geyer",
+			"phone": "2079398163",
+			"email": "janisa.geyer@verani.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2025-05-08": {
+				"event": "Sale Listing",
+				"price": 599999,
+				"listingType": "Standard",
+				"listedDate": "2025-05-08T00:00:00.000Z",
+				"removedDate": "2025-08-19T00:00:00.000Z",
+				"daysOnMarket": 103
+			},
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 639900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "227-Tandberg-Trl,-Windham,-ME-04062",
+		"formattedAddress": "227 Tandberg Trl, Windham, ME 04062",
+		"addressLine1": "227 Tandberg Trl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.839367,
+		"longitude": -70.411399,
+		"propertyType": "Land",
+		"lotSize": 22216,
+		"status": "Active",
+		"price": 225000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.449Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676593",
+		"listingOffice": {
+			"name": "The Maine Agency",
+			"phone": "2076157791",
+			"email": "jaydengaudreau101@gmail.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "58-Lower-Beach-Rd,-Windham,-ME-04062",
+		"formattedAddress": "58 Lower Beach Rd, Windham, ME 04062",
+		"addressLine1": "58 Lower Beach Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.78851,
+		"longitude": -70.359678,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 4,
+		"squareFootage": 3036,
+		"lotSize": 6098,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1199000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.448Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676599",
+		"listingAgent": {
+			"name": "Andrea Page",
+			"phone": "2078799800",
+			"email": "andrea.page@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 1199000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "42-Main-St,-Windham,-ME-04062",
+		"formattedAddress": "42 Main St, Windham, ME 04062",
+		"addressLine1": "42 Main St",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.738082,
+		"longitude": -70.426238,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2092,
+		"lotSize": 139392,
+		"yearBuilt": 1905,
+		"status": "Active",
+		"price": 279900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.447Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654327",
+		"listingAgent": {
+			"name": "Justin Douglass",
+			"phone": "2073185582",
+			"email": "justin@justinwdouglass.com",
+			"website": "http://www.justinwdouglass.com"
+		},
+		"listingOffice": {
+			"name": "Albert Neal Real Estate Company",
+			"phone": "2073185582",
+			"email": "justindouglass207@gmail.com"
+		},
+		"history": {
+			"2026-03-15": {
+				"event": "Sale Listing",
+				"price": 289888,
+				"listingType": "Standard",
+				"listedDate": "2026-03-15T00:00:00.000Z",
+				"removedDate": "2026-05-16T00:00:00.000Z",
+				"daysOnMarket": 62
+			},
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 279900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "274-Pope-Rd,-Windham,-ME-04062",
+		"formattedAddress": "274 Pope Rd, Windham, ME 04062",
+		"addressLine1": "274 Pope Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.795928,
+		"longitude": -70.427411,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"squareFootage": 4924,
+		"lotSize": 497891,
+		"yearBuilt": 1790,
+		"status": "Active",
+		"price": 2200000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-10-21T10:18:01.865Z",
+		"lastSeenDate": "2026-09-12T06:00:31.444Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676654",
+		"listingAgent": {
+			"name": "Sandra Wendland",
+			"phone": "2072337788",
+			"email": "swendland@legacysir.com",
+			"website": "http://www.legacysir.com/swendland"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 2200000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "98-Vista-Dr,-Windham,-ME-04062",
+		"formattedAddress": "98 Vista Dr, Windham, ME 04062",
+		"addressLine1": "98 Vista Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.787946,
+		"longitude": -70.367255,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 1813,
+		"lotSize": 8276,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 17
+		},
+		"status": "Active",
+		"price": 829000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.417Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677792",
+		"listingAgent": {
+			"name": "Heidi Nottonson",
+			"phone": "2076158836",
+			"email": "heidi@heidinottonson.com",
+			"website": "http://www.heidinottonson.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 829000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "14-Scout-Ln,-Windham,-ME-04062",
+		"formattedAddress": "14 Scout Ln, Windham, ME 04062",
+		"addressLine1": "14 Scout Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.770234,
+		"longitude": -70.364728,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1344,
+		"lotSize": 50094,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 90
+		},
+		"status": "Active",
+		"price": 599000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.411Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677072",
+		"listingAgent": {
+			"name": "The Libby Starnes Team",
+			"phone": "2078388051",
+			"email": "info@libbystarnesteam.com",
+			"website": "https://www.libbystarnesteamhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2078388051",
+			"email": "info@libbystarnsteam.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "54-Provost-Dr,-Unit-54,-Windham,-ME-04062",
+		"formattedAddress": "54 Provost Dr, Unit 54, Windham, ME 04062",
+		"addressLine1": "54 Provost Dr",
+		"addressLine2": "Unit 54",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.818517,
+		"longitude": -70.425979,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1880,
+		"yearBuilt": 2001,
+		"hoa": {
+			"fee": 320
+		},
+		"status": "Active",
+		"price": 429000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.405Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677852",
+		"listingAgent": {
+			"name": "Teri Ouellette",
+			"phone": "2075532687",
+			"email": "teriouellettegroupinfo@gmail.com",
+			"website": "http://theteriouellettegroup.yourkwagent.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 429000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "29-Willow-Dr,-Windham,-ME-04062",
+		"formattedAddress": "29 Willow Dr, Windham, ME 04062",
+		"addressLine1": "29 Willow Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.726995,
+		"longitude": -70.400959,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3401,
+		"lotSize": 182516,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 799000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.402Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677481",
+		"listingAgent": {
+			"name": "Bridget King Jason Miller",
+			"phone": "2078053716",
+			"email": "info@kingmillerrealestate.com",
+			"website": "http://kingmillerrealestate.com"
+		},
+		"listingOffice": {
+			"name": "King + Miller Real Estate",
+			"phone": "2078053716",
+			"email": "jason@kingmillerrealestate.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "12-Getaway-Rd,-Windham,-ME-04062",
+		"formattedAddress": "12 Getaway Rd, Windham, ME 04062",
+		"addressLine1": "12 Getaway Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.806641,
+		"longitude": -70.359244,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 544,
+		"lotSize": 9583,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.400Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677118",
+		"listingAgent": {
+			"name": "Patricia Gallant",
+			"phone": "2077731990",
+			"email": "pattie.gallant@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "16-Pheasant-Ridge-Dr,-Windham,-ME-04062",
+		"formattedAddress": "16 Pheasant Ridge Dr, Windham, ME 04062",
+		"addressLine1": "16 Pheasant Ridge Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.782682,
+		"longitude": -70.382898,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2155,
+		"lotSize": 50965,
+		"yearBuilt": 2006,
+		"status": "Active",
+		"price": 649500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.388Z",
+		"daysOnMarket": 21,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677400",
+		"listingAgent": {
+			"name": "Yvonne  Myer",
+			"phone": "2074854670",
+			"email": "yvonnesellsmaine@gmail.com",
+			"website": "http://www.yvonnemyer.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2078945722",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-08-23": {
+				"event": "Sale Listing",
+				"price": 649500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 21
+			}
+		}
+	},
+	{
+		"id": "23-Tate-Ln,-Windham,-ME-04062",
+		"formattedAddress": "23 Tate Ln, Windham, ME 04062",
+		"addressLine1": "23 Tate Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.785115,
+		"longitude": -70.408771,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2400,
+		"lotSize": 50530,
+		"yearBuilt": 1990,
+		"status": "Active",
+		"price": 624900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.386Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677738",
+		"listingAgent": {
+			"name": "Michael And Lauryn Hamilton",
+			"phone": "2075708998",
+			"email": "info@homesweetmaine.com",
+			"website": "http://homesweetmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 624900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "10-Stillwater-Dr,-Apt-2129,-Windham,-ME-04062",
+		"formattedAddress": "10 Stillwater Dr, Apt 2129, Windham, ME 04062",
+		"addressLine1": "10 Stillwater Dr",
+		"addressLine2": "Apt 2129",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.855092,
+		"longitude": -70.452563,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 991,
+		"lotSize": 108464,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 399
+		},
+		"status": "Active",
+		"price": 335000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.383Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677710",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 335000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "483-Falmouth-Rd,-Windham,-ME-04062",
+		"formattedAddress": "483 Falmouth Rd, Windham, ME 04062",
+		"addressLine1": "483 Falmouth Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.834635,
+		"longitude": -70.410481,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2722,
+		"lotSize": 26136,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 609900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.380Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678093",
+		"listingAgent": {
+			"name": "Timberly Muncey",
+			"phone": "2075771148",
+			"email": "tksellsmaine@gmail.com",
+			"website": "http://tksellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 609900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "2-Victoria-Ln,-Windham,-ME-04062",
+		"formattedAddress": "2 Victoria Ln, Windham, ME 04062",
+		"addressLine1": "2 Victoria Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.741643,
+		"longitude": -70.421005,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2416,
+		"lotSize": 50094,
+		"yearBuilt": 2008,
+		"status": "Active",
+		"price": 799000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.368Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678130",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "8-Port-Dr,-Unit-8,-Windham,-ME-04062",
+		"formattedAddress": "8 Port Dr, Unit 8, Windham, ME 04062",
+		"addressLine1": "8 Port Dr",
+		"addressLine2": "Unit 8",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.834142,
+		"longitude": -70.43161,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1395,
+		"lotSize": 15682,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 460000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.367Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678100",
+		"listingAgent": {
+			"name": "Brandon Robb Samantha Mckague",
+			"phone": "2076323787"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2025-01-21": {
+				"event": "Sale Listing",
+				"price": 379000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-21T00:00:00.000Z",
+				"removedDate": "2025-02-16T00:00:00.000Z",
+				"daysOnMarket": 26
+			},
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 460000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "12-Birchwood-Ave,-Windham,-ME-04062",
+		"formattedAddress": "12 Birchwood Ave, Windham, ME 04062",
+		"addressLine1": "12 Birchwood Ave",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.836723,
+		"longitude": -70.41352,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1642,
+		"lotSize": 15246,
+		"yearBuilt": 1971,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-10-21T08:13:18.432Z",
+		"lastSeenDate": "2026-09-12T05:30:06.277Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678237",
+		"listingAgent": {
+			"name": "Robert Norton",
+			"phone": "2078921522"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "2076510836",
+			"email": "jdamico@brandsbyintegra.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "233-Smith-Rd,-Windham,-ME-04062",
+		"formattedAddress": "233 Smith Rd, Windham, ME 04062",
+		"addressLine1": "233 Smith Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.860831,
+		"longitude": -70.415334,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3377,
+		"lotSize": 24394,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 1955000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.267Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678376",
+		"listingAgent": {
+			"name": "Judy George",
+			"phone": "2077732345",
+			"email": "judygeorge@homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Judy George Realty",
+			"phone": "2073192445",
+			"email": "jgeorgemaine@hotmail.com"
+		},
+		"history": {
+			"2025-06-07": {
+				"event": "Sale Listing",
+				"price": 1783000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-07T00:00:00.000Z",
+				"removedDate": "2025-10-07T00:00:00.000Z",
+				"daysOnMarket": 122
+			},
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 1955000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "705-Roosevelt-Trl,-Windham,-ME-04062",
+		"formattedAddress": "705 Roosevelt Trl, Windham, ME 04062",
+		"addressLine1": "705 Roosevelt Trl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.83064,
+		"longitude": -70.43467,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2160,
+		"lotSize": 30056,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 579000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.255Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678544",
+		"listingAgent": {
+			"name": "Thomas Noonan",
+			"phone": "2078387851",
+			"email": "tnoonan207@gmail.com",
+			"website": "http://www.alliedmaine.com"
+		},
+		"listingOffice": {
+			"name": "Allied Real Estate",
+			"phone": "2078922214",
+			"email": "kellykeenanremax@gmail.com",
+			"website": "http://www.alliedmainehomes.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "16-Birdsong-Ln,-Windham,-ME-04062",
+		"formattedAddress": "16 Birdsong Ln, Windham, ME 04062",
+		"addressLine1": "16 Birdsong Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.789374,
+		"longitude": -70.368224,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1664,
+		"lotSize": 20473,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 550000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.230Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678732",
+		"listingAgent": {
+			"name": "Cheryl Roy-stuteville",
+			"phone": "2072813265",
+			"email": "cherylroy@remax.net"
+		},
+		"listingOffice": {
+			"name": "Remax Coastal",
+			"phone": "2077736400",
+			"email": "remaxcoastaloffice@gmail.com",
+			"website": "coastal-hollis-center-me.remax.com"
+		},
+		"history": {
+			"2025-10-12": {
+				"event": "Sale Listing",
+				"price": 118000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-12T00:00:00.000Z",
+				"removedDate": "2025-12-10T00:00:00.000Z",
+				"daysOnMarket": 59
+			},
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "229-Tandberg-Trl,-Windham,-ME-04062",
+		"formattedAddress": "229 Tandberg Trl, Windham, ME 04062",
+		"addressLine1": "229 Tandberg Trl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.839391,
+		"longitude": -70.41103,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1168,
+		"lotSize": 25700,
+		"yearBuilt": 1994,
+		"status": "Active",
+		"price": 389000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.199Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679055",
+		"listingAgent": {
+			"name": "Daniel Mclellan",
+			"phone": "2073108159",
+			"email": "danmclellan8@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 389000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "180-Highland-Cliff-Rd,-Windham,-ME-04062",
+		"formattedAddress": "180 Highland Cliff Rd, Windham, ME 04062",
+		"addressLine1": "180 Highland Cliff Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.734439,
+		"longitude": -70.394276,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2667,
+		"lotSize": 174240,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 579000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.197Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679283",
+		"listingAgent": {
+			"name": "Garrett Mcdonnell",
+			"phone": "2074151457",
+			"email": "garrett@ateammaine.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2025-11-13": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-13T00:00:00.000Z",
+				"removedDate": "2025-12-10T00:00:00.000Z",
+				"daysOnMarket": 27
+			},
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "1-Derringer-Dr,-Windham,-ME-04062",
+		"formattedAddress": "1 Derringer Dr, Windham, ME 04062",
+		"addressLine1": "1 Derringer Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.821907,
+		"longitude": -70.434404,
+		"propertyType": "Land",
+		"lotSize": 29185,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.189Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679170",
+		"listingAgent": {
+			"name": "Michael A Jacobson",
+			"phone": "2077490270",
+			"email": "jacobson@majre.me",
+			"website": "http://www.michaeljacobsonrealestate.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "14-Abenaki-Dr,-Windham,-ME-04062",
+		"formattedAddress": "14 Abenaki Dr, Windham, ME 04062",
+		"addressLine1": "14 Abenaki Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.790611,
+		"longitude": -70.438499,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2084,
+		"lotSize": 20038,
+		"yearBuilt": 2019,
+		"hoa": {
+			"fee": 20
+		},
+		"status": "Active",
+		"price": 625000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.188Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679160",
+		"listingAgent": {
+			"name": "Brett Davis",
+			"phone": "2078659919",
+			"email": "brettsteam@brettdavisre.com",
+			"website": "https://brettdavis.exprealty.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 625000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "8-Pettingill-Rd,-Windham,-ME-04062",
+		"formattedAddress": "8 Pettingill Rd, Windham, ME 04062",
+		"addressLine1": "8 Pettingill Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.853754,
+		"longitude": -70.450576,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 644,
+		"lotSize": 6098,
+		"yearBuilt": 1940,
+		"hoa": {
+			"fee": 13
+		},
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T20:35:50.077Z",
+		"lastSeenDate": "2026-09-12T05:30:06.183Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679320",
+		"listingAgent": {
+			"name": "Rebecca Labrie",
+			"phone": "2077540267",
+			"email": "cher1villa@aol.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "2-Vintage-Dr,-Windham,-ME-04062",
+		"formattedAddress": "2 Vintage Dr, Windham, ME 04062",
+		"addressLine1": "2 Vintage Dr",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.822371,
+		"longitude": -70.434962,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.182Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679178",
+		"listingAgent": {
+			"name": "Michael A Jacobson",
+			"phone": "2077490270",
+			"email": "jacobson@majre.me",
+			"website": "http://www.michaeljacobsonrealestate.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "15-Orchard-Rd,-Windham,-ME-04062",
+		"formattedAddress": "15 Orchard Rd, Windham, ME 04062",
+		"addressLine1": "15 Orchard Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.789057,
+		"longitude": -70.358808,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1357,
+		"lotSize": 18731,
+		"yearBuilt": 1933,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.156Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679262",
+		"listingAgent": {
+			"name": "Jen Whitehead",
+			"phone": "2074058503",
+			"email": "jen@dreamhomemaine.com",
+			"website": "http://www.dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "5-Foster-Flds,-Windham,-ME-04062",
+		"formattedAddress": "5 Foster Flds, Windham, ME 04062",
+		"addressLine1": "5 Foster Flds",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.807935,
+		"longitude": -70.415723,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3231,
+		"lotSize": 80150,
+		"yearBuilt": 1997,
+		"status": "Active",
+		"price": 629900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.142Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679476",
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 629900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "7-Mancini-Rd,-Windham,-ME-04062",
+		"formattedAddress": "7 Mancini Rd, Windham, ME 04062",
+		"addressLine1": "7 Mancini Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.821925,
+		"longitude": -70.389358,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1547,
+		"lotSize": 104980,
+		"yearBuilt": 2006,
+		"status": "Active",
+		"price": 545000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.125Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679562",
+		"listingAgent": {
+			"name": "Julia Leighton",
+			"phone": "2078998041",
+			"email": "julia@landinghomesmaine.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": "2026-09-07T00:00:00.000Z",
+				"daysOnMarket": 56
+			},
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 545000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "5-Shore-Rd,-Windham,-ME-04062",
+		"formattedAddress": "5 Shore Rd, Windham, ME 04062",
+		"addressLine1": "5 Shore Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.851959,
+		"longitude": -70.449735,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1506,
+		"lotSize": 17424,
+		"yearBuilt": 1940,
+		"hoa": {
+			"fee": 8
+		},
+		"status": "Active",
+		"price": 415000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-10-17T09:45:09.189Z",
+		"lastSeenDate": "2026-09-12T05:22:48.575Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679626",
+		"listingAgent": {
+			"name": "Casey Gray",
+			"phone": "2077564095",
+			"email": "caseygray@remax.net",
+			"website": "www.caseygray.net"
+		},
+		"listingOffice": {
+			"name": "Remax Coastal",
+			"phone": "2077736400",
+			"email": "remaxcoastaloffice@gmail.com",
+			"website": "coastal-hollis-center-me.remax.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "2-Wheeler-Way,-Windham,-ME-04062",
+		"formattedAddress": "2 Wheeler Way, Windham, ME 04062",
+		"addressLine1": "2 Wheeler Way",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.814254,
+		"longitude": -70.399761,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1547,
+		"lotSize": 87120,
+		"yearBuilt": 2009,
+		"hoa": {
+			"fee": 40
+		},
+		"status": "Active",
+		"price": 500000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-01-15T09:58:50.662Z",
+		"lastSeenDate": "2026-09-12T05:22:48.568Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679669",
+		"listingAgent": {
+			"name": "Jason Bisson",
+			"phone": "2076531188",
+			"email": "jason@jasonbissonrealtor.com",
+			"website": "http://www.jasonbissonrealtor.com"
+		},
+		"listingOffice": {
+			"name": "Cottage & Co Real Estate",
+			"phone": "2076531188",
+			"email": "thebissonteam@gmail.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 500000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "96-Percy-Hawkes-Rd,-Windham,-ME-04062",
+		"formattedAddress": "96 Percy Hawkes Rd, Windham, ME 04062",
+		"addressLine1": "96 Percy Hawkes Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.762208,
+		"longitude": -70.35932,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1547,
+		"lotSize": 27878,
+		"yearBuilt": 1994,
+		"hoa": {
+			"fee": 13
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.551Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679773",
+		"listingAgent": {
+			"name": "Harper Lee Collins",
+			"phone": "2078464300",
+			"email": "harper.collins.realtor@gmail.com",
+			"website": "http://www.portland-me-realestate.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "2-Abbadaba-Rd,-Windham,-ME-04062",
+		"formattedAddress": "2 Abbadaba Rd, Windham, ME 04062",
+		"addressLine1": "2 Abbadaba Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.786344,
+		"longitude": -70.357587,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1283,
+		"lotSize": 37026,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.481Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679952",
+		"listingAgent": {
+			"name": "Victor  Chau",
+			"phone": "2072827552",
+			"email": "vic@vicsrealty.com",
+			"website": "http://vicsrealty.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "74-Tavern-Hl,-Windham,-ME-04062",
+		"formattedAddress": "74 Tavern Hl, Windham, ME 04062",
+		"addressLine1": "74 Tavern Hl",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.835011,
+		"longitude": -70.365242,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1768,
+		"lotSize": 84506,
+		"yearBuilt": 2017,
+		"status": "Active",
+		"price": 585000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.474Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679997",
+		"listingAgent": {
+			"name": "Alicia Frechette Ramsey Pulkkinen",
+			"phone": "2078907425",
+			"email": "team@ateammaine.com",
+			"website": "https://ateammaine.com/"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 585000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "112-Sabbady-Point-Rd,-Windham,-ME-04062",
+		"formattedAddress": "112 Sabbady Point Rd, Windham, ME 04062",
+		"addressLine1": "112 Sabbady Point Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.847124,
+		"longitude": -70.424359,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2494,
+		"lotSize": 34848,
+		"yearBuilt": 1950,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 1425000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.471Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680028",
+		"listingAgent": {
+			"name": "Colin Harvey",
+			"phone": "2076154991",
+			"email": "charvey@legacysir.com",
+			"website": "https://harveyre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077292820",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 1425000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "12-Voyager-Ln,-Unit-12,-Windham,-ME-04062",
+		"formattedAddress": "12 Voyager Ln, Unit 12, Windham, ME 04062",
+		"addressLine1": "12 Voyager Ln",
+		"addressLine2": "Unit 12",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.838673,
+		"longitude": -70.412315,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1426,
+		"lotSize": 88862,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 336
+		},
+		"status": "Active",
+		"price": 449900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.454Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680292",
+		"listingAgent": {
+			"name": "Richard Yost",
+			"phone": "2078387773",
+			"email": "rickyost63@gmail.com",
+			"website": "https://www.nexthomebyrick.com"
+		},
+		"listingOffice": {
+			"name": "Maine Values Real Estate",
+			"phone": "2078387773",
+			"email": "rickyost63@gmail.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 449900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "9-Dusty-Rhoades-Ln,-Windham,-ME-04062",
+		"formattedAddress": "9 Dusty Rhoades Ln, Windham, ME 04062",
+		"addressLine1": "9 Dusty Rhoades Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.830365,
+		"longitude": -70.414749,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2180,
+		"lotSize": 20038,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:24:07.389Z",
+		"daysOnMarket": 131,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660443",
+		"listingAgent": {
+			"name": "Catherine M. Hodge",
+			"phone": "2077129689",
+			"email": "catherine@saltcomaine.com",
+			"website": "www.catherineandcandice.com"
+		},
+		"listingOffice": {
+			"name": "Salt Real Estate Co",
+			"phone": "2077129689",
+			"email": "saltrealestateco@gmail.com"
+		},
+		"history": {
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 131
+			}
+		}
+	},
+	{
+		"id": "14-Voyager-Ln,-Unit-14,-Windham,-ME-04062",
+		"formattedAddress": "14 Voyager Ln, Unit 14, Windham, ME 04062",
+		"addressLine1": "14 Voyager Ln",
+		"addressLine2": "Unit 14",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.838619,
+		"longitude": -70.412369,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1426,
+		"lotSize": 88862,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 338
+		},
+		"status": "Active",
+		"price": 459900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:19:53.352Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666663",
+		"listingAgent": {
+			"name": "Richard Yost",
+			"phone": "2078387773",
+			"email": "rickyost63@gmail.com",
+			"website": "https://www.nexthomebyrick.com"
+		},
+		"listingOffice": {
+			"name": "Maine Values Real Estate",
+			"phone": "2078387773",
+			"email": "rickyost63@gmail.com"
+		},
+		"history": {
+			"2026-06-11": {
+				"event": "Sale Listing",
+				"price": 459900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "10-Stillwater-Dr,-Apt-3133,-Windham,-ME-04062",
+		"formattedAddress": "10 Stillwater Dr, Apt 3133, Windham, ME 04062",
+		"addressLine1": "10 Stillwater Dr",
+		"addressLine2": "Apt 3133",
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.833968,
+		"longitude": -70.443044,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 991,
+		"lotSize": 108464,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 399
+		},
+		"status": "Active",
+		"price": 349900,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:58:01.757Z",
+		"daysOnMarket": 78,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669109",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 78
+			}
+		}
+	},
+	{
+		"id": "7-Birdsong-Ln,-Windham,-ME-04062",
+		"formattedAddress": "7 Birdsong Ln, Windham, ME 04062",
+		"addressLine1": "7 Birdsong Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.789654,
+		"longitude": -70.367149,
+		"propertyType": "Land",
+		"lotSize": 27878,
+		"status": "Active",
+		"price": 120000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:01:26.253Z",
+		"daysOnMarket": 28,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675514",
+		"listingAgent": {
+			"name": "Scott Varney",
+			"phone": "2074151682",
+			"email": "scott@trekrealty.org"
+		},
+		"listingOffice": {
+			"name": "Trek Realty Llc",
+			"phone": "2072216602",
+			"email": "office@trekrealty.org"
+		},
+		"history": {
+			"2025-06-09": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-09T00:00:00.000Z",
+				"removedDate": "2025-12-10T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2026-02-24": {
+				"event": "Sale Listing",
+				"price": 90000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-24T00:00:00.000Z",
+				"removedDate": "2026-04-15T00:00:00.000Z",
+				"daysOnMarket": 50
+			},
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 120000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 28
+			}
+		}
+	},
+	{
+		"id": "92-Sabbady-Point-Rd,-Windham,-ME-04062",
+		"formattedAddress": "92 Sabbady Point Rd, Windham, ME 04062",
+		"addressLine1": "92 Sabbady Point Rd",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.845927,
+		"longitude": -70.426379,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1802,
+		"lotSize": 10890,
+		"yearBuilt": 1950,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 999000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T07:58:58.700Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679120",
+		"listingAgent": {
+			"name": "Lorenda Dayc Abigail Chessie"
+		},
+		"listingOffice": {
+			"name": "Real Estate 2000 ME/NH",
+			"phone": "2076369996",
+			"email": "info@realestate2000menh.com",
+			"website": "http://www.realestate2000menh.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 999000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "6-Barbara-Win-Ln,-Windham,-ME-04062",
+		"formattedAddress": "6 Barbara Win Ln, Windham, ME 04062",
+		"addressLine1": "6 Barbara Win Ln",
+		"addressLine2": null,
+		"city": "Windham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04062",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.777525,
+		"longitude": -70.387464,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3144,
+		"lotSize": 87120,
+		"yearBuilt": 2020,
+		"status": "Active",
+		"price": 786000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:14:17.830Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678582",
+		"listingAgent": {
+			"name": "Vickie Shane",
+			"phone": "2075903403",
+			"email": "vickieshane@tmren.biz"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 786000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	}
+]

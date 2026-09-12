@@ -1,0 +1,2841 @@
+[
+	{
+		"id": "12-Washburn-Farm-Ln,-Unit-3,-Kittery,-ME-03905",
+		"formattedAddress": "12 Washburn Farm Ln, Unit 3, Kittery, ME 03905",
+		"addressLine1": "12 Washburn Farm Ln",
+		"addressLine2": "Unit 3",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03905",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.11105,
+		"longitude": -70.690567,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2850,
+		"lotSize": 26136,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 1199900,
+		"listingType": "New Construction",
+		"listedDate": "2024-11-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.908Z",
+		"daysOnMarket": 656,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1610263",
+		"listingAgent": {
+			"name": "Susan Green",
+			"phone": "6039961396",
+			"email": "susan@greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company Real Estate & Development",
+			"phone": "6039647572",
+			"email": "jenna@greenandcompany.com"
+		},
+		"history": {
+			"2024-11-26": {
+				"event": "Sale Listing",
+				"price": 1199900,
+				"listingType": "New Construction",
+				"listedDate": "2024-11-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 656
+			}
+		}
+	},
+	{
+		"id": "25-Oak-Ter,-Kittery,-ME-03904",
+		"formattedAddress": "25 Oak Ter, Kittery, ME 03904",
+		"addressLine1": "25 Oak Ter",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.090254,
+		"longitude": -70.759391,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 1757,
+		"lotSize": 8712,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 2095000,
+		"listingType": "New Construction",
+		"listedDate": "2025-09-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.972Z",
+		"daysOnMarket": 361,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1637949",
+		"listingAgent": {
+			"name": "Christopher Erikson",
+			"phone": "2072514762",
+			"email": "chris@alandrealty.com",
+			"website": "http://www.alandrealty.com"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group, Llc",
+			"phone": "6035010463",
+			"email": "chris@alandrealty.com",
+			"website": "http://www.alandrealty.com"
+		},
+		"history": {
+			"2025-09-17": {
+				"event": "Sale Listing",
+				"price": 2095000,
+				"listingType": "New Construction",
+				"listedDate": "2025-09-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 361
+			}
+		}
+	},
+	{
+		"id": "12-Washburn-Farm-Ln,-Kittery,-ME-03905",
+		"formattedAddress": "12 Washburn Farm Ln, Kittery, ME 03905",
+		"addressLine1": "12 Washburn Farm Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03905",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.11105,
+		"longitude": -70.690567,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 3050,
+		"lotSize": 26136,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 1199900,
+		"listingType": "New Construction",
+		"listedDate": "2025-09-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.971Z",
+		"daysOnMarket": 348,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5063574",
+		"listingAgent": {
+			"name": "Susan Green",
+			"phone": "6039961396",
+			"email": "susan@greenandcompany.com",
+			"website": "http://www.greenandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Green & Company",
+			"phone": "8004298615",
+			"email": "mgreen@greenandcompany.com",
+			"website": "http://www.greenandcompany.com/"
+		},
+		"history": {
+			"2025-09-30": {
+				"event": "Sale Listing",
+				"price": 1199900,
+				"listingType": "New Construction",
+				"listedDate": "2025-09-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 348
+			}
+		}
+	},
+	{
+		"id": "19-Aspen-Cir,-Kittery,-ME-03904",
+		"formattedAddress": "19 Aspen Cir, Kittery, ME 03904",
+		"addressLine1": "19 Aspen Cir",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.109474,
+		"longitude": -70.748019,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 784,
+		"yearBuilt": 1979,
+		"hoa": {
+			"fee": 605
+		},
+		"status": "Active",
+		"price": 93000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.907Z",
+		"daysOnMarket": 220,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651150",
+		"listingAgent": {
+			"name": "Julie Trask",
+			"phone": "2075143499",
+			"email": "julie.trask@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-02-05": {
+				"event": "Sale Listing",
+				"price": 93000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 220
+			}
+		}
+	},
+	{
+		"id": "8-10-Bayview-Ln,-Kittery,-ME-03904",
+		"formattedAddress": "8-10 Bayview Ln, Kittery, ME 03904",
+		"addressLine1": "8-10 Bayview Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.096405,
+		"longitude": -70.761887,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 4120,
+		"lotSize": 117612,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.895Z",
+		"daysOnMarket": 200,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652693",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-02-25": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 200
+			}
+		}
+	},
+	{
+		"id": "25-Regency-Cir,-Unit-1,-Kittery,-ME-03904",
+		"formattedAddress": "25 Regency Cir, Unit 1, Kittery, ME 03904",
+		"addressLine1": "25 Regency Cir",
+		"addressLine2": "Unit 1",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.124344,
+		"longitude": -70.718363,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1252,
+		"lotSize": 590674,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 529900,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.891Z",
+		"daysOnMarket": 186,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653935",
+		"listingAgent": {
+			"name": "Dennis Page",
+			"phone": "9784236053",
+			"email": "dennis.page@comcast.net"
+		},
+		"listingOffice": {
+			"name": "Dennis M. Page Real Estate",
+			"phone": "9784236053",
+			"email": "dennis.page@comcast.net"
+		},
+		"history": {
+			"2026-03-11": {
+				"event": "Sale Listing",
+				"price": 529900,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 186
+			}
+		}
+	},
+	{
+		"id": "13-Seaglass-Ln,-Kittery,-ME-03904",
+		"formattedAddress": "13 Seaglass Ln, Kittery, ME 03904",
+		"addressLine1": "13 Seaglass Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.129718,
+		"longitude": -70.711507,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1152,
+		"yearBuilt": 2017,
+		"hoa": {
+			"fee": 735
+		},
+		"status": "Active",
+		"price": 210000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.871Z",
+		"daysOnMarket": 165,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5081608",
+		"listingAgent": {
+			"name": "Roland Bousquet",
+			"phone": "6036927300",
+			"email": "atrailaman@aol.com"
+		},
+		"listingOffice": {
+			"name": "Seacoast Mobile Home Brokers",
+			"phone": "6036927300",
+			"email": "atrailaman@aol.com"
+		},
+		"history": {
+			"2026-04-01": {
+				"event": "Sale Listing",
+				"price": 210000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 165
+			}
+		}
+	},
+	{
+		"id": "14-Colony-Way,-Kittery,-ME-03904",
+		"formattedAddress": "14 Colony Way, Kittery, ME 03904",
+		"addressLine1": "14 Colony Way",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.131658,
+		"longitude": -70.709815,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1173,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 695
+		},
+		"status": "Active",
+		"price": 349900,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.457Z",
+		"daysOnMarket": 157,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657108",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 157
+			}
+		}
+	},
+	{
+		"id": "53-Sandalwood-Cir,-Kittery,-ME-03904",
+		"formattedAddress": "53 Sandalwood Cir, Kittery, ME 03904",
+		"addressLine1": "53 Sandalwood Cir",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.130531,
+		"longitude": -70.71102,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1104,
+		"yearBuilt": 2001,
+		"hoa": {
+			"fee": 735
+		},
+		"status": "Active",
+		"price": 160000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.455Z",
+		"daysOnMarket": 157,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657177",
+		"listingAgent": {
+			"name": "Linda Pratt",
+			"phone": "8008447653",
+			"email": "lindaprattcentury21@gmail.com",
+			"website": "https://homesforsale.century21.com/century-21-north-east-3287c/linda-pratt-420473a"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "jdamico@c21ne.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 160000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 157
+			}
+		}
+	},
+	{
+		"id": "16-Colony-Way,-Kittery,-ME-03904",
+		"formattedAddress": "16 Colony Way, Kittery, ME 03904",
+		"addressLine1": "16 Colony Way",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.131623,
+		"longitude": -70.70998,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1227,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 695
+		},
+		"status": "Active",
+		"price": 374900,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.336Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661669",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 374900,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "67-Whipple-Rd,-Kittery,-ME-03904",
+		"formattedAddress": "67 Whipple Rd, Kittery, ME 03904",
+		"addressLine1": "67 Whipple Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.087587,
+		"longitude": -70.734403,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1800,
+		"lotSize": 6534,
+		"yearBuilt": 2019,
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.745Z",
+		"daysOnMarket": 118,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662718",
+		"listingAgent": {
+			"name": "Julie Trask",
+			"phone": "2075143499",
+			"email": "julie.trask@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-05-18": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 118
+			}
+		}
+	},
+	{
+		"id": "9-Old-Cutts-Rd,-Kittery,-ME-03904",
+		"formattedAddress": "9 Old Cutts Rd, Kittery, ME 03904",
+		"addressLine1": "9 Old Cutts Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.125585,
+		"longitude": -70.722848,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1632,
+		"lotSize": 21780,
+		"yearBuilt": 2016,
+		"status": "Active",
+		"price": 199000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.736Z",
+		"daysOnMarket": 118,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662692",
+		"listingAgent": {
+			"name": "Michael Carey",
+			"phone": "2077761936",
+			"email": "mikebcarey@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Tap Realty Solutions",
+			"phone": "2075531900",
+			"email": "mikebcarey@gmail.com"
+		},
+		"history": {
+			"2026-05-18": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 118
+			}
+		}
+	},
+	{
+		"id": "6-Applegate-Ln,-Kittery,-ME-03904",
+		"formattedAddress": "6 Applegate Ln, Kittery, ME 03904",
+		"addressLine1": "6 Applegate Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.112435,
+		"longitude": -70.741087,
+		"propertyType": "Land",
+		"lotSize": 77972,
+		"status": "Active",
+		"price": 209000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.643Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666453",
+		"listingAgent": {
+			"name": "Matt Sukeforth",
+			"phone": "2077768406",
+			"email": "msukes@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2024-06-04": {
+				"event": "Sale Listing",
+				"price": 189000,
+				"listingType": "Standard",
+				"listedDate": "2024-06-04T00:00:00.000Z",
+				"removedDate": "2024-11-22T00:00:00.000Z",
+				"daysOnMarket": 171
+			},
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 209000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "2-Cottage-Way,-Kittery,-ME-03904",
+		"formattedAddress": "2 Cottage Way, Kittery, ME 03904",
+		"addressLine1": "2 Cottage Way",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.11084,
+		"longitude": -70.733296,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2298,
+		"lotSize": 10454,
+		"yearBuilt": 2018,
+		"hoa": {
+			"fee": 120
+		},
+		"status": "Active",
+		"price": 965000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-07T08:10:59.120Z",
+		"lastSeenDate": "2026-09-12T09:45:41.637Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664617",
+		"listingAgent": {
+			"name": "Beth Parolisi",
+			"phone": "6034318977",
+			"email": "beth.parolisi@verani.com",
+			"website": "https://sellingontheseacoast.com/"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "6034318977",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com"
+		},
+		"history": {
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 965000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "22-Trafton-Ln,-Kittery,-ME-03904",
+		"formattedAddress": "22 Trafton Ln, Kittery, ME 03904",
+		"addressLine1": "22 Trafton Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.107611,
+		"longitude": -70.727535,
+		"propertyType": "Land",
+		"lotSize": 87556,
+		"status": "Active",
+		"price": 1450000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.672Z",
+		"daysOnMarket": 75,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669608",
+		"listingAgent": {
+			"name": "Lisa Hughes",
+			"phone": "2072825988",
+			"email": "lisa.hughes@cbrealty.com",
+			"website": "https://lisahughesrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-06-30": {
+				"event": "Sale Listing",
+				"price": 1450000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 75
+			}
+		}
+	},
+	{
+		"id": "190-State-Rd,-Kittery,-ME-03904",
+		"formattedAddress": "190 State Rd, Kittery, ME 03904",
+		"addressLine1": "190 State Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.102299,
+		"longitude": -70.742825,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 864,
+		"lotSize": 7841,
+		"yearBuilt": 1933,
+		"status": "Active",
+		"price": 850000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.603Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670074",
+		"listingAgent": {
+			"name": "Gail Fox",
+			"phone": "6034014850",
+			"email": "gailfox@verani.com",
+			"website": "http://gailfox.verani.com"
+		},
+		"listingOffice": {
+			"name": "Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "6034318977",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "27-Government-St,-Unit-27,-Kittery,-ME-03904",
+		"formattedAddress": "27 Government St, Unit 27, Kittery, ME 03904",
+		"addressLine1": "27 Government St",
+		"addressLine2": "Unit 27",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.084977,
+		"longitude": -70.745132,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2016,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 885000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.596Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669463",
+		"listingAgent": {
+			"name": "Ali Goodwin",
+			"phone": "6039578466",
+			"email": "ali@aligoodwin.com",
+			"website": "http://www.havenhomeslifestyle.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes Mountains Realty",
+			"email": "klrw463@kw.com"
+		},
+		"history": {
+			"2025-06-11": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-11T00:00:00.000Z",
+				"removedDate": "2025-09-01T00:00:00.000Z",
+				"daysOnMarket": 82
+			},
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 885000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "116-Rogers-Rd,-Kittery,-ME-03904",
+		"formattedAddress": "116 Rogers Rd, Kittery, ME 03904",
+		"addressLine1": "116 Rogers Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.096422,
+		"longitude": -70.736863,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"squareFootage": 4159,
+		"lotSize": 47045,
+		"yearBuilt": 1996,
+		"status": "Active",
+		"price": 825000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-10-16T10:06:24.041Z",
+		"lastSeenDate": "2026-09-12T08:50:22.594Z",
+		"daysOnMarket": 70,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670335",
+		"listingAgent": {
+			"name": "Cornelius Hobbs",
+			"phone": "6038420490",
+			"email": "c.hobbs@kw.com",
+			"website": "https://thedreamingtreegroup.kw.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2025-02-01": {
+				"event": "Sale Listing",
+				"price": 925000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-01T00:00:00.000Z",
+				"removedDate": "2025-09-20T00:00:00.000Z",
+				"daysOnMarket": 231
+			},
+			"2026-07-05": {
+				"event": "Sale Listing",
+				"price": 825000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 70
+			}
+		}
+	},
+	{
+		"id": "31-Water-St,-Kittery,-ME-03904",
+		"formattedAddress": "31 Water St, Kittery, ME 03904",
+		"addressLine1": "31 Water St",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.08466,
+		"longitude": -70.753175,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 3388,
+		"lotSize": 9583,
+		"yearBuilt": 2023,
+		"status": "Active",
+		"price": 4950000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-01T07:25:52.900Z",
+		"lastSeenDate": "2026-09-12T08:46:44.932Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672341",
+		"listingAgent": {
+			"name": "Henry Goodwin",
+			"phone": "6037573728",
+			"email": "henry.goodwin@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 4950000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "1-Main-St,---236,-Kittery,-ME-03904",
+		"formattedAddress": "1 Main St, # 236, Kittery, ME 03904",
+		"addressLine1": "1 Main St",
+		"addressLine2": "# 236",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.105013,
+		"longitude": -70.75049,
+		"propertyType": "Land",
+		"lotSize": 564538,
+		"status": "Active",
+		"price": 2200000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.864Z",
+		"daysOnMarket": 48,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673611",
+		"listingAgent": {
+			"name": "David Garvey",
+			"phone": "6034912854",
+			"email": "dave@garveyco.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-27": {
+				"event": "Sale Listing",
+				"price": 2200000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 48
+			}
+		}
+	},
+	{
+		"id": "19-Bridge-St,-Unit-5,-Kittery,-ME-03904",
+		"formattedAddress": "19 Bridge St, Unit 5, Kittery, ME 03904",
+		"addressLine1": "19 Bridge St",
+		"addressLine2": "Unit 5",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.089085,
+		"longitude": -70.756782,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2517,
+		"yearBuilt": 2007,
+		"hoa": {
+			"fee": 434
+		},
+		"status": "Active",
+		"price": 1139900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.854Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673959",
+		"listingAgent": {
+			"name": "Jocelyn Chavez",
+			"phone": "6035025174",
+			"email": "jocelyn@brickandbarngroup.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 1139900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "34-Traip-Ave,-Kittery,-ME-03904",
+		"formattedAddress": "34 Traip Ave, Kittery, ME 03904",
+		"addressLine1": "34 Traip Ave",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.087203,
+		"longitude": -70.741359,
+		"propertyType": "Land",
+		"lotSize": 10019,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.884Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674266",
+		"listingAgent": {
+			"name": "Samuel Kilty",
+			"phone": "2077030013",
+			"email": "sam@widirealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Widi Realty Group",
+			"phone": "2077030013",
+			"email": "lois@widirealtygroup.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "2-Creek-Xing,-Kittery,-ME-03904",
+		"formattedAddress": "2 Creek Xing, Kittery, ME 03904",
+		"addressLine1": "2 Creek Xing",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.115294,
+		"longitude": -70.723877,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2348,
+		"lotSize": 75359,
+		"yearBuilt": 1999,
+		"status": "Active",
+		"price": 616000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.880Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674366",
+		"listingAgent": {
+			"name": "Jeffrey D'angelo",
+			"phone": "6172905220",
+			"email": "contact@jeffreydangelo.com",
+			"website": "http://www.jeffreydangelo.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 616000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "5-Pleasant-St,-Apt-A,-Kittery,-ME-03904",
+		"formattedAddress": "5 Pleasant St, Apt A, Kittery, ME 03904",
+		"addressLine1": "5 Pleasant St",
+		"addressLine2": "Apt A",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.08489,
+		"longitude": -70.748838,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 658,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 292
+		},
+		"status": "Active",
+		"price": 535000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.830Z",
+		"daysOnMarket": 37,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5103815",
+		"listingAgent": {
+			"name": "Tiffany Semprini",
+			"phone": "6036108500",
+			"email": "tiffanysemprini@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group",
+			"phone": "6039304470",
+			"email": "chris@alandrealty.com",
+			"website": "www.alandrealty.com"
+		},
+		"history": {
+			"2024-09-20": {
+				"event": "Sale Listing",
+				"price": 439900,
+				"listingType": "Standard",
+				"listedDate": "2024-09-20T00:00:00.000Z",
+				"removedDate": "2024-11-19T00:00:00.000Z",
+				"daysOnMarket": 60
+			},
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 535000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "100-Shepards-Cove-Rd,-Unit-H205,-Kittery,-ME-03904",
+		"formattedAddress": "100 Shepards Cove Rd, Unit H205, Kittery, ME 03904",
+		"addressLine1": "100 Shepards Cove Rd",
+		"addressLine2": "Unit H205",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.104361,
+		"longitude": -70.736159,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1710,
+		"yearBuilt": 2008,
+		"hoa": {
+			"fee": 686
+		},
+		"status": "Active",
+		"price": 715000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-17T12:05:05.543Z",
+		"lastSeenDate": "2026-09-12T08:13:10.824Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675298",
+		"listingAgent": {
+			"name": "Lisa Macbride",
+			"phone": "6038171337",
+			"email": "lmacbride@thegovegroup.com"
+		},
+		"listingOffice": {
+			"name": "The Gove Group Real Estate, LLC",
+			"phone": "6037786400",
+			"email": "info@thegovegroup.com",
+			"website": "www.thegovegroup.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 715000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "18-Blackberry-Pl,-Kittery,-ME-03904",
+		"formattedAddress": "18 Blackberry Pl, Kittery, ME 03904",
+		"addressLine1": "18 Blackberry Pl",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.124106,
+		"longitude": -70.721882,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 924,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 760
+		},
+		"status": "Active",
+		"price": 99000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.823Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675712",
+		"listingAgent": {
+			"name": "Sylvia Rhodes",
+			"phone": "6154912001",
+			"email": "sylvia@fontaineteam.com",
+			"website": "https://www.brendafontaine.com/realestate/agent/sylvia-rhodes/"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family-The Real Estate Leader",
+			"phone": "2072893830"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 99000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "47-Manson-Rd,-Kittery,-ME-03904",
+		"formattedAddress": "47 Manson Rd, Kittery, ME 03904",
+		"addressLine1": "47 Manson Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.111176502,
+		"longitude": -70.74477681,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2522,
+		"lotSize": 35719,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1095000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.799Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676176",
+		"listingAgent": {
+			"name": "Nina Fee",
+			"phone": "6039442267",
+			"email": "ninafee@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 1095000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "7-Heritage-Way,-Kittery,-ME-03904",
+		"formattedAddress": "7 Heritage Way, Kittery, ME 03904",
+		"addressLine1": "7 Heritage Way",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.140928,
+		"longitude": -70.735341,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2223,
+		"lotSize": 30492,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 29
+		},
+		"status": "Active",
+		"price": 825000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.790Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676326",
+		"listingAgent": {
+			"name": "Brenna Bullis",
+			"phone": "2073634558",
+			"email": "brennabullis@masiello.com",
+			"website": "www.brennabullis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group, LLC",
+			"phone": "2077030813",
+			"email": "chris@alandrealty.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 825000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "110-Blackberry-Pl,-Kittery,-ME-03904",
+		"formattedAddress": "110 Blackberry Pl, Kittery, ME 03904",
+		"addressLine1": "110 Blackberry Pl",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.123259,
+		"longitude": -70.721163,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 960,
+		"yearBuilt": 2010,
+		"hoa": {
+			"fee": 735
+		},
+		"status": "Active",
+		"price": 139900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.777Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676515",
+		"listingAgent": {
+			"name": "Jerry Tatlock",
+			"phone": "2073844008",
+			"email": "jerry@jerrytatlock.com",
+			"website": "https://jtatlock.sites.c21.homes/"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Barbara Patterson",
+			"phone": "2073844008",
+			"email": "info@century21barbarapatterson.com;jerry.tatlock@century21.com",
+			"website": "http://www.century21barbarapatterson.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 139900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "42-State-Rd,-Unit-203,-Kittery,-ME-03904",
+		"formattedAddress": "42 State Rd, Unit 203, Kittery, ME 03904",
+		"addressLine1": "42 State Rd",
+		"addressLine2": "Unit 203",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.088605,
+		"longitude": -70.748833,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 1850,
+		"yearBuilt": 2019,
+		"hoa": {
+			"fee": 375
+		},
+		"status": "Active",
+		"price": 749900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-04-09T09:42:26.019Z",
+		"lastSeenDate": "2026-09-12T07:35:34.776Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676516",
+		"listingAgent": {
+			"name": "Jeanette Bandouveres",
+			"phone": "6035577089",
+			"email": "jeanetteb.realtor@gmail.com",
+			"website": "http://www.greatislandrealty.com"
+		},
+		"listingOffice": {
+			"name": "Great Island Realty, Llc",
+			"phone": "6032349869",
+			"email": "janet@greatislandrealty.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 749900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "11-Jones-Ave,-Unit-11,-Kittery,-ME-03904",
+		"formattedAddress": "11 Jones Ave, Unit 11, Kittery, ME 03904",
+		"addressLine1": "11 Jones Ave",
+		"addressLine2": "Unit 11",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.086585,
+		"longitude": -70.744797,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1.5,
+		"squareFootage": 622,
+		"lotSize": 7405,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 117
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.694Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677200",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "100-Shepards-Cove-Rd,-Unit-F103,-Kittery,-ME-03904",
+		"formattedAddress": "100 Shepards Cove Rd, Unit F103, Kittery, ME 03904",
+		"addressLine1": "100 Shepards Cove Rd",
+		"addressLine2": "Unit F103",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.104361,
+		"longitude": -70.736159,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1550,
+		"lotSize": 1851300,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 624
+		},
+		"status": "Active",
+		"price": 689000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.683Z",
+		"daysOnMarket": 20,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5106479",
+		"listingAgent": {
+			"name": "Lisa Macbride",
+			"phone": "6038171337",
+			"email": "lmacbride@thegovegroup.com"
+		},
+		"listingOffice": {
+			"name": "The Gove Group Real Estate, LLC",
+			"phone": "6037786400",
+			"email": "info@thegovegroup.com",
+			"website": "www.thegovegroup.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 689000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "10-Stimson-St,-Kittery,-ME-03904",
+		"formattedAddress": "10 Stimson St, Kittery, ME 03904",
+		"addressLine1": "10 Stimson St",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.085869,
+		"longitude": -70.751484,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1489,
+		"lotSize": 10890,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 1295000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.680Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677493",
+		"listingAgent": {
+			"name": "Emil Uliano",
+			"phone": "6035577329",
+			"email": "emiluliano3@gmail.com",
+			"website": "https://www.greatislandrealty.com/realestate/agent/emil-uliano/"
+		},
+		"listingOffice": {
+			"name": "Great Island Realty, Llc",
+			"phone": "6032349869",
+			"email": "janet@greatislandrealty.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 1295000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "42-Thaxter-Ln,-Kittery,-ME-03905",
+		"formattedAddress": "42 Thaxter Ln, Kittery, ME 03905",
+		"addressLine1": "42 Thaxter Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03905",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.094353,
+		"longitude": -70.656919,
+		"propertyType": "Land",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1224,
+		"lotSize": 125017,
+		"yearBuilt": 1952,
+		"hoa": {
+			"fee": 13
+		},
+		"status": "Active",
+		"price": 3595000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.678Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677656",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 3595000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "46-Government-St,-Kittery,-ME-03904",
+		"formattedAddress": "46 Government St, Kittery, ME 03904",
+		"addressLine1": "46 Government St",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.085683,
+		"longitude": -70.747336,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2114,
+		"lotSize": 6534,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 795000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T20:41:36.990Z",
+		"lastSeenDate": "2026-09-12T06:55:56.716Z",
+		"daysOnMarket": 14,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678370",
+		"listingAgent": {
+			"name": "Tatjiana Shone",
+			"email": "t.shone@nemoves.com",
+			"website": "http://www.seacoasthomenetwork.com/"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group, Llc",
+			"phone": "6035010463",
+			"email": "chris@alandrealty.com",
+			"website": "http://www.alandrealty.com"
+		},
+		"history": {
+			"2026-08-30": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 14
+			}
+		}
+	},
+	{
+		"id": "8-Shepherds-Way,-Kittery,-ME-03905",
+		"formattedAddress": "8 Shepherds Way, Kittery, ME 03905",
+		"addressLine1": "8 Shepherds Way",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03905",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.096504,
+		"longitude": -70.675354,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 3362,
+		"lotSize": 54014,
+		"yearBuilt": 1990,
+		"status": "Active",
+		"price": 1795000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.705Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678492",
+		"listingAgent": {
+			"name": "Ali Goodwin",
+			"phone": "6039578466",
+			"email": "ali@aligoodwin.com",
+			"website": "http://www.havenhomeslifestyle.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes Mountains Realty",
+			"email": "klrw463@kw.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 1795000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "5-Ford-Ln,-Kittery,-ME-03904",
+		"formattedAddress": "5 Ford Ln, Kittery, ME 03904",
+		"addressLine1": "5 Ford Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.090091,
+		"longitude": -70.738705,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 572,
+		"lotSize": 6534,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 395000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.700Z",
+		"daysOnMarket": 13,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "5107535",
+		"listingAgent": {
+			"name": "John Rice",
+			"phone": "6039648028",
+			"email": "jrice@tateandfoss.com",
+			"website": "http://www.johnricerealestate.com"
+		},
+		"listingOffice": {
+			"name": "Tate & Foss Sotheby's International Realty",
+			"phone": "6039648028",
+			"email": "tateandfoss@sothebysrealty.com",
+			"website": "http://tateandfoss.com/"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 395000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "72-Martin-Rd,-Kittery,-ME-03904",
+		"formattedAddress": "72 Martin Rd, Kittery, ME 03904",
+		"addressLine1": "72 Martin Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.110283,
+		"longitude": -70.758738,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 895,
+		"lotSize": 26136,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 998000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.699Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678490",
+		"listingAgent": {
+			"name": "Holly Webb",
+			"phone": "2074322991",
+			"email": "holly.webb@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 998000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "5-Salt-Creek-Way,-Kittery,-ME-03904",
+		"formattedAddress": "5 Salt Creek Way, Kittery, ME 03904",
+		"addressLine1": "5 Salt Creek Way",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.106184,
+		"longitude": -70.769103,
+		"propertyType": "Land",
+		"lotSize": 40075,
+		"status": "Active",
+		"price": 410000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.676Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679175",
+		"listingAgent": {
+			"name": "Greg Gosselin",
+			"phone": "2077522353",
+			"email": "greg@greggosselin.com",
+			"website": "http://www.teamgosselin.com"
+		},
+		"listingOffice": {
+			"name": "Gosselin Realty Group",
+			"phone": "2073632414",
+			"email": "greg@greggosselin.com",
+			"website": "www.teamgosselin.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 410000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "7-Barters-Creek-Rd,-Kittery,-ME-03905",
+		"formattedAddress": "7 Barters Creek Rd, Kittery, ME 03905",
+		"addressLine1": "7 Barters Creek Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03905",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.088651,
+		"longitude": -70.703723,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2041,
+		"lotSize": 42689,
+		"yearBuilt": 1994,
+		"status": "Active",
+		"price": 859000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-10-21T11:18:05.594Z",
+		"lastSeenDate": "2026-09-12T06:33:44.287Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679631",
+		"listingAgent": {
+			"name": "Jennifer Madden",
+			"phone": "6032472900",
+			"email": "jenn@maddenre.com",
+			"website": "http://maddenre.com"
+		},
+		"listingOffice": {
+			"name": "Gibson Sotheby's International Realty",
+			"phone": "6174266900",
+			"email": "info@gibsonsir.com",
+			"website": "https://www.sothebysrealty.com/gibsonsir"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 859000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "21-Government-St,-Kittery,-ME-03904",
+		"formattedAddress": "21 Government St, Kittery, ME 03904",
+		"addressLine1": "21 Government St",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.085449,
+		"longitude": -70.744919,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"squareFootage": 640,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 320
+		},
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.182Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679415",
+		"listingAgent": {
+			"name": "Ali Goodwin",
+			"phone": "6039578466",
+			"email": "ali@aligoodwin.com",
+			"website": "http://www.havenhomeslifestyle.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes Mountains Realty",
+			"email": "klrw463@kw.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "59-Blackberry-Pl,-Kittery,-ME-03904",
+		"formattedAddress": "59 Blackberry Pl, Kittery, ME 03904",
+		"addressLine1": "59 Blackberry Pl",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.122935,
+		"longitude": -70.721899,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 560,
+		"yearBuilt": 2008,
+		"hoa": {
+			"fee": 735
+		},
+		"status": "Active",
+		"price": 135000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.180Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679421",
+		"listingAgent": {
+			"name": "Janelle Lebreton",
+			"phone": "2076226221",
+			"email": "janellel@century21.com",
+			"website": "http://www.janellel.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2025-04-23": {
+				"event": "Sale Listing",
+				"price": 95000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-23T00:00:00.000Z",
+				"removedDate": "2025-05-30T00:00:00.000Z",
+				"daysOnMarket": 37
+			},
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 135000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "21-Government-St,-Unit-Ab,-Kittery,-ME-03904",
+		"formattedAddress": "21 Government St, Unit Ab, Kittery, ME 03904",
+		"addressLine1": "21 Government St",
+		"addressLine2": "Unit Ab",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.085449,
+		"longitude": -70.744919,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"squareFootage": 640,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 320
+		},
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.177Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679447",
+		"listingAgent": {
+			"name": "Ali Goodwin",
+			"phone": "6039578466",
+			"email": "ali@aligoodwin.com",
+			"website": "http://www.havenhomeslifestyle.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes Mountains Realty",
+			"email": "klrw463@kw.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "14-Newmarch-St,-Unit-14,-Kittery,-ME-03904",
+		"formattedAddress": "14 Newmarch St, Unit 14, Kittery, ME 03904",
+		"addressLine1": "14 Newmarch St",
+		"addressLine2": "Unit 14",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.085131,
+		"longitude": -70.750949,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1303,
+		"lotSize": 10890,
+		"yearBuilt": 1881,
+		"hoa": {
+			"fee": 248
+		},
+		"status": "Active",
+		"price": 699900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.159Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679790",
+		"listingAgent": {
+			"name": "Crystal Ducharme",
+			"phone": "6039445964",
+			"email": "crystal.ducharme@compass.com",
+			"website": "http://www.compass.com"
+		},
+		"listingOffice": {
+			"name": "Compass New England, LLC",
+			"phone": "6033194660",
+			"email": "sales@brickandbarngroup.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 699900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "36-Traip-Ave,-Kittery,-ME-03904",
+		"formattedAddress": "36 Traip Ave, Kittery, ME 03904",
+		"addressLine1": "36 Traip Ave",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.087339,
+		"longitude": -70.741342,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1500,
+		"lotSize": 10454,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 889000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.155Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679807",
+		"listingAgent": {
+			"name": "Samuel Kilty",
+			"phone": "2077030013",
+			"email": "sam@widirealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Widi Realty Group",
+			"phone": "2077030013",
+			"email": "lois@widirealtygroup.com"
+		},
+		"history": {
+			"2025-12-12": {
+				"event": "Sale Listing",
+				"price": 624900,
+				"listingType": "Standard",
+				"listedDate": "2025-12-12T00:00:00.000Z",
+				"removedDate": "2025-12-18T00:00:00.000Z",
+				"daysOnMarket": 6
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 889000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "2-Woodside-Meadow-Rd,-Kittery,-ME-03904",
+		"formattedAddress": "2 Woodside Meadow Rd, Kittery, ME 03904",
+		"addressLine1": "2 Woodside Meadow Rd",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.125169,
+		"longitude": -70.689974,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3256,
+		"lotSize": 48787,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 58
+		},
+		"status": "Active",
+		"price": 1649000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.150Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679907",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2025-12-04": {
+				"event": "Sale Listing",
+				"price": 1725000,
+				"listingType": "New Construction",
+				"listedDate": "2025-12-04T00:00:00.000Z",
+				"removedDate": "2026-04-04T00:00:00.000Z",
+				"daysOnMarket": 121
+			},
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 1675000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": "2026-06-29T00:00:00.000Z",
+				"daysOnMarket": 63
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 1649000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "35-Sandalwood-Cir,-Kittery,-ME-03904",
+		"formattedAddress": "35 Sandalwood Cir, Kittery, ME 03904",
+		"addressLine1": "35 Sandalwood Cir",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.130653,
+		"longitude": -70.71312,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1560,
+		"yearBuilt": 2018,
+		"hoa": {
+			"fee": 735
+		},
+		"status": "Active",
+		"price": 259000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.149Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679925",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 259000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "Bartlett-Rd,-Lot-14,-Kittery,-ME-03905",
+		"formattedAddress": "Bartlett Rd, Lot 14, Kittery, ME 03905",
+		"addressLine1": "Bartlett Rd",
+		"addressLine2": "Lot 14",
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03905",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.115906,
+		"longitude": -70.684021,
+		"propertyType": "Land",
+		"lotSize": 408157,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.147Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679914",
+		"listingAgent": {
+			"name": "Debra Ann Morse",
+			"phone": "8778333999",
+			"email": "dmorseandcompany@gmail.com",
+			"website": "https://dmorseandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Startpoint Realty",
+			"phone": "9784223999",
+			"email": "jeffreybastress@gmail.com",
+			"website": "http://www.startpoint.com"
+		},
+		"history": {
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": "2026-07-16T00:00:00.000Z",
+				"daysOnMarket": 80
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "14-Hill-Creek-Dr,-Kittery,-ME-03904",
+		"formattedAddress": "14 Hill Creek Dr, Kittery, ME 03904",
+		"addressLine1": "14 Hill Creek Dr",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.115209,
+		"longitude": -70.704256,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1793,
+		"lotSize": 10454,
+		"yearBuilt": 2000,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 639000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.137Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679875",
+		"listingAgent": {
+			"name": "Jackie Guido",
+			"phone": "6039700177",
+			"email": "jguido@lamacchiarealty.com",
+			"website": "https://www.alfapropertiesgroup.com/"
+		},
+		"listingOffice": {
+			"name": "Lamacchia Realty, Inc.",
+			"phone": "4134437274",
+			"email": "dalton@lamacchiarealty.com",
+			"website": "http://lamacchiadalton.com"
+		},
+		"history": {
+			"2026-04-10": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-10T00:00:00.000Z",
+				"removedDate": "2026-04-15T00:00:00.000Z",
+				"daysOnMarket": 5
+			},
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 649900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": "2026-09-07T00:00:00.000Z",
+				"daysOnMarket": 80
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 639000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "2-Meadow-Ln,-Kittery,-ME-03904",
+		"formattedAddress": "2 Meadow Ln, Kittery, ME 03904",
+		"addressLine1": "2 Meadow Ln",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.114045,
+		"longitude": -70.74976,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1110,
+		"lotSize": 13068,
+		"yearBuilt": 1944,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.135Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679849",
+		"listingAgent": {
+			"name": "Ardis Bosse",
+			"phone": "6033329500"
+		},
+		"listingOffice": {
+			"name": "Somerset Group Real Estate",
+			"phone": "6035125971",
+			"email": "propertycoordinator247@gmail.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "19-Cole-St,-Kittery,-ME-03904",
+		"formattedAddress": "19 Cole St, Kittery, ME 03904",
+		"addressLine1": "19 Cole St",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.09133,
+		"longitude": -70.730625,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 945,
+		"lotSize": 4356,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 479000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-18T06:02:31.550Z",
+		"lastSeenDate": "2026-09-12T06:33:44.119Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680054",
+		"listingAgent": {
+			"name": "Priscilla Ford",
+			"phone": "2077524446",
+			"email": "priscillaford@kw.com",
+			"website": "http://newenglandcoastal.yourkwoffice.com/mcj/agent/priscillaford"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group, LLC",
+			"phone": "2077030813",
+			"email": "chris@alandrealty.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 479000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "8-Sandalwood-Cir,-Kittery,-ME-03904",
+		"formattedAddress": "8 Sandalwood Cir, Kittery, ME 03904",
+		"addressLine1": "8 Sandalwood Cir",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.128423,
+		"longitude": -70.711898,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 840,
+		"yearBuilt": 1980,
+		"hoa": {
+			"fee": 735
+		},
+		"status": "Active",
+		"price": 124300,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:17:48.873Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675113",
+		"listingAgent": {
+			"name": "Terry Freeman-pirini",
+			"phone": "2074517376",
+			"email": "terrypirini@c21atlantic.com",
+			"website": "www.c21atlantic.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 ATLANTIC REALTY",
+			"phone": "2073634053",
+			"email": "info@c21atlantic.com",
+			"website": "http://www.c21atlantic.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 124300,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "5-Palmer-Ave,-Kittery,-ME-03904",
+		"formattedAddress": "5 Palmer Ave, Kittery, ME 03904",
+		"addressLine1": "5 Palmer Ave",
+		"addressLine2": null,
+		"city": "Kittery",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "03904",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.098866,
+		"longitude": -70.743838,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1858,
+		"lotSize": 8712,
+		"yearBuilt": 1969,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T08:08:50.063Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673834",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	}
+]

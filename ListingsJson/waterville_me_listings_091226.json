@@ -1,0 +1,4224 @@
+[
+	{
+		"id": "4-Industrial-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "4 Industrial Rd, Waterville, ME 04901",
+		"addressLine1": "4 Industrial Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.569062,
+		"longitude": -69.635363,
+		"propertyType": "Land",
+		"lotSize": 222156,
+		"status": "Active",
+		"price": 120000,
+		"listingType": "Standard",
+		"listedDate": "2024-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-03T08:19:12.464Z",
+		"lastSeenDate": "2026-09-12T08:55:43.466Z",
+		"daysOnMarket": 747,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1601781",
+		"listingAgent": {
+			"name": "Tom Munson",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "https://www.mainely-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Mainely-Real Estate",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "www.mainely-realestate.com"
+		},
+		"history": {
+			"2024-08-27": {
+				"event": "Sale Listing",
+				"price": 120000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 747
+			}
+		}
+	},
+	{
+		"id": "3-Industrial-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "3 Industrial Rd, Waterville, ME 04901",
+		"addressLine1": "3 Industrial Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.569843,
+		"longitude": -69.634879,
+		"propertyType": "Land",
+		"lotSize": 223898,
+		"status": "Active",
+		"price": 175000,
+		"listingType": "Standard",
+		"listedDate": "2024-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-09-18T09:06:45.284Z",
+		"lastSeenDate": "2026-09-12T08:55:43.455Z",
+		"daysOnMarket": 747,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1601778",
+		"listingAgent": {
+			"name": "Tom Munson",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "https://www.mainely-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Mainely-Real Estate",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "www.mainely-realestate.com"
+		},
+		"history": {
+			"2024-08-27": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 747
+			}
+		}
+	},
+	{
+		"id": "1-Industrial-Rd,---1,-Waterville,-ME-04901",
+		"formattedAddress": "1 Industrial Rd, # 1, Waterville, ME 04901",
+		"addressLine1": "1 Industrial Rd",
+		"addressLine2": "# 1",
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.573281,
+		"longitude": -69.629991,
+		"propertyType": "Land",
+		"lotSize": 246985,
+		"status": "Active",
+		"price": 175000,
+		"listingType": "Standard",
+		"listedDate": "2024-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:43.453Z",
+		"daysOnMarket": 747,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1601769",
+		"listingAgent": {
+			"name": "Tom Munson",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "https://www.mainely-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Mainely-Real Estate",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "www.mainely-realestate.com"
+		},
+		"history": {
+			"2024-08-27": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 747
+			}
+		}
+	},
+	{
+		"id": "5-Industrial-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "5 Industrial Rd, Waterville, ME 04901",
+		"addressLine1": "5 Industrial Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.569295,
+		"longitude": -69.635089,
+		"propertyType": "Land",
+		"lotSize": 291416,
+		"status": "Active",
+		"price": 100000,
+		"listingType": "Standard",
+		"listedDate": "2024-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-03T07:11:21.589Z",
+		"lastSeenDate": "2026-09-12T08:55:43.452Z",
+		"daysOnMarket": 747,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1601784",
+		"listingAgent": {
+			"name": "Tom Munson",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "https://www.mainely-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Mainely-Real Estate",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "www.mainely-realestate.com"
+		},
+		"history": {
+			"2024-08-27": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 747
+			}
+		}
+	},
+	{
+		"id": "2-Industrial-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "2 Industrial Rd, Waterville, ME 04901",
+		"addressLine1": "2 Industrial Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.56882,
+		"longitude": -69.635213,
+		"propertyType": "Land",
+		"lotSize": 247856,
+		"status": "Active",
+		"price": 175000,
+		"listingType": "Standard",
+		"listedDate": "2024-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-12-12T07:58:52.539Z",
+		"lastSeenDate": "2026-09-12T08:55:43.452Z",
+		"daysOnMarket": 747,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1601771",
+		"listingAgent": {
+			"name": "Tom Munson",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "https://www.mainely-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Mainely-Real Estate",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "www.mainely-realestate.com"
+		},
+		"history": {
+			"2024-08-27": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 747
+			}
+		}
+	},
+	{
+		"id": "6-Industrial-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "6 Industrial Rd, Waterville, ME 04901",
+		"addressLine1": "6 Industrial Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.569301,
+		"longitude": -69.635516,
+		"propertyType": "Land",
+		"lotSize": 412949,
+		"status": "Active",
+		"price": 100000,
+		"listingType": "Standard",
+		"listedDate": "2024-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-03T07:11:21.587Z",
+		"lastSeenDate": "2026-09-12T08:55:43.451Z",
+		"daysOnMarket": 747,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1601788",
+		"listingAgent": {
+			"name": "Tom Munson",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "https://www.mainely-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Mainely-Real Estate",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "www.mainely-realestate.com"
+		},
+		"history": {
+			"2024-08-27": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 747
+			}
+		}
+	},
+	{
+		"id": "W-River-Rd,-Lot-80,-Waterville,-ME-04901",
+		"formattedAddress": "W River Rd, Lot 80, Waterville, ME 04901",
+		"addressLine1": "W River Rd",
+		"addressLine2": "Lot 80",
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.506166,
+		"longitude": -69.680075,
+		"propertyType": "Land",
+		"lotSize": 278784,
+		"status": "Active",
+		"price": 154900,
+		"listingType": "Standard",
+		"listedDate": "2023-01-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:43.449Z",
+		"daysOnMarket": 1328,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1551387",
+		"listingAgent": {
+			"name": "Joe Saltalamachia",
+			"phone": "2076926481",
+			"email": "jsalty@cbplourde.com",
+			"website": "cbplourde.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2023-01-24": {
+				"event": "Sale Listing",
+				"price": 154900,
+				"listingType": "Standard",
+				"listedDate": "2023-01-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 1328
+			}
+		}
+	},
+	{
+		"id": "7-Industrial-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "7 Industrial Rd, Waterville, ME 04901",
+		"addressLine1": "7 Industrial Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.569656,
+		"longitude": -69.635323,
+		"propertyType": "Land",
+		"lotSize": 223898,
+		"status": "Active",
+		"price": 200000,
+		"listingType": "Standard",
+		"listedDate": "2025-03-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-03T09:13:25.161Z",
+		"lastSeenDate": "2026-09-12T08:55:43.448Z",
+		"daysOnMarket": 531,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1601799",
+		"listingAgent": {
+			"name": "Tom Munson",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "https://www.mainely-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Mainely-Real Estate",
+			"phone": "2074538000",
+			"email": "tom@mainely-realestate.com",
+			"website": "www.mainely-realestate.com"
+		},
+		"history": {
+			"2024-08-27": {
+				"event": "Sale Listing",
+				"price": 200000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-27T00:00:00.000Z",
+				"removedDate": "2024-11-06T00:00:00.000Z",
+				"daysOnMarket": 71
+			},
+			"2025-03-31": {
+				"event": "Sale Listing",
+				"price": 200000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 531
+			}
+		}
+	},
+	{
+		"id": "6-Linden-St,-Waterville,-ME-04901",
+		"formattedAddress": "6 Linden St, Waterville, ME 04901",
+		"addressLine1": "6 Linden St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.565667,
+		"longitude": -69.62298,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1418,
+		"lotSize": 5663,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 219999,
+		"listingType": "Standard",
+		"listedDate": "2026-03-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-18T09:44:41.054Z",
+		"lastSeenDate": "2026-09-12T08:06:58.911Z",
+		"daysOnMarket": 180,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1623422",
+		"listingAgent": {
+			"name": "Jenny Greeley",
+			"phone": "2075091276",
+			"email": "jgreeley@cbplourde.com",
+			"website": "https://www.jennygreeley.realtor/"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2025-05-21": {
+				"event": "Sale Listing",
+				"price": 229999,
+				"listingType": "Standard",
+				"listedDate": "2025-05-21T00:00:00.000Z",
+				"removedDate": "2025-12-31T00:00:00.000Z",
+				"daysOnMarket": 224
+			},
+			"2026-03-17": {
+				"event": "Sale Listing",
+				"price": 219999,
+				"listingType": "Standard",
+				"listedDate": "2026-03-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 180
+			}
+		}
+	},
+	{
+		"id": "308-Evergreen-Dr,-Unit-308,-Waterville,-ME-04901",
+		"formattedAddress": "308 Evergreen Dr, Unit 308, Waterville, ME 04901",
+		"addressLine1": "308 Evergreen Dr",
+		"addressLine2": "Unit 308",
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.537744,
+		"longitude": -69.662736,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1404,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 320
+		},
+		"status": "Active",
+		"price": 190000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-26T14:10:07.711Z",
+		"lastSeenDate": "2026-09-12T08:06:58.906Z",
+		"daysOnMarket": 181,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654353",
+		"listingAgent": {
+			"name": "Kim Moxcey",
+			"phone": "2078732119",
+			"email": "kim@c21nason.com",
+			"website": "http://www.c21nason.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Nason Realty, Inc.",
+			"phone": "2078732119",
+			"email": "info@c21nason.com",
+			"website": "http://www.c21nason.com/"
+		},
+		"history": {
+			"2026-03-16": {
+				"event": "Sale Listing",
+				"price": 190000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 181
+			}
+		}
+	},
+	{
+		"id": "19-Valerie-Ln,-Waterville,-ME-04901",
+		"formattedAddress": "19 Valerie Ln, Waterville, ME 04901",
+		"addressLine1": "19 Valerie Ln",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.518135,
+		"longitude": -69.67505,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 880,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 102500,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.889Z",
+		"daysOnMarket": 322,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1641938",
+		"listingAgent": {
+			"name": "Britney Rideout",
+			"phone": "2078735634",
+			"email": "brideout@surette-realestate.com",
+			"website": "http://www.surette-realestate.com/"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2025-10-26": {
+				"event": "Sale Listing",
+				"price": 102500,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 322
+			}
+		}
+	},
+	{
+		"id": "10-Victoria-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "10 Victoria Dr, Waterville, ME 04901",
+		"addressLine1": "10 Victoria Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.516495,
+		"longitude": -69.674438,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 800,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 94900,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.888Z",
+		"daysOnMarket": 320,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642056",
+		"listingAgent": {
+			"name": "Britney Rideout",
+			"phone": "2078735634",
+			"email": "brideout@surette-realestate.com",
+			"website": "http://www.surette-realestate.com/"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2025-10-28": {
+				"event": "Sale Listing",
+				"price": 94900,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 320
+			}
+		}
+	},
+	{
+		"id": "46-Victoria-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "46 Victoria Dr, Waterville, ME 04901",
+		"addressLine1": "46 Victoria Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.516967,
+		"longitude": -69.675415,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 880,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 102500,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.887Z",
+		"daysOnMarket": 320,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642057",
+		"listingAgent": {
+			"name": "Britney Rideout",
+			"phone": "2078735634",
+			"email": "brideout@surette-realestate.com",
+			"website": "http://www.surette-realestate.com/"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2025-10-28": {
+				"event": "Sale Listing",
+				"price": 102500,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 320
+			}
+		}
+	},
+	{
+		"id": "8-Victoria-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "8 Victoria Dr, Waterville, ME 04901",
+		"addressLine1": "8 Victoria Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.516449,
+		"longitude": -69.674011,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 800,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 94900,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.886Z",
+		"daysOnMarket": 320,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642058",
+		"listingAgent": {
+			"name": "Britney Rideout",
+			"phone": "2078735634",
+			"email": "brideout@surette-realestate.com",
+			"website": "http://www.surette-realestate.com/"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2025-10-28": {
+				"event": "Sale Listing",
+				"price": 94900,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 320
+			}
+		}
+	},
+	{
+		"id": "5-Veteran-Ct,-Waterville,-ME-04901",
+		"formattedAddress": "5 Veteran Ct, Waterville, ME 04901",
+		"addressLine1": "5 Veteran Ct",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.543296,
+		"longitude": -69.634581,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1680,
+		"lotSize": 3049,
+		"yearBuilt": 1850,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-03-19T07:44:08.190Z",
+		"lastSeenDate": "2026-09-12T08:06:58.883Z",
+		"daysOnMarket": 303,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1643545",
+		"listingAgent": {
+			"name": "Christopher Marcoux",
+			"phone": "2078775575",
+			"email": "cmarcoux@cbplourde.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2025-11-14": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 303
+			}
+		}
+	},
+	{
+		"id": "8-High-St,-Waterville,-ME-04901",
+		"formattedAddress": "8 High St, Waterville, ME 04901",
+		"addressLine1": "8 High St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.562148,
+		"longitude": -69.627166,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2214,
+		"lotSize": 9148,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 249900,
+		"listingType": "Standard",
+		"listedDate": "2025-11-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.878Z",
+		"daysOnMarket": 289,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1644451",
+		"listingAgent": {
+			"name": "Renee's Realty Network - Renee Roy",
+			"phone": "2077828311",
+			"email": "reneeroy@masiello.com",
+			"website": "http://www.yourrealtynetwork.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-11-28": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2025-11-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 289
+			}
+		}
+	},
+	{
+		"id": "63-Summer-St,-Waterville,-ME-04901",
+		"formattedAddress": "63 Summer St, Waterville, ME 04901",
+		"addressLine1": "63 Summer St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.541417,
+		"longitude": -69.64011,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1838,
+		"lotSize": 7841,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 199000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-10-07T07:11:56.366Z",
+		"lastSeenDate": "2026-09-12T08:06:58.856Z",
+		"daysOnMarket": 194,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653113",
+		"listingAgent": {
+			"name": "Robbin Eusebio",
+			"phone": "2078735634",
+			"email": "robbine@surette-realestate.com",
+			"website": "www.surette-realestate.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-03-03": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 194
+			}
+		}
+	},
+	{
+		"id": "8-Prospect-St,-Waterville,-ME-04901",
+		"formattedAddress": "8 Prospect St, Waterville, ME 04901",
+		"addressLine1": "8 Prospect St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.559773,
+		"longitude": -69.634752,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2.5,
+		"squareFootage": 2766,
+		"lotSize": 16117,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 345000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.854Z",
+		"daysOnMarket": 192,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653422",
+		"listingAgent": {
+			"name": "Erin L Dunning",
+			"phone": "2079317679",
+			"email": "erin@hoangrealty.com",
+			"website": "https://hoangrealty.com/agent/erin-dunning"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-03-05": {
+				"event": "Sale Listing",
+				"price": 345000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 192
+			}
+		}
+	},
+	{
+		"id": "15-17-Pine-St,-Waterville,-ME-04901",
+		"formattedAddress": "15-17 Pine St, Waterville, ME 04901",
+		"addressLine1": "15-17 Pine St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.53867,
+		"longitude": -69.639191,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2061,
+		"lotSize": 5227,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 209900,
+		"listingType": "Standard",
+		"listedDate": "2026-02-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.848Z",
+		"daysOnMarket": 219,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651317",
+		"listingAgent": {
+			"name": "Melissa Bartlett",
+			"phone": "2079426711",
+			"email": "melissabartlett@masiello.com",
+			"website": "http://www.melissabartlett.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2079426711",
+			"email": "bangor@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-02-06": {
+				"event": "Sale Listing",
+				"price": 209900,
+				"listingType": "Standard",
+				"listedDate": "2026-02-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 219
+			}
+		}
+	},
+	{
+		"id": "53-Mathews-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "53 Mathews Ave, Waterville, ME 04901",
+		"addressLine1": "53 Mathews Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.547887,
+		"longitude": -69.652207,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 3280,
+		"lotSize": 43996,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 749000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.845Z",
+		"daysOnMarket": 156,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657310",
+		"listingAgent": {
+			"name": "Corey Lee",
+			"phone": "2073148443",
+			"email": "coreyl3134@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Independent Real Estate Broker",
+			"phone": "2072723954",
+			"email": "coreysellsmaine@maine.com"
+		},
+		"history": {
+			"2026-04-10": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 156
+			}
+		}
+	},
+	{
+		"id": "22-Ash-St,-Waterville,-ME-04901",
+		"formattedAddress": "22 Ash St, Waterville, ME 04901",
+		"addressLine1": "22 Ash St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.560819,
+		"longitude": -69.629651,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2395,
+		"lotSize": 5663,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 295000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-28T06:13:28.899Z",
+		"lastSeenDate": "2026-09-12T08:06:58.842Z",
+		"daysOnMarket": 157,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657213",
+		"listingAgent": {
+			"name": "Tomazin Goff Realty",
+			"phone": "2075427563",
+			"email": "info@tg207.com",
+			"website": "http://www.tg207.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 157
+			}
+		}
+	},
+	{
+		"id": "6-Stone-Ridge-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "6 Stone Ridge Dr, Waterville, ME 04901",
+		"addressLine1": "6 Stone Ridge Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.581813,
+		"longitude": -69.64604,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3503,
+		"lotSize": 76230,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 624900,
+		"listingType": "Standard",
+		"listedDate": "2026-03-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.840Z",
+		"daysOnMarket": 174,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655102",
+		"listingAgent": {
+			"name": "Katie Mcallister",
+			"phone": "2074464705",
+			"email": "katiemcallister1010@gmail.com",
+			"website": "http://www.katiemcallister.com"
+		},
+		"listingOffice": {
+			"name": "MCALLISTER REAL ESTATE",
+			"phone": "2076212345",
+			"email": "kimgleason@myfairpoint.net",
+			"website": "www.mcallisterrealestate.com"
+		},
+		"history": {
+			"2026-03-23": {
+				"event": "Sale Listing",
+				"price": 624900,
+				"listingType": "Standard",
+				"listedDate": "2026-03-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 174
+			}
+		}
+	},
+	{
+		"id": "75-Airport-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "75 Airport Rd, Waterville, ME 04901",
+		"addressLine1": "75 Airport Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.537408,
+		"longitude": -69.677807,
+		"propertyType": "Land",
+		"lotSize": 301871,
+		"status": "Active",
+		"price": 115000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.838Z",
+		"daysOnMarket": 143,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658989",
+		"listingAgent": {
+			"name": "Holly Mitchell & Will Chapman",
+			"phone": "2076506176",
+			"email": "hmitchell@kw.com",
+			"website": "http://www.maineprice.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-09-05": {
+				"event": "Sale Listing",
+				"price": 110000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-05T00:00:00.000Z",
+				"removedDate": "2025-03-03T00:00:00.000Z",
+				"daysOnMarket": 179
+			},
+			"2025-04-04": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-04T00:00:00.000Z",
+				"removedDate": "2025-05-10T00:00:00.000Z",
+				"daysOnMarket": 36
+			},
+			"2026-04-23": {
+				"event": "Sale Listing",
+				"price": 115000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 143
+			}
+		}
+	},
+	{
+		"id": "7-Donald-St,-Waterville,-ME-04901",
+		"formattedAddress": "7 Donald St, Waterville, ME 04901",
+		"addressLine1": "7 Donald St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.563701,
+		"longitude": -69.626201,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1456,
+		"lotSize": 11326,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 219000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.831Z",
+		"daysOnMarket": 153,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657560",
+		"listingAgent": {
+			"name": "Josh Laverdiere",
+			"phone": "2076926008",
+			"email": "josh@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-13": {
+				"event": "Sale Listing",
+				"price": 219000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 153
+			}
+		}
+	},
+	{
+		"id": "144-College-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "144 College Ave, Waterville, ME 04901",
+		"addressLine1": "144 College Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.568033,
+		"longitude": -69.623189,
+		"propertyType": "Multi-Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2363,
+		"lotSize": 9583,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 215000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-03-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.819Z",
+		"daysOnMarket": 155,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657456",
+		"listingAgent": {
+			"name": "Corey Lee",
+			"phone": "2073148443",
+			"email": "coreyl3134@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Independent Real Estate Broker",
+			"phone": "2072723954",
+			"email": "coreysellsmaine@maine.com"
+		},
+		"history": {
+			"2025-09-18": {
+				"event": "Sale Listing",
+				"price": 215000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-18T00:00:00.000Z",
+				"removedDate": "2026-04-07T00:00:00.000Z",
+				"daysOnMarket": 201
+			},
+			"2026-04-11": {
+				"event": "Sale Listing",
+				"price": 215000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 155
+			}
+		}
+	},
+	{
+		"id": "25-Clearview-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "25 Clearview Ave, Waterville, ME 04901",
+		"addressLine1": "25 Clearview Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.546055,
+		"longitude": -69.653182,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 1884,
+		"lotSize": 10019,
+		"yearBuilt": 1989,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.809Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661614",
+		"listingAgent": {
+			"name": "Dianna Patterson",
+			"phone": "2074454027",
+			"email": "realtyofmaine@roadrunner.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - South China",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "2-Meadow-Dr,-Unit-0,-Waterville,-ME-04901",
+		"formattedAddress": "2 Meadow Dr, Unit 0, Waterville, ME 04901",
+		"addressLine1": "2 Meadow Dr",
+		"addressLine2": "Unit 0",
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.543039,
+		"longitude": -69.685309,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1071,
+		"lotSize": 30928,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 95
+		},
+		"status": "Active",
+		"price": 349900,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.359Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663156",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "6-High-St,-Waterville,-ME-04901",
+		"formattedAddress": "6 High St, Waterville, ME 04901",
+		"addressLine1": "6 High St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.562182,
+		"longitude": -69.62688,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1815,
+		"lotSize": 8712,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.351Z",
+		"daysOnMarket": 114,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663576",
+		"listingAgent": {
+			"name": "Francis Rodrigue",
+			"phone": "2078739013",
+			"email": "franrod555@live.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "http://kwmaine.com"
+		},
+		"history": {
+			"2025-05-29": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-29T00:00:00.000Z",
+				"removedDate": "2025-06-04T00:00:00.000Z",
+				"daysOnMarket": 6
+			},
+			"2026-05-22": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 114
+			}
+		}
+	},
+	{
+		"id": "5-West-St,-Waterville,-ME-04901",
+		"formattedAddress": "5 West St, Waterville, ME 04901",
+		"addressLine1": "5 West St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.551999,
+		"longitude": -69.637323,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2332,
+		"lotSize": 19166,
+		"yearBuilt": 1905,
+		"status": "Active",
+		"price": 335000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.337Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664595",
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 335000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "2-Coolidge-St,-Waterville,-ME-04901",
+		"formattedAddress": "2 Coolidge St, Waterville, ME 04901",
+		"addressLine1": "2 Coolidge St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.552539,
+		"longitude": -69.674442,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3880,
+		"lotSize": 29185,
+		"yearBuilt": 1989,
+		"status": "Active",
+		"price": 445000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.304Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666233",
+		"listingAgent": {
+			"name": "Jason Erwin"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 445000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "125-Airport-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "125 Airport Rd, Waterville, ME 04901",
+		"addressLine1": "125 Airport Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.5348,
+		"longitude": -69.686023,
+		"propertyType": "Land",
+		"lotSize": 112820,
+		"status": "Active",
+		"price": 99000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.299Z",
+		"daysOnMarket": 91,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667156",
+		"listingAgent": {
+			"name": "Corey Lee",
+			"phone": "2073148443",
+			"email": "coreyl3134@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Independent Real Estate Broker",
+			"phone": "2072723954",
+			"email": "coreysellsmaine@maine.com"
+		},
+		"history": {
+			"2025-12-19": {
+				"event": "Sale Listing",
+				"price": 114900,
+				"listingType": "Standard",
+				"listedDate": "2025-12-19T00:00:00.000Z",
+				"removedDate": "2026-05-16T00:00:00.000Z",
+				"daysOnMarket": 148
+			},
+			"2026-06-14": {
+				"event": "Sale Listing",
+				"price": 99000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 91
+			}
+		}
+	},
+	{
+		"id": "13-Harold-St,-Waterville,-ME-04901",
+		"formattedAddress": "13 Harold St, Waterville, ME 04901",
+		"addressLine1": "13 Harold St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.570588,
+		"longitude": -69.622077,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2309,
+		"lotSize": 8276,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 229000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.291Z",
+		"daysOnMarket": 90,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667239",
+		"listingAgent": {
+			"name": "John Danforth",
+			"phone": "2077822121",
+			"email": "johndanforth21@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Pros",
+			"phone": "4013238700",
+			"email": "soldbygreg@gmail.com"
+		},
+		"history": {
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 229000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "Donald-St,-Waterville,-ME-04901",
+		"formattedAddress": "Donald St, Waterville, ME 04901",
+		"addressLine1": "Donald St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.564152,
+		"longitude": -69.629395,
+		"propertyType": "Land",
+		"lotSize": 14810,
+		"status": "Active",
+		"price": 14999,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.276Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669119",
+		"listingAgent": {
+			"name": "Karyn Macgrath",
+			"phone": "2077981635",
+			"email": "karyn.macgrath@gmail.com",
+			"website": "https://www.spectrumrealestatecompany.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 14999,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "2-Central-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "2 Central Ave, Waterville, ME 04901",
+		"addressLine1": "2 Central Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.566559,
+		"longitude": -69.625929,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1847,
+		"lotSize": 9148,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 267500,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-03-25T06:45:09.347Z",
+		"lastSeenDate": "2026-09-12T07:50:49.270Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668039",
+		"listingAgent": {
+			"name": "Deborah Joseph",
+			"phone": "2074919179",
+			"email": "debbiejoseph321@gmail.com",
+			"website": "www.alliedrealty.net"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 267500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "56-Eustis-Pkwy,-Waterville,-ME-04901",
+		"formattedAddress": "56 Eustis Pkwy, Waterville, ME 04901",
+		"addressLine1": "56 Eustis Pkwy",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.563227,
+		"longitude": -69.643232,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2083,
+		"lotSize": 10454,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 379900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-10T11:04:07.642Z",
+		"lastSeenDate": "2026-09-12T07:24:05.018Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669420",
+		"listingAgent": {
+			"name": "Nick Isgro",
+			"phone": "2078774934",
+			"email": "nick@nickisgro.com",
+			"website": "http://nickisgro.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 379900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "4-Jasmine-Ln,-Waterville,-ME-04901",
+		"formattedAddress": "4 Jasmine Ln, Waterville, ME 04901",
+		"addressLine1": "4 Jasmine Ln",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.54098,
+		"longitude": -69.685762,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1024,
+		"lotSize": 3049,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 349900,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:05.012Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669862",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "34-Western-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "34 Western Ave, Waterville, ME 04901",
+		"addressLine1": "34 Western Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.547545,
+		"longitude": -69.637857,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2741,
+		"lotSize": 17424,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.979Z",
+		"daysOnMarket": 71,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670280",
+		"listingAgent": {
+			"name": "Jeffrey Jolicoeur",
+			"phone": "2078735634",
+			"email": "jjolicoeur@surette-realestate.com",
+			"website": "http://www.surette-realestate.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-04": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 71
+			}
+		}
+	},
+	{
+		"id": "31-Kelsey-St,-Waterville,-ME-04901",
+		"formattedAddress": "31 Kelsey St, Waterville, ME 04901",
+		"addressLine1": "31 Kelsey St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.56192,
+		"longitude": -69.634286,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 2081,
+		"lotSize": 9148,
+		"yearBuilt": 1886,
+		"status": "Active",
+		"price": 249000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.965Z",
+		"daysOnMarket": 48,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673655",
+		"listingAgent": {
+			"name": "Colleen Maguire",
+			"phone": "2076075965",
+			"email": "colleenmaguire@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2024-09-11": {
+				"event": "Sale Listing",
+				"price": 105000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-11T00:00:00.000Z",
+				"removedDate": "2024-10-08T00:00:00.000Z",
+				"daysOnMarket": 27
+			},
+			"2026-07-27": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 48
+			}
+		}
+	},
+	{
+		"id": "20-Central-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "20 Central Ave, Waterville, ME 04901",
+		"addressLine1": "20 Central Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.567611,
+		"longitude": -69.625626,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 2000,
+		"lotSize": 21780,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 330000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.953Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671589",
+		"listingAgent": {
+			"name": "Shannon Savage",
+			"phone": "2074952500",
+			"email": "shannon@lakehomegroup.com"
+		},
+		"listingOffice": {
+			"name": "Lakehome Group",
+			"phone": "2074952500",
+			"email": "liz@lakehomegroup.com"
+		},
+		"history": {
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 330000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "11-Winter-St,-Waterville,-ME-04901",
+		"formattedAddress": "11 Winter St, Waterville, ME 04901",
+		"addressLine1": "11 Winter St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.55075,
+		"longitude": -69.634641,
+		"propertyType": "Multi-Family",
+		"bathrooms": 7,
+		"squareFootage": 3941,
+		"lotSize": 8276,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 595000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.946Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671696",
+		"listingAgent": {
+			"name": "Kim Moxcey",
+			"phone": "2078732119",
+			"email": "kim@c21nason.com",
+			"website": "http://www.c21nason.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Nason Realty, Inc.",
+			"phone": "2078732119",
+			"email": "info@c21nason.com",
+			"website": "http://www.c21nason.com/"
+		},
+		"history": {
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 595000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "4-Sherwin-St,-Waterville,-ME-04901",
+		"formattedAddress": "4 Sherwin St, Waterville, ME 04901",
+		"addressLine1": "4 Sherwin St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.544625,
+		"longitude": -69.633334,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2800,
+		"lotSize": 4792,
+		"yearBuilt": 1935,
+		"status": "Active",
+		"price": 309000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.939Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672190",
+		"listingAgent": {
+			"name": "Ryley Austin",
+			"phone": "2075761951"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 309000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "11-Prospect-St,-Waterville,-ME-04901",
+		"formattedAddress": "11 Prospect St, Waterville, ME 04901",
+		"addressLine1": "11 Prospect St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.56031,
+		"longitude": -69.635692,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1749,
+		"lotSize": 12197,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 260000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.925Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672151",
+		"listingAgent": {
+			"name": "Desiree Libby",
+			"phone": "2073994308",
+			"email": "desiree.libby@beangroup.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Worth Clark Realty",
+			"phone": "8009916092",
+			"email": "info@worthclark.com",
+			"website": "https://worthclark.com/"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 260000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "21-Eaton-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "21 Eaton Dr, Waterville, ME 04901",
+		"addressLine1": "21 Eaton Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.544305,
+		"longitude": -69.663996,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2262,
+		"lotSize": 34412,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 459183,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.917Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673390",
+		"listingAgent": {
+			"name": "Donald Plourde",
+			"phone": "2076604000",
+			"email": "dplourde@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 459183,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "4-Ursula-St,-Waterville,-ME-04901",
+		"formattedAddress": "4 Ursula St, Waterville, ME 04901",
+		"addressLine1": "4 Ursula St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.550553,
+		"longitude": -69.654039,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1536,
+		"lotSize": 14375,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.603Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674034",
+		"listingAgent": {
+			"name": "Jill Huard",
+			"phone": "2074365555",
+			"email": "jill@summitofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "8-Forest-Park,-Waterville,-ME-04901",
+		"formattedAddress": "8 Forest Park, Waterville, ME 04901",
+		"addressLine1": "8 Forest Park",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.545338,
+		"longitude": -69.656526,
+		"propertyType": "Land",
+		"lotSize": 14810,
+		"status": "Active",
+		"price": 74900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.602Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675199",
+		"listingAgent": {
+			"name": "Dawn Gilman",
+			"phone": "2078732119",
+			"email": "dawn@c21nason.com",
+			"website": "https://www.c21nason.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Nason Realty, Inc.",
+			"phone": "2078732119",
+			"email": "info@c21nason.com",
+			"website": "http://www.c21nason.com/"
+		},
+		"history": {
+			"2025-08-06": {
+				"event": "Sale Listing",
+				"price": 70000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-06T00:00:00.000Z",
+				"removedDate": "2026-08-03T00:00:00.000Z",
+				"daysOnMarket": 362
+			},
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 74900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "1-Mount-Pleasant-St,-Waterville,-ME-04901",
+		"formattedAddress": "1 Mount Pleasant St, Waterville, ME 04901",
+		"addressLine1": "1 Mount Pleasant St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.573899,
+		"longitude": -69.61647,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2031,
+		"lotSize": 16117,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-06T07:26:35.173Z",
+		"lastSeenDate": "2026-09-12T07:04:22.585Z",
+		"daysOnMarket": 41,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674584",
+		"listingAgent": {
+			"name": "Francis Rodrigue",
+			"phone": "2078739013",
+			"email": "franrod555@live.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "http://kwmaine.com"
+		},
+		"history": {
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 41
+			}
+		}
+	},
+	{
+		"id": "7-Edgewood-St,-Waterville,-ME-04901",
+		"formattedAddress": "7 Edgewood St, Waterville, ME 04901",
+		"addressLine1": "7 Edgewood St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.552461,
+		"longitude": -69.649123,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 950,
+		"lotSize": 14810,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.582Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674893",
+		"listingAgent": {
+			"name": "Bettina Reece",
+			"phone": "6178235663",
+			"email": "bettina@waypointbrokers.com",
+			"website": "http://www.waypointbrokers.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "5-W-River-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "5 W River Rd, Waterville, ME 04901",
+		"addressLine1": "5 W River Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.539408,
+		"longitude": -69.650272,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 2911,
+		"lotSize": 23087,
+		"yearBuilt": 1957,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-12-03T08:31:51.503Z",
+		"lastSeenDate": "2026-09-12T07:04:22.581Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674732",
+		"listingAgent": {
+			"name": "Lisa Richards",
+			"phone": "2079492069"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "37-Barnet-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "37 Barnet Ave, Waterville, ME 04901",
+		"addressLine1": "37 Barnet Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.544899,
+		"longitude": -69.656004,
+		"propertyType": "Land",
+		"lotSize": 16553,
+		"status": "Active",
+		"price": 52000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.515Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676256",
+		"listingAgent": {
+			"name": "Haylee Wing",
+			"phone": "2078727650",
+			"email": "hwing@cbplourde.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 52000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "4-Penny-Ln,-Waterville,-ME-04901",
+		"formattedAddress": "4 Penny Ln, Waterville, ME 04901",
+		"addressLine1": "4 Penny Ln",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.575762,
+		"longitude": -69.637182,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 2335,
+		"lotSize": 33106,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 429999,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.510Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675345",
+		"listingAgent": {
+			"name": "Connor Liberty",
+			"phone": "2075769755",
+			"email": "connor@integrityhomesregroup.com"
+		},
+		"listingOffice": {
+			"name": "Integrity Homes Real Estate Group, PC",
+			"phone": "2075769755",
+			"email": "buffydumont@gmail.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 429999,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "22-Morgan-St,-Waterville,-ME-04901",
+		"formattedAddress": "22 Morgan St, Waterville, ME 04901",
+		"addressLine1": "22 Morgan St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.539181,
+		"longitude": -69.658363,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2129,
+		"lotSize": 14375,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.508Z",
+		"daysOnMarket": 35,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675400",
+		"listingAgent": {
+			"name": "Jess Nixon",
+			"phone": "2076491122",
+			"email": "jess.nixon@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com/me/brunswick/agent/jess-nixon/aid_187747/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077258522",
+			"email": "kathy.duca@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/brunswick/office/brunswick/oid_3581/"
+		},
+		"history": {
+			"2026-08-09": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 35
+			}
+		}
+	},
+	{
+		"id": "25-Oak-St,-Waterville,-ME-04901",
+		"formattedAddress": "25 Oak St, Waterville, ME 04901",
+		"addressLine1": "25 Oak St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.562172,
+		"longitude": -69.629848,
+		"propertyType": "Land",
+		"lotSize": 10019,
+		"status": "Active",
+		"price": 45000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-16T07:34:53.301Z",
+		"lastSeenDate": "2026-09-12T07:04:22.503Z",
+		"daysOnMarket": 35,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675412",
+		"listingAgent": {
+			"name": "Joan Marden",
+			"phone": "2076922386",
+			"email": "orlandoaperez@live.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077258522",
+			"email": "kathy.duca@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/brunswick/office/brunswick/oid_3581/"
+		},
+		"history": {
+			"2026-04-14": {
+				"event": "Sale Listing",
+				"price": 39000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-14T00:00:00.000Z",
+				"removedDate": "2026-07-07T00:00:00.000Z",
+				"daysOnMarket": 84
+			},
+			"2026-08-09": {
+				"event": "Sale Listing",
+				"price": 45000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 35
+			}
+		}
+	},
+	{
+		"id": "16-Winter-St,-Unit-1,-Waterville,-ME-04901",
+		"formattedAddress": "16 Winter St, Unit 1, Waterville, ME 04901",
+		"addressLine1": "16 Winter St",
+		"addressLine2": "Unit 1",
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.550426,
+		"longitude": -69.6353,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3263,
+		"lotSize": 5663,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 337500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.470Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676680",
+		"listingAgent": {
+			"name": "Heidi Libby",
+			"phone": "2076231123",
+			"email": "heidi@spragueandcurtis.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Northern Lights Realty",
+			"phone": "2075588811",
+			"email": "office@nexthomesnlr.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 337500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "11-Eaton-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "11 Eaton Dr, Waterville, ME 04901",
+		"addressLine1": "11 Eaton Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.545949,
+		"longitude": -69.662573,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 3084,
+		"lotSize": 36590,
+		"yearBuilt": 1967,
+		"status": "Active",
+		"price": 460000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.464Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675648",
+		"listingAgent": {
+			"name": "Debra Higgins"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 460000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "31-Forest-Park,-Waterville,-ME-04901",
+		"formattedAddress": "31 Forest Park, Waterville, ME 04901",
+		"addressLine1": "31 Forest Park",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.544812,
+		"longitude": -69.649855,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3076,
+		"lotSize": 16553,
+		"yearBuilt": 1992,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-23T08:36:27.953Z",
+		"lastSeenDate": "2026-09-12T07:04:22.463Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676080",
+		"listingAgent": {
+			"name": "Christopher Marcoux",
+			"phone": "2078775575",
+			"email": "cmarcoux@cbplourde.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "18-Meadow-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "18 Meadow Dr, Waterville, ME 04901",
+		"addressLine1": "18 Meadow Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.537826,
+		"longitude": -69.68891,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 600,
+		"lotSize": 15246,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 35
+		},
+		"status": "Active",
+		"price": 214900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.457Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676888",
+		"listingAgent": {
+			"name": "Nick Isgro",
+			"phone": "2078774934",
+			"email": "nick@nickisgro.com",
+			"website": "http://nickisgro.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 214900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "151-Rideout-St,-Waterville,-ME-04901",
+		"formattedAddress": "151 Rideout St, Waterville, ME 04901",
+		"addressLine1": "151 Rideout St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.541438,
+		"longitude": -69.658625,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 989,
+		"lotSize": 4356,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 210000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-16T07:44:29.506Z",
+		"lastSeenDate": "2026-09-12T07:04:22.454Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676983",
+		"listingAgent": {
+			"name": "Dana Michaud",
+			"phone": "2073142268",
+			"email": "dmichaud@cbplourde.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 210000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "31-High-St,-Waterville,-ME-04901",
+		"formattedAddress": "31 High St, Waterville, ME 04901",
+		"addressLine1": "31 High St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.562988,
+		"longitude": -69.629556,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 2628,
+		"lotSize": 8276,
+		"yearBuilt": 1912,
+		"status": "Active",
+		"price": 249900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-11T07:35:08.837Z",
+		"lastSeenDate": "2026-09-12T07:04:22.450Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676890",
+		"listingAgent": {
+			"name": "Corey Lee",
+			"phone": "2073148443",
+			"email": "coreyl3134@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Independent Real Estate Broker",
+			"phone": "2072723954",
+			"email": "coreysellsmaine@maine.com"
+		},
+		"history": {
+			"2026-03-06": {
+				"event": "Sale Listing",
+				"price": 259000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-06T00:00:00.000Z",
+				"removedDate": "2026-05-20T00:00:00.000Z",
+				"daysOnMarket": 75
+			},
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "29-Carey-Ln,-Waterville,-ME-04901",
+		"formattedAddress": "29 Carey Ln, Waterville, ME 04901",
+		"addressLine1": "29 Carey Ln",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.540565,
+		"longitude": -69.637664,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1570,
+		"lotSize": 9148,
+		"yearBuilt": 1860,
+		"status": "Active",
+		"price": 219900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.450Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677352",
+		"listingAgent": {
+			"name": "Sarah Donnell",
+			"phone": "2072743733"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2024-09-17": {
+				"event": "Sale Listing",
+				"price": 79900,
+				"listingType": "Standard",
+				"listedDate": "2024-09-17T00:00:00.000Z",
+				"removedDate": "2025-07-01T00:00:00.000Z",
+				"daysOnMarket": 287
+			},
+			"2025-11-04": {
+				"event": "Sale Listing",
+				"price": 49900,
+				"listingType": "Standard",
+				"listedDate": "2025-11-04T00:00:00.000Z",
+				"removedDate": "2026-03-18T00:00:00.000Z",
+				"daysOnMarket": 134
+			},
+			"2026-08-22": {
+				"event": "Sale Listing",
+				"price": 219900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	},
+	{
+		"id": "11-Autumn-St,-Waterville,-ME-04901",
+		"formattedAddress": "11 Autumn St, Waterville, ME 04901",
+		"addressLine1": "11 Autumn St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.544561,
+		"longitude": -69.634177,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2250,
+		"lotSize": 3920,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 179900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.653Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678415",
+		"listingAgent": {
+			"name": "Francis Rodrigue",
+			"phone": "2078739013",
+			"email": "franrod555@live.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "http://kwmaine.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 179900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "465-Main-St,-Waterville,-ME-04901",
+		"formattedAddress": "465 Main St, Waterville, ME 04901",
+		"addressLine1": "465 Main St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.583304,
+		"longitude": -69.649052,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 5.5,
+		"squareFootage": 3561,
+		"lotSize": 82764,
+		"yearBuilt": 1791,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-08T13:51:14.471Z",
+		"lastSeenDate": "2026-09-12T05:59:05.649Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678786",
+		"listingAgent": {
+			"name": "Nick Isgro",
+			"phone": "2078774934",
+			"email": "nick@nickisgro.com",
+			"website": "http://nickisgro.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "35-Mathews-Ave,-Apt-20,-Waterville,-ME-04901",
+		"formattedAddress": "35 Mathews Ave, Apt 20, Waterville, ME 04901",
+		"addressLine1": "35 Mathews Ave",
+		"addressLine2": "Apt 20",
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.547476,
+		"longitude": -69.649399,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 936,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 329
+		},
+		"status": "Active",
+		"price": 184000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.646Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677622",
+		"listingAgent": {
+			"name": "Amy Pottle",
+			"phone": "2077744224"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-04-14": {
+				"event": "Sale Listing",
+				"price": 184900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-14T00:00:00.000Z",
+				"removedDate": "2026-08-14T00:00:00.000Z",
+				"daysOnMarket": 122
+			},
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 184000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "32-King-St,-Waterville,-ME-04901",
+		"formattedAddress": "32 King St, Waterville, ME 04901",
+		"addressLine1": "32 King St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.540707,
+		"longitude": -69.639041,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 1590,
+		"lotSize": 16553,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 195000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.644Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677677",
+		"listingAgent": {
+			"name": "David Super",
+			"phone": "2077297297",
+			"email": "david@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2024-05-31": {
+				"event": "Sale Listing",
+				"price": 150000,
+				"listingType": "Standard",
+				"listedDate": "2024-05-31T00:00:00.000Z",
+				"removedDate": "2024-11-06T00:00:00.000Z",
+				"daysOnMarket": 159
+			},
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 195000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "2-Swan-St,-Waterville,-ME-04901",
+		"formattedAddress": "2 Swan St, Waterville, ME 04901",
+		"addressLine1": "2 Swan St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.543016,
+		"longitude": -69.636823,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1725,
+		"lotSize": 3920,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 115000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.641Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677703",
+		"listingAgent": {
+			"name": "Linmarie Blythe",
+			"phone": "2075588811",
+			"email": "linmarie@nexthomenlr.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Northern Lights Realty",
+			"phone": "2075588811",
+			"email": "office@nexthomesnlr.com"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 115000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "50-52-8-Rod-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "50-52 8 Rod Rd, Waterville, ME 04901",
+		"addressLine1": "50-52 8 Rod Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.520908,
+		"longitude": -69.684547,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"lotSize": 217800,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 379900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.636Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677814",
+		"listingAgent": {
+			"name": "Michael Bard",
+			"phone": "2078735634",
+			"email": "mbard@surette-realestate.com",
+			"website": "http://www.surette-realestate.com/"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 379900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "48-Western-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "48 Western Ave, Waterville, ME 04901",
+		"addressLine1": "48 Western Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.547829,
+		"longitude": -69.639322,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1680,
+		"lotSize": 3485,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 161000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.629Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677867",
+		"listingAgent": {
+			"name": "Linmarie Blythe",
+			"phone": "2075588811",
+			"email": "linmarie@nexthomenlr.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Northern Lights Realty",
+			"phone": "2075588811",
+			"email": "office@nexthomesnlr.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 161000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "6-Chase-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "6 Chase Ave, Waterville, ME 04901",
+		"addressLine1": "6 Chase Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.551447,
+		"longitude": -69.653418,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1738,
+		"lotSize": 13939,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 274000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.616Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678135",
+		"listingAgent": {
+			"name": "Kristina Stewart",
+			"phone": "2075574644",
+			"email": "kstewart@rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 274000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "46-Wilkes-St,-Waterville,-ME-04901",
+		"formattedAddress": "46 Wilkes St, Waterville, ME 04901",
+		"addressLine1": "46 Wilkes St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.539828,
+		"longitude": -69.657855,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 1829,
+		"lotSize": 7405,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 354900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-01-08T09:06:11.280Z",
+		"lastSeenDate": "2026-09-12T05:59:05.576Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678821",
+		"listingAgent": {
+			"name": "Jill Huard",
+			"phone": "2074365555",
+			"email": "jill@summitofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 354900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "80-Silver-St,-Apt-7,-Waterville,-ME-04901",
+		"formattedAddress": "80 Silver St, Apt 7, Waterville, ME 04901",
+		"addressLine1": "80 Silver St",
+		"addressLine2": "Apt 7",
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.545535,
+		"longitude": -69.635943,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1122,
+		"yearBuilt": 1976,
+		"hoa": {
+			"fee": 225
+		},
+		"status": "Active",
+		"price": 155000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.573Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678442",
+		"listingAgent": {
+			"name": "Jason Erwin"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 155000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "10-Lloyd-Rd,-Waterville,-ME-04901",
+		"formattedAddress": "10 Lloyd Rd, Waterville, ME 04901",
+		"addressLine1": "10 Lloyd Rd",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.556591,
+		"longitude": -69.648162,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2512,
+		"lotSize": 10890,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-10-18T08:16:56.551Z",
+		"lastSeenDate": "2026-09-12T05:59:05.570Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679368",
+		"listingAgent": {
+			"name": "Nick Isgro",
+			"phone": "2078774934",
+			"email": "nick@nickisgro.com",
+			"website": "http://nickisgro.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "108-Bruins-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "108 Bruins Dr, Waterville, ME 04901",
+		"addressLine1": "108 Bruins Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.516206,
+		"longitude": -69.675391,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1014,
+		"lotSize": 871,
+		"yearBuilt": 1989,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 49000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.564Z",
+		"daysOnMarket": 15,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678276",
+		"listingAgent": {
+			"name": "Jennifer Banton",
+			"phone": "2074171033",
+			"email": "jenniferbanton@kw.com",
+			"website": "http://jenniferbanton.kw.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-08-29": {
+				"event": "Sale Listing",
+				"price": 49000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 15
+			}
+		}
+	},
+	{
+		"id": "21-Hillside-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "21 Hillside Ave, Waterville, ME 04901",
+		"addressLine1": "21 Hillside Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.559276,
+		"longitude": -69.631562,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1490,
+		"lotSize": 6098,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 104900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-26T00:18:36.609Z",
+		"lastSeenDate": "2026-09-12T05:59:05.559Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679094",
+		"listingAgent": {
+			"name": "Crystal Fontaine-bergeron",
+			"phone": "2077843800",
+			"email": "crystal@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 104900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "77-High-St,-Waterville,-ME-04901",
+		"formattedAddress": "77 High St, Waterville, ME 04901",
+		"addressLine1": "77 High St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.564064,
+		"longitude": -69.635541,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1859,
+		"lotSize": 25700,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 249000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.555Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679332",
+		"listingAgent": {
+			"name": "Corey Lee",
+			"phone": "2073148443",
+			"email": "coreyl3134@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Independent Real Estate Broker",
+			"phone": "2072723954",
+			"email": "coreysellsmaine@maine.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "31-Winter-St,-Waterville,-ME-04901",
+		"formattedAddress": "31 Winter St, Waterville, ME 04901",
+		"addressLine1": "31 Winter St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.551274,
+		"longitude": -69.63743,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2.5,
+		"squareFootage": 3552,
+		"lotSize": 22216,
+		"yearBuilt": 1873,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.553Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678814",
+		"listingAgent": {
+			"name": "The Brent & Lisa Team",
+			"phone": "2077565135",
+			"email": "brentandlisa@portsidereg.com",
+			"website": "https://brentandlisa.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-05-24": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-24T00:00:00.000Z",
+				"removedDate": "2026-08-01T00:00:00.000Z",
+				"daysOnMarket": 69
+			},
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "8-Westview-Dr,-Waterville,-ME-04901",
+		"formattedAddress": "8 Westview Dr, Waterville, ME 04901",
+		"addressLine1": "8 Westview Dr",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.543575,
+		"longitude": -69.663788,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2136,
+		"lotSize": 33977,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 469000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.547Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680034",
+		"listingAgent": {
+			"name": "Jeffrey Jolicoeur",
+			"phone": "2078735634",
+			"email": "jjolicoeur@surette-realestate.com",
+			"website": "http://www.surette-realestate.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "589-Lincoln-St,-Waterville,-ME-04901",
+		"formattedAddress": "589 Lincoln St, Waterville, ME 04901",
+		"addressLine1": "589 Lincoln St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.549487,
+		"longitude": -69.669954,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1530,
+		"lotSize": 30492,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 449000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.542Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679336",
+		"listingAgent": {
+			"name": "Adam Sesin",
+			"phone": "2074314064",
+			"email": "adamsesin@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "7-Elmwood-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "7 Elmwood Ave, Waterville, ME 04901",
+		"addressLine1": "7 Elmwood Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.557873,
+		"longitude": -69.636582,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1728,
+		"lotSize": 5227,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 99800,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.540Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680008",
+		"listingAgent": {
+			"name": "Kim Hawkes",
+			"phone": "2073146080",
+			"email": "kimhawkes@ownrealestate.me",
+			"website": "http://www.ownrealestate.me"
+		},
+		"listingOffice": {
+			"name": "Own Real Estate",
+			"phone": "2073146080",
+			"email": "kimhawkes@ownrealestate.me"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 99800,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "2-Gilmore-St,-Waterville,-ME-04901",
+		"formattedAddress": "2 Gilmore St, Waterville, ME 04901",
+		"addressLine1": "2 Gilmore St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.542329,
+		"longitude": -69.641897,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1452,
+		"lotSize": 10454,
+		"yearBuilt": 1943,
+		"status": "Active",
+		"price": 320000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.539Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679871",
+		"listingAgent": {
+			"name": "Emily Caron",
+			"phone": "2078727650",
+			"email": "ecaron@cbplourde.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 320000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "12-Edgemont-Ave,-Waterville,-ME-04901",
+		"formattedAddress": "12 Edgemont Ave, Waterville, ME 04901",
+		"addressLine1": "12 Edgemont Ave",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.556043,
+		"longitude": -69.638613,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1652,
+		"lotSize": 5227,
+		"yearBuilt": 1935,
+		"status": "Active",
+		"price": 149900,
+		"listingType": "Standard",
+		"listedDate": "2026-03-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:26:36.555Z",
+		"daysOnMarket": 172,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655179",
+		"listingAgent": {
+			"name": "Mark Willey",
+			"phone": "8884398743",
+			"email": "mwilley.tx@gmail.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-03-24": {
+				"event": "Sale Listing",
+				"price": 149900,
+				"listingType": "Standard",
+				"listedDate": "2026-03-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 172
+			}
+		}
+	},
+	{
+		"id": "298-Main-St,-Waterville,-ME-04901",
+		"formattedAddress": "298 Main St, Waterville, ME 04901",
+		"addressLine1": "298 Main St",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.561509,
+		"longitude": -69.635134,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1344,
+		"lotSize": 5227,
+		"yearBuilt": 1928,
+		"status": "Active",
+		"price": 225000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T07:01:50.971Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675255",
+		"listingAgent": {
+			"name": "Jeffrey Jolicoeur",
+			"phone": "2078735634",
+			"email": "jjolicoeur@surette-realestate.com",
+			"website": "http://www.surette-realestate.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "14-Valerie-Ln,-Waterville,-ME-04901",
+		"formattedAddress": "14 Valerie Ln, Waterville, ME 04901",
+		"addressLine1": "14 Valerie Ln",
+		"addressLine2": null,
+		"city": "Waterville",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04901",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.517846,
+		"longitude": -69.674649,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 880,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 102500,
+		"listingType": "New Construction",
+		"listedDate": "2025-10-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T08:08:24.021Z",
+		"daysOnMarket": 337,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640417",
+		"listingAgent": {
+			"name": "Britney Rideout",
+			"phone": "2078735634",
+			"email": "brideout@surette-realestate.com",
+			"website": "http://www.surette-realestate.com/"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2025-10-09": {
+				"event": "Sale Listing",
+				"price": 102500,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 337
+			}
+		}
+	}
+]

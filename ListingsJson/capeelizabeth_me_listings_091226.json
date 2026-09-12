@@ -1,0 +1,2539 @@
+[
+	{
+		"id": "Shore-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "Shore Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "Shore Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.62487,
+		"longitude": -70.217753,
+		"propertyType": "Land",
+		"lotSize": 620730,
+		"status": "Active",
+		"price": 3400000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.654Z",
+		"daysOnMarket": 223,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1650944",
+		"listingAgent": {
+			"name": "Andrew Carr",
+			"phone": "2077731990",
+			"email": "andrew.carr@nemoves.com",
+			"website": "http://www.welcomehometomaine.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2078088333",
+			"email": "capeelizabeth@masiello.com",
+			"website": "https://www.masiello.com/capeelizabeth-me/"
+		},
+		"history": {
+			"2026-02-02": {
+				"event": "Sale Listing",
+				"price": 3400000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 223
+			}
+		}
+	},
+	{
+		"id": "52-Two-Lights-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "52 Two Lights Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "52 Two Lights Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.568391,
+		"longitude": -70.217528,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1437,
+		"lotSize": 10890,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 599999,
+		"listingType": "Standard",
+		"listedDate": "2026-03-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.644Z",
+		"daysOnMarket": 186,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653968",
+		"listingAgent": {
+			"name": "Christopher Foster",
+			"phone": "2077125674",
+			"email": "christopher.foster@kw.com",
+			"website": "http://christopherfoster.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-03-11": {
+				"event": "Sale Listing",
+				"price": 599999,
+				"listingType": "Standard",
+				"listedDate": "2026-03-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 186
+			}
+		}
+	},
+	{
+		"id": "14-Eastfield-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "14 Eastfield Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "14 Eastfield Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.583481,
+		"longitude": -70.213393,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2400,
+		"lotSize": 31799,
+		"yearBuilt": 2000,
+		"status": "Active",
+		"price": 695000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.601Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656947",
+		"listingAgent": {
+			"name": "Lisa Zlomke",
+			"phone": "2078371997",
+			"email": "lisazlomke1@gmail.com",
+			"website": "https://www.facebook.com/profile.php"
+		},
+		"listingOffice": {
+			"name": "Shore & Country Real Estate",
+			"phone": "8662217467",
+			"email": "sofc21@aol.com",
+			"website": "www.century21shoreandcountry.com"
+		},
+		"history": {
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 695000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "3-Breaker-Ln,-Unit-12,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "3 Breaker Ln, Unit 12, Cape Elizabeth, ME 04107",
+		"addressLine1": "3 Breaker Ln",
+		"addressLine2": "Unit 12",
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.61554,
+		"longitude": -70.241933,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1712,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 400
+		},
+		"status": "Active",
+		"price": 1395000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.294Z",
+		"daysOnMarket": 135,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660016",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 1395000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 135
+			}
+		}
+	},
+	{
+		"id": "19-Cunner-Ln,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "19 Cunner Ln, Cape Elizabeth, ME 04107",
+		"addressLine1": "19 Cunner Ln",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.568611,
+		"longitude": -70.198512,
+		"propertyType": "Single Family",
+		"bedrooms": 7,
+		"bathrooms": 7,
+		"squareFootage": 7371,
+		"lotSize": 104544,
+		"yearBuilt": 2016,
+		"status": "Active",
+		"price": 16500000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.289Z",
+		"daysOnMarket": 135,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660105",
+		"listingAgent": {
+			"name": "Samuel Michaud",
+			"phone": "2077808900",
+			"email": "smichaud@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 16500000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 135
+			}
+		}
+	},
+	{
+		"id": "29-Blue-Meadow-Ln,-Unit-16,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "29 Blue Meadow Ln, Unit 16, Cape Elizabeth, ME 04107",
+		"addressLine1": "29 Blue Meadow Ln",
+		"addressLine2": "Unit 16",
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.615166,
+		"longitude": -70.24254,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1360,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 400
+		},
+		"status": "Active",
+		"price": 1175000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.260Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659564",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 1175000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "28-Blue-Meadow-Ln,-Unit-17,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "28 Blue Meadow Ln, Unit 17, Cape Elizabeth, ME 04107",
+		"addressLine1": "28 Blue Meadow Ln",
+		"addressLine2": "Unit 17",
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.61491,
+		"longitude": -70.242013,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1370,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 400
+		},
+		"status": "Active",
+		"price": 990000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.257Z",
+		"daysOnMarket": 137,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659790",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-04-29": {
+				"event": "Sale Listing",
+				"price": 990000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 137
+			}
+		}
+	},
+	{
+		"id": "60-Richmond-Ter,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "60 Richmond Ter, Cape Elizabeth, ME 04107",
+		"addressLine1": "60 Richmond Ter",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.568212,
+		"longitude": -70.224577,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 782,
+		"lotSize": 6970,
+		"yearBuilt": 1958,
+		"hoa": {
+			"fee": 29
+		},
+		"status": "Active",
+		"price": 595000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.235Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662304",
+		"listingAgent": {
+			"name": "Nancy Keast,",
+			"phone": "2076157653",
+			"email": "nancy@nancykeast.com",
+			"website": "http://www.nancykeast.com"
+		},
+		"listingOffice": {
+			"name": "Locations Real Estate Group Llc",
+			"phone": "2078051811",
+			"email": "info@locationsinmaine.com"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 595000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "920-Shore-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "920 Shore Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "920 Shore Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.627655,
+		"longitude": -70.218605,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2222,
+		"lotSize": 8276,
+		"yearBuilt": 1930,
+		"hoa": {
+			"fee": 58
+		},
+		"status": "Active",
+		"price": 1490000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.220Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662328",
+		"listingAgent": {
+			"name": "David Jackson",
+			"phone": "2076997653",
+			"email": "david.jacksonre@me.com",
+			"website": "http://www.movingtome.com/"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2025-10-07": {
+				"event": "Sale Listing",
+				"price": 1590000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-07T00:00:00.000Z",
+				"removedDate": "2026-01-11T00:00:00.000Z",
+				"daysOnMarket": 96
+			},
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 1490000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "1-Ledgewood-Ln,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "1 Ledgewood Ln, Cape Elizabeth, ME 04107",
+		"addressLine1": "1 Ledgewood Ln",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.57538,
+		"longitude": -70.21172,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 3734,
+		"lotSize": 20473,
+		"yearBuilt": 1957,
+		"hoa": {
+			"fee": 6
+		},
+		"status": "Active",
+		"price": 1995000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.883Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668185",
+		"listingAgent": {
+			"name": "Peter Blake",
+			"phone": "2075537510",
+			"email": "peterblake@homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 1995000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "75-Ocean-House-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "75 Ocean House Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "75 Ocean House Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.61452,
+		"longitude": -70.245671,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1700,
+		"lotSize": 20038,
+		"yearBuilt": 1932,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 669500,
+		"listingType": "Standard",
+		"listedDate": "2026-06-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.878Z",
+		"daysOnMarket": 85,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668264",
+		"listingAgent": {
+			"name": "Bryce Hamilton",
+			"phone": "2077731990",
+			"email": "bryce.hamilton@nemoves.com",
+			"website": "http://brycehamilton.us"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-06-20": {
+				"event": "Sale Listing",
+				"price": 669500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 85
+			}
+		}
+	},
+	{
+		"id": "15-Oakwood-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "15 Oakwood Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "15 Oakwood Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.606378,
+		"longitude": -70.233224,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1452,
+		"lotSize": 15682,
+		"yearBuilt": 1956,
+		"status": "Active",
+		"price": 625000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.872Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668453",
+		"listingAgent": {
+			"name": "Michael P Thomas, Agent",
+			"phone": "2077108290",
+			"email": "michaelthomasteam@gmail.com",
+			"website": "http://www.thomasteam.info"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"website": "kwmaine.com"
+		},
+		"history": {
+			"2024-07-24": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-24T00:00:00.000Z",
+				"removedDate": "2024-12-18T00:00:00.000Z",
+				"daysOnMarket": 147
+			},
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 625000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "19-Tiger-Lily-Ln,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "19 Tiger Lily Ln, Cape Elizabeth, ME 04107",
+		"addressLine1": "19 Tiger Lily Ln",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.598441,
+		"longitude": -70.255954,
+		"propertyType": "Single Family",
+		"bedrooms": 7,
+		"bathrooms": 8,
+		"squareFootage": 8599,
+		"lotSize": 71874,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 3350000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.850Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668972",
+		"listingAgent": {
+			"name": "Anne Bosworth",
+			"phone": "2077808900",
+			"email": "abosworth@legacysir.com",
+			"website": "http://www.legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 3350000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "Jordan-Subdivision-Rdg,-Lot-2,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "Jordan Subdivision Rdg, Lot 2, Cape Elizabeth, ME 04107",
+		"addressLine1": "Jordan Subdivision Rdg",
+		"addressLine2": "Lot 2",
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.631167,
+		"longitude": -70.224323,
+		"propertyType": "Land",
+		"lotSize": 31363,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.786Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670386",
+		"listingAgent": {
+			"name": "Frank Strout",
+			"phone": "2077997600",
+			"email": "frankstrout@maine.rr.com",
+			"website": "http://www.oceansidemaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "Jordan-Subdivision-Rdg,-Lot-3,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "Jordan Subdivision Rdg, Lot 3, Cape Elizabeth, ME 04107",
+		"addressLine1": "Jordan Subdivision Rdg",
+		"addressLine2": "Lot 3",
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.599607,
+		"longitude": -70.248522,
+		"propertyType": "Land",
+		"lotSize": 33541,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.773Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670392",
+		"listingAgent": {
+			"name": "Frank Strout",
+			"phone": "2077997600",
+			"email": "frankstrout@maine.rr.com",
+			"website": "http://www.oceansidemaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "3-Canter-Ln,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "3 Canter Ln, Cape Elizabeth, ME 04107",
+		"addressLine1": "3 Canter Ln",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.601241,
+		"longitude": -70.22847,
+		"propertyType": "Single Family",
+		"bedrooms": 7,
+		"bathrooms": 9,
+		"squareFootage": 13033,
+		"lotSize": 609840,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 3390000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.771Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670071",
+		"listingAgent": {
+			"name": "Alexa Oestreicher",
+			"phone": "2077808900",
+			"email": "alexa@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2024-08-26": {
+				"event": "Sale Listing",
+				"price": 4800000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-26T00:00:00.000Z",
+				"removedDate": "2025-02-23T00:00:00.000Z",
+				"daysOnMarket": 181
+			},
+			"2025-03-05": {
+				"event": "Sale Listing",
+				"price": 4375000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-05T00:00:00.000Z",
+				"removedDate": "2025-09-04T00:00:00.000Z",
+				"daysOnMarket": 183
+			},
+			"2025-10-03": {
+				"event": "Sale Listing",
+				"price": 3950000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-03T00:00:00.000Z",
+				"removedDate": "2026-01-01T00:00:00.000Z",
+				"daysOnMarket": 90
+			},
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 3390000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "5-Davcarley-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "5 Davcarley Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "5 Davcarley Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.611125,
+		"longitude": -70.236479,
+		"propertyType": "Land",
+		"lotSize": 333234,
+		"status": "Active",
+		"price": 925000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.880Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671587",
+		"listingAgent": {
+			"name": "Whitney Tovar",
+			"phone": "2072057789",
+			"email": "whitney.tovar@kw.com",
+			"website": "http://www.kwlifestyleproperties.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 925000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "18-Channel-View-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "18 Channel View Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "18 Channel View Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.571441,
+		"longitude": -70.210001,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3960,
+		"lotSize": 152024,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 2490000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.874Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671754",
+		"listingAgent": {
+			"name": "Matthew Narowetz",
+			"phone": "2078381027",
+			"email": "mnarowetz@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 2490000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "10-Pheasant-Hill-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "10 Pheasant Hill Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "10 Pheasant Hill Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.603393,
+		"longitude": -70.246818,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3866,
+		"lotSize": 20909,
+		"yearBuilt": 1963,
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.872Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671869",
+		"listingAgent": {
+			"name": "Renee's Realty Network - Renee Roy",
+			"phone": "2077828311",
+			"email": "reneeroy@masiello.com",
+			"website": "http://www.yourrealtynetwork.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-10-13": {
+				"event": "Sale Listing",
+				"price": 1250000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-13T00:00:00.000Z",
+				"removedDate": "2026-03-07T00:00:00.000Z",
+				"daysOnMarket": 145
+			},
+			"2026-03-09": {
+				"event": "Sale Listing",
+				"price": 1250000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-09T00:00:00.000Z",
+				"removedDate": "2026-07-10T00:00:00.000Z",
+				"daysOnMarket": 123
+			},
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "551-Shore-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "551 Shore Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "551 Shore Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.633348,
+		"longitude": -70.226984,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 4537,
+		"lotSize": 10454,
+		"yearBuilt": 1875,
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.814Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673890",
+		"listingAgent": {
+			"name": "Jim Mcfarlane",
+			"phone": "2077124737",
+			"email": "jimmymac@portsidereg.com",
+			"website": "http://www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "48-Maxwell-Woods-Dr,-Unit-3,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "48 Maxwell Woods Dr, Unit 3, Cape Elizabeth, ME 04107",
+		"addressLine1": "48 Maxwell Woods Dr",
+		"addressLine2": "Unit 3",
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.619339,
+		"longitude": -70.242561,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3062,
+		"lotSize": 348480,
+		"yearBuilt": 2020,
+		"hoa": {
+			"fee": 496
+		},
+		"status": "Active",
+		"price": 1395000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.784Z",
+		"daysOnMarket": 49,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673547",
+		"listingAgent": {
+			"name": "Brian Bickford",
+			"phone": "2076070464",
+			"email": "brian@puremaineproperties.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-07-26": {
+				"event": "Sale Listing",
+				"price": 1395000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 49
+			}
+		}
+	},
+	{
+		"id": "31-Longfellow-Dr,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "31 Longfellow Dr, Cape Elizabeth, ME 04107",
+		"addressLine1": "31 Longfellow Dr",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.592788,
+		"longitude": -70.236013,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1306,
+		"lotSize": 6970,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 539000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.771Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674037",
+		"listingAgent": {
+			"name": "Monica Dambach",
+			"phone": "2077494170",
+			"email": "monica@waypointbrokers.com",
+			"website": "www.facebook.com/liveinmaine"
+		},
+		"listingOffice": {
+			"name": "Waypoint Brokers Collective",
+			"phone": "2078042012",
+			"email": "ali.malone@gmail.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 539000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "3-Pheasant-Hill-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "3 Pheasant Hill Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "3 Pheasant Hill Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.60269,
+		"longitude": -70.2477,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 1982,
+		"lotSize": 12197,
+		"yearBuilt": 1995,
+		"status": "Active",
+		"price": 874900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.671Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674979",
+		"listingAgent": {
+			"name": "William Policano",
+			"phone": "2077140404",
+			"email": "williamsellsmaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 874900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "440-Mitchell-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "440 Mitchell Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "440 Mitchell Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.609911,
+		"longitude": -70.230123,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 6121,
+		"lotSize": 344124,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 4300000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.660Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674264",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 4300000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "21-Meadow-Way,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "21 Meadow Way, Cape Elizabeth, ME 04107",
+		"addressLine1": "21 Meadow Way",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.593094,
+		"longitude": -70.23511,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1203,
+		"lotSize": 6534,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 420000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.619Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675009",
+		"listingAgent": {
+			"name": "Madison Friend",
+			"phone": "2074142192",
+			"email": "madison.friend@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 420000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "25-1-Peabbles-Cove-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "25-1 Peabbles Cove Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "25-1 Peabbles Cove Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.588394,
+		"longitude": -70.208939,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1403,
+		"lotSize": 114563,
+		"yearBuilt": 1997,
+		"status": "Active",
+		"price": 1800000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.609Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676323",
+		"listingAgent": {
+			"name": "Vicki Kennedy",
+			"phone": "2077496756",
+			"email": "vicki@oceansidemaine.com",
+			"website": "https://vkennedy.remax.com/"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 1800000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "25-Peabbles-Cove-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "25 Peabbles Cove Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "25 Peabbles Cove Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.587096,
+		"longitude": -70.210314,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1403,
+		"lotSize": 316681,
+		"yearBuilt": 1997,
+		"status": "Active",
+		"price": 3600000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.600Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676322",
+		"listingAgent": {
+			"name": "Vicki Kennedy",
+			"phone": "2077496756",
+			"email": "vicki@oceansidemaine.com",
+			"website": "https://vkennedy.remax.com/"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2024-04-03": {
+				"event": "Sale Listing",
+				"price": 3200000,
+				"listingType": "Standard",
+				"listedDate": "2024-04-03T00:00:00.000Z",
+				"removedDate": "2024-10-03T00:00:00.000Z",
+				"daysOnMarket": 183
+			},
+			"2024-10-03": {
+				"event": "Sale Listing",
+				"price": 2250000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-03T00:00:00.000Z",
+				"removedDate": "2025-03-21T00:00:00.000Z",
+				"daysOnMarket": 169
+			},
+			"2025-03-21": {
+				"event": "Sale Listing",
+				"price": 2750000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-21T00:00:00.000Z",
+				"removedDate": "2025-09-16T00:00:00.000Z",
+				"daysOnMarket": 179
+			},
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 3600000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "13-Lawson-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "13 Lawson Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "13 Lawson Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.610439,
+		"longitude": -70.214502,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2492,
+		"lotSize": 26572,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 3450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.597Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676228",
+		"listingAgent": {
+			"name": "Anne Bosworth",
+			"phone": "2077808900",
+			"email": "abosworth@legacysir.com",
+			"website": "http://www.legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 3450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "Peabbles-Cove-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "Peabbles Cove Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "Peabbles Cove Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.584599,
+		"longitude": -70.215165,
+		"propertyType": "Land",
+		"lotSize": 202118,
+		"status": "Active",
+		"price": 1800000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.582Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676321",
+		"listingAgent": {
+			"name": "Vicki Kennedy",
+			"phone": "2077496756",
+			"email": "vicki@oceansidemaine.com",
+			"website": "https://vkennedy.remax.com/"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 1800000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "505-Mitchell-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "505 Mitchell Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "505 Mitchell Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.608378,
+		"longitude": -70.234148,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 3120,
+		"lotSize": 10019,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 995000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.468Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677557",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2025-09-06": {
+				"event": "Sale Listing",
+				"price": 1275000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-06T00:00:00.000Z",
+				"removedDate": "2026-01-01T00:00:00.000Z",
+				"daysOnMarket": 117
+			},
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 1050000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": "2026-08-19T00:00:00.000Z",
+				"daysOnMarket": 110
+			},
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "2-Roberts-Ln,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "2 Roberts Ln, Cape Elizabeth, ME 04107",
+		"addressLine1": "2 Roberts Ln",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.61132,
+		"longitude": -70.214009,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1247,
+		"lotSize": 17860,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.458Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677088",
+		"listingAgent": {
+			"name": "Vicki Kennedy",
+			"phone": "2077496756",
+			"email": "vicki@oceansidemaine.com",
+			"website": "https://vkennedy.remax.com/"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "71-Stonybrook-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "71 Stonybrook Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "71 Stonybrook Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.628457,
+		"longitude": -70.225634,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1321,
+		"lotSize": 6098,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 695000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.437Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676765",
+		"listingAgent": {
+			"name": "Liam Mccoy",
+			"phone": "2077126860",
+			"email": "liammccoy33@gmail.com",
+			"website": "https://www.cottageandcomaine.com/"
+		},
+		"listingOffice": {
+			"name": "Cottage & Co Real Estate",
+			"phone": "2076531188",
+			"email": "thebissonteam@gmail.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 695000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "33-Rocky-Hill-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "33 Rocky Hill Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "33 Rocky Hill Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.625099,
+		"longitude": -70.223741,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2144,
+		"lotSize": 12197,
+		"yearBuilt": 1935,
+		"hoa": {
+			"fee": 6
+		},
+		"status": "Active",
+		"price": 1175000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.424Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676930",
+		"listingAgent": {
+			"name": "Peter Blake",
+			"phone": "2075537510",
+			"email": "peterblake@homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 1175000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "510-Spurwink-Ave,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "510 Spurwink Ave, Cape Elizabeth, ME 04107",
+		"addressLine1": "510 Spurwink Ave",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.581845,
+		"longitude": -70.246664,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 4534,
+		"lotSize": 43560,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 2995000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.423Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676990",
+		"listingAgent": {
+			"name": "Matthew G Chamberlain",
+			"phone": "2074507653",
+			"email": "matthewc@maine.rr.com",
+			"website": "http://www.realtyformaine.com/"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-03-30": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-30T00:00:00.000Z",
+				"removedDate": "2026-04-07T00:00:00.000Z",
+				"daysOnMarket": 8
+			},
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 2995000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "26-Hannaford-Cove-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "26 Hannaford Cove Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "26 Hannaford Cove Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.564942,
+		"longitude": -70.20873,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2444,
+		"lotSize": 40511,
+		"yearBuilt": 1999,
+		"status": "Active",
+		"price": 1075000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.385Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677837",
+		"listingAgent": {
+			"name": "Mary Conroy",
+			"phone": "2078996605",
+			"email": "mary@portsidereg.com",
+			"website": "http://www.maryconroyrealtor.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 1075000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "19-Grover-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "19 Grover Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "19 Grover Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.585916,
+		"longitude": -70.228562,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1160,
+		"lotSize": 8712,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.372Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678009",
+		"listingAgent": {
+			"name": "The Scott & Sunny Townsend Team",
+			"phone": "2075531387",
+			"email": "scottandsunny@kw.com",
+			"website": "http://www.scottandsunny.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "3-Garden-Cir,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "3 Garden Cir, Cape Elizabeth, ME 04107",
+		"addressLine1": "3 Garden Cir",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.627337,
+		"longitude": -70.214174,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 2807,
+		"lotSize": 9148,
+		"yearBuilt": 1928,
+		"status": "Active",
+		"price": 2850000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.262Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678411",
+		"listingAgent": {
+			"name": "Lois Lengyel",
+			"phone": "2077808900",
+			"email": "llengyel@legacysir.com",
+			"website": "http://www.legacysir.com/llengyel"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 2850000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "94-Ocean-House-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "94 Ocean House Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "94 Ocean House Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.6138,
+		"longitude": -70.243088,
+		"propertyType": "Multi-Family",
+		"bedrooms": 0,
+		"status": "Active",
+		"price": 2620300,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.256Z",
+		"daysOnMarket": 13,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11959540",
+		"listingAgent": {
+			"name": "Richard Keenan",
+			"phone": "2078855100",
+			"email": "info@keenanauction.com",
+			"website": "www.keenanauction.com"
+		},
+		"listingOffice": {
+			"name": "Keenan Auction Company, Inc.",
+			"phone": "2078855100"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 2620300,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "1-Dean-Way,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "1 Dean Way, Cape Elizabeth, ME 04107",
+		"addressLine1": "1 Dean Way",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.575071,
+		"longitude": -70.220221,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2590,
+		"lotSize": 13068,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 689000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.185Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679295",
+		"listingAgent": {
+			"name": "Erin C. Grady",
+			"phone": "2076504458",
+			"email": "eringrady207@gmail.com",
+			"website": "http://www.facebook.com/pages/erin-grady-realtor/197808050240372"
+		},
+		"listingOffice": {
+			"name": "Coastal Pine Real Estate, LLC",
+			"phone": "2077768675",
+			"email": "jen@coastalpinere.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 689000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "40-Stonybrook-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "40 Stonybrook Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "40 Stonybrook Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.629086,
+		"longitude": -70.225954,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2088,
+		"lotSize": 18295,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 1050000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.144Z",
+		"daysOnMarket": 7,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679535",
+		"listingAgent": {
+			"name": "Erin C. Grady",
+			"phone": "2076504458",
+			"email": "eringrady207@gmail.com",
+			"website": "http://www.facebook.com/pages/erin-grady-realtor/197808050240372"
+		},
+		"listingOffice": {
+			"name": "Coastal Pine Real Estate, LLC",
+			"phone": "2077768675",
+			"email": "jen@coastalpinere.com"
+		},
+		"history": {
+			"2025-11-12": {
+				"event": "Sale Listing",
+				"price": 989000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-12T00:00:00.000Z",
+				"removedDate": "2025-11-21T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-09-06": {
+				"event": "Sale Listing",
+				"price": 1050000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 7
+			}
+		}
+	},
+	{
+		"id": "47-Stonegate-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "47 Stonegate Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "47 Stonegate Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.620179,
+		"longitude": -70.230457,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 4705,
+		"lotSize": 42689,
+		"yearBuilt": 1989,
+		"hoa": {
+			"fee": 19
+		},
+		"status": "Active",
+		"price": 1699900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.136Z",
+		"daysOnMarket": 7,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679520",
+		"listingAgent": {
+			"name": "Jason Saphire",
+			"phone": "8772495478",
+			"email": "entryonly.lead@gmail.com",
+			"website": "http://www.entryonly.com/"
+		},
+		"listingOffice": {
+			"name": "HomeZu.com",
+			"phone": "8772495478",
+			"email": "listings@homezu.com",
+			"website": "http://www.homezu.com"
+		},
+		"history": {
+			"2026-09-06": {
+				"event": "Sale Listing",
+				"price": 1699900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 7
+			}
+		}
+	},
+	{
+		"id": "542-Mitchell-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "542 Mitchell Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "542 Mitchell Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.606432,
+		"longitude": -70.234566,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1601,
+		"lotSize": 43560,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 469000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.511Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679919",
+		"listingAgent": {
+			"name": "Kaili Irvin",
+			"phone": "2072666198",
+			"email": "kaili@portsidereg.com",
+			"website": "https://www.kailiirvinrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "3-Farm-Hill-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "3 Farm Hill Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "3 Farm Hill Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.595044,
+		"longitude": -70.233556,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 979,
+		"lotSize": 7841,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 379000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.510Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679944",
+		"listingAgent": {
+			"name": "Michael Rogers",
+			"phone": "2073189984",
+			"email": "mrogers@ownnewengland.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 379000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "305-Fowler-Rd,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "305 Fowler Rd, Cape Elizabeth, ME 04107",
+		"addressLine1": "305 Fowler Rd",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.577962,
+		"longitude": -70.24502,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1934,
+		"lotSize": 14810,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 675000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-11-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.480Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680016",
+		"listingAgent": {
+			"name": "Sarah Delisl Courtney Sweeton",
+			"phone": "2075239183"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2024-11-05": {
+				"event": "Sale Listing",
+				"price": 565000,
+				"listingType": "Standard",
+				"listedDate": "2024-11-05T00:00:00.000Z",
+				"removedDate": "2024-11-08T00:00:00.000Z",
+				"daysOnMarket": 3
+			},
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 675000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "35-Beach-Bluff-Ter,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "35 Beach Bluff Ter, Cape Elizabeth, ME 04107",
+		"addressLine1": "35 Beach Bluff Ter",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.602361,
+		"longitude": -70.220419,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 907,
+		"lotSize": 8712,
+		"yearBuilt": 1947,
+		"status": "Active",
+		"price": 725000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.459Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680204",
+		"listingAgent": {
+			"name": "Brian Bickford",
+			"phone": "2076070464",
+			"email": "brian@puremaineproperties.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "5-Starboard-Dr,-Unit-5,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "5 Starboard Dr, Unit 5, Cape Elizabeth, ME 04107",
+		"addressLine1": "5 Starboard Dr",
+		"addressLine2": "Unit 5",
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.591304,
+		"longitude": -70.24435,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1240,
+		"yearBuilt": 1964,
+		"hoa": {
+			"fee": 655
+		},
+		"status": "Active",
+		"price": 429000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.453Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680208",
+		"listingAgent": {
+			"name": "Marc Gup",
+			"phone": "2075531386",
+			"email": "lnorris@kw.com",
+			"website": "http://www.findyourmainehome.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 429000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "16-Glen-Ave,-Cape-Elizabeth,-ME-04107",
+		"formattedAddress": "16 Glen Ave, Cape Elizabeth, ME 04107",
+		"addressLine1": "16 Glen Ave",
+		"addressLine2": null,
+		"city": "Cape Elizabeth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04107",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.633337,
+		"longitude": -70.223706,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2448,
+		"lotSize": 10019,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 1199000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:01:26.228Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676450",
+		"listingAgent": {
+			"name": "Monique Violette",
+			"phone": "2075537303",
+			"email": "violettesparta@portsidereg.com",
+			"website": "www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-16": {
+				"event": "Sale Listing",
+				"price": 1199000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	}
+]

@@ -1,0 +1,6605 @@
+[
+	{
+		"id": "214-Mount-Vernon-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "214 Mount Vernon Ave, Augusta, ME 04330",
+		"addressLine1": "214 Mount Vernon Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.330261,
+		"longitude": -69.788934,
+		"propertyType": "Land",
+		"lotSize": 15682,
+		"status": "Active",
+		"price": 49900,
+		"listingType": "Standard",
+		"listedDate": "2024-11-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-12-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:43.454Z",
+		"daysOnMarket": 670,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1579539",
+		"listingAgent": {
+			"name": "Steven Billing",
+			"phone": "2072420046",
+			"email": "stevesaab900@hotmail.com"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2024-11-12": {
+				"event": "Sale Listing",
+				"price": 49900,
+				"listingType": "Standard",
+				"listedDate": "2024-11-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 670
+			}
+		}
+	},
+	{
+		"id": "Churchill-Rd,-Lot-0,-Augusta,-ME-04330",
+		"formattedAddress": "Churchill Rd, Lot 0, Augusta, ME 04330",
+		"addressLine1": "Churchill Rd",
+		"addressLine2": "Lot 0",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.340265947,
+		"longitude": -69.75567628,
+		"propertyType": "Land",
+		"lotSize": 7405200,
+		"status": "Active",
+		"price": 152805,
+		"listingType": "Standard",
+		"listedDate": "2024-04-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:43.444Z",
+		"daysOnMarket": 887,
+		"mlsName": "PrimeMLS",
+		"mlsNumber": "4990574",
+		"listingAgent": {
+			"name": "Karissa Moore",
+			"phone": "9784073054",
+			"email": "karissa@kgpros.com"
+		},
+		"listingOffice": {
+			"name": "K&G Realty Services, Inc.",
+			"phone": "9784073054",
+			"email": "karissa@kgpros.com"
+		},
+		"history": {
+			"2024-04-09": {
+				"event": "Sale Listing",
+				"price": 152805,
+				"listingType": "Standard",
+				"listedDate": "2024-04-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 887
+			}
+		}
+	},
+	{
+		"id": "4-Amherst-St,-Augusta,-ME-04330",
+		"formattedAddress": "4 Amherst St, Augusta, ME 04330",
+		"addressLine1": "4 Amherst St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.311586,
+		"longitude": -69.787695,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1707,
+		"lotSize": 3920,
+		"yearBuilt": 1913,
+		"status": "Active",
+		"price": 224900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-12T12:50:09.817Z",
+		"lastSeenDate": "2026-09-12T08:06:58.914Z",
+		"daysOnMarket": 165,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656095",
+		"listingAgent": {
+			"name": "Alonzo Michaud",
+			"phone": "2072723954",
+			"email": "maineagentalonzo@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Independent Real Estate Broker",
+			"phone": "2072723954",
+			"email": "coreysellsmaine@maine.com"
+		},
+		"history": {
+			"2025-07-22": {
+				"event": "Sale Listing",
+				"price": 235000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-22T00:00:00.000Z",
+				"removedDate": "2026-01-22T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2026-04-01": {
+				"event": "Sale Listing",
+				"price": 224900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 165
+			}
+		}
+	},
+	{
+		"id": "Cony-Rd,-Lot-17,-Augusta,-ME-04330",
+		"formattedAddress": "Cony Rd, Lot 17, Augusta, ME 04330",
+		"addressLine1": "Cony Rd",
+		"addressLine2": "Lot 17",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.301968,
+		"longitude": -69.742302,
+		"propertyType": "Land",
+		"lotSize": 593287,
+		"status": "Active",
+		"price": 234800,
+		"listingType": "Standard",
+		"listedDate": "2026-02-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.907Z",
+		"daysOnMarket": 221,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651094",
+		"listingAgent": {
+			"name": "Katie Mcallister",
+			"phone": "2074464705",
+			"email": "katiemcallister1010@gmail.com",
+			"website": "http://www.katiemcallister.com"
+		},
+		"listingOffice": {
+			"name": "MCALLISTER REAL ESTATE",
+			"phone": "2076212345",
+			"email": "kimgleason@myfairpoint.net",
+			"website": "www.mcallisterrealestate.com"
+		},
+		"history": {
+			"2026-02-04": {
+				"event": "Sale Listing",
+				"price": 234800,
+				"listingType": "Standard",
+				"listedDate": "2026-02-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 221
+			}
+		}
+	},
+	{
+		"id": "3-Cross-St,-Augusta,-ME-04330",
+		"formattedAddress": "3 Cross St, Augusta, ME 04330",
+		"addressLine1": "3 Cross St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.313549,
+		"longitude": -69.765666,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 728,
+		"lotSize": 3485,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 99000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-03T08:24:26.102Z",
+		"lastSeenDate": "2026-09-12T08:06:58.901Z",
+		"daysOnMarket": 205,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652309",
+		"listingAgent": {
+			"name": "Anna Moskowitz",
+			"phone": "2078732119",
+			"email": "anna@c21nason.com"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-02-20": {
+				"event": "Sale Listing",
+				"price": 99000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 205
+			}
+		}
+	},
+	{
+		"id": "443-Civic-Center-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "443 Civic Center Dr, Augusta, ME 04330",
+		"addressLine1": "443 Civic Center Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.359921,
+		"longitude": -69.794612,
+		"propertyType": "Land",
+		"lotSize": 778853,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-11T12:08:02.331Z",
+		"lastSeenDate": "2026-09-12T08:06:58.901Z",
+		"daysOnMarket": 192,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653395",
+		"listingAgent": {
+			"name": "James Pepin",
+			"phone": "2076231123",
+			"email": "jim@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2023-08-31": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2023-08-31T00:00:00.000Z",
+				"removedDate": "2025-01-23T00:00:00.000Z",
+				"daysOnMarket": 511
+			},
+			"2026-03-05": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 192
+			}
+		}
+	},
+	{
+		"id": "817-Riverside-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "817 Riverside Dr, Augusta, ME 04330",
+		"addressLine1": "817 Riverside Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.365587,
+		"longitude": -69.731592,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1890,
+		"lotSize": 58370,
+		"yearBuilt": 1835,
+		"status": "Active",
+		"price": 280000,
+		"listingType": "Standard",
+		"listedDate": "2025-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-04T09:49:01.637Z",
+		"lastSeenDate": "2026-09-12T08:06:58.897Z",
+		"daysOnMarket": 410,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1632444",
+		"listingAgent": {
+			"name": "Heidi Witham Hoa Hoang",
+			"phone": "2074580022",
+			"email": "hoangassociates@hoangrealty.com",
+			"website": "https://hoangassociates.hoangrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2025-04-22": {
+				"event": "Sale Listing",
+				"price": 359000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-22T00:00:00.000Z",
+				"removedDate": "2025-07-24T00:00:00.000Z",
+				"daysOnMarket": 93
+			},
+			"2025-07-30": {
+				"event": "Sale Listing",
+				"price": 280000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 410
+			}
+		}
+	},
+	{
+		"id": "120-Bond-Brook-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "120 Bond Brook Rd, Augusta, ME 04330",
+		"addressLine1": "120 Bond Brook Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.331088,
+		"longitude": -69.799942,
+		"propertyType": "Land",
+		"lotSize": 2183227,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.896Z",
+		"daysOnMarket": 401,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1633563",
+		"listingAgent": {
+			"name": "Nicole Snyder",
+			"phone": "2078389118",
+			"email": "homesbylindsey@kw.com",
+			"website": "www.welcomehomeme.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-08-08": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 401
+			}
+		}
+	},
+	{
+		"id": "166-Leavitt-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "166 Leavitt Rd, Augusta, ME 04330",
+		"addressLine1": "166 Leavitt Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.304821,
+		"longitude": -69.713964,
+		"propertyType": "Land",
+		"lotSize": 87120,
+		"status": "Active",
+		"price": 80000,
+		"listingType": "Standard",
+		"listedDate": "2025-09-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.892Z",
+		"daysOnMarket": 352,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1638951",
+		"listingAgent": {
+			"name": "Laura Burden",
+			"phone": "2073326458",
+			"email": "lauraburden3@gmail.com",
+			"website": "beaconrealtymaine.com"
+		},
+		"listingOffice": {
+			"name": "Beacon Realty",
+			"phone": "2077761083",
+			"email": "shea@beaconrealtymaine.com",
+			"website": "www.beaconrealtymaine.com"
+		},
+		"history": {
+			"2025-09-26": {
+				"event": "Sale Listing",
+				"price": 80000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 352
+			}
+		}
+	},
+	{
+		"id": "10-Penley-St,-Augusta,-ME-04330",
+		"formattedAddress": "10 Penley St, Augusta, ME 04330",
+		"addressLine1": "10 Penley St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.308617,
+		"longitude": -69.755153,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1382,
+		"lotSize": 45738,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 460000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.882Z",
+		"daysOnMarket": 296,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1644125",
+		"listingOffice": {
+			"name": "Gallant Real Estate",
+			"phone": "2078417569",
+			"email": "kgallant@gre207.com"
+		},
+		"history": {
+			"2025-11-21": {
+				"event": "Sale Listing",
+				"price": 460000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 296
+			}
+		}
+	},
+	{
+		"id": "118-Cathy-St,-Augusta,-ME-04330",
+		"formattedAddress": "118 Cathy St, Augusta, ME 04330",
+		"addressLine1": "118 Cathy St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.365768,
+		"longitude": -69.77041,
+		"propertyType": "Land",
+		"lotSize": 28750,
+		"status": "Active",
+		"price": 34000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.879Z",
+		"daysOnMarket": 293,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1644270",
+		"listingAgent": {
+			"name": "Shelby Place",
+			"phone": "2075095320",
+			"email": "shelby@hoangrealty.com",
+			"website": "http://hoangrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2025-11-24": {
+				"event": "Sale Listing",
+				"price": 34000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 293
+			}
+		}
+	},
+	{
+		"id": "39-Albert-Ave,-Unit-1,-Augusta,-ME-04330",
+		"formattedAddress": "39 Albert Ave, Unit 1, Augusta, ME 04330",
+		"addressLine1": "39 Albert Ave",
+		"addressLine2": "Unit 1",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.338509,
+		"longitude": -69.780733,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 850,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 200
+		},
+		"status": "Active",
+		"price": 149500,
+		"listingType": "Standard",
+		"listedDate": "2025-12-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.878Z",
+		"daysOnMarket": 284,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1644669",
+		"listingAgent": {
+			"name": "Tim Fortin",
+			"phone": "2074410320",
+			"email": "tim@nexthomenlr.com",
+			"website": "http://www.nexthomenlr.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Northern Lights Realty",
+			"phone": "2075588811",
+			"email": "office@nexthomesnlr.com"
+		},
+		"history": {
+			"2025-12-03": {
+				"event": "Sale Listing",
+				"price": 149500,
+				"listingType": "Standard",
+				"listedDate": "2025-12-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 284
+			}
+		}
+	},
+	{
+		"id": "7-Frog-Holler-Ln,-Augusta,-ME-04330",
+		"formattedAddress": "7 Frog Holler Ln, Augusta, ME 04330",
+		"addressLine1": "7 Frog Holler Ln",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.311531,
+		"longitude": -69.668989,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1232,
+		"lotSize": 97139,
+		"yearBuilt": 1946,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 175000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.872Z",
+		"daysOnMarket": 273,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646555",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2025-12-14": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 273
+			}
+		}
+	},
+	{
+		"id": "347-Civic-Center-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "347 Civic Center Dr, Augusta, ME 04330",
+		"addressLine1": "347 Civic Center Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.353288,
+		"longitude": -69.796745,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1490,
+		"lotSize": 65340,
+		"yearBuilt": 1957,
+		"status": "Active",
+		"price": 329000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.870Z",
+		"daysOnMarket": 256,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1647399",
+		"listingAgent": {
+			"name": "Dennis Wheelock",
+			"phone": "2072425588",
+			"email": "dwheelock@balfourcommercial.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-12-31": {
+				"event": "Sale Listing",
+				"price": 329000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 256
+			}
+		}
+	},
+	{
+		"id": "Arsenal-St,-Augusta,-ME-04330",
+		"formattedAddress": "Arsenal St, Augusta, ME 04330",
+		"addressLine1": "Arsenal St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.315211,
+		"longitude": -69.768964,
+		"propertyType": "Land",
+		"lotSize": 9583,
+		"status": "Active",
+		"price": 18000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-01-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.865Z",
+		"daysOnMarket": 237,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649650",
+		"listingAgent": {
+			"name": "Maria Kempton",
+			"phone": "2076222220"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2024-01-12": {
+				"event": "Sale Listing",
+				"price": 18000,
+				"listingType": "Standard",
+				"listedDate": "2024-01-12T00:00:00.000Z",
+				"removedDate": "2025-01-10T00:00:00.000Z",
+				"daysOnMarket": 364
+			},
+			"2025-01-15": {
+				"event": "Sale Listing",
+				"price": 18000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-15T00:00:00.000Z",
+				"removedDate": "2026-01-16T00:00:00.000Z",
+				"daysOnMarket": 366
+			},
+			"2026-01-19": {
+				"event": "Sale Listing",
+				"price": 18000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 237
+			}
+		}
+	},
+	{
+		"id": "3-Ryan-Ct,-Augusta,-ME-04330",
+		"formattedAddress": "3 Ryan Ct, Augusta, ME 04330",
+		"addressLine1": "3 Ryan Ct",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.325224,
+		"longitude": -69.775709,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 1794,
+		"lotSize": 7405,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 199900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.857Z",
+		"daysOnMarket": 159,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656873",
+		"listingAgent": {
+			"name": "Daniel Hildebrandt",
+			"phone": "2076797389",
+			"email": "amhdan@hotmail.com",
+			"website": "http://allmainehomes.net/"
+		},
+		"listingOffice": {
+			"name": "AllMaineHomes",
+			"phone": "2076232100",
+			"email": "tlbreb@aol.com",
+			"website": "http://www.allmainehomes.com/"
+		},
+		"history": {
+			"2026-04-07": {
+				"event": "Sale Listing",
+				"price": 199900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 159
+			}
+		}
+	},
+	{
+		"id": "Map-6-N-Belfast-Ave,-Lot-60,-Augusta,-ME-04330",
+		"formattedAddress": "Map 6 N Belfast Ave, Lot 60, Augusta, ME 04330",
+		"addressLine1": "Map 6 N Belfast Ave",
+		"addressLine2": "Lot 60",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.328485,
+		"longitude": -69.741968,
+		"propertyType": "Land",
+		"lotSize": 727888,
+		"status": "Active",
+		"price": 595000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.855Z",
+		"daysOnMarket": 190,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653637",
+		"listingAgent": {
+			"name": "Tony Loiko",
+			"phone": "2072159466",
+			"email": "tloiko@midmaine.com",
+			"website": "http://www.tonyloiko.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2074801050",
+			"email": "jon.finch@nemoves.com"
+		},
+		"history": {
+			"2025-02-02": {
+				"event": "Sale Listing",
+				"price": 595000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-02T00:00:00.000Z",
+				"removedDate": "2026-02-03T00:00:00.000Z",
+				"daysOnMarket": 366
+			},
+			"2026-03-07": {
+				"event": "Sale Listing",
+				"price": 595000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 190
+			}
+		}
+	},
+	{
+		"id": "34-Windsor-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "34 Windsor Ave, Augusta, ME 04330",
+		"addressLine1": "34 Windsor Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.306068,
+		"longitude": -69.757678,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2172,
+		"lotSize": 21344,
+		"yearBuilt": 1961,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.841Z",
+		"daysOnMarket": 200,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652737",
+		"listingAgent": {
+			"name": "Chris Vallee",
+			"phone": "2072422041",
+			"email": "chrisvallee12@gmail.com",
+			"website": "valleerealestate.com"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2026-02-25": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 200
+			}
+		}
+	},
+	{
+		"id": "45-Sherwood-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "45 Sherwood Dr, Augusta, ME 04330",
+		"addressLine1": "45 Sherwood Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.366224,
+		"longitude": -69.73505,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2164,
+		"lotSize": 31799,
+		"yearBuilt": 1980,
+		"status": "Active",
+		"price": 379000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.838Z",
+		"daysOnMarket": 155,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657419",
+		"listingAgent": {
+			"name": "Mohammed Yaqoob",
+			"phone": "2072139666"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-04-11": {
+				"event": "Sale Listing",
+				"price": 379000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 155
+			}
+		}
+	},
+	{
+		"id": "Civic-Center-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "Civic Center Dr, Augusta, ME 04330",
+		"addressLine1": "Civic Center Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.367319,
+		"longitude": -69.79033,
+		"propertyType": "Land",
+		"lotSize": 1479298,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.836Z",
+		"daysOnMarket": 132,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660440",
+		"listingAgent": {
+			"name": "Bart Stevens",
+			"phone": "2078732119",
+			"email": "barton@c21nason.com",
+			"website": "http://www.c21nason.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Nason Realty, Inc.",
+			"phone": "2078732119",
+			"email": "info@c21nason.com",
+			"website": "http://www.c21nason.com/"
+		},
+		"history": {
+			"2024-10-15": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-15T00:00:00.000Z",
+				"removedDate": "2025-10-12T00:00:00.000Z",
+				"daysOnMarket": 362
+			},
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 132
+			}
+		}
+	},
+	{
+		"id": "65-Smith-St,-Unit-8,-Augusta,-ME-04330",
+		"formattedAddress": "65 Smith St, Unit 8, Augusta, ME 04330",
+		"addressLine1": "65 Smith St",
+		"addressLine2": "Unit 8",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.315492,
+		"longitude": -69.823211,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1250,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 280
+		},
+		"status": "Active",
+		"price": 200000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.829Z",
+		"daysOnMarket": 153,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657577",
+		"listingAgent": {
+			"name": "James Pepin",
+			"phone": "2076231123",
+			"email": "jim@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-04-13": {
+				"event": "Sale Listing",
+				"price": 200000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 153
+			}
+		}
+	},
+	{
+		"id": "73-Woodard-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "73 Woodard Rd, Augusta, ME 04330",
+		"addressLine1": "73 Woodard Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.323545,
+		"longitude": -69.64907,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 728,
+		"lotSize": 10019,
+		"yearBuilt": 2002,
+		"hoa": {
+			"fee": 49
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-16T14:20:45.064Z",
+		"lastSeenDate": "2026-09-12T08:06:58.827Z",
+		"daysOnMarket": 139,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659367",
+		"listingAgent": {
+			"name": "Lewis Wheelwright",
+			"phone": "2072363543",
+			"email": "lwheelwright@landvest.com",
+			"website": "http://www.landvest.com"
+		},
+		"listingOffice": {
+			"name": "LANDVEST, INC.  Camden",
+			"phone": "2072363543",
+			"email": "pbrassard@landvest.com",
+			"website": "http://www.landvest.com"
+		},
+		"history": {
+			"2025-10-10": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-10T00:00:00.000Z",
+				"removedDate": "2025-12-16T00:00:00.000Z",
+				"daysOnMarket": 67
+			},
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 139
+			}
+		}
+	},
+	{
+		"id": "002-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "002 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "002 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.290373,
+		"longitude": -69.706018,
+		"propertyType": "Land",
+		"lotSize": 67518,
+		"status": "Active",
+		"price": 44500,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.826Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659974",
+		"listingAgent": {
+			"name": "Shelly Everett",
+			"phone": "2074614249",
+			"email": "shelly@207realestate.com",
+			"website": "http://www.207realestate.com"
+		},
+		"listingOffice": {
+			"name": "Everett Realty Group",
+			"phone": "2075887430"
+		},
+		"history": {
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 44500,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "003-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "003 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "003 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.289338,
+		"longitude": -69.706269,
+		"propertyType": "Land",
+		"lotSize": 67518,
+		"status": "Active",
+		"price": 44500,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.824Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659982",
+		"listingAgent": {
+			"name": "Shelly Everett",
+			"phone": "2074614249",
+			"email": "shelly@207realestate.com",
+			"website": "http://www.207realestate.com"
+		},
+		"listingOffice": {
+			"name": "Everett Realty Group",
+			"phone": "2075887430"
+		},
+		"history": {
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 44500,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "134D-Thurston-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "134D Thurston Rd, Augusta, ME 04330",
+		"addressLine1": "134D Thurston Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.348403,
+		"longitude": -69.634235,
+		"propertyType": "Land",
+		"lotSize": 200376,
+		"status": "Active",
+		"price": 95000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.824Z",
+		"daysOnMarket": 128,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661277",
+		"listingAgent": {
+			"name": "Avary Otis",
+			"phone": "2073229204",
+			"email": "avary@camdencoast.com",
+			"website": "https://www.camdencoast.com/"
+		},
+		"listingOffice": {
+			"name": "Camden Coast Real Estate",
+			"phone": "2072361111",
+			"email": "info@camdencoast.com",
+			"website": "http://www.camdencoast.com/"
+		},
+		"history": {
+			"2026-05-08": {
+				"event": "Sale Listing",
+				"price": 95000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 128
+			}
+		}
+	},
+	{
+		"id": "291-Cross-Hill-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "291 Cross Hill Rd, Augusta, ME 04330",
+		"addressLine1": "291 Cross Hill Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.353715,
+		"longitude": -69.663897,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 757,
+		"lotSize": 482209,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 499999,
+		"listingType": "Standard",
+		"listedDate": "2026-04-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.821Z",
+		"daysOnMarket": 137,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659789",
+		"listingAgent": {
+			"name": "Tony Loiko",
+			"phone": "2072159466",
+			"email": "tloiko@midmaine.com",
+			"website": "http://www.tonyloiko.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2074801050",
+			"email": "jon.finch@nemoves.com"
+		},
+		"history": {
+			"2026-04-29": {
+				"event": "Sale Listing",
+				"price": 499999,
+				"listingType": "Standard",
+				"listedDate": "2026-04-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 137
+			}
+		}
+	},
+	{
+		"id": "Allenwood-Park-Rd,-Lot-17,-Augusta,-ME-04330",
+		"formattedAddress": "Allenwood Park Rd, Lot 17, Augusta, ME 04330",
+		"addressLine1": "Allenwood Park Rd",
+		"addressLine2": "Lot 17",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.284715,
+		"longitude": -69.678765,
+		"propertyType": "Land",
+		"lotSize": 58370,
+		"status": "Active",
+		"price": 79900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-02-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.821Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659978",
+		"listingAgent": {
+			"name": "Lori Dube",
+			"phone": "2076200886",
+			"email": "lori@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2024-03-21": {
+				"event": "Sale Listing",
+				"price": 84900,
+				"listingType": "Standard",
+				"listedDate": "2024-03-21T00:00:00.000Z",
+				"removedDate": "2024-09-29T00:00:00.000Z",
+				"daysOnMarket": 192
+			},
+			"2025-03-30": {
+				"event": "Sale Listing",
+				"price": 84900,
+				"listingType": "Standard",
+				"listedDate": "2025-03-30T00:00:00.000Z",
+				"removedDate": "2025-10-26T00:00:00.000Z",
+				"daysOnMarket": 210
+			},
+			"2025-10-29": {
+				"event": "Sale Listing",
+				"price": 84900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-29T00:00:00.000Z",
+				"removedDate": "2026-04-26T00:00:00.000Z",
+				"daysOnMarket": 179
+			},
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 79900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "35-Oak-St,-Augusta,-ME-04330",
+		"formattedAddress": "35 Oak St, Augusta, ME 04330",
+		"addressLine1": "35 Oak St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.316255,
+		"longitude": -69.776001,
+		"propertyType": "Land",
+		"lotSize": 5227,
+		"status": "Active",
+		"price": 39900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.819Z",
+		"daysOnMarket": 144,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658796",
+		"listingAgent": {
+			"name": "Scarlett Raymond-ayer",
+			"phone": "2076208212",
+			"email": "scarlett@brookewood.com",
+			"website": "https://brookewoodrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2026-04-22": {
+				"event": "Sale Listing",
+				"price": 39900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 144
+			}
+		}
+	},
+	{
+		"id": "11-Deer-Run,-Augusta,-ME-04330",
+		"formattedAddress": "11 Deer Run, Augusta, ME 04330",
+		"addressLine1": "11 Deer Run",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.308001,
+		"longitude": -69.796917,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3414,
+		"lotSize": 39640,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.817Z",
+		"daysOnMarket": 131,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660630",
+		"listingAgent": {
+			"name": "Lori Dube",
+			"phone": "2076200886",
+			"email": "lori@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-05-05": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 131
+			}
+		}
+	},
+	{
+		"id": "3-York-St,-Augusta,-ME-04330",
+		"formattedAddress": "3 York St, Augusta, ME 04330",
+		"addressLine1": "3 York St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.324046,
+		"longitude": -69.772637,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1104,
+		"lotSize": 5663,
+		"yearBuilt": 1896,
+		"status": "Active",
+		"price": 249000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-16T07:44:29.503Z",
+		"lastSeenDate": "2026-09-12T08:06:58.815Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661787",
+		"listingAgent": {
+			"name": "Eric Meadows Margaret {Maggie} Ellis",
+			"phone": "2075364222",
+			"email": "me@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "Bolton-Hill-Rd,-Lot-88,-Augusta,-ME-04330",
+		"formattedAddress": "Bolton Hill Rd, Lot 88, Augusta, ME 04330",
+		"addressLine1": "Bolton Hill Rd",
+		"addressLine2": "Lot 88",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.329539,
+		"longitude": -69.686315,
+		"propertyType": "Land",
+		"lotSize": 304920,
+		"status": "Active",
+		"price": 99900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.812Z",
+		"daysOnMarket": 128,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661313",
+		"listingAgent": {
+			"name": "Jessica Fike",
+			"phone": "2074589108",
+			"email": "jessica@brookewood.com",
+			"website": "http://www.jessicafikerealtor.com"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2026-05-08": {
+				"event": "Sale Listing",
+				"price": 99900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 128
+			}
+		}
+	},
+	{
+		"id": "896-Summerhaven-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "896 Summerhaven Rd, Augusta, ME 04330",
+		"addressLine1": "896 Summerhaven Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.388985,
+		"longitude": -69.80312,
+		"propertyType": "Land",
+		"lotSize": 32234,
+		"status": "Active",
+		"price": 60000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:06:58.809Z",
+		"daysOnMarket": 128,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661301",
+		"listingAgent": {
+			"name": "Katie Mcallister",
+			"phone": "2074464705",
+			"email": "katiemcallister1010@gmail.com",
+			"website": "http://www.katiemcallister.com"
+		},
+		"listingOffice": {
+			"name": "MCALLISTER REAL ESTATE",
+			"phone": "2076212345",
+			"email": "kimgleason@myfairpoint.net",
+			"website": "www.mcallisterrealestate.com"
+		},
+		"history": {
+			"2025-06-11": {
+				"event": "Sale Listing",
+				"price": 40000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-11T00:00:00.000Z",
+				"removedDate": "2026-01-24T00:00:00.000Z",
+				"daysOnMarket": 227
+			},
+			"2026-05-08": {
+				"event": "Sale Listing",
+				"price": 60000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 128
+			}
+		}
+	},
+	{
+		"id": "9-Morton-Pl,-Augusta,-ME-04330",
+		"formattedAddress": "9 Morton Pl, Augusta, ME 04330",
+		"addressLine1": "9 Morton Pl",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.319939,
+		"longitude": -69.77446,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2100,
+		"lotSize": 4356,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.418Z",
+		"daysOnMarket": 122,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662195",
+		"listingAgent": {
+			"name": "Tyler Hall",
+			"phone": "2075923829",
+			"email": "tylerhall@kw.com",
+			"website": "http://thehallgroup.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-05-14": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 122
+			}
+		}
+	},
+	{
+		"id": "153-Cony-St,-Augusta,-ME-04330",
+		"formattedAddress": "153 Cony St, Augusta, ME 04330",
+		"addressLine1": "153 Cony St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.316324,
+		"longitude": -69.762373,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1628,
+		"lotSize": 11761,
+		"yearBuilt": 1915,
+		"status": "Active",
+		"price": 319000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.365Z",
+		"daysOnMarket": 122,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662144",
+		"listingAgent": {
+			"name": "Tyler Hall",
+			"phone": "2075923829",
+			"email": "tylerhall@kw.com",
+			"website": "http://thehallgroup.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-05-14": {
+				"event": "Sale Listing",
+				"price": 319000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 122
+			}
+		}
+	},
+	{
+		"id": "24-Parkwood-Dr,-Unit-103,-Augusta,-ME-04330",
+		"formattedAddress": "24 Parkwood Dr, Unit 103, Augusta, ME 04330",
+		"addressLine1": "24 Parkwood Dr",
+		"addressLine2": "Unit 103",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.310599,
+		"longitude": -69.798557,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1092,
+		"lotSize": 43560,
+		"yearBuilt": 1980,
+		"hoa": {
+			"fee": 400
+		},
+		"status": "Active",
+		"price": 199000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.352Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663355",
+		"listingAgent": {
+			"name": "Catlin Barnes",
+			"phone": "2076230623",
+			"email": "caty@hoangrealty.com"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-05-21": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "15-Iris-Ct,-Augusta,-ME-04330",
+		"formattedAddress": "15 Iris Ct, Augusta, ME 04330",
+		"addressLine1": "15 Iris Ct",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.349862,
+		"longitude": -69.744578,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1344,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 510
+		},
+		"status": "Active",
+		"price": 167900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.340Z",
+		"daysOnMarket": 109,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664166",
+		"listingAgent": {
+			"name": "Khyrstan Berthiaume",
+			"phone": "2076226221",
+			"email": "k.berthiaumec21@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Venture Real Estate & Asset Management",
+			"phone": "2076226221",
+			"email": "ventureassetrealestate@gmail.com"
+		},
+		"history": {
+			"2026-05-27": {
+				"event": "Sale Listing",
+				"price": 167900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 109
+			}
+		}
+	},
+	{
+		"id": "9-Fieldstone-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "9 Fieldstone Dr, Augusta, ME 04330",
+		"addressLine1": "9 Fieldstone Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.317727,
+		"longitude": -69.740389,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1783,
+		"lotSize": 21780,
+		"yearBuilt": 2014,
+		"status": "Active",
+		"price": 529000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.337Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664567",
+		"listingAgent": {
+			"name": "Emily Theriault",
+			"phone": "2077166335",
+			"email": "emilytheriault@portsidereg.com",
+			"website": "https://pouliotrealestate.me/team/emily-theriault/"
+		},
+		"listingOffice": {
+			"name": "Lakepoint at Portside Real Estate Group",
+			"phone": "2074953700",
+			"email": "dan@belgradelakepoint.com",
+			"website": "www.belgradelakepoint.com"
+		},
+		"history": {
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 529000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "2-Debras-Pl,-Augusta,-ME-04330",
+		"formattedAddress": "2 Debras Pl, Augusta, ME 04330",
+		"addressLine1": "2 Debras Pl",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.324193,
+		"longitude": -69.775658,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 780,
+		"lotSize": 4792,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 160000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-03-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.315Z",
+		"daysOnMarket": 100,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665749",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 160000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 100
+			}
+		}
+	},
+	{
+		"id": "109-Fieldstone-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "109 Fieldstone Dr, Augusta, ME 04330",
+		"addressLine1": "109 Fieldstone Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.312724,
+		"longitude": -69.743452,
+		"propertyType": "Land",
+		"lotSize": 34412,
+		"status": "Active",
+		"price": 59000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.309Z",
+		"daysOnMarket": 90,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667328",
+		"listingAgent": {
+			"name": "Emily Theriault",
+			"phone": "2077166335",
+			"email": "emilytheriault@portsidereg.com",
+			"website": "https://pouliotrealestate.me/team/emily-theriault/"
+		},
+		"listingOffice": {
+			"name": "Lakepoint at Portside Real Estate Group",
+			"phone": "2074953700",
+			"email": "dan@belgradelakepoint.com",
+			"website": "www.belgradelakepoint.com"
+		},
+		"history": {
+			"2024-05-02": {
+				"event": "Sale Listing",
+				"price": 78000,
+				"listingType": "Standard",
+				"listedDate": "2024-05-02T00:00:00.000Z",
+				"removedDate": "2024-11-02T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2025-04-05": {
+				"event": "Sale Listing",
+				"price": 71000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-05T00:00:00.000Z",
+				"removedDate": "2025-10-04T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 59000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "82-Water-St,-Augusta,-ME-04330",
+		"formattedAddress": "82 Water St, Augusta, ME 04330",
+		"addressLine1": "82 Water St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.318866,
+		"longitude": -69.773644,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 8,
+		"squareFootage": 13700,
+		"lotSize": 6098,
+		"yearBuilt": 1885,
+		"status": "Active",
+		"price": 400000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.307Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665089",
+		"listingAgent": {
+			"name": "Jane Montgomery",
+			"phone": "2076229000",
+			"email": "jane@rizzomattson.com",
+			"website": "http://www.rizzomattson.com/"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "113-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "113 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "113 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.308968,
+		"longitude": -69.758434,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1152,
+		"lotSize": 6098,
+		"yearBuilt": 1921,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.307Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666630",
+		"listingAgent": {
+			"name": "Sarah Donnell",
+			"phone": "2072743733"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2025-02-17": {
+				"event": "Sale Listing",
+				"price": 149900,
+				"listingType": "Standard",
+				"listedDate": "2025-02-17T00:00:00.000Z",
+				"removedDate": "2025-06-10T00:00:00.000Z",
+				"daysOnMarket": 113
+			},
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "2-Sunrise-Cir,-Augusta,-ME-04330",
+		"formattedAddress": "2 Sunrise Cir, Augusta, ME 04330",
+		"addressLine1": "2 Sunrise Cir",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.373842,
+		"longitude": -69.72569,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1092,
+		"lotSize": 20038,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 355000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.305Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664988",
+		"listingAgent": {
+			"name": "Donna Pinkham",
+			"phone": "2075575458",
+			"email": "donnapinkham@masiello.com",
+			"website": "http://donnapinkham.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group - Augusta",
+			"phone": "2074801050",
+			"email": "region3@masiello.com",
+			"website": "https://www.masiello.com/augusta-me/"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 355000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "75-Arsenal-St,-Augusta,-ME-04330",
+		"formattedAddress": "75 Arsenal St, Augusta, ME 04330",
+		"addressLine1": "75 Arsenal St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.31147,
+		"longitude": -69.769087,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2916,
+		"lotSize": 16553,
+		"yearBuilt": 1836,
+		"status": "Active",
+		"price": 339900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.298Z",
+		"daysOnMarket": 97,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666016",
+		"listingAgent": {
+			"name": "Karyn Macgrath",
+			"phone": "2077981635",
+			"email": "karyn.macgrath@gmail.com",
+			"website": "https://www.spectrumrealestatecompany.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-06-08": {
+				"event": "Sale Listing",
+				"price": 339900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 97
+			}
+		}
+	},
+	{
+		"id": "10-Ridgewood-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "10 Ridgewood Dr, Augusta, ME 04330",
+		"addressLine1": "10 Ridgewood Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.322255,
+		"longitude": -69.76009,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1656,
+		"lotSize": 54014,
+		"yearBuilt": 1963,
+		"status": "Active",
+		"price": 345000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.297Z",
+		"daysOnMarket": 102,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665263",
+		"listingAgent": {
+			"name": "Heidi Witham Hoa Hoang",
+			"phone": "2074580022",
+			"email": "hoangassociates@hoangrealty.com",
+			"website": "https://hoangassociates.hoangrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-06-03": {
+				"event": "Sale Listing",
+				"price": 345000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 102
+			}
+		}
+	},
+	{
+		"id": "2-Stovers-Way,-Augusta,-ME-04330",
+		"formattedAddress": "2 Stovers Way, Augusta, ME 04330",
+		"addressLine1": "2 Stovers Way",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.296868,
+		"longitude": -69.658743,
+		"propertyType": "Land",
+		"lotSize": 2593127,
+		"status": "Active",
+		"price": 60000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.297Z",
+		"daysOnMarket": 100,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665826",
+		"listingAgent": {
+			"name": "Kim Tarbox",
+			"phone": "2074092961",
+			"email": "kim@kimtarbox.com",
+			"website": "http://www.kimtarbox.com"
+		},
+		"listingOffice": {
+			"name": "FIV Realty Co Maine, LLC",
+			"phone": "2074092961",
+			"email": "kim@kimtarbox.com"
+		},
+		"history": {
+			"2025-01-24": {
+				"event": "Sale Listing",
+				"price": 65000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-24T00:00:00.000Z",
+				"removedDate": "2025-03-04T00:00:00.000Z",
+				"daysOnMarket": 39
+			},
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 60000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 100
+			}
+		}
+	},
+	{
+		"id": "102-Fieldstone-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "102 Fieldstone Dr, Augusta, ME 04330",
+		"addressLine1": "102 Fieldstone Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.312773,
+		"longitude": -69.743983,
+		"propertyType": "Land",
+		"lotSize": 25700,
+		"status": "Active",
+		"price": 80000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.293Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667922",
+		"listingAgent": {
+			"name": "Kim Gleason",
+			"phone": "2076212345",
+			"email": "kimgleason@myfairpoint.net",
+			"website": "http://mcallisterrealestate.com/"
+		},
+		"listingOffice": {
+			"name": "MCALLISTER REAL ESTATE",
+			"phone": "2076212345",
+			"email": "kimgleason@myfairpoint.net",
+			"website": "www.mcallisterrealestate.com"
+		},
+		"history": {
+			"2024-04-01": {
+				"event": "Sale Listing",
+				"price": 80000,
+				"listingType": "Standard",
+				"listedDate": "2024-04-01T00:00:00.000Z",
+				"removedDate": "2024-09-28T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 80000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "73-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "73 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "73 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.309701,
+		"longitude": -69.76306,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1909,
+		"lotSize": 6534,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 345000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.286Z",
+		"daysOnMarket": 92,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667074",
+		"listingAgent": {
+			"name": "Brian Rizzo",
+			"phone": "2072159793",
+			"email": "brizzo@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-06-13": {
+				"event": "Sale Listing",
+				"price": 345000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 92
+			}
+		}
+	},
+	{
+		"id": "Buckwood-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "Buckwood Rd, Augusta, ME 04330",
+		"addressLine1": "Buckwood Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.330729,
+		"longitude": -69.82859,
+		"propertyType": "Land",
+		"lotSize": 295772,
+		"hoa": {
+			"fee": 29
+		},
+		"status": "Active",
+		"price": 139900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.285Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666293",
+		"listingAgent": {
+			"name": "Jessica Fike",
+			"phone": "2074589108",
+			"email": "jessica@brookewood.com",
+			"website": "http://www.jessicafikerealtor.com"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 139900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "2-Dennis-St,-Augusta,-ME-04330",
+		"formattedAddress": "2 Dennis St, Augusta, ME 04330",
+		"addressLine1": "2 Dennis St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.318917,
+		"longitude": -69.776865,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1612,
+		"lotSize": 20038,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 245000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.281Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668738",
+		"listingAgent": {
+			"name": "Dylan Armstrong",
+			"phone": "2076231123",
+			"email": "dylan@spragueandcurtis.com",
+			"website": "https://darmstrong.spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 245000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "290-Leighton-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "290 Leighton Rd, Augusta, ME 04330",
+		"addressLine1": "290 Leighton Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.340039,
+		"longitude": -69.815506,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2820,
+		"lotSize": 912582,
+		"yearBuilt": 1836,
+		"status": "Active",
+		"price": 875000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.279Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666882",
+		"listingAgent": {
+			"name": "John Swan",
+			"phone": "2074625545"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 875000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "64-Church-Hill-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "64 Church Hill Rd, Augusta, ME 04330",
+		"addressLine1": "64 Church Hill Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.32188,
+		"longitude": -69.734204,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 944,
+		"lotSize": 20038,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-12T08:46:09.253Z",
+		"lastSeenDate": "2026-09-12T07:50:49.275Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666943",
+		"listingAgent": {
+			"name": "Heidi Witham Hoa Hoang",
+			"phone": "2074580022",
+			"email": "hoangassociates@hoangrealty.com",
+			"website": "https://hoangassociates.hoangrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "40-Albee-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "40 Albee Rd, Augusta, ME 04330",
+		"addressLine1": "40 Albee Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.333184,
+		"longitude": -69.651907,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1037,
+		"lotSize": 16553,
+		"yearBuilt": 1940,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.267Z",
+		"daysOnMarket": 92,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667107",
+		"listingAgent": {
+			"name": "Cameron Rizzo",
+			"phone": "2076229000",
+			"email": "cam@rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-06-13": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 92
+			}
+		}
+	},
+	{
+		"id": "12-Weston-St,-Augusta,-ME-04330",
+		"formattedAddress": "12 Weston St, Augusta, ME 04330",
+		"addressLine1": "12 Weston St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.313856,
+		"longitude": -69.779404,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 3315,
+		"lotSize": 4792,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:50:49.259Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669175",
+		"listingAgent": {
+			"name": "Cameron Rizzo",
+			"phone": "2076229000",
+			"email": "cam@rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "405-Western-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "405 Western Ave, Augusta, ME 04330",
+		"addressLine1": "405 Western Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.319232,
+		"longitude": -69.817069,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1735,
+		"lotSize": 56628,
+		"yearBuilt": 1780,
+		"status": "Active",
+		"price": 649900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:05.019Z",
+		"daysOnMarket": 78,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669324",
+		"listingAgent": {
+			"name": "Nathan Laflin",
+			"phone": "2075923377",
+			"email": "nate@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com"
+		},
+		"listingOffice": {
+			"name": "Laflin & Wolfington Realty",
+			"phone": "2076299211",
+			"email": "harrison@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com/"
+		},
+		"history": {
+			"2026-06-27": {
+				"event": "Sale Listing",
+				"price": 649900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 78
+			}
+		}
+	},
+	{
+		"id": "4-Florence-Street-Pl,-Augusta,-ME-04330",
+		"formattedAddress": "4 Florence Street Pl, Augusta, ME 04330",
+		"addressLine1": "4 Florence Street Pl",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.31088,
+		"longitude": -69.789219,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1008,
+		"lotSize": 11326,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 155000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.986Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670070",
+		"listingAgent": {
+			"name": "Heidi Witham Hoa Hoang",
+			"phone": "2074580022",
+			"email": "hoangassociates@hoangrealty.com",
+			"website": "https://hoangassociates.hoangrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 155000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "23-Patterson-St,-Augusta,-ME-04330",
+		"formattedAddress": "23 Patterson St, Augusta, ME 04330",
+		"addressLine1": "23 Patterson St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.318019,
+		"longitude": -69.76435,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1448,
+		"lotSize": 2614,
+		"yearBuilt": 1865,
+		"status": "Active",
+		"price": 310000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-02-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.985Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670085",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group - Augusta",
+			"phone": "2074801050",
+			"email": "region3@masiello.com",
+			"website": "https://www.masiello.com/augusta-me/"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 310000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "12-Lambert-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "12 Lambert Ave, Augusta, ME 04330",
+		"addressLine1": "12 Lambert Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.333918,
+		"longitude": -69.698571,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1296,
+		"lotSize": 22216,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 195000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.984Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670091",
+		"listingOffice": {
+			"name": "Realty of Maine - Bangor",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 195000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "825-W-River-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "825 W River Rd, Augusta, ME 04330",
+		"addressLine1": "825 W River Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.367138,
+		"longitude": -69.742984,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1540,
+		"lotSize": 87120,
+		"yearBuilt": 1995,
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.983Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670195",
+		"listingAgent": {
+			"name": "Matthew Pouliot",
+			"phone": "2074419418",
+			"email": "matt@pouliotrealestate.com",
+			"website": "http://www.pouliotrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pouliot Real Estate"
+		},
+		"history": {
+			"2025-12-09": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-09T00:00:00.000Z",
+				"removedDate": "2025-12-11T00:00:00.000Z",
+				"daysOnMarket": 2
+			},
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "902-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "902 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "902 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.282931,
+		"longitude": -69.694975,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1987,
+		"lotSize": 90605,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 418000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.982Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670197",
+		"listingAgent": {
+			"name": "Yuli (Lilly) Huang",
+			"phone": "2073764830",
+			"email": "lilyhuang910@aol.com",
+			"website": "www.legacy-realty.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 418000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "2522-N-Belfast-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "2522 N Belfast Ave, Augusta, ME 04330",
+		"addressLine1": "2522 N Belfast Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.329106,
+		"longitude": -69.715252,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1935,
+		"lotSize": 871200,
+		"yearBuilt": 1832,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.981Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670220",
+		"listingAgent": {
+			"name": "Brian Rizzo",
+			"phone": "2072159793",
+			"email": "brizzo@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "691-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "691 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "691 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.293955,
+		"longitude": -69.709954,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1217,
+		"lotSize": 30056,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 280000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-30T08:43:36.404Z",
+		"lastSeenDate": "2026-09-12T07:24:04.978Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670559",
+		"listingAgent": {
+			"name": "Danika Turcotte",
+			"phone": "2076230623",
+			"email": "danika@hoangrealty.com"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 280000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "34-Falcon-Cir,-Augusta,-ME-04330",
+		"formattedAddress": "34 Falcon Cir, Augusta, ME 04330",
+		"addressLine1": "34 Falcon Cir",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.349779,
+		"longitude": -69.744219,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 952,
+		"yearBuilt": 2020,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 110000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.977Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670579",
+		"listingAgent": {
+			"name": "Joc Caldwell",
+			"phone": "2072324152",
+			"email": "joc@summitofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2024-09-24": {
+				"event": "Sale Listing",
+				"price": 99999,
+				"listingType": "Standard",
+				"listedDate": "2024-09-24T00:00:00.000Z",
+				"removedDate": "2024-11-02T00:00:00.000Z",
+				"daysOnMarket": 39
+			},
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 110000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "10-Blaine-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "10 Blaine Ave, Augusta, ME 04330",
+		"addressLine1": "10 Blaine Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.313596,
+		"longitude": -69.792449,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 2048,
+		"lotSize": 12632,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 359000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.976Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670619",
+		"listingAgent": {
+			"name": "Earle Kenney",
+			"phone": "2076231123",
+			"email": "earle@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 359000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "White-Pine-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "White Pine Dr, Augusta, ME 04330",
+		"addressLine1": "White Pine Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.334575,
+		"longitude": -69.757887,
+		"propertyType": "Land",
+		"lotSize": 2831400,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.974Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670660",
+		"listingAgent": {
+			"name": "Earle Kenney",
+			"phone": "2076231123",
+			"email": "earle@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2025-02-12": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-12T00:00:00.000Z",
+				"removedDate": "2025-08-11T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "M7L99H-Bolton-Hill-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "M7L99H Bolton Hill Rd, Augusta, ME 04330",
+		"addressLine1": "M7L99H Bolton Hill Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.319073,
+		"longitude": -69.692957,
+		"propertyType": "Land",
+		"lotSize": 326700,
+		"status": "Active",
+		"price": 70000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.968Z",
+		"daysOnMarket": 67,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670750",
+		"listingAgent": {
+			"name": "Shane Patrick"
+		},
+		"listingOffice": {
+			"name": "Whitetail Property Real Estate, LLC",
+			"phone": "2172859000",
+			"email": "listing@whitetailproperties.com",
+			"website": "http://www.whitetailproperties.com"
+		},
+		"history": {
+			"2026-07-08": {
+				"event": "Sale Listing",
+				"price": 70000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 67
+			}
+		}
+	},
+	{
+		"id": "89-Western-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "89 Western Ave, Augusta, ME 04330",
+		"addressLine1": "89 Western Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.312464,
+		"longitude": -69.789576,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1800,
+		"lotSize": 6534,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.967Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671200",
+		"listingAgent": {
+			"name": "Erin Davis",
+			"phone": "2076234182",
+			"email": "erindavis@masiello.com"
+		},
+		"listingOffice": {
+			"name": "Lakehome Group",
+			"phone": "2074952500",
+			"email": "liz@lakehomegroup.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "63-Washington-St,-Augusta,-ME-04330",
+		"formattedAddress": "63 Washington St, Augusta, ME 04330",
+		"addressLine1": "63 Washington St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.327318,
+		"longitude": -69.772272,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1397,
+		"lotSize": 3049,
+		"yearBuilt": 1895,
+		"status": "Active",
+		"price": 205000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.964Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670714",
+		"listingAgent": {
+			"name": "Sonya Porter Burrill",
+			"phone": "2074454323",
+			"email": "sonyaporter3@hotmail.com"
+		},
+		"listingOffice": {
+			"name": "Adams Realty",
+			"phone": "2074454323",
+			"email": "ladams@adamsrealtyme.com",
+			"website": "http://www.adamsrealtyme.com"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 205000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "4-Trueworthy-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "4 Trueworthy Ave, Augusta, ME 04330",
+		"addressLine1": "4 Trueworthy Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.334211,
+		"longitude": -69.779638,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1687,
+		"lotSize": 8276,
+		"yearBuilt": 1954,
+		"status": "Active",
+		"price": 395000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.952Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672572",
+		"listingAgent": {
+			"name": "Kelly Ellis",
+			"phone": "2076713601",
+			"email": "kellyellis@kw.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 395000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "127-Bond-Brook-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "127 Bond Brook Rd, Augusta, ME 04330",
+		"addressLine1": "127 Bond Brook Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.334987,
+		"longitude": -69.801203,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1680,
+		"lotSize": 68825,
+		"yearBuilt": 2024,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.948Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671840",
+		"listingAgent": {
+			"name": "Tyler Gaudet",
+			"phone": "2072155170",
+			"email": "tyler@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2024-12-31": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "New Construction",
+				"listedDate": "2024-12-31T00:00:00.000Z",
+				"removedDate": "2025-06-27T00:00:00.000Z",
+				"daysOnMarket": 178
+			},
+			"2025-07-11": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-11T00:00:00.000Z",
+				"removedDate": "2026-07-11T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "5-Mayflower-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "5 Mayflower Rd, Augusta, ME 04330",
+		"addressLine1": "5 Mayflower Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.30814,
+		"longitude": -69.759658,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1283,
+		"lotSize": 10454,
+		"yearBuilt": 1963,
+		"status": "Active",
+		"price": 320000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.946Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673983",
+		"listingAgent": {
+			"name": "Tim Fortin",
+			"phone": "2074410320",
+			"email": "tim@nexthomenlr.com",
+			"website": "http://www.nexthomenlr.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Northern Lights Realty",
+			"phone": "2075588811",
+			"email": "office@nexthomesnlr.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 320000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "Leighton-Rd,-Lot-36,-Augusta,-ME-04330",
+		"formattedAddress": "Leighton Rd, Lot 36, Augusta, ME 04330",
+		"addressLine1": "Leighton Rd",
+		"addressLine2": "Lot 36",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.332602,
+		"longitude": -69.817225,
+		"propertyType": "Land",
+		"lotSize": 54450,
+		"status": "Active",
+		"price": 99000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.940Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673975",
+		"listingAgent": {
+			"name": "Dennis Wheelock",
+			"phone": "2072425588",
+			"email": "dwheelock@balfourcommercial.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-06-13": {
+				"event": "Sale Listing",
+				"price": 60000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-13T00:00:00.000Z",
+				"removedDate": "2025-06-26T00:00:00.000Z",
+				"daysOnMarket": 13
+			},
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 99000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "3-Washington-Street-Pl,-Augusta,-ME-04330",
+		"formattedAddress": "3 Washington Street Pl, Augusta, ME 04330",
+		"addressLine1": "3 Washington Street Pl",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.323457,
+		"longitude": -69.772893,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 2759,
+		"lotSize": 5227,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.936Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672245",
+		"listingAgent": {
+			"name": "Timothy Bush",
+			"phone": "2079510747",
+			"email": "timbushrealestate@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2024-06-04": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2024-06-04T00:00:00.000Z",
+				"removedDate": "2025-01-01T00:00:00.000Z",
+				"daysOnMarket": 211
+			},
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "960-W-River-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "960 W River Rd, Augusta, ME 04330",
+		"addressLine1": "960 W River Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.377163,
+		"longitude": -69.743245,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2669,
+		"lotSize": 2482920,
+		"yearBuilt": 1990,
+		"status": "Active",
+		"price": 705000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-12-30T07:11:28.880Z",
+		"lastSeenDate": "2026-09-12T07:24:04.934Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672585",
+		"listingAgent": {
+			"name": "Hailey Lebel",
+			"phone": "2077135941",
+			"email": "haileylebel@rogcompass.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 705000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "42-Sparrow-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "42 Sparrow Dr, Augusta, ME 04330",
+		"addressLine1": "42 Sparrow Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.337391,
+		"longitude": -69.75317,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1008,
+		"yearBuilt": 2011,
+		"hoa": {
+			"fee": 520
+		},
+		"status": "Active",
+		"price": 78000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.932Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673716",
+		"listingAgent": {
+			"name": "Jeff Mateja",
+			"phone": "2075532605",
+			"email": "jeff@kwmateja.com",
+			"website": "http://www.jeffsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2075532605",
+			"email": "klrw318@kw.com",
+			"website": "findmainehomesnow.com"
+		},
+		"history": {
+			"2025-05-23": {
+				"event": "Sale Listing",
+				"price": 80000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-23T00:00:00.000Z",
+				"removedDate": "2025-07-24T00:00:00.000Z",
+				"daysOnMarket": 62
+			},
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 78000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "5-Pine-St,-Augusta,-ME-04330",
+		"formattedAddress": "5 Pine St, Augusta, ME 04330",
+		"addressLine1": "5 Pine St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.31548,
+		"longitude": -69.760849,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1586,
+		"lotSize": 7841,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 265000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.927Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672891",
+		"listingAgent": {
+			"name": "Shari Howard",
+			"phone": "2074851506",
+			"email": "shari.howard@beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 265000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "234-Bolton-Hill-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "234 Bolton Hill Rd, Augusta, ME 04330",
+		"addressLine1": "234 Bolton Hill Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.321154,
+		"longitude": -69.692551,
+		"propertyType": "Land",
+		"lotSize": 459122,
+		"status": "Active",
+		"price": 99900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.924Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672634",
+		"listingAgent": {
+			"name": "Steven Billing",
+			"phone": "2072420046",
+			"email": "stevesaab900@hotmail.com"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 99900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "52-Forest-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "52 Forest Ave, Augusta, ME 04330",
+		"addressLine1": "52 Forest Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.335913,
+		"longitude": -69.771725,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1681,
+		"lotSize": 30056,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 370000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.919Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672896",
+		"listingAgent": {
+			"name": "Donna Pinkham",
+			"phone": "2075575458",
+			"email": "donnapinkham@masiello.com",
+			"website": "http://donnapinkham.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group - Augusta",
+			"phone": "2074801050",
+			"email": "region3@masiello.com",
+			"website": "https://www.masiello.com/augusta-me/"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 370000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "400-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "400 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "400 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.301223,
+		"longitude": -69.737501,
+		"propertyType": "Single Family",
+		"bedrooms": 0,
+		"bathrooms": 2,
+		"squareFootage": 4384,
+		"lotSize": 70567,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:24:04.916Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673889",
+		"listingAgent": {
+			"name": "Jeff Decker",
+			"phone": "2077518123",
+			"email": "deckerjs13@gmail.com",
+			"website": "http://www.decksellsme.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "26-Birchwood-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "26 Birchwood Rd, Augusta, ME 04330",
+		"addressLine1": "26 Birchwood Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.303063,
+		"longitude": -69.780043,
+		"propertyType": "Land",
+		"lotSize": 24394,
+		"status": "Active",
+		"price": 65000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.605Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674201",
+		"listingAgent": {
+			"name": "Shawn Mckillop",
+			"phone": "2072007068",
+			"email": "shawn@merealestateco.com",
+			"website": "http://www.maineoverlandrealtor.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 65000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "227-Cony-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "227 Cony Rd, Augusta, ME 04330",
+		"addressLine1": "227 Cony Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.303002,
+		"longitude": -69.742644,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1208,
+		"lotSize": 7841,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 225000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.601Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674428",
+		"listingAgent": {
+			"name": "John Chadbourne",
+			"phone": "2076229000",
+			"email": "johnchadbourne@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "Riverside-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "Riverside Dr, Augusta, ME 04330",
+		"addressLine1": "Riverside Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.331037,
+		"longitude": -69.760458,
+		"propertyType": "Land",
+		"lotSize": 132422,
+		"status": "Active",
+		"price": 223000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.594Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674238",
+		"listingAgent": {
+			"name": "George & Erica O’connor",
+			"phone": "2074850277",
+			"email": "goconnorrealtors@gmail.com",
+			"website": "http://www.rizzomattson.com/"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 223000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "2-Howard-St,-Augusta,-ME-04330",
+		"formattedAddress": "2 Howard St, Augusta, ME 04330",
+		"addressLine1": "2 Howard St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.314945,
+		"longitude": -69.770898,
+		"propertyType": "Single Family",
+		"bedrooms": 0,
+		"bathrooms": 2,
+		"squareFootage": 2988,
+		"lotSize": 43560,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.590Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674402",
+		"listingAgent": {
+			"name": "John Lawrence",
+			"phone": "2076225251",
+			"email": "john.premierrealty@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "36-Garden-Way,-Augusta,-ME-04330",
+		"formattedAddress": "36 Garden Way, Augusta, ME 04330",
+		"addressLine1": "36 Garden Way",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.336476,
+		"longitude": -69.752637,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1008,
+		"yearBuilt": 1996,
+		"hoa": {
+			"fee": 518
+		},
+		"status": "Active",
+		"price": 78000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.589Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675223",
+		"listingAgent": {
+			"name": "Kristina Stewart",
+			"phone": "2075574644",
+			"email": "kstewart@rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 78000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "748-Riverside-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "748 Riverside Dr, Augusta, ME 04330",
+		"addressLine1": "748 Riverside Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.362834,
+		"longitude": -69.737837,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2970,
+		"lotSize": 102366,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 415000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.583Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674638",
+		"listingAgent": {
+			"name": "Demetris Webster Jr",
+			"phone": "2078323011",
+			"email": "demetriswebsterrealtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Pooley Realty Group",
+			"phone": "2078323011",
+			"email": "jessicapooleyrealtor@gmail.com",
+			"website": "https://www.mainecoastre.com/"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "20-Fairbanks-St,-Unit-3,-Augusta,-ME-04330",
+		"formattedAddress": "20 Fairbanks St, Unit 3, Augusta, ME 04330",
+		"addressLine1": "20 Fairbanks St",
+		"addressLine2": "Unit 3",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.301596,
+		"longitude": -69.787725,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 775,
+		"yearBuilt": 1980,
+		"hoa": {
+			"fee": 165
+		},
+		"status": "Active",
+		"price": 139900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.518Z",
+		"daysOnMarket": 35,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675429",
+		"listingAgent": {
+			"name": "Heather Albert",
+			"phone": "2074857887"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2026-08-09": {
+				"event": "Sale Listing",
+				"price": 139900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 35
+			}
+		}
+	},
+	{
+		"id": "12-Marlboro-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "12 Marlboro Ave, Augusta, ME 04330",
+		"addressLine1": "12 Marlboro Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.305791,
+		"longitude": -69.759945,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1008,
+		"lotSize": 20038,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 359900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.516Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675510",
+		"listingAgent": {
+			"name": "Shelly Kilmer",
+			"phone": "2074414488",
+			"email": "skilmer62@aol.com",
+			"website": "http://www.laerrealty.com"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 359900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "136-Old-Winthrop-Rd,-Unit-8,-Augusta,-ME-04330",
+		"formattedAddress": "136 Old Winthrop Rd, Unit 8, Augusta, ME 04330",
+		"addressLine1": "136 Old Winthrop Rd",
+		"addressLine2": "Unit 8",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.319868,
+		"longitude": -69.812125,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1112,
+		"lotSize": 43560,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 225000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.513Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675482",
+		"listingAgent": {
+			"name": "Earle Kenney",
+			"phone": "2076231123",
+			"email": "earle@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "220-Cony-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "220 Cony Rd, Augusta, ME 04330",
+		"addressLine1": "220 Cony Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.303623,
+		"longitude": -69.742996,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 3867,
+		"lotSize": 179467,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 390000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.512Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662705",
+		"listingAgent": {
+			"name": "Brandon Mitchell",
+			"phone": "2077722422",
+			"email": "brandon@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"email": "molly@malonecb.com",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2026-05-18": {
+				"event": "Sale Listing",
+				"price": 390000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-18T00:00:00.000Z",
+				"removedDate": "2026-05-23T00:00:00.000Z",
+				"daysOnMarket": 5
+			},
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 390000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "98-Fieldstone-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "98 Fieldstone Dr, Augusta, ME 04330",
+		"addressLine1": "98 Fieldstone Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.312872,
+		"longitude": -69.744538,
+		"propertyType": "Land",
+		"lotSize": 34412,
+		"status": "Active",
+		"price": 68000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.508Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675683",
+		"listingAgent": {
+			"name": "Emily Theriault",
+			"phone": "2077166335",
+			"email": "emilytheriault@portsidereg.com",
+			"website": "https://pouliotrealestate.me/team/emily-theriault/"
+		},
+		"listingOffice": {
+			"name": "Lakepoint at Portside Real Estate Group",
+			"phone": "2074953700",
+			"email": "dan@belgradelakepoint.com",
+			"website": "www.belgradelakepoint.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 68000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "38-S-Belfast-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "38 S Belfast Ave, Augusta, ME 04330",
+		"addressLine1": "38 S Belfast Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.318215,
+		"longitude": -69.757571,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1082,
+		"lotSize": 10890,
+		"yearBuilt": 1856,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-16T07:44:29.502Z",
+		"lastSeenDate": "2026-09-12T07:04:22.506Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675524",
+		"listingAgent": {
+			"name": "Lisa Webb-kalloch",
+			"phone": "2076607583",
+			"email": "lisa@rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "214-Northern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "214 Northern Ave, Augusta, ME 04330",
+		"addressLine1": "214 Northern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.332162,
+		"longitude": -69.777165,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1334,
+		"lotSize": 13504,
+		"yearBuilt": 1946,
+		"status": "Active",
+		"price": 279900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-11-13T09:16:45.642Z",
+		"lastSeenDate": "2026-09-12T07:04:22.476Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677306",
+		"listingAgent": {
+			"name": "Holly Hacskaylo",
+			"phone": "2076601707",
+			"email": "hollyhacskaylo@portsidereg.com",
+			"website": "https://www.portsiderealestategroup.com/realestate/agent/holly-h"
+		},
+		"listingOffice": {
+			"name": "Lakepoint at Portside Real Estate Group",
+			"phone": "2074953700",
+			"email": "dan@belgradelakepoint.com",
+			"website": "www.belgradelakepoint.com"
+		},
+		"history": {
+			"2026-08-22": {
+				"event": "Sale Listing",
+				"price": 279900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	},
+	{
+		"id": "629-Riverside-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "629 Riverside Dr, Augusta, ME 04330",
+		"addressLine1": "629 Riverside Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.35523,
+		"longitude": -69.742174,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1878,
+		"lotSize": 17424,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 439900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.475Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675836",
+		"listingAgent": {
+			"name": "Nathan Laflin",
+			"phone": "2075923377",
+			"email": "nate@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com"
+		},
+		"listingOffice": {
+			"name": "Laflin & Wolfington Realty",
+			"phone": "2076299211",
+			"email": "harrison@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com/"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 439900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "646-Riverside-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "646 Riverside Dr, Augusta, ME 04330",
+		"addressLine1": "646 Riverside Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.356447,
+		"longitude": -69.742142,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 820,
+		"lotSize": 7841,
+		"yearBuilt": 1923,
+		"status": "Active",
+		"price": 240000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.471Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676745",
+		"listingAgent": {
+			"name": "Deanne Beane",
+			"phone": "2074587822",
+			"email": "deannebeane2@gmail.com"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 240000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "59-Village-Cir,-Augusta,-ME-04330",
+		"formattedAddress": "59 Village Cir, Augusta, ME 04330",
+		"addressLine1": "59 Village Cir",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.306314,
+		"longitude": -69.743421,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1080,
+		"lotSize": 5227,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 35
+		},
+		"status": "Active",
+		"price": 295000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-08T08:54:29.201Z",
+		"lastSeenDate": "2026-09-12T07:04:22.468Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676329",
+		"listingAgent": {
+			"name": "Heidi Witham Hoa Hoang",
+			"phone": "2074580022",
+			"email": "hoangassociates@hoangrealty.com",
+			"website": "https://hoangassociates.hoangrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "25-Village-Cir,-Unit-3,-Augusta,-ME-04330",
+		"formattedAddress": "25 Village Cir, Unit 3, Augusta, ME 04330",
+		"addressLine1": "25 Village Cir",
+		"addressLine2": "Unit 3",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.307452,
+		"longitude": -69.743187,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 970,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 210
+		},
+		"status": "Active",
+		"price": 300000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.468Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677102",
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2074801050",
+			"email": "jon.finch@nemoves.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 300000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "28-Oxford-St,-Augusta,-ME-04330",
+		"formattedAddress": "28 Oxford St, Augusta, ME 04330",
+		"addressLine1": "28 Oxford St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.327414,
+		"longitude": -69.775108,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1607,
+		"lotSize": 4792,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.466Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676504",
+		"listingAgent": {
+			"name": "Tyler Ham",
+			"phone": "2077842525",
+			"email": "tyler@meservier.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "1139-Tasker-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "1139 Tasker Rd, Augusta, ME 04330",
+		"addressLine1": "1139 Tasker Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.320338,
+		"longitude": -69.666821,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 3125,
+		"lotSize": 33977,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 29
+		},
+		"status": "Active",
+		"price": 739000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.465Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675593",
+		"listingAgent": {
+			"name": "Kayla Beaulieu",
+			"phone": "2073803069",
+			"email": "kayla.beaulieu@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com/me/brunswick/agent/kayla-beaulieu/aid_235815/"
+		},
+		"listingOffice": {
+			"name": "Integrity Homes Real Estate Group, PC",
+			"phone": "2075769755",
+			"email": "buffydumont@gmail.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 739000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "10-Gedney-St,-Augusta,-ME-04330",
+		"formattedAddress": "10 Gedney St, Augusta, ME 04330",
+		"addressLine1": "10 Gedney St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.321041,
+		"longitude": -69.761572,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1107,
+		"lotSize": 16117,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.458Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676568",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "468-Riverside-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "468 Riverside Dr, Augusta, ME 04330",
+		"addressLine1": "468 Riverside Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.346117,
+		"longitude": -69.751191,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1554,
+		"lotSize": 16117,
+		"yearBuilt": 1936,
+		"status": "Active",
+		"price": 318000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.451Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676926",
+		"listingAgent": {
+			"name": "Kirsten A Hughes",
+			"phone": "2076608474",
+			"email": "khughes@laerrealtyme.com",
+			"website": "https://kirstenhughes.laerrealty.com/"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 318000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "27-Village-Cir,-Unit-2,-Augusta,-ME-04330",
+		"formattedAddress": "27 Village Cir, Unit 2, Augusta, ME 04330",
+		"addressLine1": "27 Village Cir",
+		"addressLine2": "Unit 2",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.307636,
+		"longitude": -69.743662,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 970,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 210
+		},
+		"status": "Active",
+		"price": 280000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.449Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676924",
+		"listingAgent": {
+			"name": "Heather Perrault",
+			"phone": "2076501571",
+			"email": "nate@laflinwolfingtonrealty.com"
+		},
+		"listingOffice": {
+			"name": "Laflin & Wolfington Realty",
+			"phone": "2076299211",
+			"email": "harrison@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com/"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 280000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "47-Fieldstone-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "47 Fieldstone Dr, Augusta, ME 04330",
+		"addressLine1": "47 Fieldstone Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.315344,
+		"longitude": -69.742028,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1725,
+		"lotSize": 18295,
+		"yearBuilt": 2020,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.449Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677092",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "30-Smith-St,-Augusta,-ME-04330",
+		"formattedAddress": "30 Smith St, Augusta, ME 04330",
+		"addressLine1": "30 Smith St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.317079,
+		"longitude": -69.823195,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1460,
+		"lotSize": 30928,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 319000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.448Z",
+		"daysOnMarket": 21,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677404",
+		"listingAgent": {
+			"name": "Tony Loiko",
+			"phone": "2072159466",
+			"email": "tloiko@midmaine.com",
+			"website": "http://www.tonyloiko.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2074801050",
+			"email": "jon.finch@nemoves.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 349999,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": "2026-08-23T00:00:00.000Z",
+				"daysOnMarket": 17
+			},
+			"2026-08-23": {
+				"event": "Sale Listing",
+				"price": 319000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 21
+			}
+		}
+	},
+	{
+		"id": "Hayden-Rd,---8,-Augusta,-ME-04330",
+		"formattedAddress": "Hayden Rd, # 8, Augusta, ME 04330",
+		"addressLine1": "Hayden Rd",
+		"addressLine2": "# 8",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.336077,
+		"longitude": -69.668081,
+		"propertyType": "Land",
+		"lotSize": 51401,
+		"hoa": {
+			"fee": 27
+		},
+		"status": "Active",
+		"price": 69900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:04:22.448Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677556",
+		"listingAgent": {
+			"name": "Matthew Pouliot",
+			"phone": "2074419418",
+			"email": "matt@pouliotrealestate.com",
+			"website": "http://www.pouliotrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pouliot Real Estate"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 69900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "63-Mount-Vernon-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "63 Mount Vernon Ave, Augusta, ME 04330",
+		"addressLine1": "63 Mount Vernon Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.324385,
+		"longitude": -69.775904,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 987,
+		"lotSize": 2614,
+		"yearBuilt": 1896,
+		"status": "Active",
+		"price": 199900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.656Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678638",
+		"listingAgent": {
+			"name": "Ann Castonguay",
+			"phone": "2076231123",
+			"email": "ann@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 199900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "156-Wade-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "156 Wade Rd, Augusta, ME 04330",
+		"addressLine1": "156 Wade Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.352727,
+		"longitude": -69.828637,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 952,
+		"lotSize": 30056,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 212000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.651Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678412",
+		"listingAgent": {
+			"name": "Shelly Kilmer",
+			"phone": "2074414488",
+			"email": "skilmer62@aol.com",
+			"website": "http://www.laerrealty.com"
+		},
+		"listingOffice": {
+			"name": "LAER Realty Partners",
+			"phone": "2076222220",
+			"email": "happyagent@laerrealty.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 212000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "83-Willow-St,-Augusta,-ME-04330",
+		"formattedAddress": "83 Willow St, Augusta, ME 04330",
+		"addressLine1": "83 Willow St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.318606,
+		"longitude": -69.767362,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2028,
+		"lotSize": 7841,
+		"yearBuilt": 1911,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.640Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677704",
+		"listingAgent": {
+			"name": "Edward Rogers",
+			"phone": "2072039022",
+			"email": "dgers34@icloud.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "19-Trueworthy-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "19 Trueworthy Ave, Augusta, ME 04330",
+		"addressLine1": "19 Trueworthy Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.33493,
+		"longitude": -69.78117,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1639,
+		"lotSize": 14810,
+		"yearBuilt": 1954,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-10-06T07:34:41.703Z",
+		"lastSeenDate": "2026-09-12T05:59:05.620Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678115",
+		"listingAgent": {
+			"name": "Paul Herard",
+			"phone": "2073234429",
+			"email": "paulherardrealtor@gmail.com",
+			"website": "https://paulherard.sites.cbmoxi.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2074801050",
+			"email": "jon.finch@nemoves.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "36-Sparrow-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "36 Sparrow Dr, Augusta, ME 04330",
+		"addressLine1": "36 Sparrow Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.337495,
+		"longitude": -69.753685,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 1979,
+		"hoa": {
+			"fee": 518
+		},
+		"status": "Active",
+		"price": 57000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.603Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678216",
+		"listingAgent": {
+			"name": "Lisa Webb-kalloch",
+			"phone": "2076607583",
+			"email": "lisa@rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 57000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "21-First-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "21 First Ave, Augusta, ME 04330",
+		"addressLine1": "21 First Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.308608,
+		"longitude": -69.762828,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1416,
+		"lotSize": 6098,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.584Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678757",
+		"listingAgent": {
+			"name": "John Swan",
+			"phone": "2074625545"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "29-Village-Cir,-Unit-2,-Augusta,-ME-04330",
+		"formattedAddress": "29 Village Cir, Unit 2, Augusta, ME 04330",
+		"addressLine1": "29 Village Cir",
+		"addressLine2": "Unit 2",
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.307651,
+		"longitude": -69.744105,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 970,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 210
+		},
+		"status": "Active",
+		"price": 284900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.574Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678602",
+		"listingAgent": {
+			"name": "Lori Dube",
+			"phone": "2076200886",
+			"email": "lori@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 284900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "70-Boothby-St,-Augusta,-ME-04330",
+		"formattedAddress": "70 Boothby St, Augusta, ME 04330",
+		"addressLine1": "70 Boothby St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.320388,
+		"longitude": -69.778122,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 968,
+		"lotSize": 7841,
+		"yearBuilt": 1906,
+		"status": "Active",
+		"price": 159900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.572Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678491",
+		"listingAgent": {
+			"name": "Nathan Laflin",
+			"phone": "2075923377",
+			"email": "nate@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com"
+		},
+		"listingOffice": {
+			"name": "Laflin & Wolfington Realty",
+			"phone": "2076299211",
+			"email": "harrison@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com/"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 159900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "12-Boulder-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "12 Boulder Ave, Augusta, ME 04330",
+		"addressLine1": "12 Boulder Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.313814,
+		"longitude": -69.700029,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1680,
+		"lotSize": 56628,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 252900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.562Z",
+		"daysOnMarket": 7,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679532",
+		"listingAgent": {
+			"name": "Jessie Stover",
+			"phone": "2074850936",
+			"email": "jstover@rizzomattson.com",
+			"website": "https://www.rizzomattson.com"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-09-06": {
+				"event": "Sale Listing",
+				"price": 252900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 7
+			}
+		}
+	},
+	{
+		"id": "7-Cross-St,-Augusta,-ME-04330",
+		"formattedAddress": "7 Cross St, Augusta, ME 04330",
+		"addressLine1": "7 Cross St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.31358,
+		"longitude": -69.766057,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1407,
+		"lotSize": 6534,
+		"yearBuilt": 1859,
+		"status": "Active",
+		"price": 229999,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-24T08:35:58.715Z",
+		"lastSeenDate": "2026-09-12T05:59:05.561Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679056",
+		"listingAgent": {
+			"name": "Amy Pottle",
+			"phone": "2077744224"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 229999,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "44-Macomber-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "44 Macomber Ave, Augusta, ME 04330",
+		"addressLine1": "44 Macomber Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.316495,
+		"longitude": -69.807622,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1566,
+		"lotSize": 13504,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 369000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-01-15T07:03:17.556Z",
+		"lastSeenDate": "2026-09-12T05:59:05.555Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679105",
+		"listingAgent": {
+			"name": "Catlin Barnes",
+			"phone": "2076230623",
+			"email": "caty@hoangrealty.com"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 369000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "37-Sparrow-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "37 Sparrow Dr, Augusta, ME 04330",
+		"addressLine1": "37 Sparrow Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.337598,
+		"longitude": -69.752636,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 784,
+		"yearBuilt": 2027,
+		"status": "Active",
+		"price": 129995,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.551Z",
+		"daysOnMarket": 9,
+		"mlsName": "SunCommunities",
+		"mlsNumber": "161582",
+		"listingAgent": {
+			"name": "Pamela Malone",
+			"phone": "8447674834"
+		},
+		"listingOffice": {
+			"name": "Riverside Drive Park",
+			"phone": "8447674834"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 129995,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "4-Meadowrue-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "4 Meadowrue Dr, Augusta, ME 04330",
+		"addressLine1": "4 Meadowrue Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.325587,
+		"longitude": -69.749226,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1872,
+		"lotSize": 11326,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.550Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679223",
+		"listingAgent": {
+			"name": "Matthew Boulerice",
+			"phone": "2077140435",
+			"email": "matthewboulerice@nergmaine.com",
+			"website": "www.boulericegroup.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "6-Mariner-Way,-Augusta,-ME-04330",
+		"formattedAddress": "6 Mariner Way, Augusta, ME 04330",
+		"addressLine1": "6 Mariner Way",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.364017,
+		"longitude": -69.73751,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1400,
+		"lotSize": 49658,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.548Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679876",
+		"listingAgent": {
+			"name": "John Bennett",
+			"phone": "8884398743",
+			"email": "john.m.bennett@exprealty.com"
+		},
+		"listingOffice": {
+			"name": "Pouliot Real Estate"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "6-Bayberry-Ct,-Augusta,-ME-04330",
+		"formattedAddress": "6 Bayberry Ct, Augusta, ME 04330",
+		"addressLine1": "6 Bayberry Ct",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.324516,
+		"longitude": -69.747998,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1525,
+		"lotSize": 15246,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 339000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.546Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679664",
+		"listingAgent": {
+			"name": "Anna Boucher",
+			"phone": "2073145767",
+			"email": "anna@summitofmaine.com",
+			"website": "http://www.summitofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2025-09-15": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "New Construction",
+				"listedDate": "2025-09-15T00:00:00.000Z",
+				"removedDate": "2026-03-03T00:00:00.000Z",
+				"daysOnMarket": 169
+			},
+			"2026-03-09": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-09T00:00:00.000Z",
+				"removedDate": "2026-05-05T00:00:00.000Z",
+				"daysOnMarket": 57
+			},
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 374900,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": "2026-09-08T00:00:00.000Z",
+				"daysOnMarket": 32
+			},
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 339000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "15-Holly-Hill-Ln,-Augusta,-ME-04330",
+		"formattedAddress": "15 Holly Hill Ln, Augusta, ME 04330",
+		"addressLine1": "15 Holly Hill Ln",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.338122,
+		"longitude": -69.750055,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 780,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 145995,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.544Z",
+		"daysOnMarket": 9,
+		"mlsName": "SunCommunities",
+		"mlsNumber": "161511",
+		"listingAgent": {
+			"name": "Pamela Malone",
+			"phone": "8447674834"
+		},
+		"listingOffice": {
+			"name": "Riverside Drive Park",
+			"phone": "8447674834"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 145995,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "18-Franklin-St,-Augusta,-ME-04330",
+		"formattedAddress": "18 Franklin St, Augusta, ME 04330",
+		"addressLine1": "18 Franklin St",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.327698,
+		"longitude": -69.773137,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2452,
+		"lotSize": 4792,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.543Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679867",
+		"listingAgent": {
+			"name": "Francis Rodrigue",
+			"phone": "2078739013",
+			"email": "franrod555@live.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "http://kwmaine.com"
+		},
+		"history": {
+			"2025-03-14": {
+				"event": "Sale Listing",
+				"price": 289000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-14T00:00:00.000Z",
+				"removedDate": "2025-05-29T00:00:00.000Z",
+				"daysOnMarket": 76
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "18-Sparrow-Dr,-Augusta,-ME-04330",
+		"formattedAddress": "18 Sparrow Dr, Augusta, ME 04330",
+		"addressLine1": "18 Sparrow Dr",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.337904,
+		"longitude": -69.755158,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 924,
+		"yearBuilt": 1978,
+		"hoa": {
+			"fee": 520
+		},
+		"status": "Active",
+		"price": 47000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:59:05.540Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679588",
+		"listingAgent": {
+			"name": "Heidi Witham Hoa Hoang",
+			"phone": "2074580022",
+			"email": "hoangassociates@hoangrealty.com",
+			"website": "https://hoangassociates.hoangrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hoang Realty",
+			"phone": "2074851485",
+			"email": "realtor2074851485@gmail.com",
+			"website": "www.hoangrealty.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 47000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "113-Pleasant-Hill-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "113 Pleasant Hill Rd, Augusta, ME 04330",
+		"addressLine1": "113 Pleasant Hill Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.290321,
+		"longitude": -69.730324,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1400,
+		"lotSize": 27878,
+		"yearBuilt": 1917,
+		"status": "Active",
+		"price": 50000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-08T08:34:55.686Z",
+		"lastSeenDate": "2026-09-11T05:47:48.352Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679087",
+		"listingAgent": {
+			"name": "Earle Kenney",
+			"phone": "2076231123",
+			"email": "earle@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 50000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "376-S-Belfast-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "376 S Belfast Ave, Augusta, ME 04330",
+		"addressLine1": "376 S Belfast Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.315878,
+		"longitude": -69.728559,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2652,
+		"lotSize": 239580,
+		"yearBuilt": 1858,
+		"status": "Active",
+		"price": 499999,
+		"listingType": "Standard",
+		"listedDate": "2026-04-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-03-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T08:08:23.943Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658869",
+		"listingAgent": {
+			"name": "Lori Dube",
+			"phone": "2076200886",
+			"email": "lori@spragueandcurtis.com",
+			"website": "http://spragueandcurtis.com/"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-04-22": {
+				"event": "Sale Listing",
+				"price": 499999,
+				"listingType": "Standard",
+				"listedDate": "2026-04-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "12-Mariner-Way,-Augusta,-ME-04330",
+		"formattedAddress": "12 Mariner Way, Augusta, ME 04330",
+		"addressLine1": "12 Mariner Way",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.317616,
+		"longitude": -69.728665,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1400,
+		"lotSize": 22651,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T06:34:54.859Z",
+		"daysOnMarket": 57,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672194",
+		"listingAgent": {
+			"name": "John Bennett",
+			"phone": "8884398743",
+			"email": "john.m.bennett@exprealty.com"
+		},
+		"listingOffice": {
+			"name": "Pouliot Real Estate"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 57
+			}
+		}
+	},
+	{
+		"id": "220-Old-Belgrade-Rd,-Augusta,-ME-04330",
+		"formattedAddress": "220 Old Belgrade Rd, Augusta, ME 04330",
+		"addressLine1": "220 Old Belgrade Rd",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.352,
+		"longitude": -69.785483,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2134,
+		"lotSize": 101930,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-08T09:37:51.866Z",
+		"lastSeenDate": "2026-09-10T05:57:08.232Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677126",
+		"listingAgent": {
+			"name": "Corey Lee",
+			"phone": "2073148443",
+			"email": "coreyl3134@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Independent Real Estate Broker",
+			"phone": "2072723954",
+			"email": "coreysellsmaine@maine.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	},
+	{
+		"id": "825-Eastern-Ave,-Augusta,-ME-04330",
+		"formattedAddress": "825 Eastern Ave, Augusta, ME 04330",
+		"addressLine1": "825 Eastern Ave",
+		"addressLine2": null,
+		"city": "Augusta",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04330",
+		"county": "Kennebec",
+		"countyFips": "011",
+		"latitude": 44.287923,
+		"longitude": -69.701091,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1792,
+		"lotSize": 27007,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T05:57:08.225Z",
+		"daysOnMarket": 21,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677213",
+		"listingAgent": {
+			"name": "Kristen Burke Tesseo",
+			"phone": "2076231123",
+			"email": "kristen@spragueandcurtis.com"
+		},
+		"listingOffice": {
+			"name": "Sprague & Curtis Real Estate",
+			"phone": "2076231123",
+			"email": "info@spragueandcurtis.com",
+			"website": "http://www.spragueandcurtis.com/"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 21
+			}
+		}
+	}
+]
