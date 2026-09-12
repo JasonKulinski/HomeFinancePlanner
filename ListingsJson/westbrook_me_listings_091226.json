@@ -1,0 +1,3261 @@
+[
+	{
+		"id": "290-Bridgton-Rd,-Ste-1,-Westbrook,-ME-04092",
+		"formattedAddress": "290 Bridgton Rd, Ste 1, Westbrook, ME 04092",
+		"addressLine1": "290 Bridgton Rd",
+		"addressLine2": "Ste 1",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.710152,
+		"longitude": -70.331017,
+		"propertyType": "Land",
+		"lotSize": 65340,
+		"status": "Active",
+		"price": 345000,
+		"listingType": "Standard",
+		"listedDate": "2023-06-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:09:18.462Z",
+		"daysOnMarket": 1181,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1562640",
+		"listingAgent": {
+			"name": "William Noone",
+			"phone": "2073299440",
+			"email": "billy@alliancemaine.com",
+			"website": "www.alliancemaine.com"
+		},
+		"listingOffice": {
+			"name": "Getty Real Estate Services, Llc",
+			"phone": "2073293335",
+			"email": "ed@trelg.com"
+		},
+		"history": {
+			"2023-06-20": {
+				"event": "Sale Listing",
+				"price": 345000,
+				"listingType": "Standard",
+				"listedDate": "2023-06-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 1181
+			}
+		}
+	},
+	{
+		"id": "18-Cole-St,-Westbrook,-ME-04092",
+		"formattedAddress": "18 Cole St, Westbrook, ME 04092",
+		"addressLine1": "18 Cole St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.68096,
+		"longitude": -70.364325,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 1548,
+		"lotSize": 3485,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.688Z",
+		"daysOnMarket": 389,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1634969",
+		"listingAgent": {
+			"name": "Tyler Hall",
+			"phone": "2075923829",
+			"email": "tylerhall@kw.com",
+			"website": "http://thehallgroup.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2025-08-20": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 389
+			}
+		}
+	},
+	{
+		"id": "171-Brook-St,-Unit-60,-Westbrook,-ME-04092",
+		"formattedAddress": "171 Brook St, Unit 60, Westbrook, ME 04092",
+		"addressLine1": "171 Brook St",
+		"addressLine2": "Unit 60",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.716145,
+		"longitude": -70.329964,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1345,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 579000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.657Z",
+		"daysOnMarket": 177,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654839",
+		"listingAgent": {
+			"name": "Chris Tinsman",
+			"phone": "2076503965",
+			"email": "tinsman.re@gmail.com",
+			"website": "https://www.coldwellbankerhomes.com/me/cape-elizabeth/agent/chris-tinsman/aid_209845/"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-03-20": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 177
+			}
+		}
+	},
+	{
+		"id": "171-Brook-St,-Unit-43,-Westbrook,-ME-04092",
+		"formattedAddress": "171 Brook St, Unit 43, Westbrook, ME 04092",
+		"addressLine1": "171 Brook St",
+		"addressLine2": "Unit 43",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.716145,
+		"longitude": -70.329964,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1970,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 649000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.655Z",
+		"daysOnMarket": 244,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649122",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-01-12": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 244
+			}
+		}
+	},
+	{
+		"id": "21-Clover-Ln,-Unit-104,-Westbrook,-ME-04092",
+		"formattedAddress": "21 Clover Ln, Unit 104, Westbrook, ME 04092",
+		"addressLine1": "21 Clover Ln",
+		"addressLine2": "Unit 104",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.680629,
+		"longitude": -70.350079,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 502,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 290
+		},
+		"status": "Active",
+		"price": 269000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.646Z",
+		"daysOnMarket": 242,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649371",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2026-01-14": {
+				"event": "Sale Listing",
+				"price": 269000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 242
+			}
+		}
+	},
+	{
+		"id": "21-Clover-Ln,-Unit-306,-Westbrook,-ME-04092",
+		"formattedAddress": "21 Clover Ln, Unit 306, Westbrook, ME 04092",
+		"addressLine1": "21 Clover Ln",
+		"addressLine2": "Unit 306",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.680205,
+		"longitude": -70.35027,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 512,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 302
+		},
+		"status": "Active",
+		"price": 325000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.644Z",
+		"daysOnMarket": 241,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649450",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2025-11-11": {
+				"event": "Sale Listing",
+				"price": 340480,
+				"listingType": "Standard",
+				"listedDate": "2025-11-11T00:00:00.000Z",
+				"removedDate": "2026-01-09T00:00:00.000Z",
+				"daysOnMarket": 59
+			},
+			"2026-01-15": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 241
+			}
+		}
+	},
+	{
+		"id": "21-Clover-Ln,-Unit-207,-Westbrook,-ME-04092",
+		"formattedAddress": "21 Clover Ln, Unit 207, Westbrook, ME 04092",
+		"addressLine1": "21 Clover Ln",
+		"addressLine2": "Unit 207",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.679956,
+		"longitude": -70.349577,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 502,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 302
+		},
+		"status": "Active",
+		"price": 310000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.642Z",
+		"daysOnMarket": 242,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649372",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2026-01-14": {
+				"event": "Sale Listing",
+				"price": 310000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 242
+			}
+		}
+	},
+	{
+		"id": "21-Clover-Ln,-Unit-407,-Westbrook,-ME-04092",
+		"formattedAddress": "21 Clover Ln, Unit 407, Westbrook, ME 04092",
+		"addressLine1": "21 Clover Ln",
+		"addressLine2": "Unit 407",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.680271,
+		"longitude": -70.350125,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 650,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 402
+		},
+		"status": "Active",
+		"price": 452000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.640Z",
+		"daysOnMarket": 242,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649377",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2026-01-14": {
+				"event": "Sale Listing",
+				"price": 452000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 242
+			}
+		}
+	},
+	{
+		"id": "680-Methodist-Rd,-Westbrook,-ME-04092",
+		"formattedAddress": "680 Methodist Rd, Westbrook, ME 04092",
+		"addressLine1": "680 Methodist Rd",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.71732,
+		"longitude": -70.358265,
+		"propertyType": "Land",
+		"lotSize": 867715,
+		"status": "Active",
+		"price": 600000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.639Z",
+		"daysOnMarket": 193,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653273",
+		"listingAgent": {
+			"name": "Michael Anderson",
+			"phone": "2077722422",
+			"email": "mike@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2026-03-04": {
+				"event": "Sale Listing",
+				"price": 600000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 193
+			}
+		}
+	},
+	{
+		"id": "21-Clover-Ln,-Unit-209,-Westbrook,-ME-04092",
+		"formattedAddress": "21 Clover Ln, Unit 209, Westbrook, ME 04092",
+		"addressLine1": "21 Clover Ln",
+		"addressLine2": "Unit 209",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.680248,
+		"longitude": -70.350277,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 502,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 290
+		},
+		"status": "Active",
+		"price": 291000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.636Z",
+		"daysOnMarket": 242,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649374",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2026-01-14": {
+				"event": "Sale Listing",
+				"price": 291000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 242
+			}
+		}
+	},
+	{
+		"id": "329-Austin-St,-Westbrook,-ME-04092",
+		"formattedAddress": "329 Austin St, Westbrook, ME 04092",
+		"addressLine1": "329 Austin St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.706191,
+		"longitude": -70.342937,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1937,
+		"lotSize": 15246,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 579000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-30T11:20:40.373Z",
+		"lastSeenDate": "2026-09-12T09:52:04.600Z",
+		"daysOnMarket": 150,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658004",
+		"listingAgent": {
+			"name": "Jackie Guido",
+			"phone": "6039700177",
+			"email": "jguido@lamacchiarealty.com",
+			"website": "https://www.alfapropertiesgroup.com/"
+		},
+		"listingOffice": {
+			"name": "Lamacchia Realty, Inc.",
+			"phone": "4134437274",
+			"email": "dalton@lamacchiarealty.com",
+			"website": "http://lamacchiadalton.com"
+		},
+		"history": {
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "17-King-St,-Apt-3,-Westbrook,-ME-04092",
+		"formattedAddress": "17 King St, Apt 3, Westbrook, ME 04092",
+		"addressLine1": "17 King St",
+		"addressLine2": "Apt 3",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.680161,
+		"longitude": -70.360545,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1330,
+		"yearBuilt": 2002,
+		"hoa": {
+			"fee": 356
+		},
+		"status": "Active",
+		"price": 374900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.262Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659499",
+		"listingAgent": {
+			"name": "Maureen Zemrak",
+			"phone": "2072722202",
+			"email": "mzemrak@kw.com",
+			"website": "http://www.zemrakfontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Locations Real Estate Group Llc",
+			"phone": "2078051811",
+			"email": "info@locationsinmaine.com"
+		},
+		"history": {
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 374900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "171-Brook-St,-Unit-35,-Westbrook,-ME-04092",
+		"formattedAddress": "171 Brook St, Unit 35, Westbrook, ME 04092",
+		"addressLine1": "171 Brook St",
+		"addressLine2": "Unit 35",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.716145,
+		"longitude": -70.329964,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1345,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 589000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.244Z",
+		"daysOnMarket": 132,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660511",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 589000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 132
+			}
+		}
+	},
+	{
+		"id": "19-Alberta-Dr,-Westbrook,-ME-04092",
+		"formattedAddress": "19 Alberta Dr, Westbrook, ME 04092",
+		"addressLine1": "19 Alberta Dr",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.693704,
+		"longitude": -70.354532,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2442,
+		"lotSize": 19166,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 699000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.621Z",
+		"daysOnMarket": 100,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665717",
+		"listingAgent": {
+			"name": "Abigail Reny",
+			"phone": "2075769755",
+			"email": "abby@integrityhomesregroup.com"
+		},
+		"listingOffice": {
+			"name": "Integrity Homes Real Estate Group, PC",
+			"phone": "2075769755",
+			"email": "buffydumont@gmail.com"
+		},
+		"history": {
+			"2026-05-27": {
+				"event": "Sale Listing",
+				"price": 869000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-27T00:00:00.000Z",
+				"removedDate": "2026-06-05T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 100
+			}
+		}
+	},
+	{
+		"id": "368-Bridgton-Rd,-Westbrook,-ME-04092",
+		"formattedAddress": "368 Bridgton Rd, Westbrook, ME 04092",
+		"addressLine1": "368 Bridgton Rd",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.712694,
+		"longitude": -70.332817,
+		"propertyType": "Land",
+		"lotSize": 35284,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-04-06T06:44:28.379Z",
+		"lastSeenDate": "2026-09-12T08:45:51.874Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668393",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "33-Haddie-Ln,-Unit-7,-Westbrook,-ME-04092",
+		"formattedAddress": "33 Haddie Ln, Unit 7, Westbrook, ME 04092",
+		"addressLine1": "33 Haddie Ln",
+		"addressLine2": "Unit 7",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.711062,
+		"longitude": -70.330812,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1745,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 615000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.870Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668457",
+		"listingAgent": {
+			"name": "Anne Manning",
+			"phone": "2073102923",
+			"website": "http://www.annemanningsellshomes.com"
+		},
+		"listingOffice": {
+			"name": "Locations Real Estate Group Llc",
+			"phone": "2078051811",
+			"email": "info@locationsinmaine.com"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 615000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "8-Haddie-Ln,-Unit-2,-Westbrook,-ME-04092",
+		"formattedAddress": "8 Haddie Ln, Unit 2, Westbrook, ME 04092",
+		"addressLine1": "8 Haddie Ln",
+		"addressLine2": "Unit 2",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.711097,
+		"longitude": -70.330749,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1825,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 579900,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.870Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668461",
+		"listingAgent": {
+			"name": "Anne Manning",
+			"phone": "2073102923",
+			"website": "http://www.annemanningsellshomes.com"
+		},
+		"listingOffice": {
+			"name": "Locations Real Estate Group Llc",
+			"phone": "2078051811",
+			"email": "info@locationsinmaine.com"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 579900,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "124-Brackett-St,-Westbrook,-ME-04092",
+		"formattedAddress": "124 Brackett St, Westbrook, ME 04092",
+		"addressLine1": "124 Brackett St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.672383,
+		"longitude": -70.367393,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 2292,
+		"lotSize": 5227,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 579000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-25T10:41:10.284Z",
+		"lastSeenDate": "2026-09-12T08:45:51.844Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669075",
+		"listingAgent": {
+			"name": "Brandon Gallagher",
+			"phone": "2078042012",
+			"email": "brandon@waypointbrokers.com"
+		},
+		"listingOffice": {
+			"name": "Waypoint Brokers Collective",
+			"phone": "2078042012",
+			"email": "ali.malone@gmail.com"
+		},
+		"history": {
+			"2025-05-01": {
+				"event": "Sale Listing",
+				"price": 570000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-01T00:00:00.000Z",
+				"removedDate": "2026-03-25T00:00:00.000Z",
+				"daysOnMarket": 328
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "384-Austin-St,-Westbrook,-ME-04092",
+		"formattedAddress": "384 Austin St, Westbrook, ME 04092",
+		"addressLine1": "384 Austin St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.705347,
+		"longitude": -70.347287,
+		"propertyType": "Land",
+		"lotSize": 1210097,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-28T13:09:00.868Z",
+		"lastSeenDate": "2026-09-12T08:02:50.858Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672247",
+		"listingAgent": {
+			"name": "Jason Saphire",
+			"phone": "8772495478",
+			"email": "entryonly.lead@gmail.com",
+			"website": "http://www.entryonly.com/"
+		},
+		"listingOffice": {
+			"name": "HomeZu.com",
+			"phone": "8772495478",
+			"email": "listings@homezu.com",
+			"website": "http://www.homezu.com"
+		},
+		"history": {
+			"2024-09-17": {
+				"event": "Sale Listing",
+				"price": 600000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-17T00:00:00.000Z",
+				"removedDate": "2025-03-17T00:00:00.000Z",
+				"daysOnMarket": 181
+			},
+			"2025-04-21": {
+				"event": "Sale Listing",
+				"price": 600000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-21T00:00:00.000Z",
+				"removedDate": "2025-05-03T00:00:00.000Z",
+				"daysOnMarket": 12
+			},
+			"2025-07-30": {
+				"event": "Sale Listing",
+				"price": 600000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-30T00:00:00.000Z",
+				"removedDate": "2025-10-22T00:00:00.000Z",
+				"daysOnMarket": 84
+			},
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "2-Pilgrim-Rd,-Westbrook,-ME-04092",
+		"formattedAddress": "2 Pilgrim Rd, Westbrook, ME 04092",
+		"addressLine1": "2 Pilgrim Rd",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.694338,
+		"longitude": -70.335576,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1526,
+		"lotSize": 13504,
+		"yearBuilt": 1961,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.857Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672254",
+		"listingAgent": {
+			"name": "Melinda Torrens",
+			"phone": "2077761620",
+			"email": "rebymelinda@gmail.com",
+			"website": "http://realestatebymelinda.com"
+		},
+		"listingOffice": {
+			"name": "Epique Realty",
+			"phone": "8888938937",
+			"email": "mebroker@epiquerealty.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "20-Louise-St,-Westbrook,-ME-04092",
+		"formattedAddress": "20 Louise St, Westbrook, ME 04092",
+		"addressLine1": "20 Louise St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.668117,
+		"longitude": -70.370798,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1592,
+		"lotSize": 4792,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 565000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.842Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672759",
+		"listingAgent": {
+			"name": "April D. Cohen",
+			"phone": "2078310495",
+			"email": "april@dustonleddy.com",
+			"website": "http://www.theaprilcohenteam.com"
+		},
+		"listingOffice": {
+			"name": "Duston Leddy Real Estate",
+			"phone": "2072892291",
+			"email": "adam@dustonleddy.com"
+		},
+		"history": {
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 565000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "16-Louise-St,-Westbrook,-ME-04092",
+		"formattedAddress": "16 Louise St, Westbrook, ME 04092",
+		"addressLine1": "16 Louise St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.668155,
+		"longitude": -70.37098,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1672,
+		"lotSize": 4792,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 565000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.841Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672755",
+		"listingAgent": {
+			"name": "April D. Cohen",
+			"phone": "2078310495",
+			"email": "april@dustonleddy.com",
+			"website": "http://www.theaprilcohenteam.com"
+		},
+		"listingOffice": {
+			"name": "Duston Leddy Real Estate",
+			"phone": "2072892291",
+			"email": "adam@dustonleddy.com"
+		},
+		"history": {
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 565000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "69-Brooks-Edge-Farm-Rd,-Unit-90,-Westbrook,-ME-04092",
+		"formattedAddress": "69 Brooks Edge Farm Rd, Unit 90, Westbrook, ME 04092",
+		"addressLine1": "69 Brooks Edge Farm Rd",
+		"addressLine2": "Unit 90",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.71524,
+		"longitude": -70.326057,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1345,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 569900,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.840Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672705",
+		"listingAgent": {
+			"name": "Pamela Webb-audet",
+			"phone": "2076716601",
+			"email": "webbaudet@aol.com",
+			"website": "http://www.greaterportlandrealty.com"
+		},
+		"listingOffice": {
+			"name": "Greater Portland Realty",
+			"phone": "2077977777",
+			"email": "webbaudet@aol.com",
+			"website": "www.greaterportlandrealty.com"
+		},
+		"history": {
+			"2025-07-15": {
+				"event": "Sale Listing",
+				"price": 534000,
+				"listingType": "New Construction",
+				"listedDate": "2025-07-15T00:00:00.000Z",
+				"removedDate": "2025-07-20T00:00:00.000Z",
+				"daysOnMarket": 5
+			},
+			"2025-10-23": {
+				"event": "Sale Listing",
+				"price": 569000,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-23T00:00:00.000Z",
+				"removedDate": "2025-12-02T00:00:00.000Z",
+				"daysOnMarket": 40
+			},
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 569900,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "51-Anderson-Ave,-Westbrook,-ME-04092",
+		"formattedAddress": "51 Anderson Ave, Westbrook, ME 04092",
+		"addressLine1": "51 Anderson Ave",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.6694,
+		"longitude": -70.357982,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 880,
+		"lotSize": 4792,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 360000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-02-18T08:11:37.878Z",
+		"lastSeenDate": "2026-09-12T08:02:50.821Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673102",
+		"listingAgent": {
+			"name": "Dana Earls",
+			"phone": "2077731990",
+			"email": "dana.earls@nemoves.com",
+			"website": "http://www.danaearls.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 360000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "4-Collins-Pl,-Unit-4,-Westbrook,-ME-04092",
+		"formattedAddress": "4 Collins Pl, Unit 4, Westbrook, ME 04092",
+		"addressLine1": "4 Collins Pl",
+		"addressLine2": "Unit 4",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.691662,
+		"longitude": -70.358742,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2200,
+		"lotSize": 87120,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 340
+		},
+		"status": "Active",
+		"price": 650000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.821Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674056",
+		"listingAgent": {
+			"name": "Thomas Gadbois, Agent",
+			"phone": "2074098339",
+			"email": "tom@tomsellsmaine.com",
+			"website": "http://www.fobaileyrealestate.com/agents/8666-thomas-gadbois"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "665-Saco-St,-Unit-242B,-Westbrook,-ME-04092",
+		"formattedAddress": "665 Saco St, Unit 242B, Westbrook, ME 04092",
+		"addressLine1": "665 Saco St",
+		"addressLine2": "Unit 242B",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.658506,
+		"longitude": -70.386527,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 1984,
+		"hoa": {
+			"fee": 800
+		},
+		"status": "Active",
+		"price": 105000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.789Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673034",
+		"listingAgent": {
+			"name": "Sarah C. Boothby",
+			"phone": "2072333801",
+			"email": "sboothby@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 105000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "665-Saco-St,-Lot-120,-Westbrook,-ME-04092",
+		"formattedAddress": "665 Saco St, Lot 120, Westbrook, ME 04092",
+		"addressLine1": "665 Saco St",
+		"addressLine2": "Lot 120",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.657287,
+		"longitude": -70.38837,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1064,
+		"yearBuilt": 2019,
+		"hoa": {
+			"fee": 760
+		},
+		"status": "Active",
+		"price": 149000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.756Z",
+		"daysOnMarket": 45,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11910610",
+		"listingAgent": {
+			"name": "Robert Magazu",
+			"phone": "2073170221",
+			"email": "bobsellsmaine@hotmail.com",
+			"website": "http://www.mobilehomesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Mobile homes in Maine, LLC",
+			"phone": "2073170221"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 149000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "26-Fawn-Woods-Way,-Unit-26,-Westbrook,-ME-04092",
+		"formattedAddress": "26 Fawn Woods Way, Unit 26, Westbrook, ME 04092",
+		"addressLine1": "26 Fawn Woods Way",
+		"addressLine2": "Unit 26",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.692512,
+		"longitude": -70.358208,
+		"propertyType": "Townhouse",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2480,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.675Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674839",
+		"listingAgent": {
+			"name": "Elizabeth Humphrey",
+			"phone": "2078799800",
+			"email": "e.humphrey@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "171-Brook-St,-Unit-58,-Westbrook,-ME-04092",
+		"formattedAddress": "171 Brook St, Unit 58, Westbrook, ME 04092",
+		"addressLine1": "171 Brook St",
+		"addressLine2": "Unit 58",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.716145,
+		"longitude": -70.329964,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1970,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 659000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.658Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674325",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 659000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "171-Brook-St,-Unit-59,-Westbrook,-ME-04092",
+		"formattedAddress": "171 Brook St, Unit 59, Westbrook, ME 04092",
+		"addressLine1": "171 Brook St",
+		"addressLine2": "Unit 59",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.716145,
+		"longitude": -70.329964,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1345,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 579000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.657Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674329",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "20-Windsor-Dr,-Westbrook,-ME-04092",
+		"formattedAddress": "20 Windsor Dr, Westbrook, ME 04092",
+		"addressLine1": "20 Windsor Dr",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.65827,
+		"longitude": -70.38658,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 784,
+		"yearBuilt": 1978,
+		"status": "Active",
+		"price": 72900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.611Z",
+		"daysOnMarket": 36,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11924900",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 72900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "39-Blue-Spruce-Farm-Rd,-Westbrook,-ME-04092",
+		"formattedAddress": "39 Blue Spruce Farm Rd, Westbrook, ME 04092",
+		"addressLine1": "39 Blue Spruce Farm Rd",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.667041,
+		"longitude": -70.360393,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 2525,
+		"lotSize": 9583,
+		"yearBuilt": 2015,
+		"status": "Active",
+		"price": 749000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.603Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675200",
+		"listingAgent": {
+			"name": "Jonathan Minerick",
+			"phone": "8884002513",
+			"email": "info@homecoin.com"
+		},
+		"listingOffice": {
+			"name": "HOMECOIN.COM",
+			"phone": "8884002513",
+			"email": "info@homecoin.com",
+			"website": "homecoin.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "8-Spring-St,-Westbrook,-ME-04092",
+		"formattedAddress": "8 Spring St, Westbrook, ME 04092",
+		"addressLine1": "8 Spring St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.676144,
+		"longitude": -70.362648,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 4102,
+		"lotSize": 7841,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.601Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675209",
+		"listingAgent": {
+			"name": "Kirk Butterfield",
+			"phone": "2072054007",
+			"email": "kabutterfield@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "373-Bridge-St,-Westbrook,-ME-04092",
+		"formattedAddress": "373 Bridge St, Westbrook, ME 04092",
+		"addressLine1": "373 Bridge St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.687958,
+		"longitude": -70.361149,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1420,
+		"lotSize": 27443,
+		"yearBuilt": 1961,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.594Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675522",
+		"listingAgent": {
+			"name": "The Libby Starnes Team",
+			"phone": "2078388051",
+			"email": "info@libbystarnesteam.com",
+			"website": "https://www.libbystarnesteamhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2078388051",
+			"email": "info@libbystarnsteam.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": "2026-08-07T00:00:00.000Z",
+				"daysOnMarket": 22
+			},
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "160-Conant-St,-Westbrook,-ME-04092",
+		"formattedAddress": "160 Conant St, Westbrook, ME 04092",
+		"addressLine1": "160 Conant St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.68146,
+		"longitude": -70.376309,
+		"propertyType": "Land",
+		"lotSize": 20909,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.594Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676199",
+		"listingAgent": {
+			"name": "Bobby Queen",
+			"phone": "2074082240",
+			"email": "bobbyqueenrealestate@gmail.com",
+			"website": "https://queenco.me"
+		},
+		"listingOffice": {
+			"name": "Remax Realty One",
+			"phone": "2072830108",
+			"email": "carolyn.weller@remax.net",
+			"website": "realty-one-biddeford-me.remax.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "202-Wickham-Way,-Westbrook,-ME-04092",
+		"formattedAddress": "202 Wickham Way, Westbrook, ME 04092",
+		"addressLine1": "202 Wickham Way",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.657443,
+		"longitude": -70.390462,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 783
+		},
+		"status": "Active",
+		"price": 98000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.592Z",
+		"daysOnMarket": 34,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11927724",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 98000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "21-Clover-Ln,-Unit-112,-Westbrook,-ME-04092",
+		"formattedAddress": "21 Clover Ln, Unit 112, Westbrook, ME 04092",
+		"addressLine1": "21 Clover Ln",
+		"addressLine2": "Unit 112",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.680379,
+		"longitude": -70.349821,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 512,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 302
+		},
+		"status": "Active",
+		"price": 299000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.585Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655375",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2026-03-25": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-25T00:00:00.000Z",
+				"removedDate": "2026-03-28T00:00:00.000Z",
+				"daysOnMarket": 3
+			},
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "221-Longfellow-St,-Unit-4,-Westbrook,-ME-04092",
+		"formattedAddress": "221 Longfellow St, Unit 4, Westbrook, ME 04092",
+		"addressLine1": "221 Longfellow St",
+		"addressLine2": "Unit 4",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.675384,
+		"longitude": -70.382241,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 812,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 305000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.421Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677003",
+		"listingAgent": {
+			"name": "Carol Fox-bodge, Broker",
+			"phone": "2073297411",
+			"email": "carol@carolfoxsoldmyhouse.com",
+			"website": "www.carolfoxsoldmyhouse.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 305000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "155-Presidential-Way,-Westbrook,-ME-04092",
+		"formattedAddress": "155 Presidential Way, Westbrook, ME 04092",
+		"addressLine1": "155 Presidential Way",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.74409,
+		"longitude": -70.338017,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2480,
+		"lotSize": 20473,
+		"yearBuilt": 2016,
+		"status": "Active",
+		"price": 820000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.418Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677147",
+		"listingAgent": {
+			"name": "Malachi Winslow",
+			"phone": "2077408577",
+			"email": "malachiwinslow@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 820000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "59-Hardy-Rd,-Westbrook,-ME-04092",
+		"formattedAddress": "59 Hardy Rd, Westbrook, ME 04092",
+		"addressLine1": "59 Hardy Rd",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.743814,
+		"longitude": -70.358514,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1882,
+		"lotSize": 78408,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 635000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.403Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677033",
+		"listingAgent": {
+			"name": "Brenda Cerino",
+			"phone": "2076713164",
+			"email": "inquiries@townandshore.com"
+		},
+		"listingOffice": {
+			"name": "Town & Shore",
+			"phone": "2077730262",
+			"email": "inquiries@townandshore.com",
+			"website": "http://www.townandshore.com/"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 635000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "450-Saco-St,-Unit-2,-Westbrook,-ME-04092",
+		"formattedAddress": "450 Saco St, Unit 2, Westbrook, ME 04092",
+		"addressLine1": "450 Saco St",
+		"addressLine2": "Unit 2",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.662609,
+		"longitude": -70.378146,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 1725,
+		"lotSize": 33541,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 130
+		},
+		"status": "Active",
+		"price": 455000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.394Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677718",
+		"listingAgent": {
+			"name": "Suphi Turker",
+			"phone": "2075537325",
+			"email": "sturker@homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 455000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "171-Brook-St,-Unit-41,-Westbrook,-ME-04092",
+		"formattedAddress": "171 Brook St, Unit 41, Westbrook, ME 04092",
+		"addressLine1": "171 Brook St",
+		"addressLine2": "Unit 41",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.716145,
+		"longitude": -70.329964,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1970,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 679000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.379Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677584",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2025-08-21": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-21T00:00:00.000Z",
+				"removedDate": "2026-01-08T00:00:00.000Z",
+				"daysOnMarket": 140
+			},
+			"2026-01-12": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-12T00:00:00.000Z",
+				"removedDate": "2026-01-24T00:00:00.000Z",
+				"daysOnMarket": 12
+			},
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 679000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "57-Wilson-Dr,-Westbrook,-ME-04092",
+		"formattedAddress": "57 Wilson Dr, Westbrook, ME 04092",
+		"addressLine1": "57 Wilson Dr",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.69121,
+		"longitude": -70.370163,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 3,
+		"squareFootage": 2646,
+		"lotSize": 59677,
+		"yearBuilt": 2010,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.286Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678138",
+		"listingAgent": {
+			"name": "Matt & Gena Lamontagne, Agent",
+			"phone": "2077490433",
+			"email": "info@wearesellingmaine.com",
+			"website": "http://www.wearesellingmaine.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group, Llc",
+			"phone": "2075364607",
+			"website": "signaturehomesmaine.com"
+		},
+		"history": {
+			"2025-02-05": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-05T00:00:00.000Z",
+				"removedDate": "2025-02-11T00:00:00.000Z",
+				"daysOnMarket": 6
+			},
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "23-Locust-St,-Westbrook,-ME-04092",
+		"formattedAddress": "23 Locust St, Westbrook, ME 04092",
+		"addressLine1": "23 Locust St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.680733,
+		"longitude": -70.353993,
+		"propertyType": "Land",
+		"lotSize": 5227,
+		"status": "Active",
+		"price": 300000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.286Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678137",
+		"listingAgent": {
+			"name": "Maryea Curtis",
+			"phone": "2076505434",
+			"email": "maryea@maryea.com",
+			"website": "http://www.maryea.com"
+		},
+		"listingOffice": {
+			"name": "The Flaherty Group",
+			"phone": "2072218585",
+			"website": "www.theflahertygroup.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 300000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "15-Walton-St,-Westbrook,-ME-04092",
+		"formattedAddress": "15 Walton St, Westbrook, ME 04092",
+		"addressLine1": "15 Walton St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.672671,
+		"longitude": -70.358209,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2464,
+		"lotSize": 13939,
+		"yearBuilt": 1944,
+		"status": "Active",
+		"price": 672000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.263Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678408",
+		"listingAgent": {
+			"name": "Andy Lord",
+			"phone": "2077498198",
+			"email": "andysellsmaine@gmail.com",
+			"website": "lordgroupmaine.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 672000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "108-Longfellow-St,-Westbrook,-ME-04092",
+		"formattedAddress": "108 Longfellow St, Westbrook, ME 04092",
+		"addressLine1": "108 Longfellow St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.675629,
+		"longitude": -70.376734,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 4444,
+		"lotSize": 16988,
+		"yearBuilt": 1740,
+		"status": "Active",
+		"price": 899000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.260Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678414",
+		"listingAgent": {
+			"name": "Lisa Andrade",
+			"phone": "2072392220",
+			"email": "lisa@dreamhomemaine.com",
+			"website": "http://dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "3-Villa-Rd,-Unit-3,-Westbrook,-ME-04092",
+		"formattedAddress": "3 Villa Rd, Unit 3, Westbrook, ME 04092",
+		"addressLine1": "3 Villa Rd",
+		"addressLine2": "Unit 3",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.709151,
+		"longitude": -70.326716,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1000,
+		"yearBuilt": 1973,
+		"hoa": {
+			"fee": 280
+		},
+		"status": "Active",
+		"price": 320000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.251Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678583",
+		"listingAgent": {
+			"name": "Jason Elvin",
+			"phone": "2078879543",
+			"email": "jason.elvin@cbrealty.com",
+			"website": "https://www.jasonelvinrealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 320000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "2-Carlson-St,-Westbrook,-ME-04092",
+		"formattedAddress": "2 Carlson St, Westbrook, ME 04092",
+		"addressLine1": "2 Carlson St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.698832,
+		"longitude": -70.331919,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1172,
+		"lotSize": 8276,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-11-09T09:24:15.945Z",
+		"lastSeenDate": "2026-09-12T05:30:06.242Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678633",
+		"listingAgent": {
+			"name": "Andrew Coleman",
+			"phone": "2075737400",
+			"email": "aj@ajcolemanrealty.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "668-E-Bridge-St,-Westbrook,-ME-04092",
+		"formattedAddress": "668 E Bridge St, Westbrook, ME 04092",
+		"addressLine1": "668 E Bridge St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.700299,
+		"longitude": -70.329799,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1709,
+		"lotSize": 52708,
+		"yearBuilt": 1989,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.242Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678637",
+		"listingAgent": {
+			"name": "Ruth Summers",
+			"phone": "2073320111",
+			"email": "ruthsummers@kw.com",
+			"website": "https://ruthsummers.kw.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "3-Collins-Pl,-Unit-3,-Westbrook,-ME-04092",
+		"formattedAddress": "3 Collins Pl, Unit 3, Westbrook, ME 04092",
+		"addressLine1": "3 Collins Pl",
+		"addressLine2": "Unit 3",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.691559,
+		"longitude": -70.358795,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2200,
+		"lotSize": 87120,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 372
+		},
+		"status": "Active",
+		"price": 650000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.203Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679007",
+		"listingAgent": {
+			"name": "Anne Ross-murray",
+			"phone": "2078315238",
+			"email": "900601.lead.100219977@cendant.leadrouter.com",
+			"website": "http://annemurray.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "17-Collins-Pl,-Unit-17,-Westbrook,-ME-04092",
+		"formattedAddress": "17 Collins Pl, Unit 17, Westbrook, ME 04092",
+		"addressLine1": "17 Collins Pl",
+		"addressLine2": "Unit 17",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.69185,
+		"longitude": -70.358283,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2200,
+		"lotSize": 87120,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 340
+		},
+		"status": "Active",
+		"price": 650000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.154Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679253",
+		"listingAgent": {
+			"name": "Thomas Gadbois, Agent",
+			"phone": "2074098339",
+			"email": "tom@tomsellsmaine.com",
+			"website": "http://www.fobaileyrealestate.com/agents/8666-thomas-gadbois"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "108-Longfellow-St,-Apt-1,-Westbrook,-ME-04092",
+		"formattedAddress": "108 Longfellow St, Apt 1, Westbrook, ME 04092",
+		"addressLine1": "108 Longfellow St",
+		"addressLine2": "Apt 1",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.675789,
+		"longitude": -70.376801,
+		"propertyType": "Land",
+		"lotSize": 8712,
+		"status": "Active",
+		"price": 100000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.128Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679597",
+		"listingAgent": {
+			"name": "Lisa Andrade",
+			"phone": "2072392220",
+			"email": "lisa@dreamhomemaine.com",
+			"website": "http://dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "108-Longfellow-St,-Apt-3,-Westbrook,-ME-04092",
+		"formattedAddress": "108 Longfellow St, Apt 3, Westbrook, ME 04092",
+		"addressLine1": "108 Longfellow St",
+		"addressLine2": "Apt 3",
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.6758,
+		"longitude": -70.376801,
+		"propertyType": "Land",
+		"lotSize": 48352,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.126Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679601",
+		"listingAgent": {
+			"name": "Lisa Andrade",
+			"phone": "2072392220",
+			"email": "lisa@dreamhomemaine.com",
+			"website": "http://dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "282-Forest-St,-Westbrook,-ME-04092",
+		"formattedAddress": "282 Forest St, Westbrook, ME 04092",
+		"addressLine1": "282 Forest St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.674133,
+		"longitude": -70.346184,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1001,
+		"lotSize": 8276,
+		"yearBuilt": 1932,
+		"status": "Active",
+		"price": 409900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-20T08:44:51.279Z",
+		"lastSeenDate": "2026-09-12T05:22:48.572Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679636",
+		"listingAgent": {
+			"name": "Kevin Coyne",
+			"phone": "2077731990",
+			"email": "kevin.coyne@nemoves.com",
+			"website": "http://sellingsouthernmainehomes.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 409900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "109-Monroe-Ave,-Westbrook,-ME-04092",
+		"formattedAddress": "109 Monroe Ave, Westbrook, ME 04092",
+		"addressLine1": "109 Monroe Ave",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.6708,
+		"longitude": -70.359843,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2210,
+		"lotSize": 7841,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.570Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679646",
+		"listingAgent": {
+			"name": "Madison Friend",
+			"phone": "2074142192",
+			"email": "madison.friend@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "350-Duck-Pond-Rd,-Westbrook,-ME-04092",
+		"formattedAddress": "350 Duck Pond Rd, Westbrook, ME 04092",
+		"addressLine1": "350 Duck Pond Rd",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.729703,
+		"longitude": -70.336755,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1634,
+		"lotSize": 22216,
+		"yearBuilt": 1981,
+		"status": "Active",
+		"price": 420000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.557Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679708",
+		"listingAgent": {
+			"name": "Christopher M Scheffler",
+			"phone": "9785007133",
+			"email": "chris@schefsells.com",
+			"website": "http://schefsells.com/"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 420000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "27-Finch-St,-Westbrook,-ME-04092",
+		"formattedAddress": "27 Finch St, Westbrook, ME 04092",
+		"addressLine1": "27 Finch St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.651781,
+		"longitude": -70.355635,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 912,
+		"lotSize": 11761,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 442000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.546Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679794",
+		"listingAgent": {
+			"name": "Heidi Nottonson",
+			"phone": "2076158836",
+			"email": "heidi@heidinottonson.com",
+			"website": "http://www.heidinottonson.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 442000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "184-Bridgton-Rd,-Westbrook,-ME-04092",
+		"formattedAddress": "184 Bridgton Rd, Westbrook, ME 04092",
+		"addressLine1": "184 Bridgton Rd",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.708519,
+		"longitude": -70.329693,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 2160,
+		"lotSize": 31363,
+		"yearBuilt": 2013,
+		"status": "Active",
+		"price": 415000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.524Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679843",
+		"listingAgent": {
+			"name": "Kristin Rofe",
+			"phone": "2076152167",
+			"email": "kristin@themainerealestategroup.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "40-Summit-Cir,-Westbrook,-ME-04092",
+		"formattedAddress": "40 Summit Cir, Westbrook, ME 04092",
+		"addressLine1": "40 Summit Cir",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.701733,
+		"longitude": -70.344141,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1560,
+		"lotSize": 4356,
+		"yearBuilt": 1998,
+		"hoa": {
+			"fee": 67
+		},
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.509Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679957",
+		"listingAgent": {
+			"name": "Nicholas Davis",
+			"phone": "2074200066"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "18-Green-St,-Westbrook,-ME-04092",
+		"formattedAddress": "18 Green St, Westbrook, ME 04092",
+		"addressLine1": "18 Green St",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.672541,
+		"longitude": -70.372375,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1666,
+		"lotSize": 5227,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 549000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.506Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679960",
+		"listingAgent": {
+			"name": "Jon Leahy",
+			"phone": "2079398366"
+		},
+		"listingOffice": {
+			"name": "J T Leahy Real Estate",
+			"phone": "2079398366",
+			"email": "jon@jtleahy.com",
+			"website": "http://www.jtleahy.com"
+		},
+		"history": {
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 629000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": "2026-08-03T00:00:00.000Z",
+				"daysOnMarket": 76
+			},
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 597000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": "2026-09-02T00:00:00.000Z",
+				"daysOnMarket": 30
+			},
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "35-Donalene-Way,-Westbrook,-ME-04092",
+		"formattedAddress": "35 Donalene Way, Westbrook, ME 04092",
+		"addressLine1": "35 Donalene Way",
+		"addressLine2": null,
+		"city": "Westbrook",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04092",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.738804,
+		"longitude": -70.343445,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3024,
+		"lotSize": 282269,
+		"yearBuilt": 2018,
+		"status": "Active",
+		"price": 989000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.473Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679986",
+		"listingAgent": {
+			"name": "Vaughn Gushee",
+			"phone": "2077128901",
+			"email": "gusheev@aol.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 989000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	}
+]

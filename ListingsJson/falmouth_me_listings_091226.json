@@ -1,0 +1,3522 @@
+[
+	{
+		"id": "Acadia-Dr,-Lot-8A,-Falmouth,-ME-04105",
+		"formattedAddress": "Acadia Dr, Lot 8A, Falmouth, ME 04105",
+		"addressLine1": "Acadia Dr",
+		"addressLine2": "Lot 8A",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.754994,
+		"longitude": -70.286428,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3010,
+		"lotSize": 23522,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 208
+		},
+		"status": "Active",
+		"price": 2200000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.646Z",
+		"daysOnMarket": 171,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655419",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-03-26": {
+				"event": "Sale Listing",
+				"price": 2200000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 171
+			}
+		}
+	},
+	{
+		"id": "3-Marshall-Dr,-Unit-3,-Falmouth,-ME-04105",
+		"formattedAddress": "3 Marshall Dr, Unit 3, Falmouth, ME 04105",
+		"addressLine1": "3 Marshall Dr",
+		"addressLine2": "Unit 3",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735827,
+		"longitude": -70.245524,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 378000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.637Z",
+		"daysOnMarket": 248,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1648879",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-01-08": {
+				"event": "Sale Listing",
+				"price": 378000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 248
+			}
+		}
+	},
+	{
+		"id": "1-Marshall-Dr,-Unit-1,-Falmouth,-ME-04105",
+		"formattedAddress": "1 Marshall Dr, Unit 1, Falmouth, ME 04105",
+		"addressLine1": "1 Marshall Dr",
+		"addressLine2": "Unit 1",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735828,
+		"longitude": -70.245524,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.633Z",
+		"daysOnMarket": 248,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1648880",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-01-08": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 248
+			}
+		}
+	},
+	{
+		"id": "Clover-Way,-Lot-3,-Falmouth,-ME-04105",
+		"formattedAddress": "Clover Way, Lot 3, Falmouth, ME 04105",
+		"addressLine1": "Clover Way",
+		"addressLine2": "Lot 3",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.739589,
+		"longitude": -70.29859,
+		"propertyType": "Land",
+		"lotSize": 6534,
+		"hoa": {
+			"fee": 8
+		},
+		"status": "Active",
+		"price": 260000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.616Z",
+		"daysOnMarket": 195,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652998",
+		"listingAgent": {
+			"name": "Matt & Gena Lamontagne, Agent",
+			"phone": "2077490433",
+			"email": "info@wearesellingmaine.com",
+			"website": "http://www.wearesellingmaine.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group, Llc",
+			"phone": "2075364607",
+			"website": "signaturehomesmaine.com"
+		},
+		"history": {
+			"2026-03-02": {
+				"event": "Sale Listing",
+				"price": 260000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 195
+			}
+		}
+	},
+	{
+		"id": "142-Longwoods-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "142 Longwoods Rd, Falmouth, ME 04105",
+		"addressLine1": "142 Longwoods Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.752823,
+		"longitude": -70.242931,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"squareFootage": 3700,
+		"lotSize": 182952,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1999900,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.604Z",
+		"daysOnMarket": 160,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656688",
+		"listingAgent": {
+			"name": "Jeffrey Walker",
+			"phone": "2077492802",
+			"email": "jeff@walkerteamsells.com",
+			"website": "http://walkerteamsells.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2025-04-16": {
+				"event": "Sale Listing",
+				"price": 459000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-16T00:00:00.000Z",
+				"removedDate": "2025-06-03T00:00:00.000Z",
+				"daysOnMarket": 48
+			},
+			"2026-04-06": {
+				"event": "Sale Listing",
+				"price": 1999900,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 160
+			}
+		}
+	},
+	{
+		"id": "58-Allen-Ave-Ext,-Falmouth,-ME-04105",
+		"formattedAddress": "58 Allen Ave Ext, Falmouth, ME 04105",
+		"addressLine1": "58 Allen Ave Ext",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.714278,
+		"longitude": -70.267742,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2544,
+		"lotSize": 59677,
+		"yearBuilt": 1780,
+		"status": "Active",
+		"price": 719900,
+		"listingType": "Standard",
+		"listedDate": "2026-03-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.602Z",
+		"daysOnMarket": 177,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654861",
+		"listingAgent": {
+			"name": "Mark Small",
+			"phone": "2078077889",
+			"email": "mark@landmarkrealtymaine.com",
+			"website": "landmarkrealtymaine.com"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2026-03-20": {
+				"event": "Sale Listing",
+				"price": 719900,
+				"listingType": "Standard",
+				"listedDate": "2026-03-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 177
+			}
+		}
+	},
+	{
+		"id": "127-Foreside-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "127 Foreside Rd, Falmouth, ME 04105",
+		"addressLine1": "127 Foreside Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.723855,
+		"longitude": -70.223638,
+		"propertyType": "Single Family",
+		"bedrooms": 8,
+		"bathrooms": 6.5,
+		"squareFootage": 5494,
+		"lotSize": 126324,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 11000000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.293Z",
+		"daysOnMarket": 135,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660121",
+		"listingAgent": {
+			"name": "Dustin Slocum",
+			"phone": "2077200330",
+			"email": "dustin.slocum@raveis.com",
+			"website": "http://dustinslocum.raveis.com"
+		},
+		"listingOffice": {
+			"name": "Engel & Volkers Casco Bay"
+		},
+		"history": {
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 11000000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 135
+			}
+		}
+	},
+	{
+		"id": "Vintage-Way,-Lot-21,-Falmouth,-ME-04105",
+		"formattedAddress": "Vintage Way, Lot 21, Falmouth, ME 04105",
+		"addressLine1": "Vintage Way",
+		"addressLine2": "Lot 21",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.717523,
+		"longitude": -70.228731,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3252,
+		"lotSize": 35719,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 2385000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.264Z",
+		"daysOnMarket": 139,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659420",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 2385000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 139
+			}
+		}
+	},
+	{
+		"id": "3-Marshall-Dr,-Unit-1,-Falmouth,-ME-04105",
+		"formattedAddress": "3 Marshall Dr, Unit 1, Falmouth, ME 04105",
+		"addressLine1": "3 Marshall Dr",
+		"addressLine2": "Unit 1",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.73583,
+		"longitude": -70.245536,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.259Z",
+		"daysOnMarket": 137,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659712",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-04-29": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 137
+			}
+		}
+	},
+	{
+		"id": "3-Marshall-Dr,-Unit-2,-Falmouth,-ME-04105",
+		"formattedAddress": "3 Marshall Dr, Unit 2, Falmouth, ME 04105",
+		"addressLine1": "3 Marshall Dr",
+		"addressLine2": "Unit 2",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735767,
+		"longitude": -70.24589,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 378000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.258Z",
+		"daysOnMarket": 137,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659732",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-04-29": {
+				"event": "Sale Listing",
+				"price": 378000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 137
+			}
+		}
+	},
+	{
+		"id": "183-Mountain-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "183 Mountain Rd, Falmouth, ME 04105",
+		"addressLine1": "183 Mountain Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.7633,
+		"longitude": -70.319541,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2976,
+		"lotSize": 185130,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 980000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.232Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662405",
+		"listingAgent": {
+			"name": "Scott Sanford",
+			"phone": "2076536104",
+			"email": "scottsanford@maine.rr.com",
+			"website": "http://www.scottinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Scott Sanford Realty",
+			"phone": "2076536104",
+			"email": "scottsanford@maine.rr.com",
+			"website": "http://www.scottinmaine.com"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 980000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "3-Marshall-Dr,-Unit-4,-Falmouth,-ME-04105",
+		"formattedAddress": "3 Marshall Dr, Unit 4, Falmouth, ME 04105",
+		"addressLine1": "3 Marshall Dr",
+		"addressLine2": "Unit 4",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735875,
+		"longitude": -70.245922,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.219Z",
+		"daysOnMarket": 135,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660252",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 135
+			}
+		}
+	},
+	{
+		"id": "7-River-Oaks-Way,-Unit-2,-Falmouth,-ME-04105",
+		"formattedAddress": "7 River Oaks Way, Unit 2, Falmouth, ME 04105",
+		"addressLine1": "7 River Oaks Way",
+		"addressLine2": "Unit 2",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.747349,
+		"longitude": -70.296665,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"squareFootage": 3200,
+		"lotSize": 239580,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 475
+		},
+		"status": "Active",
+		"price": 675000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.209Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661803",
+		"listingAgent": {
+			"name": "Emilie Cole",
+			"phone": "2077808900",
+			"email": "ecole@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2024-06-06": {
+				"event": "Sale Listing",
+				"price": 659000,
+				"listingType": "New Construction",
+				"listedDate": "2024-06-06T00:00:00.000Z",
+				"removedDate": "2025-06-10T00:00:00.000Z",
+				"daysOnMarket": 369
+			},
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 675000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "19-Hamlin-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "19 Hamlin Rd, Falmouth, ME 04105",
+		"addressLine1": "19 Hamlin Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.73032,
+		"longitude": -70.304968,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2652,
+		"lotSize": 15246,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 675000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.199Z",
+		"daysOnMarket": 114,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663525",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-05-22": {
+				"event": "Sale Listing",
+				"price": 675000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 114
+			}
+		}
+	},
+	{
+		"id": "L24-Poplar-Ridge-Dr,-Falmouth,-ME-04105",
+		"formattedAddress": "L24 Poplar Ridge Dr, Falmouth, ME 04105",
+		"addressLine1": "L24 Poplar Ridge Dr",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.805604,
+		"longitude": -70.336497,
+		"propertyType": "Land",
+		"lotSize": 39640,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.198Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663309",
+		"listingAgent": {
+			"name": "Belinda Desmond",
+			"phone": "6174629826",
+			"email": "belindadesmond@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-21": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "Winnwood-Farm-Way,-Lot-5,-Falmouth,-ME-04105",
+		"formattedAddress": "Winnwood Farm Way, Lot 5, Falmouth, ME 04105",
+		"addressLine1": "Winnwood Farm Way",
+		"addressLine2": "Lot 5",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.759619,
+		"longitude": -70.285823,
+		"propertyType": "Land",
+		"lotSize": 21344,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.577Z",
+		"daysOnMarket": 104,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664942",
+		"listingAgent": {
+			"name": "Mark Small",
+			"phone": "2078077889",
+			"email": "mark@landmarkrealtymaine.com",
+			"website": "landmarkrealtymaine.com"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2026-06-01": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 104
+			}
+		}
+	},
+	{
+		"id": "81-Babbidge-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "81 Babbidge Rd, Falmouth, ME 04105",
+		"addressLine1": "81 Babbidge Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.788331,
+		"longitude": -70.349537,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1488,
+		"lotSize": 106286,
+		"yearBuilt": 1982,
+		"status": "Active",
+		"price": 784999,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.567Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665399",
+		"listingOffice": {
+			"name": "Realty of Maine - Bangor",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 784999,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "8-Constellation-Way,-Falmouth,-ME-04105",
+		"formattedAddress": "8 Constellation Way, Falmouth, ME 04105",
+		"addressLine1": "8 Constellation Way",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.74163,
+		"longitude": -70.297118,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2224,
+		"lotSize": 4792,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 869000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.556Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666391",
+		"listingAgent": {
+			"name": "Matt & Gena Lamontagne, Agent",
+			"phone": "2077490433",
+			"email": "info@wearesellingmaine.com",
+			"website": "http://www.wearesellingmaine.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group, Llc",
+			"phone": "2075364607",
+			"website": "signaturehomesmaine.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 869000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "13-Winnwood-Farm-Way,-Falmouth,-ME-04105",
+		"formattedAddress": "13 Winnwood Farm Way, Falmouth, ME 04105",
+		"addressLine1": "13 Winnwood Farm Way",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.758861,
+		"longitude": -70.28523,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 4006,
+		"lotSize": 23522,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 2259900,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.549Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666524",
+		"listingAgent": {
+			"name": "Mark Small",
+			"phone": "2078077889",
+			"email": "mark@landmarkrealtymaine.com",
+			"website": "landmarkrealtymaine.com"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 2259900,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "8-Constellation-Way,-Unit-8,-Falmouth,-ME-04105",
+		"formattedAddress": "8 Constellation Way, Unit 8, Falmouth, ME 04105",
+		"addressLine1": "8 Constellation Way",
+		"addressLine2": "Unit 8",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.74163,
+		"longitude": -70.297118,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2224,
+		"lotSize": 4792,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 869000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.539Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666397",
+		"listingAgent": {
+			"name": "Matt & Gena Lamontagne, Agent",
+			"phone": "2077490433",
+			"email": "info@wearesellingmaine.com",
+			"website": "http://www.wearesellingmaine.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group, Llc",
+			"phone": "2075364607",
+			"website": "signaturehomesmaine.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 869000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "14-Summit-Ter,-Falmouth,-ME-04105",
+		"formattedAddress": "14 Summit Ter, Falmouth, ME 04105",
+		"addressLine1": "14 Summit Ter",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.801439,
+		"longitude": -70.338843,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3276,
+		"lotSize": 74923,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 1195000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.535Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666424",
+		"listingAgent": {
+			"name": "Stacy Salvo",
+			"phone": "2077808900",
+			"email": "ssalvo@legacysir.com",
+			"website": "http://www.stacysalvo.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 1195000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "14-Fern-Ave,-Falmouth,-ME-04105",
+		"formattedAddress": "14 Fern Ave, Falmouth, ME 04105",
+		"addressLine1": "14 Fern Ave",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.697337,
+		"longitude": -70.243232,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3308,
+		"lotSize": 16553,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 1449000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.908Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669183",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 1449000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "High-Point-Rd,-Lot-2,-Falmouth,-ME-04105",
+		"formattedAddress": "High Point Rd, Lot 2, Falmouth, ME 04105",
+		"addressLine1": "High Point Rd",
+		"addressLine2": "Lot 2",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.729303,
+		"longitude": -70.242009,
+		"propertyType": "Land",
+		"lotSize": 25265,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.851Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668947",
+		"listingAgent": {
+			"name": "Eddie Dickhaut",
+			"phone": "2077490524",
+			"email": "eddie@landmarkrealtymaine.com",
+			"website": "http://landmarkrealtymaine.com/"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "363-Blackstrap-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "363 Blackstrap Rd, Falmouth, ME 04105",
+		"addressLine1": "363 Blackstrap Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.764593,
+		"longitude": -70.325913,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3409,
+		"lotSize": 138521,
+		"yearBuilt": 1991,
+		"status": "Active",
+		"price": 989000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.839Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669130",
+		"listingAgent": {
+			"name": "Suphi Turker",
+			"phone": "2075537325",
+			"email": "sturker@homesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 989000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "19-Cavendish-Way,-Falmouth,-ME-04105",
+		"formattedAddress": "19 Cavendish Way, Falmouth, ME 04105",
+		"addressLine1": "19 Cavendish Way",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.757658,
+		"longitude": -70.279102,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 8044,
+		"lotSize": 80150,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 2995000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.803Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669430",
+		"listingAgent": {
+			"name": "Cassandra Bemis",
+			"phone": "2075532634",
+			"email": "cbemis@kw.com",
+			"website": "http://www.trubritrealty.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 2995000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "8-Waxwing-Ln,-Unit-50,-Falmouth,-ME-04105",
+		"formattedAddress": "8 Waxwing Ln, Unit 50, Falmouth, ME 04105",
+		"addressLine1": "8 Waxwing Ln",
+		"addressLine2": "Unit 50",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.743561,
+		"longitude": -70.301544,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2087,
+		"lotSize": 16553,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 365
+		},
+		"status": "Active",
+		"price": 795000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.793Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669792",
+		"listingAgent": {
+			"name": "Doug Schauf, Realtor",
+			"phone": "2078385593",
+			"email": "doug@makemaineyourhome.com",
+			"website": "http://www.makemaineyourhome.com"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "2-Little-Brook-Dr,-Falmouth,-ME-04105",
+		"formattedAddress": "2 Little Brook Dr, Falmouth, ME 04105",
+		"addressLine1": "2 Little Brook Dr",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.759774,
+		"longitude": -70.243182,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 2614,
+		"lotSize": 93218,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 765000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.789Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670089",
+		"listingAgent": {
+			"name": "Emily Bridgham",
+			"phone": "2077731990",
+			"email": "emily.bridgham@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com/me/portland/agent/emily-bridgham/aid_228925/"
+		},
+		"listingOffice": {
+			"name": "Cottage & Co Real Estate",
+			"phone": "2076531188",
+			"email": "thebissonteam@gmail.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 765000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "8-Waxwing-Ln,-Falmouth,-ME-04105",
+		"formattedAddress": "8 Waxwing Ln, Falmouth, ME 04105",
+		"addressLine1": "8 Waxwing Ln",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.743732,
+		"longitude": -70.301435,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2087,
+		"lotSize": 16553,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 365
+		},
+		"status": "Active",
+		"price": 795000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.776Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669808",
+		"listingAgent": {
+			"name": "Doug Schauf, Realtor",
+			"phone": "2078385593",
+			"email": "doug@makemaineyourhome.com",
+			"website": "http://www.makemaineyourhome.com"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "38-Johnson-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "38 Johnson Rd, Falmouth, ME 04105",
+		"addressLine1": "38 Johnson Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.736858,
+		"longitude": -70.212706,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2021,
+		"lotSize": 15682,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.759Z",
+		"daysOnMarket": 71,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670258",
+		"listingAgent": {
+			"name": "Scott Sanford",
+			"phone": "2076536104",
+			"email": "scottsanford@maine.rr.com",
+			"website": "http://www.scottinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Scott Sanford Realty",
+			"phone": "2076536104",
+			"email": "scottsanford@maine.rr.com",
+			"website": "http://www.scottinmaine.com"
+		},
+		"history": {
+			"2026-07-04": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 71
+			}
+		}
+	},
+	{
+		"id": "Acadia-Dr,-Lot-1,-Falmouth,-ME-04105",
+		"formattedAddress": "Acadia Dr, Lot 1, Falmouth, ME 04105",
+		"addressLine1": "Acadia Dr",
+		"addressLine2": "Lot 1",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.729967,
+		"longitude": -70.242786,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3900,
+		"lotSize": 28750,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 208
+		},
+		"status": "Active",
+		"price": 2095000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.898Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672363",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-10-24": {
+				"event": "Sale Listing",
+				"price": 500000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-24T00:00:00.000Z",
+				"removedDate": "2025-12-10T00:00:00.000Z",
+				"daysOnMarket": 47
+			},
+			"2025-12-10": {
+				"event": "Sale Listing",
+				"price": 2200000,
+				"listingType": "New Construction",
+				"listedDate": "2025-12-10T00:00:00.000Z",
+				"removedDate": "2026-07-17T00:00:00.000Z",
+				"daysOnMarket": 219
+			},
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 2095000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "44-Allen-Avenue-Ext,-Falmouth,-ME-04105",
+		"formattedAddress": "44 Allen Avenue Ext, Falmouth, ME 04105",
+		"addressLine1": "44 Allen Avenue Ext",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.713776,
+		"longitude": -70.270441,
+		"propertyType": "Single Family",
+		"bedrooms": 0,
+		"squareFootage": 2250,
+		"lotSize": 21344,
+		"yearBuilt": 1923,
+		"status": "Active",
+		"price": 439000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.791Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673382",
+		"listingAgent": {
+			"name": "Lucy Tucker",
+			"phone": "2072391336",
+			"email": "lucytucker@kw.com",
+			"website": "http://www.yoursouthernmainemove.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 439000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "13-Foreside-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "13 Foreside Rd, Falmouth, ME 04105",
+		"addressLine1": "13 Foreside Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.708392,
+		"longitude": -70.225313,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 5.5,
+		"squareFootage": 4678,
+		"lotSize": 186437,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 5150000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-03-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.771Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673790",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 5150000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": "2026-06-08T00:00:00.000Z",
+				"daysOnMarket": 3
+			},
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 5150000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "4-Pleasant-Hill-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "4 Pleasant Hill Rd, Falmouth, ME 04105",
+		"addressLine1": "4 Pleasant Hill Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.709543,
+		"longitude": -70.258711,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2312,
+		"lotSize": 27007,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 949995,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.770Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674017",
+		"listingAgent": {
+			"name": "Shivam Kumar",
+			"phone": "2073444414",
+			"email": "shivamsells207@gmail.com",
+			"website": "https://www.facebook.com/207shivamkumar/"
+		},
+		"listingOffice": {
+			"name": "Rockstar Real Estate",
+			"phone": "2073171338",
+			"email": "abkrikken@gmail.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 949995,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "48-Foreside-Common-Rd,-Unit-48,-Falmouth,-ME-04105",
+		"formattedAddress": "48 Foreside Common Rd, Unit 48, Falmouth, ME 04105",
+		"addressLine1": "48 Foreside Common Rd",
+		"addressLine2": "Unit 48",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.746929,
+		"longitude": -70.202171,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1759,
+		"yearBuilt": 1980,
+		"hoa": {
+			"fee": 686
+		},
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.757Z",
+		"daysOnMarket": 41,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674551",
+		"listingAgent": {
+			"name": "Derrick Buckspan & Richard Deering",
+			"phone": "2079560295",
+			"email": "team@mainepropertysource.com",
+			"website": "https://www.shorelineagents.com/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-01-12": {
+				"event": "Sale Listing",
+				"price": 690000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-12T00:00:00.000Z",
+				"removedDate": "2026-05-05T00:00:00.000Z",
+				"daysOnMarket": 113
+			},
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 41
+			}
+		}
+	},
+	{
+		"id": "15-Bluebird-Trl,-Unit-3,-Falmouth,-ME-04105",
+		"formattedAddress": "15 Bluebird Trl, Unit 3, Falmouth, ME 04105",
+		"addressLine1": "15 Bluebird Trl",
+		"addressLine2": "Unit 3",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.745335,
+		"longitude": -70.299171,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2304,
+		"lotSize": 16553,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 365
+		},
+		"status": "Active",
+		"price": 795000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.753Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674393",
+		"listingAgent": {
+			"name": "Julie Rosenthal",
+			"phone": "2073295521",
+			"email": "julie@portsidereg.com",
+			"website": "https://julierosenthal.portsiderealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "Trolly-Farm-Way,-Lot-6,-Falmouth,-ME-04105",
+		"formattedAddress": "Trolly Farm Way, Lot 6, Falmouth, ME 04105",
+		"addressLine1": "Trolly Farm Way",
+		"addressLine2": "Lot 6",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.776739,
+		"longitude": -70.311365,
+		"propertyType": "Land",
+		"lotSize": 396396,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.663Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674876",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "15-Bluebird-Trl,-Falmouth,-ME-04105",
+		"formattedAddress": "15 Bluebird Trl, Falmouth, ME 04105",
+		"addressLine1": "15 Bluebird Trl",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.74494,
+		"longitude": -70.299805,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2304,
+		"lotSize": 16553,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 365
+		},
+		"status": "Active",
+		"price": 795000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.655Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674394",
+		"listingAgent": {
+			"name": "Julie Rosenthal",
+			"phone": "2073295521",
+			"email": "julie@portsidereg.com",
+			"website": "https://julierosenthal.portsiderealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "High-Point-Rd,-Lot-1,-Falmouth,-ME-04105",
+		"formattedAddress": "High Point Rd, Lot 1, Falmouth, ME 04105",
+		"addressLine1": "High Point Rd",
+		"addressLine2": "Lot 1",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.729967,
+		"longitude": -70.242786,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2618,
+		"lotSize": 30928,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 1495000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.646Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674729",
+		"listingAgent": {
+			"name": "Eddie Dickhaut",
+			"phone": "2077490524",
+			"email": "eddie@landmarkrealtymaine.com",
+			"website": "http://landmarkrealtymaine.com/"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "267-Us-Rte,-1-Unit-401,-Falmouth,-ME-04105",
+		"formattedAddress": "267 Us Rte, 1 Unit 401, Falmouth, ME 04105",
+		"addressLine1": "267 Us Rte",
+		"addressLine2": "1 Unit 401",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.726434,
+		"longitude": -70.229391,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1255,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 480
+		},
+		"status": "Active",
+		"price": 900000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.596Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676078",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 900000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "267-Us-Rte,-1-Unit-310,-Falmouth,-ME-04105",
+		"formattedAddress": "267 Us Rte, 1 Unit 310, Falmouth, ME 04105",
+		"addressLine1": "267 Us Rte",
+		"addressLine2": "1 Unit 310",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.726434,
+		"longitude": -70.229391,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1255,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 875000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.590Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676341",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 875000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "267-Us-Rte,-1-Unit-305,-Falmouth,-ME-04105",
+		"formattedAddress": "267 Us Rte, 1 Unit 305, Falmouth, ME 04105",
+		"addressLine1": "267 Us Rte",
+		"addressLine2": "1 Unit 305",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.726434,
+		"longitude": -70.229391,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1270,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 486
+		},
+		"status": "Active",
+		"price": 849000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.588Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676062",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-02-27": {
+				"event": "Sale Listing",
+				"price": 889000,
+				"listingType": "New Construction",
+				"listedDate": "2026-02-27T00:00:00.000Z",
+				"removedDate": "2026-08-13T00:00:00.000Z",
+				"daysOnMarket": 167
+			},
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 849000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "267-Us-Rte,-1-Unit-509,-Falmouth,-ME-04105",
+		"formattedAddress": "267 Us Rte, 1 Unit 509, Falmouth, ME 04105",
+		"addressLine1": "267 Us Rte",
+		"addressLine2": "1 Unit 509",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.726434,
+		"longitude": -70.229391,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1588,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 608
+		},
+		"status": "Active",
+		"price": 1125000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.586Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675761",
+		"listingAgent": {
+			"name": "John Hatcher",
+			"phone": "2077752121",
+			"email": "john@johnhatcher.us",
+			"website": "http://www.johnhatcher.us"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2077752121",
+			"email": "dnickerson1@maine.rr.com",
+			"website": "www.johnhatcher.us"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 1125000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "2-Brookfield-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "2 Brookfield Rd, Falmouth, ME 04105",
+		"addressLine1": "2 Brookfield Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.727458,
+		"longitude": -70.309514,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 3812,
+		"lotSize": 49658,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 849000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.439Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676755",
+		"listingAgent": {
+			"name": "Marie Flaherty, The Flaherty Group",
+			"phone": "2077769160",
+			"email": "marie@tfre.com",
+			"website": "http://www.theflahertygroup.com"
+		},
+		"listingOffice": {
+			"name": "The Flaherty Group",
+			"phone": "2072218585",
+			"website": "www.theflahertygroup.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 849000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "200-Woodville-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "200 Woodville Rd, Falmouth, ME 04105",
+		"addressLine1": "200 Woodville Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.753431,
+		"longitude": -70.255879,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 8,
+		"squareFootage": 9269,
+		"lotSize": 158558,
+		"yearBuilt": 1993,
+		"status": "Active",
+		"price": 5995000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.438Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676757",
+		"listingAgent": {
+			"name": "Michelle Libby | Team Leader In Maine",
+			"phone": "2077494995",
+			"email": "mlibby@c21ne.com",
+			"website": "http://www.michelleinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "2076510836",
+			"email": "jdamico@brandsbyintegra.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 5995000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "6-8-Bluebird-Trl,-Falmouth,-ME-04105",
+		"formattedAddress": "6-8 Bluebird Trl, Falmouth, ME 04105",
+		"addressLine1": "6-8 Bluebird Trl",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.74512,
+		"longitude": -70.298801,
+		"propertyType": "Land",
+		"lotSize": 20038,
+		"hoa": {
+			"fee": 381
+		},
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.437Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676763",
+		"listingAgent": {
+			"name": "Sydney Harrison",
+			"phone": "2077513671",
+			"email": "sharrison@townandshore.com"
+		},
+		"listingOffice": {
+			"name": "Town & Shore",
+			"phone": "2077730262",
+			"email": "inquiries@townandshore.com",
+			"website": "http://www.townandshore.com/"
+		},
+		"history": {
+			"2024-07-19": {
+				"event": "Sale Listing",
+				"price": 239900,
+				"listingType": "Standard",
+				"listedDate": "2024-07-19T00:00:00.000Z",
+				"removedDate": "2025-08-07T00:00:00.000Z",
+				"daysOnMarket": 384
+			},
+			"2026-02-18": {
+				"event": "Sale Listing",
+				"price": 395000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-18T00:00:00.000Z",
+				"removedDate": "2026-03-29T00:00:00.000Z",
+				"daysOnMarket": 39
+			},
+			"2026-06-16": {
+				"event": "Sale Listing",
+				"price": 385000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-16T00:00:00.000Z",
+				"removedDate": "2026-08-06T00:00:00.000Z",
+				"daysOnMarket": 51
+			},
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "267-Us-Rte,-1-Unit-409,-Falmouth,-ME-04105",
+		"formattedAddress": "267 Us Rte, 1 Unit 409, Falmouth, ME 04105",
+		"addressLine1": "267 Us Rte",
+		"addressLine2": "1 Unit 409",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.726434,
+		"longitude": -70.229391,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1588,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 608
+		},
+		"status": "Active",
+		"price": 1112000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.389Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677243",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-01-25": {
+				"event": "Sale Listing",
+				"price": 1112000,
+				"listingType": "New Construction",
+				"listedDate": "2025-01-25T00:00:00.000Z",
+				"removedDate": "2025-04-01T00:00:00.000Z",
+				"daysOnMarket": 66
+			},
+			"2025-04-04": {
+				"event": "Sale Listing",
+				"price": 1112000,
+				"listingType": "New Construction",
+				"listedDate": "2025-04-04T00:00:00.000Z",
+				"removedDate": "2025-10-01T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 1112000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "9-Lakeside-Dr,-Falmouth,-ME-04105",
+		"formattedAddress": "9 Lakeside Dr, Falmouth, ME 04105",
+		"addressLine1": "9 Lakeside Dr",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.78622,
+		"longitude": -70.349873,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2088,
+		"lotSize": 91912,
+		"yearBuilt": 1991,
+		"hoa": {
+			"fee": 117
+		},
+		"status": "Active",
+		"price": 876000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.379Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677885",
+		"listingAgent": {
+			"name": "Jonathan Minerick",
+			"phone": "8884002513",
+			"email": "info@homecoin.com"
+		},
+		"listingOffice": {
+			"name": "HOMECOIN.COM",
+			"phone": "8884002513",
+			"email": "info@homecoin.com",
+			"website": "homecoin.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 876000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "56-Foreside-Common-Dr,-Unit-56A,-Falmouth,-ME-04105",
+		"formattedAddress": "56 Foreside Common Dr, Unit 56A, Falmouth, ME 04105",
+		"addressLine1": "56 Foreside Common Dr",
+		"addressLine2": "Unit 56A",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.703289,
+		"longitude": -70.241524,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1632,
+		"lotSize": 20038,
+		"yearBuilt": 1981,
+		"hoa": {
+			"fee": 635
+		},
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.281Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678190",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "4-Muirfield-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "4 Muirfield Rd, Falmouth, ME 04105",
+		"addressLine1": "4 Muirfield Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.770566,
+		"longitude": -70.266612,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 3831,
+		"lotSize": 47480,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 1450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.272Z",
+		"daysOnMarket": 15,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678319",
+		"listingAgent": {
+			"name": "Ralph M. Harvey Iii",
+			"phone": "8554564945",
+			"email": "support@listwithfreedom.com"
+		},
+		"listingOffice": {
+			"name": "List With Freedom.Com",
+			"phone": "8554564945",
+			"email": "ralph@listwithfreedom.com",
+			"website": "listwithfreedom.com"
+		},
+		"history": {
+			"2026-08-29": {
+				"event": "Sale Listing",
+				"price": 1450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 15
+			}
+		}
+	},
+	{
+		"id": "419-Falmouth-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "419 Falmouth Rd, Falmouth, ME 04105",
+		"addressLine1": "419 Falmouth Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.746735,
+		"longitude": -70.297768,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 5357,
+		"lotSize": 19602,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.247Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678620",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "208-Blackstrap-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "208 Blackstrap Rd, Falmouth, ME 04105",
+		"addressLine1": "208 Blackstrap Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.742702,
+		"longitude": -70.319415,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1878,
+		"lotSize": 59677,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.218Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678829",
+		"listingAgent": {
+			"name": "Kelly Walker",
+			"phone": "2076998340",
+			"email": "kellytwalker47@gmail.com",
+			"website": "https://www.kwrealestateme.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "2-Meadow-Creek-Ln,-Falmouth,-ME-04105",
+		"formattedAddress": "2 Meadow Creek Ln, Falmouth, ME 04105",
+		"addressLine1": "2 Meadow Creek Ln",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.724373,
+		"longitude": -70.224626,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3360,
+		"lotSize": 26572,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 1695000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.191Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679085",
+		"listingAgent": {
+			"name": "Amy Meader",
+			"phone": "2078787802"
+		},
+		"listingOffice": {
+			"name": "Harborview Properties, Inc",
+			"phone": "2073213600",
+			"email": "tseekamp@harborviewproperties.com",
+			"website": "www.harborviewproperties.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 1695000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "Acadia-Dr,-Lot-5,-Falmouth,-ME-04105",
+		"formattedAddress": "Acadia Dr, Lot 5, Falmouth, ME 04105",
+		"addressLine1": "Acadia Dr",
+		"addressLine2": "Lot 5",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.729547,
+		"longitude": -70.242934,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3204,
+		"lotSize": 36590,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 208
+		},
+		"status": "Active",
+		"price": 2250000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.186Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679121",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 2250000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "3-Carnoustie-Dr,-Falmouth,-ME-04105",
+		"formattedAddress": "3 Carnoustie Dr, Falmouth, ME 04105",
+		"addressLine1": "3 Carnoustie Dr",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.769167,
+		"longitude": -70.261807,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3084,
+		"lotSize": 69260,
+		"yearBuilt": 1996,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 835000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.128Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679592",
+		"listingAgent": {
+			"name": "Amanda Billing",
+			"phone": "2072159301"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 835000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "Blackstrap-Rd,-Lot-2,-Falmouth,-ME-04105",
+		"formattedAddress": "Blackstrap Rd, Lot 2, Falmouth, ME 04105",
+		"addressLine1": "Blackstrap Rd",
+		"addressLine2": "Lot 2",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.775833,
+		"longitude": -70.334069,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 4096,
+		"lotSize": 33541,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 1545000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.556Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679721",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 1545000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "179-Hurricane-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "179 Hurricane Rd, Falmouth, ME 04105",
+		"addressLine1": "179 Hurricane Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.796314,
+		"longitude": -70.324802,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 864,
+		"lotSize": 40075,
+		"yearBuilt": 1957,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.554Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679754",
+		"listingAgent": {
+			"name": "Jason Saphire",
+			"phone": "8772495478",
+			"email": "entryonly.lead@gmail.com",
+			"website": "http://www.entryonly.com/"
+		},
+		"listingOffice": {
+			"name": "HomeZu.com",
+			"phone": "8772495478",
+			"email": "listings@homezu.com",
+			"website": "http://www.homezu.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "8-Presidio-Way,-Unit-8,-Falmouth,-ME-04105",
+		"formattedAddress": "8 Presidio Way, Unit 8, Falmouth, ME 04105",
+		"addressLine1": "8 Presidio Way",
+		"addressLine2": "Unit 8",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.756486,
+		"longitude": -70.302392,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 3320,
+		"lotSize": 1437480,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 600
+		},
+		"status": "Active",
+		"price": 870000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.550Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679774",
+		"listingAgent": {
+			"name": "Harper Lee Collins",
+			"phone": "2078464300",
+			"email": "harper.collins.realtor@gmail.com",
+			"website": "http://www.portland-me-realestate.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 870000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "58-Hardy-Rd,-Falmouth,-ME-04105",
+		"formattedAddress": "58 Hardy Rd, Falmouth, ME 04105",
+		"addressLine1": "58 Hardy Rd",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.736505,
+		"longitude": -70.322544,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3312,
+		"lotSize": 27007,
+		"yearBuilt": 2015,
+		"status": "Active",
+		"price": 850000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-11-19T10:42:11.588Z",
+		"lastSeenDate": "2026-09-12T05:22:48.524Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1647488",
+		"listingAgent": {
+			"name": "Alyssa Dumond",
+			"phone": "2076153515",
+			"email": "alyssadumondrealtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-01-02": {
+				"event": "Sale Listing",
+				"price": 960000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-02T00:00:00.000Z",
+				"removedDate": "2026-06-02T00:00:00.000Z",
+				"daysOnMarket": 151
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "11-Forest-View-Dr,-Falmouth,-ME-04105",
+		"formattedAddress": "11 Forest View Dr, Falmouth, ME 04105",
+		"addressLine1": "11 Forest View Dr",
+		"addressLine2": null,
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.794243,
+		"longitude": -70.326125,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3066,
+		"lotSize": 45302,
+		"yearBuilt": 2002,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 839000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.521Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679842",
+		"listingAgent": {
+			"name": "Mary Cady-mainella",
+			"phone": "8008447653",
+			"email": "marysue@c21ne.com",
+			"website": "https://marysuerealty.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "2076510836",
+			"email": "jdamico@brandsbyintegra.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 839000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "5-Marshall-Dr,-Unit-1,-Falmouth,-ME-04105",
+		"formattedAddress": "5 Marshall Dr, Unit 1, Falmouth, ME 04105",
+		"addressLine1": "5 Marshall Dr",
+		"addressLine2": "Unit 1",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735837,
+		"longitude": -70.245532,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.462Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680223",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "5-Marshall-Dr,-Unit-3,-Falmouth,-ME-04105",
+		"formattedAddress": "5 Marshall Dr, Unit 3, Falmouth, ME 04105",
+		"addressLine1": "5 Marshall Dr",
+		"addressLine2": "Unit 3",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735837,
+		"longitude": -70.245532,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.459Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680243",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "46-Colonial-Vlg,-Unit-46,-Falmouth,-ME-04105",
+		"formattedAddress": "46 Colonial Vlg, Unit 46, Falmouth, ME 04105",
+		"addressLine1": "46 Colonial Vlg",
+		"addressLine2": "Unit 46",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.713016,
+		"longitude": -70.233295,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1162,
+		"lotSize": 6970,
+		"yearBuilt": 1973,
+		"hoa": {
+			"fee": 605
+		},
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-07T08:31:13.703Z",
+		"lastSeenDate": "2026-09-12T05:22:48.458Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680273",
+		"listingAgent": {
+			"name": "Elise Kiely",
+			"phone": "2077808900",
+			"email": "elise@elisekiely.com",
+			"website": "http://www.legacysir.com/eng/associate/507-a-536-4039104/elise-kiely"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": "2026-08-23T00:00:00.000Z",
+				"daysOnMarket": 38
+			},
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "7-Marshall-Dr,-Unit-4,-Falmouth,-ME-04105",
+		"formattedAddress": "7 Marshall Dr, Unit 4, Falmouth, ME 04105",
+		"addressLine1": "7 Marshall Dr",
+		"addressLine2": "Unit 4",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735837,
+		"longitude": -70.245532,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.452Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680282",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "7-Marshall-Dr,-Unit-1,-Falmouth,-ME-04105",
+		"formattedAddress": "7 Marshall Dr, Unit 1, Falmouth, ME 04105",
+		"addressLine1": "7 Marshall Dr",
+		"addressLine2": "Unit 1",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.735837,
+		"longitude": -70.245532,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1050,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.452Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680274",
+		"listingAgent": {
+			"name": "Anne Hyland",
+			"phone": "2077560196",
+			"email": "annehyland5@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "Bowdoin-Dr,-Lot-29,-Falmouth,-ME-04105",
+		"formattedAddress": "Bowdoin Dr, Lot 29, Falmouth, ME 04105",
+		"addressLine1": "Bowdoin Dr",
+		"addressLine2": "Lot 29",
+		"city": "Falmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04105",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.757065,
+		"longitude": -70.297274,
+		"propertyType": "Land",
+		"lotSize": 1433124,
+		"status": "Active",
+		"price": 1500000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:34:40.588Z",
+		"daysOnMarket": 183,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654181",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-03-13": {
+				"event": "Sale Listing",
+				"price": 1500000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 183
+			}
+		}
+	}
+]
