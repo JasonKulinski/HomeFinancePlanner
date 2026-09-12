@@ -26,11 +26,10 @@ public class MortgageCalculator : IMortgageCalculator
         var loanAmount = home.ListPrice - downPayment;
         var monthlyPrincipalAndInterest = MonthlyPayment(loanAmount, profile.AnnualInterestRate, profile.LoanTermYears);
 
-        var monthlyTaxesInsuranceHoa =
-            (home.AnnualPropertyTax + home.AnnualHomeInsurance) / 12m
-            + (home.HoaMonthlyFee ?? 0m);
+        //var monthlyTaxesInsuranceHoa =
+        //    (home.AnnualPropertyTax + home.AnnualHomeInsurance) / 12m;
 
-        var totalMonthlyPayment = monthlyPrincipalAndInterest + monthlyTaxesInsuranceHoa;
+        var totalMonthlyPayment = monthlyPrincipalAndInterest /*+ monthlyTaxesInsuranceHoa*/;
 
         var monthlyGrossIncome = profile.AnnualGrossIncome / 12m;
         var debtToIncome = monthlyGrossIncome == 0
@@ -51,7 +50,7 @@ public class MortgageCalculator : IMortgageCalculator
             RequiredDownPayment = downPayment,
             MonthsToDownPayment = monthsToDownPayment,
             EstimatedMonthlyPrincipalAndInterest = Round(monthlyPrincipalAndInterest),
-            EstimatedMonthlyTaxesInsuranceHoa = Round(monthlyTaxesInsuranceHoa),
+            //EstimatedMonthlyTaxesInsuranceHoa = Round(monthlyTaxesInsuranceHoa),
             EstimatedTotalMonthlyPayment = Round(totalMonthlyPayment),
             DebtToIncomeRatioAfterPurchase = Round(debtToIncome, 4),
             LooksAffordable = debtToIncome <= MaxHealthyDebtToIncome,

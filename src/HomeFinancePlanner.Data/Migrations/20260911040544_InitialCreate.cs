@@ -40,13 +40,13 @@ namespace HomeFinancePlanner.Data.Migrations
                     State = table.Column<string>(type: "TEXT", nullable: false),
                     ZipCode = table.Column<string>(type: "TEXT", nullable: false),
                     ListPrice = table.Column<decimal>(type: "TEXT", nullable: false),
-                    AnnualPropertyTax = table.Column<decimal>(type: "TEXT", nullable: false),
-                    AnnualHomeInsurance = table.Column<decimal>(type: "TEXT", nullable: false),
-                    HoaMonthlyFee = table.Column<decimal>(type: "TEXT", nullable: true),
                     Bedrooms = table.Column<int>(type: "INTEGER", nullable: false),
                     Bathrooms = table.Column<int>(type: "INTEGER", nullable: false),
-                    SquareFeet = table.Column<int>(type: "INTEGER", nullable: false)
-                },
+                    SquareFeet = table.Column<int>(type: "INTEGER", nullable: false),
+                    LotSize = table.Column<int>(type: "INTEGER", nullable: false),
+                    Latitude = table.Column<decimal>(type: "FLOAT", nullable: false),
+                    Longitude = table.Column<decimal>(type: "Float", nullable: false)
+				},
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Homes", x => x.Id);
