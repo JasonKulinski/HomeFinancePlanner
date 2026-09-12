@@ -1,0 +1,15 @@
+# Libraries
+src/HomeFinancePlanner.Web/ClientApp/node_modules/.vite/
+
+# Build Artifacts
+ src/HomeFinancePlanner.Data/bin/
+ src/HomeFinancePlanner.Data/obj/
+ src/HomeFinancePlanner.Models/bin/
+ src/HomeFinancePlanner.Models/obj/
+ src/HomeFinancePlanner.Services/bin/
+ src/HomeFinancePlanner.Services/obj/
+ src/HomeFinancePlanner.Web/bin/
+ src/HomeFinancePlanner.Web/obj/
+
+# VS settings
+.vs/*
