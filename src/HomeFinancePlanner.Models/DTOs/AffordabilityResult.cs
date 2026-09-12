@@ -15,7 +15,7 @@ public class AffordabilityResult
     public decimal MonthsToDownPayment { get; set; }
 
     public decimal EstimatedMonthlyPrincipalAndInterest { get; set; }
-    public decimal EstimatedMonthlyTaxesInsuranceHoa { get; set; }
+    //public decimal EstimatedMonthlyTaxesInsuranceHoa { get; set; }
     public decimal EstimatedTotalMonthlyPayment { get; set; }
 
     public decimal DebtToIncomeRatioAfterPurchase { get; set; }

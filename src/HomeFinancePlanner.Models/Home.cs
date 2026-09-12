@@ -22,15 +22,15 @@ public class Home
 
     public decimal ListPrice { get; set; }
 
-    public decimal AnnualPropertyTax { get; set; }
-
-    public decimal AnnualHomeInsurance { get; set; }
-
-    public decimal? HoaMonthlyFee { get; set; }
-
     public int Bedrooms { get; set; }
 
     public int Bathrooms { get; set; }
 
     public int SquareFeet { get; set; }
+
+    public int LotSize { get; set; }
+
+    public float Latitude { get; set; }
+
+    public float Longitude { get; set; }
 }
