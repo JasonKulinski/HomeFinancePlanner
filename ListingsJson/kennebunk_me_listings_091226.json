@@ -1,0 +1,5263 @@
+[
+	{
+		"id": "143-Beach-Ave,-Apt-203,-Kennebunk,-ME-04043",
+		"formattedAddress": "143 Beach Ave, Apt 203, Kennebunk, ME 04043",
+		"addressLine1": "143 Beach Ave",
+		"addressLine2": "Apt 203",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.345794,
+		"longitude": -70.487388,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1360,
+		"lotSize": 43560,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 871
+		},
+		"status": "Active",
+		"price": 749000,
+		"listingType": "Standard",
+		"listedDate": "2024-10-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.915Z",
+		"daysOnMarket": 709,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1605924",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2024-10-04": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 709
+			}
+		}
+	},
+	{
+		"id": "12-Ephraim-Tyler-Way,-Unit-12,-Kennebunk,-ME-04043",
+		"formattedAddress": "12 Ephraim Tyler Way, Unit 12, Kennebunk, ME 04043",
+		"addressLine1": "12 Ephraim Tyler Way",
+		"addressLine2": "Unit 12",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.356137,
+		"longitude": -70.501733,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1516,
+		"lotSize": 43560,
+		"yearBuilt": 1990,
+		"hoa": {
+			"fee": 800
+		},
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2025-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.915Z",
+		"daysOnMarket": 480,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1623557",
+		"listingAgent": {
+			"name": "Rosane Hirschy",
+			"phone": "2079670934",
+			"email": "rhirschy@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2025-05-21": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 480
+			}
+		}
+	},
+	{
+		"id": "5-Lake-Brook-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "5 Lake Brook Dr, Kennebunk, ME 04043",
+		"addressLine1": "5 Lake Brook Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.369166,
+		"longitude": -70.502544,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 3826,
+		"lotSize": 200376,
+		"yearBuilt": 2020,
+		"hoa": {
+			"fee": 83
+		},
+		"status": "Active",
+		"price": 1795000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.894Z",
+		"daysOnMarket": 180,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654433",
+		"listingAgent": {
+			"name": "Nichole Fecteau",
+			"phone": "6037494800",
+			"email": "nicholefecteau@masiello.com",
+			"website": "https://nicholefecteau.masiello.com/"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2076465131",
+			"email": "wells@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-03-17": {
+				"event": "Sale Listing",
+				"price": 1795000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 180
+			}
+		}
+	},
+	{
+		"id": "11-Creekside-Ct,-Unit-6,-Kennebunk,-ME-04043",
+		"formattedAddress": "11 Creekside Ct, Unit 6, Kennebunk, ME 04043",
+		"addressLine1": "11 Creekside Ct",
+		"addressLine2": "Unit 6",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.375738,
+		"longitude": -70.55221,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1525,
+		"lotSize": 612018,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 593000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.892Z",
+		"daysOnMarket": 188,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653726",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-03-09": {
+				"event": "Sale Listing",
+				"price": 593000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 188
+			}
+		}
+	},
+	{
+		"id": "106-Farragut-Way,-Unit-149,-Kennebunk,-ME-04043",
+		"formattedAddress": "106 Farragut Way, Unit 149, Kennebunk, ME 04043",
+		"addressLine1": "106 Farragut Way",
+		"addressLine2": "Unit 149",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.397441,
+		"longitude": -70.526905,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1250,
+		"lotSize": 43560,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 442
+		},
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.890Z",
+		"daysOnMarket": 181,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654410",
+		"listingAgent": {
+			"name": "Hylah Riley",
+			"phone": "2072843425",
+			"email": "hylah.riley@verani.com",
+			"website": "http://www.ownnewengland.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2026-03-16": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 181
+			}
+		}
+	},
+	{
+		"id": "1-Hall-St,-Kennebunk,-ME-04043",
+		"formattedAddress": "1 Hall St, Kennebunk, ME 04043",
+		"addressLine1": "1 Hall St",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.379398,
+		"longitude": -70.547243,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1442,
+		"lotSize": 9583,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 329000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.888Z",
+		"daysOnMarket": 192,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653420",
+		"listingAgent": {
+			"name": "Mark Seeley",
+			"phone": "207985",
+			"email": "mseeley@ownnewengland.com",
+			"website": "ownnewengland.com/real-estate-office-/112/kennebunk"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2026-03-05": {
+				"event": "Sale Listing",
+				"price": 329000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 192
+			}
+		}
+	},
+	{
+		"id": "40-Cascade-Cir,-Unit-33,-Kennebunk,-ME-04043",
+		"formattedAddress": "40 Cascade Cir, Unit 33, Kennebunk, ME 04043",
+		"addressLine1": "40 Cascade Cir",
+		"addressLine2": "Unit 33",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.410069,
+		"longitude": -70.593521,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1556,
+		"lotSize": 15246,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 170
+		},
+		"status": "Active",
+		"price": 799900,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.878Z",
+		"daysOnMarket": 162,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656471",
+		"listingAgent": {
+			"name": "Caroline Nadeau",
+			"phone": "6037786400",
+			"email": "cnadeau@thegovegroup.com"
+		},
+		"listingOffice": {
+			"name": "The Gove Group Real Estate, LLC",
+			"phone": "6037786400",
+			"email": "info@thegovegroup.com",
+			"website": "www.thegovegroup.com"
+		},
+		"history": {
+			"2024-07-09": {
+				"event": "Sale Listing",
+				"price": 840000,
+				"listingType": "New Construction",
+				"listedDate": "2024-07-09T00:00:00.000Z",
+				"removedDate": "2025-01-23T00:00:00.000Z",
+				"daysOnMarket": 198
+			},
+			"2026-04-04": {
+				"event": "Sale Listing",
+				"price": 799900,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 162
+			}
+		}
+	},
+	{
+		"id": "221-Beach-Ave,-Kennebunk,-ME-04043",
+		"formattedAddress": "221 Beach Ave, Kennebunk, ME 04043",
+		"addressLine1": "221 Beach Ave",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.34484,
+		"longitude": -70.495054,
+		"propertyType": "Land",
+		"lotSize": 11326,
+		"status": "Active",
+		"price": 1850000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-11-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.869Z",
+		"daysOnMarket": 179,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654597",
+		"listingAgent": {
+			"name": "William Gaynor",
+			"phone": "2079670934",
+			"email": "bgaynor@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2024-11-07": {
+				"event": "Sale Listing",
+				"price": 1950000,
+				"listingType": "Standard",
+				"listedDate": "2024-11-07T00:00:00.000Z",
+				"removedDate": "2025-06-11T00:00:00.000Z",
+				"daysOnMarket": 216
+			},
+			"2026-03-18": {
+				"event": "Sale Listing",
+				"price": 1850000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 179
+			}
+		}
+	},
+	{
+		"id": "265-Webber-Hill-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "265 Webber Hill Rd, Kennebunk, ME 04043",
+		"addressLine1": "265 Webber Hill Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.400123,
+		"longitude": -70.607711,
+		"propertyType": "Land",
+		"lotSize": 131551,
+		"status": "Active",
+		"price": 179000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-01T05:49:37.552Z",
+		"lastSeenDate": "2026-09-12T09:49:40.460Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656906",
+		"listingAgent": {
+			"name": "Laura Holder",
+			"phone": "2079854952",
+			"email": "lholder@ownnewengland.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"website": "kwmaine.com"
+		},
+		"history": {
+			"2024-07-08": {
+				"event": "Sale Listing",
+				"price": 179000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-08T00:00:00.000Z",
+				"removedDate": "2026-01-03T00:00:00.000Z",
+				"daysOnMarket": 544
+			},
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 179000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "9-Summer-St,-Kennebunk,-ME-04043",
+		"formattedAddress": "9 Summer St, Kennebunk, ME 04043",
+		"addressLine1": "9 Summer St",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.387324,
+		"longitude": -70.535496,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2576,
+		"lotSize": 7841,
+		"yearBuilt": 1809,
+		"status": "Active",
+		"price": 989000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.458Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657018",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 989000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "13-Creekside-Ct,-Unit-7,-Kennebunk,-ME-04043",
+		"formattedAddress": "13 Creekside Ct, Unit 7, Kennebunk, ME 04043",
+		"addressLine1": "13 Creekside Ct",
+		"addressLine2": "Unit 7",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.376025,
+		"longitude": -70.552039,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1525,
+		"lotSize": 612018,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 556978,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.442Z",
+		"daysOnMarket": 151,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657881",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-04-15": {
+				"event": "Sale Listing",
+				"price": 556978,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 151
+			}
+		}
+	},
+	{
+		"id": "1-Robinson-Way,-Unit-A143,-Kennebunk,-ME-04043",
+		"formattedAddress": "1 Robinson Way, Unit A143, Kennebunk, ME 04043",
+		"addressLine1": "1 Robinson Way",
+		"addressLine2": "Unit A143",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.417603,
+		"longitude": -70.610832,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 396,
+		"yearBuilt": 2015,
+		"hoa": {
+			"fee": 531
+		},
+		"status": "Active",
+		"price": 53000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.419Z",
+		"daysOnMarket": 144,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658853",
+		"listingAgent": {
+			"name": "Lynette Aucoin",
+			"phone": "8883987062",
+			"email": "lynette.aucoin@beangroup.com",
+			"website": "https://www.nh-mainerealestate.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-04-22": {
+				"event": "Sale Listing",
+				"price": 53000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 144
+			}
+		}
+	},
+	{
+		"id": "4-Ephraim-Tyler-Way,-Unit-4,-Kennebunk,-ME-04043",
+		"formattedAddress": "4 Ephraim Tyler Way, Unit 4, Kennebunk, ME 04043",
+		"addressLine1": "4 Ephraim Tyler Way",
+		"addressLine2": "Unit 4",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.355843,
+		"longitude": -70.501671,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1510,
+		"lotSize": 43560,
+		"yearBuilt": 1990,
+		"hoa": {
+			"fee": 800
+		},
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-29T10:47:47.463Z",
+		"lastSeenDate": "2026-09-12T09:49:40.369Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659844",
+		"listingAgent": {
+			"name": "Elizabeth Coughlan",
+			"phone": "2079670934",
+			"email": "bcoughlan@legacysir.com",
+			"website": "http://www.betsycoughlan.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-11-20": {
+				"event": "Sale Listing",
+				"price": 569000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-20T00:00:00.000Z",
+				"removedDate": "2026-03-07T00:00:00.000Z",
+				"daysOnMarket": 107
+			},
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "6-Old-Port-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "6 Old Port Rd, Kennebunk, ME 04043",
+		"addressLine1": "6 Old Port Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.374193,
+		"longitude": -70.504222,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 7,
+		"squareFootage": 4689,
+		"lotSize": 93218,
+		"yearBuilt": 1747,
+		"status": "Active",
+		"price": 1675000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.360Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661761",
+		"listingAgent": {
+			"name": "Hylah Riley",
+			"phone": "2072843425",
+			"email": "hylah.riley@verani.com",
+			"website": "http://www.ownnewengland.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2024-08-15": {
+				"event": "Sale Listing",
+				"price": 2197000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-15T00:00:00.000Z",
+				"removedDate": "2025-01-09T00:00:00.000Z",
+				"daysOnMarket": 147
+			},
+			"2025-04-07": {
+				"event": "Sale Listing",
+				"price": 1675000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-07T00:00:00.000Z",
+				"removedDate": "2025-12-13T00:00:00.000Z",
+				"daysOnMarket": 250
+			},
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 1675000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "175-Beach-Ave,-Unit-2,-Kennebunk,-ME-04043",
+		"formattedAddress": "175 Beach Ave, Unit 2, Kennebunk, ME 04043",
+		"addressLine1": "175 Beach Ave",
+		"addressLine2": "Unit 2",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.345808,
+		"longitude": -70.490236,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1048,
+		"lotSize": 10454,
+		"yearBuilt": 1950,
+		"hoa": {
+			"fee": 380
+		},
+		"status": "Active",
+		"price": 950000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-21T11:10:15.252Z",
+		"lastSeenDate": "2026-09-12T09:49:40.358Z",
+		"daysOnMarket": 135,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660176",
+		"listingAgent": {
+			"name": "Cassandra Binette",
+			"phone": "2076042116"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2024-07-25": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-25T00:00:00.000Z",
+				"removedDate": "2025-01-02T00:00:00.000Z",
+				"daysOnMarket": 161
+			},
+			"2025-04-24": {
+				"event": "Sale Listing",
+				"price": 1095000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-24T00:00:00.000Z",
+				"removedDate": "2025-06-28T00:00:00.000Z",
+				"daysOnMarket": 65
+			},
+			"2025-07-03": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-03T00:00:00.000Z",
+				"removedDate": "2025-12-23T00:00:00.000Z",
+				"daysOnMarket": 173
+			},
+			"2026-05-01": {
+				"event": "Sale Listing",
+				"price": 950000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 135
+			}
+		}
+	},
+	{
+		"id": "6-Laurel-Cir,-Unit-6,-Kennebunk,-ME-04043",
+		"formattedAddress": "6 Laurel Cir, Unit 6, Kennebunk, ME 04043",
+		"addressLine1": "6 Laurel Cir",
+		"addressLine2": "Unit 6",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.402185,
+		"longitude": -70.545107,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 1886,
+		"lotSize": 43560,
+		"yearBuilt": 1981,
+		"hoa": {
+			"fee": 430
+		},
+		"status": "Active",
+		"price": 490000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.344Z",
+		"daysOnMarket": 122,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662079",
+		"listingAgent": {
+			"name": "Lisa Hughes",
+			"phone": "2072825988",
+			"email": "lisa.hughes@cbrealty.com",
+			"website": "https://lisahughesrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2025-11-06": {
+				"event": "Sale Listing",
+				"price": 505000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-06T00:00:00.000Z",
+				"removedDate": "2026-01-06T00:00:00.000Z",
+				"daysOnMarket": 61
+			},
+			"2026-05-14": {
+				"event": "Sale Listing",
+				"price": 490000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 122
+			}
+		}
+	},
+	{
+		"id": "Creekside-Ct,-Lot-5,-Kennebunk,-ME-04043",
+		"formattedAddress": "Creekside Ct, Lot 5, Kennebunk, ME 04043",
+		"addressLine1": "Creekside Ct",
+		"addressLine2": "Lot 5",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.376065,
+		"longitude": -70.552323,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 1895,
+		"lotSize": 612018,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 637000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.338Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661825",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 637000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "15-Woodhaven-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "15 Woodhaven Dr, Kennebunk, ME 04043",
+		"addressLine1": "15 Woodhaven Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.399885,
+		"longitude": -70.544437,
+		"propertyType": "Land",
+		"lotSize": 26136,
+		"status": "Active",
+		"price": 199000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.336Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661554",
+		"listingAgent": {
+			"name": "Karen Schlegel",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com",
+			"website": "http://www.schlegelrealty.com"
+		},
+		"listingOffice": {
+			"name": "Schlegel Realty",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com"
+		},
+		"history": {
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "3-Chestnut-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "3 Chestnut Ln, Kennebunk, ME 04043",
+		"addressLine1": "3 Chestnut Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.382233,
+		"longitude": -70.561169,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 1948,
+		"lotSize": 10890,
+		"yearBuilt": 2014,
+		"hoa": {
+			"fee": 46
+		},
+		"status": "Active",
+		"price": 799999,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-01-15T11:09:36.777Z",
+		"lastSeenDate": "2026-09-12T09:45:41.736Z",
+		"daysOnMarket": 117,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662817",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 799999,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 117
+			}
+		}
+	},
+	{
+		"id": "5-Taylor-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "5 Taylor Ln, Kennebunk, ME 04043",
+		"addressLine1": "5 Taylor Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.431363,
+		"longitude": -70.571423,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3327,
+		"lotSize": 217800,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 100
+		},
+		"status": "Active",
+		"price": 1175000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.734Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663867",
+		"listingAgent": {
+			"name": "Patricia Gallagher",
+			"phone": "2074689841",
+			"email": "tricia@kennebunkbeachrealty.com"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 1175000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "106-Farragut-Way,-Unit-259,-Kennebunk,-ME-04043",
+		"formattedAddress": "106 Farragut Way, Unit 259, Kennebunk, ME 04043",
+		"addressLine1": "106 Farragut Way",
+		"addressLine2": "Unit 259",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.397309,
+		"longitude": -70.526428,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1250,
+		"lotSize": 43560,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 486
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.643Z",
+		"daysOnMarket": 104,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664917",
+		"listingAgent": {
+			"name": "Michael P Thomas, Agent",
+			"phone": "2077108290",
+			"email": "michaelthomasteam@gmail.com",
+			"website": "http://www.thomasteam.info"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"website": "kwmaine.com"
+		},
+		"history": {
+			"2026-06-01": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 104
+			}
+		}
+	},
+	{
+		"id": "1-Boundary-Way,-Kennebunk,-ME-04043",
+		"formattedAddress": "1 Boundary Way, Kennebunk, ME 04043",
+		"addressLine1": "1 Boundary Way",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.372287,
+		"longitude": -70.539876,
+		"propertyType": "Manufactured",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 1620,
+		"lotSize": 11326,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.642Z",
+		"daysOnMarket": 108,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664330",
+		"listingAgent": {
+			"name": "Peggy Hill",
+			"phone": "2074234123",
+			"email": "peggy.hill@nemoves.com",
+			"website": "http://peggyhill.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-05-28": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 108
+			}
+		}
+	},
+	{
+		"id": "274-Beach-Ave,-Kennebunk,-ME-04043",
+		"formattedAddress": "274 Beach Ave, Kennebunk, ME 04043",
+		"addressLine1": "274 Beach Ave",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.344271,
+		"longitude": -70.500847,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1322,
+		"lotSize": 15246,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 2595000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.638Z",
+		"daysOnMarket": 100,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665679",
+		"listingAgent": {
+			"name": "Elise Wyman",
+			"phone": "6033137109",
+			"email": "ewyman@pmrealestate.com",
+			"website": "https://www.realtor.com/realestateagents/elise-wyman_kennebunkport_me_2173141_221894925"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 2595000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 100
+			}
+		}
+	},
+	{
+		"id": "1-Lamoine-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "1 Lamoine Ln, Kennebunk, ME 04043",
+		"addressLine1": "1 Lamoine Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.429918,
+		"longitude": -70.566558,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1883,
+		"lotSize": 52272,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 929000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.635Z",
+		"daysOnMarket": 102,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665279",
+		"listingAgent": {
+			"name": "Samuel Downing",
+			"phone": "2079853328",
+			"email": "sam@downingagency.com"
+		},
+		"listingOffice": {
+			"name": "Downing Real Estate Agency, Inc.",
+			"phone": "2079853328",
+			"email": "info@downingagency.com",
+			"website": "http://www.downingagency.com"
+		},
+		"history": {
+			"2026-06-03": {
+				"event": "Sale Listing",
+				"price": 929000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 102
+			}
+		}
+	},
+	{
+		"id": "143-Beach-Ave,-Apt-205,-Kennebunk,-ME-04043",
+		"formattedAddress": "143 Beach Ave, Apt 205, Kennebunk, ME 04043",
+		"addressLine1": "143 Beach Ave",
+		"addressLine2": "Apt 205",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.345946,
+		"longitude": -70.487376,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1360,
+		"lotSize": 43560,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 871
+		},
+		"status": "Active",
+		"price": 950000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.634Z",
+		"daysOnMarket": 98,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665963",
+		"listingAgent": {
+			"name": "Janna Syrene",
+			"phone": "2074758626",
+			"email": "janna@beangroup.com",
+			"website": "https://www.teamsyrene.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2024-06-19": {
+				"event": "Sale Listing",
+				"price": 968500,
+				"listingType": "Standard",
+				"listedDate": "2024-06-19T00:00:00.000Z",
+				"removedDate": "2025-09-16T00:00:00.000Z",
+				"daysOnMarket": 454
+			},
+			"2026-06-07": {
+				"event": "Sale Listing",
+				"price": 950000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 98
+			}
+		}
+	},
+	{
+		"id": "1-Robinson-Way,-Unit-A198,-Kennebunk,-ME-04043",
+		"formattedAddress": "1 Robinson Way, Unit A198, Kennebunk, ME 04043",
+		"addressLine1": "1 Robinson Way",
+		"addressLine2": "Unit A198",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.417603,
+		"longitude": -70.610832,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 502,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 525
+		},
+		"status": "Active",
+		"price": 35000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.630Z",
+		"daysOnMarket": 105,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664716",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2026-05-31": {
+				"event": "Sale Listing",
+				"price": 35000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 105
+			}
+		}
+	},
+	{
+		"id": "15-Ross-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "15 Ross Rd, Kennebunk, ME 04043",
+		"addressLine1": "15 Ross Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.401357,
+		"longitude": -70.531263,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1386,
+		"lotSize": 20038,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 419900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.629Z",
+		"daysOnMarket": 94,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666711",
+		"listingAgent": {
+			"name": "Jeff Mateja",
+			"phone": "2075532605",
+			"email": "jeff@kwmateja.com",
+			"website": "http://www.jeffsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2075532605",
+			"email": "klrw318@kw.com",
+			"website": "findmainehomesnow.com"
+		},
+		"history": {
+			"2026-06-11": {
+				"event": "Sale Listing",
+				"price": 419900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 94
+			}
+		}
+	},
+	{
+		"id": "61-Fletcher-St,-Kennebunk,-ME-04043",
+		"formattedAddress": "61 Fletcher St, Kennebunk, ME 04043",
+		"addressLine1": "61 Fletcher St",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.391394,
+		"longitude": -70.545627,
+		"propertyType": "Single Family",
+		"bedrooms": 9,
+		"bathrooms": 9.5,
+		"squareFootage": 5594,
+		"lotSize": 14375,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 1695000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-05-12T13:00:18.376Z",
+		"lastSeenDate": "2026-09-12T09:45:41.624Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667015",
+		"listingAgent": {
+			"name": "Katherine Az Ashley Lutkoff",
+			"phone": "2078850500",
+			"email": "info@alhomesmaine.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2025-07-30": {
+				"event": "Sale Listing",
+				"price": 1699000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-30T00:00:00.000Z",
+				"removedDate": "2026-05-23T00:00:00.000Z",
+				"daysOnMarket": 297
+			},
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 1695000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "20-Surf-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "20 Surf Ln, Kennebunk, ME 04043",
+		"addressLine1": "20 Surf Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.350258,
+		"longitude": -70.488528,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2469,
+		"lotSize": 32234,
+		"yearBuilt": 1987,
+		"status": "Active",
+		"price": 3175000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.620Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665504",
+		"listingAgent": {
+			"name": "Elise Wyman",
+			"phone": "6033137109",
+			"email": "ewyman@pmrealestate.com",
+			"website": "https://www.realtor.com/realestateagents/elise-wyman_kennebunkport_me_2173141_221894925"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2024-05-20": {
+				"event": "Sale Listing",
+				"price": 3595000,
+				"listingType": "Standard",
+				"listedDate": "2024-05-20T00:00:00.000Z",
+				"removedDate": "2026-05-30T00:00:00.000Z",
+				"daysOnMarket": 740
+			},
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 3175000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "14-Hampton-Glen-Dr,-Unit-51,-Kennebunk,-ME-04043",
+		"formattedAddress": "14 Hampton Glen Dr, Unit 51, Kennebunk, ME 04043",
+		"addressLine1": "14 Hampton Glen Dr",
+		"addressLine2": "Unit 51",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.392124,
+		"longitude": -70.563881,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1455,
+		"lotSize": 43560,
+		"yearBuilt": 2001,
+		"hoa": {
+			"fee": 585
+		},
+		"status": "Active",
+		"price": 465000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.615Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665046",
+		"listingAgent": {
+			"name": "Linda Ditomaso",
+			"phone": "8016952284",
+			"email": "lindad@oceanviewproperties.net"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2025-12-09": {
+				"event": "Sale Listing",
+				"price": 500000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-09T00:00:00.000Z",
+				"removedDate": "2025-12-31T00:00:00.000Z",
+				"daysOnMarket": 22
+			},
+			"2026-03-16": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-16T00:00:00.000Z",
+				"removedDate": "2026-05-30T00:00:00.000Z",
+				"daysOnMarket": 75
+			},
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "106-Farragut-Way,-Unit-151,-Kennebunk,-ME-04043",
+		"formattedAddress": "106 Farragut Way, Unit 151, Kennebunk, ME 04043",
+		"addressLine1": "106 Farragut Way",
+		"addressLine2": "Unit 151",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.397432,
+		"longitude": -70.526585,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1215,
+		"lotSize": 609840,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 442
+		},
+		"status": "Active",
+		"price": 399500,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.614Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666396",
+		"listingAgent": {
+			"name": "Bryce Hamilton",
+			"phone": "2077731990",
+			"email": "bryce.hamilton@nemoves.com",
+			"website": "http://brycehamilton.us"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 399500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "12-Creekside-Ct,-Unit-11,-Kennebunk,-ME-04043",
+		"formattedAddress": "12 Creekside Ct, Unit 11, Kennebunk, ME 04043",
+		"addressLine1": "12 Creekside Ct",
+		"addressLine2": "Unit 11",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.37585,
+		"longitude": -70.552681,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1525,
+		"lotSize": 612018,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 550000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.608Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666440",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "29-Rosewood-Cir,-Kennebunk,-ME-04043",
+		"formattedAddress": "29 Rosewood Cir, Kennebunk, ME 04043",
+		"addressLine1": "29 Rosewood Cir",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.401105,
+		"longitude": -70.543962,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2443,
+		"lotSize": 29185,
+		"yearBuilt": 1977,
+		"status": "Active",
+		"price": 679000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.670Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668768",
+		"listingAgent": {
+			"name": "Melanie Saccuzzo",
+			"phone": "2072290693",
+			"email": "melanie@kennebunkbeachrealty.com",
+			"website": "https://www.kennebunkbeachrealty.com/"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 679000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "15-Casey-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "15 Casey Ln, Kennebunk, ME 04043",
+		"addressLine1": "15 Casey Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.392752,
+		"longitude": -70.546863,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 2826,
+		"lotSize": 10890,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 1100000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.669Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670151",
+		"listingAgent": {
+			"name": "Marissa Hyland",
+			"phone": "2073141092",
+			"email": "mhyland@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2024-05-04": {
+				"event": "Sale Listing",
+				"price": 779000,
+				"listingType": "New Construction",
+				"listedDate": "2024-05-04T00:00:00.000Z",
+				"removedDate": "2024-11-02T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 1100000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "40-Summer-St,-Kennebunk,-ME-04043",
+		"formattedAddress": "40 Summer St, Kennebunk, ME 04043",
+		"addressLine1": "40 Summer St",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.385121,
+		"longitude": -70.529436,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2404,
+		"lotSize": 47916,
+		"yearBuilt": 1896,
+		"status": "Active",
+		"price": 1495000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.665Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668802",
+		"listingAgent": {
+			"name": "Maureen Adams",
+			"phone": "6103225833",
+			"email": "maureen@portsidereg.com",
+			"website": "http://portsiderealestaregroup.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "10-Webhannet-Pl,-Unit-1,-Kennebunk,-ME-04043",
+		"formattedAddress": "10 Webhannet Pl, Unit 1, Kennebunk, ME 04043",
+		"addressLine1": "10 Webhannet Pl",
+		"addressLine2": "Unit 1",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.377029,
+		"longitude": -70.548447,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1765,
+		"lotSize": 43560,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 375
+		},
+		"status": "Active",
+		"price": 610000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T17:40:25.441Z",
+		"lastSeenDate": "2026-09-12T08:50:22.659Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667686",
+		"listingAgent": {
+			"name": "Nicholas Couturier",
+			"phone": "6032421498",
+			"email": "nick@newspacere.com",
+			"website": "http://redpostrealty.com"
+		},
+		"listingOffice": {
+			"name": "New Space Real Estate, LLC",
+			"phone": "6032421498",
+			"email": "nick@newspacere.com"
+		},
+		"history": {
+			"2026-04-29": {
+				"event": "Sale Listing",
+				"price": 640000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-29T00:00:00.000Z",
+				"removedDate": "2026-06-17T00:00:00.000Z",
+				"daysOnMarket": 49
+			},
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 610000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "3-Belfast-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "3 Belfast Ln, Kennebunk, ME 04043",
+		"addressLine1": "3 Belfast Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.411426,
+		"longitude": -70.572091,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1786,
+		"lotSize": 30056,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 160
+		},
+		"status": "Active",
+		"price": 848900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.643Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668110",
+		"listingAgent": {
+			"name": "Peter Larochelle",
+			"phone": "2076465131",
+			"email": "peterlarochelle@masiello.com",
+			"website": "http://www.peterlarochelle.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2076465131",
+			"email": "wells@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 848900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "2-Mothers-Way,-Kennebunk,-ME-04043",
+		"formattedAddress": "2 Mothers Way, Kennebunk, ME 04043",
+		"addressLine1": "2 Mothers Way",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.377218,
+		"longitude": -70.519336,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2064,
+		"lotSize": 217800,
+		"yearBuilt": 1996,
+		"status": "Active",
+		"price": 774900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.624Z",
+		"daysOnMarket": 82,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668552",
+		"listingAgent": {
+			"name": "Kelsey Knoll",
+			"phone": "2076417814",
+			"email": "thekelseyexp@gmail.com",
+			"website": "http://kelseyknoll.exprealty.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-06-23": {
+				"event": "Sale Listing",
+				"price": 774900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 82
+			}
+		}
+	},
+	{
+		"id": "106-Farragut-Way,-Unit-366,-Kennebunk,-ME-04043",
+		"formattedAddress": "106 Farragut Way, Unit 366, Kennebunk, ME 04043",
+		"addressLine1": "106 Farragut Way",
+		"addressLine2": "Unit 366",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.397603,
+		"longitude": -70.526353,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 1037,
+		"lotSize": 681714,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 442
+		},
+		"status": "Active",
+		"price": 334000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.610Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668971",
+		"listingAgent": {
+			"name": "Julie Barros",
+			"phone": "2072510205",
+			"email": "julie.barros@lregmaine.com",
+			"website": "https://www.juliebarros.com"
+		},
+		"listingOffice": {
+			"name": "Lighthouse Real Estate Group",
+			"phone": "2074675346",
+			"email": "info@lregmaine.com",
+			"website": "http://www.lighthouseregmaine.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 334000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "8-Tranquility-Dr,-Unit-15,-Kennebunk,-ME-04043",
+		"formattedAddress": "8 Tranquility Dr, Unit 15, Kennebunk, ME 04043",
+		"addressLine1": "8 Tranquility Dr",
+		"addressLine2": "Unit 15",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.409035,
+		"longitude": -70.594933,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1840,
+		"lotSize": 15246,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 190
+		},
+		"status": "Active",
+		"price": 890000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.603Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669376",
+		"listingAgent": {
+			"name": "Caroline Nadeau",
+			"phone": "6037786400",
+			"email": "cnadeau@thegovegroup.com"
+		},
+		"listingOffice": {
+			"name": "The Gove Group Real Estate, LLC",
+			"phone": "6037786400",
+			"email": "info@thegovegroup.com",
+			"website": "www.thegovegroup.com"
+		},
+		"history": {
+			"2024-10-29": {
+				"event": "Sale Listing",
+				"price": 865000,
+				"listingType": "New Construction",
+				"listedDate": "2024-10-29T00:00:00.000Z",
+				"removedDate": "2025-03-29T00:00:00.000Z",
+				"daysOnMarket": 151
+			},
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 890000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "9-Fen-Way,-Kennebunk,-ME-04043",
+		"formattedAddress": "9 Fen Way, Kennebunk, ME 04043",
+		"addressLine1": "9 Fen Way",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.413134,
+		"longitude": -70.577117,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2820,
+		"lotSize": 30056,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 899000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.602Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668684",
+		"listingAgent": {
+			"name": "Vicki Benenti",
+			"phone": "2075905650",
+			"email": "vbenenti@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "1-Robinson-Way,-Unit-A97,-Kennebunk,-ME-04043",
+		"formattedAddress": "1 Robinson Way, Unit A97, Kennebunk, ME 04043",
+		"addressLine1": "1 Robinson Way",
+		"addressLine2": "Unit A97",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.417603,
+		"longitude": -70.610832,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 750,
+		"yearBuilt": 2009,
+		"hoa": {
+			"fee": 525
+		},
+		"status": "Active",
+		"price": 59500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.600Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669973",
+		"listingAgent": {
+			"name": "Crystal Jones",
+			"phone": "2072866583"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 59500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "9-Benjamin-Hubbard-Ln,-Unit-9,-Kennebunk,-ME-04043",
+		"formattedAddress": "9 Benjamin Hubbard Ln, Unit 9, Kennebunk, ME 04043",
+		"addressLine1": "9 Benjamin Hubbard Ln",
+		"addressLine2": "Unit 9",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.3568,
+		"longitude": -70.500017,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1600,
+		"lotSize": 43560,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 800
+		},
+		"status": "Active",
+		"price": 545000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.586Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671135",
+		"listingAgent": {
+			"name": "Jessica Girard",
+			"phone": "2079673883",
+			"email": "jgirard@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 545000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "27-Sycamore-Ln,-Unit-1,-Kennebunk,-ME-04043",
+		"formattedAddress": "27 Sycamore Ln, Unit 1, Kennebunk, ME 04043",
+		"addressLine1": "27 Sycamore Ln",
+		"addressLine2": "Unit 1",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.374761,
+		"longitude": -70.551882,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2160,
+		"lotSize": 43560,
+		"yearBuilt": 2010,
+		"hoa": {
+			"fee": 460
+		},
+		"status": "Active",
+		"price": 950000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.573Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670984",
+		"listingAgent": {
+			"name": "Samantha Beaudoin",
+			"phone": "2072320609",
+			"email": "samanthab@merealestateco.com",
+			"website": "https://merealestateco.com/samantha-beaudoin/"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 950000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "131-Western-Ave,-Kennebunk,-ME-04043",
+		"formattedAddress": "131 Western Ave, Kennebunk, ME 04043",
+		"addressLine1": "131 Western Ave",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.355365,
+		"longitude": -70.503946,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2392,
+		"lotSize": 40511,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 849000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.570Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671096",
+		"listingAgent": {
+			"name": "Maureen Adams",
+			"phone": "6103225833",
+			"email": "maureen@portsidereg.com",
+			"website": "http://portsiderealestaregroup.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 849000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "3-Fox-Run,-Kennebunk,-ME-04043",
+		"formattedAddress": "3 Fox Run, Kennebunk, ME 04043",
+		"addressLine1": "3 Fox Run",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.373952,
+		"longitude": -70.502555,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3598,
+		"lotSize": 69696,
+		"yearBuilt": 1990,
+		"hoa": {
+			"fee": 15
+		},
+		"status": "Active",
+		"price": 1479000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-31T14:07:39.302Z",
+		"lastSeenDate": "2026-09-12T08:46:44.963Z",
+		"daysOnMarket": 64,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671377",
+		"listingAgent": {
+			"name": "Julie Rosenthal",
+			"phone": "2073295521",
+			"email": "julie@portsidereg.com",
+			"website": "https://julierosenthal.portsiderealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-07-11": {
+				"event": "Sale Listing",
+				"price": 1479000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 64
+			}
+		}
+	},
+	{
+		"id": "14-Creekside-Ct,-Unit-12,-Kennebunk,-ME-04043",
+		"formattedAddress": "14 Creekside Ct, Unit 12, Kennebunk, ME 04043",
+		"addressLine1": "14 Creekside Ct",
+		"addressLine2": "Unit 12",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.37585,
+		"longitude": -70.552681,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 1895,
+		"lotSize": 612018,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 605000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.955Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671586",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 605000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "584-Alewive-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "584 Alewive Rd, Kennebunk, ME 04043",
+		"addressLine1": "584 Alewive Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.436194,
+		"longitude": -70.580292,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 5374,
+		"lotSize": 226512,
+		"yearBuilt": 2012,
+		"status": "Active",
+		"price": 1695000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.944Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671908",
+		"listingAgent": {
+			"name": "Karen Schlegel",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com",
+			"website": "http://www.schlegelrealty.com"
+		},
+		"listingOffice": {
+			"name": "Schlegel Realty",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com"
+		},
+		"history": {
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 1695000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "14-Higgins-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "14 Higgins Dr, Kennebunk, ME 04043",
+		"addressLine1": "14 Higgins Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.420765,
+		"longitude": -70.573022,
+		"propertyType": "Land",
+		"lotSize": 27007,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-30T09:24:04.554Z",
+		"lastSeenDate": "2026-09-12T08:46:44.930Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672418",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "23-Admirals-Way,-Kennebunk,-ME-04043",
+		"formattedAddress": "23 Admirals Way, Kennebunk, ME 04043",
+		"addressLine1": "23 Admirals Way",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.34992,
+		"longitude": -70.511914,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2997,
+		"lotSize": 21780,
+		"yearBuilt": 1997,
+		"hoa": {
+			"fee": 92
+		},
+		"status": "Active",
+		"price": 2550000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.906Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672671",
+		"listingAgent": {
+			"name": "Elizabeth Coughlan",
+			"phone": "2079670934",
+			"email": "bcoughlan@legacysir.com",
+			"website": "http://www.betsycoughlan.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 2550000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "5-Dogwood-Cir,-Kennebunk,-ME-04043",
+		"formattedAddress": "5 Dogwood Cir, Kennebunk, ME 04043",
+		"addressLine1": "5 Dogwood Cir",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.39727,
+		"longitude": -70.572273,
+		"propertyType": "Land",
+		"lotSize": 31363,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.903Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673452",
+		"listingAgent": {
+			"name": "Alexandra Kerr",
+			"phone": "2079395377",
+			"email": "alexandrakerr@kw.com",
+			"website": "http://alexandrakerr.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-03-21": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-21T00:00:00.000Z",
+				"removedDate": "2026-07-02T00:00:00.000Z",
+				"daysOnMarket": 103
+			},
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "16-Boundary-Way,-Kennebunk,-ME-04043",
+		"formattedAddress": "16 Boundary Way, Kennebunk, ME 04043",
+		"addressLine1": "16 Boundary Way",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.373318,
+		"longitude": -70.538218,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1344,
+		"lotSize": 11326,
+		"yearBuilt": 1987,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.900Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673320",
+		"listingAgent": {
+			"name": "Bailey Pate",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com",
+			"website": "http://baileypate.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2025-09-25": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-25T00:00:00.000Z",
+				"removedDate": "2025-12-09T00:00:00.000Z",
+				"daysOnMarket": 75
+			},
+			"2026-03-06": {
+				"event": "Sale Listing",
+				"price": 430000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-06T00:00:00.000Z",
+				"removedDate": "2026-03-21T00:00:00.000Z",
+				"daysOnMarket": 15
+			},
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "10-Shiretowne-Common-Dr,-Unit-10,-Kennebunk,-ME-04043",
+		"formattedAddress": "10 Shiretowne Common Dr, Unit 10, Kennebunk, ME 04043",
+		"addressLine1": "10 Shiretowne Common Dr",
+		"addressLine2": "Unit 10",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.394019,
+		"longitude": -70.565142,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1819,
+		"lotSize": 43560,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 569900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.899Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672658",
+		"listingAgent": {
+			"name": "Stephen Cabana",
+			"phone": "2073242860",
+			"email": "steve@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 569900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "15-Cascade-Cir,-Unit-18,-Kennebunk,-ME-04043",
+		"formattedAddress": "15 Cascade Cir, Unit 18, Kennebunk, ME 04043",
+		"addressLine1": "15 Cascade Cir",
+		"addressLine2": "Unit 18",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.408298,
+		"longitude": -70.595383,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1872,
+		"lotSize": 16553,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 190
+		},
+		"status": "Active",
+		"price": 845000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.898Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673329",
+		"listingAgent": {
+			"name": "Caroline Nadeau",
+			"phone": "6037786400",
+			"email": "cnadeau@thegovegroup.com"
+		},
+		"listingOffice": {
+			"name": "The Gove Group Real Estate, LLC",
+			"phone": "6037786400",
+			"email": "info@thegovegroup.com",
+			"website": "www.thegovegroup.com"
+		},
+		"history": {
+			"2024-10-09": {
+				"event": "Sale Listing",
+				"price": 970000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-09T00:00:00.000Z",
+				"removedDate": "2025-10-07T00:00:00.000Z",
+				"daysOnMarket": 363
+			},
+			"2026-01-14": {
+				"event": "Sale Listing",
+				"price": 975000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-14T00:00:00.000Z",
+				"removedDate": "2026-07-21T00:00:00.000Z",
+				"daysOnMarket": 188
+			},
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 845000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "2-Dogwood-Cir,-Kennebunk,-ME-04043",
+		"formattedAddress": "2 Dogwood Cir, Kennebunk, ME 04043",
+		"addressLine1": "2 Dogwood Cir",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.39727,
+		"longitude": -70.572273,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2525,
+		"lotSize": 23958,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1575000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.895Z",
+		"daysOnMarket": 50,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673469",
+		"listingAgent": {
+			"name": "Alexandra Kerr",
+			"phone": "2079395377",
+			"email": "alexandrakerr@kw.com",
+			"website": "http://alexandrakerr.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2024-04-20": {
+				"event": "Sale Listing",
+				"price": 1279000,
+				"listingType": "New Construction",
+				"listedDate": "2024-04-20T00:00:00.000Z",
+				"removedDate": "2024-10-20T00:00:00.000Z",
+				"daysOnMarket": 183
+			},
+			"2025-08-22": {
+				"event": "Sale Listing",
+				"price": 1575000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-22T00:00:00.000Z",
+				"removedDate": "2026-02-21T00:00:00.000Z",
+				"daysOnMarket": 183
+			},
+			"2026-03-06": {
+				"event": "Sale Listing",
+				"price": 1575000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-06T00:00:00.000Z",
+				"removedDate": "2026-07-02T00:00:00.000Z",
+				"daysOnMarket": 118
+			},
+			"2026-07-25": {
+				"event": "Sale Listing",
+				"price": 1575000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 50
+			}
+		}
+	},
+	{
+		"id": "2-Beacon-St,-Kennebunk,-ME-04043",
+		"formattedAddress": "2 Beacon St, Kennebunk, ME 04043",
+		"addressLine1": "2 Beacon St",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.383175,
+		"longitude": -70.56486,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3358,
+		"lotSize": 42689,
+		"yearBuilt": 2007,
+		"status": "Active",
+		"price": 975000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.882Z",
+		"daysOnMarket": 50,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673530",
+		"listingAgent": {
+			"name": "Elise Wyman",
+			"phone": "6033137109",
+			"email": "ewyman@pmrealestate.com",
+			"website": "https://www.realtor.com/realestateagents/elise-wyman_kennebunkport_me_2173141_221894925"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-07-25": {
+				"event": "Sale Listing",
+				"price": 975000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 50
+			}
+		}
+	},
+	{
+		"id": "21-Cascade-Cir,-Unit-21,-Kennebunk,-ME-04043",
+		"formattedAddress": "21 Cascade Cir, Unit 21, Kennebunk, ME 04043",
+		"addressLine1": "21 Cascade Cir",
+		"addressLine2": "Unit 21",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.40911,
+		"longitude": -70.596328,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2516,
+		"lotSize": 15682,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 190
+		},
+		"status": "Active",
+		"price": 975000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.879Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673325",
+		"listingAgent": {
+			"name": "Caroline Nadeau",
+			"phone": "6037786400",
+			"email": "cnadeau@thegovegroup.com"
+		},
+		"listingOffice": {
+			"name": "The Gove Group Real Estate, LLC",
+			"phone": "6037786400",
+			"email": "info@thegovegroup.com",
+			"website": "www.thegovegroup.com"
+		},
+		"history": {
+			"2026-01-15": {
+				"event": "Sale Listing",
+				"price": 915000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-15T00:00:00.000Z",
+				"removedDate": "2026-06-27T00:00:00.000Z",
+				"daysOnMarket": 163
+			},
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 975000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "37-Penwood-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "37 Penwood Dr, Kennebunk, ME 04043",
+		"addressLine1": "37 Penwood Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.357479,
+		"longitude": -70.510866,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2497,
+		"lotSize": 37897,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 865000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.863Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673856",
+		"listingAgent": {
+			"name": "Mike Spenlinhauer",
+			"phone": "2072510355",
+			"email": "mike.spenlinhauer@nemoves.com",
+			"website": "http://mikespenlinhauer.cbintouch.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "http://www.johnhatcher.us"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 865000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "3-Dogwood-Cir,-Kennebunk,-ME-04043",
+		"formattedAddress": "3 Dogwood Cir, Kennebunk, ME 04043",
+		"addressLine1": "3 Dogwood Cir",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.39727,
+		"longitude": -70.572273,
+		"propertyType": "Land",
+		"lotSize": 30492,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.859Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673453",
+		"listingAgent": {
+			"name": "Alexandra Kerr",
+			"phone": "2079395377",
+			"email": "alexandrakerr@kw.com",
+			"website": "http://alexandrakerr.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": "2026-07-02T00:00:00.000Z",
+				"daysOnMarket": 48
+			},
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "453-Alfred-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "453 Alfred Rd, Kennebunk, ME 04043",
+		"addressLine1": "453 Alfred Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.415896,
+		"longitude": -70.602269,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1110,
+		"lotSize": 74923,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.904Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674738",
+		"listingAgent": {
+			"name": "Matthew G Chamberlain",
+			"phone": "2074507653",
+			"email": "matthewc@maine.rr.com",
+			"website": "http://www.realtyformaine.com/"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "9-Arioch-Way,-Kennebunk,-ME-04043",
+		"formattedAddress": "9 Arioch Way, Kennebunk, ME 04043",
+		"addressLine1": "9 Arioch Way",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.383498,
+		"longitude": -70.562559,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2238,
+		"lotSize": 25700,
+		"yearBuilt": 2010,
+		"status": "Active",
+		"price": 1325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-08-12T15:33:27.206Z",
+		"lastSeenDate": "2026-09-12T08:13:10.891Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674229",
+		"listingAgent": {
+			"name": "Elise Wyman",
+			"phone": "6033137109",
+			"email": "ewyman@pmrealestate.com",
+			"website": "https://www.realtor.com/realestateagents/elise-wyman_kennebunkport_me_2173141_221894925"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 1325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "11-Sterling-Dr,-Unit-11,-Kennebunk,-ME-04043",
+		"formattedAddress": "11 Sterling Dr, Unit 11, Kennebunk, ME 04043",
+		"addressLine1": "11 Sterling Dr",
+		"addressLine2": "Unit 11",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.394743,
+		"longitude": -70.56482,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2125,
+		"lotSize": 43560,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 640000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-12-16T08:16:04.272Z",
+		"lastSeenDate": "2026-09-12T08:13:10.882Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674334",
+		"listingAgent": {
+			"name": "Morgan Moran",
+			"phone": "2079679900",
+			"email": "morgan.moran@cbrealty.com",
+			"website": "http://morganmoran.cbintouch.com"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 640000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "8-Railroad-Ave,-Kennebunk,-ME-04043",
+		"formattedAddress": "8 Railroad Ave, Kennebunk, ME 04043",
+		"addressLine1": "8 Railroad Ave",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.345807,
+		"longitude": -70.500767,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 1554,
+		"lotSize": 4792,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 1350000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-03-26T11:16:44.470Z",
+		"lastSeenDate": "2026-09-12T08:13:10.881Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674361",
+		"listingAgent": {
+			"name": "Holly Mitchell & Will Chapman",
+			"phone": "2076506176",
+			"email": "hmitchell@kw.com",
+			"website": "http://www.maineprice.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-08-01": {
+				"event": "Sale Listing",
+				"price": 1350000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-01T00:00:00.000Z",
+				"removedDate": "2025-07-17T00:00:00.000Z",
+				"daysOnMarket": 350
+			},
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 1350000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "17-Littlefield-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "17 Littlefield Dr, Kennebunk, ME 04043",
+		"addressLine1": "17 Littlefield Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.425866,
+		"longitude": -70.60224,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2196,
+		"lotSize": 130680,
+		"yearBuilt": 1990,
+		"status": "Active",
+		"price": 769000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.869Z",
+		"daysOnMarket": 41,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674521",
+		"listingAgent": {
+			"name": "Morgan Moran",
+			"phone": "2079679900",
+			"email": "morgan.moran@cbrealty.com",
+			"website": "http://morganmoran.cbintouch.com"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 769000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 41
+			}
+		}
+	},
+	{
+		"id": "119-Farragut-Way,-Unit-119,-Kennebunk,-ME-04043",
+		"formattedAddress": "119 Farragut Way, Unit 119, Kennebunk, ME 04043",
+		"addressLine1": "119 Farragut Way",
+		"addressLine2": "Unit 119",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.398592,
+		"longitude": -70.527281,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1292,
+		"lotSize": 43560,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 647
+		},
+		"status": "Active",
+		"price": 445000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.868Z",
+		"daysOnMarket": 41,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674585",
+		"listingAgent": {
+			"name": "Vicki Benenti",
+			"phone": "2075905650",
+			"email": "vbenenti@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 445000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 41
+			}
+		}
+	},
+	{
+		"id": "47-Quail-Run,-Kennebunk,-ME-04043",
+		"formattedAddress": "47 Quail Run, Kennebunk, ME 04043",
+		"addressLine1": "47 Quail Run",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.393215,
+		"longitude": -70.550443,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3779,
+		"lotSize": 72745,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 1709000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.843Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675574",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 1709000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "6-Sterling-Dr,-Unit-6,-Kennebunk,-ME-04043",
+		"formattedAddress": "6 Sterling Dr, Unit 6, Kennebunk, ME 04043",
+		"addressLine1": "6 Sterling Dr",
+		"addressLine2": "Unit 6",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.394606,
+		"longitude": -70.565435,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2125,
+		"lotSize": 43560,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 585000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.841Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675251",
+		"listingAgent": {
+			"name": "Tammy Richard",
+			"phone": "2075532427",
+			"email": "trichard@kw.com",
+			"website": "https://tammyrichard.kw.com/agent/tammy-richard/93434"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 585000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "3-Hardwood-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "3 Hardwood Ln, Kennebunk, ME 04043",
+		"addressLine1": "3 Hardwood Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.409518,
+		"longitude": -70.570343,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2768,
+		"lotSize": 10019,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 60
+		},
+		"status": "Active",
+		"price": 849900,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.834Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675820",
+		"listingAgent": {
+			"name": "Kate Tracy Scamman",
+			"phone": "2072050066",
+			"email": "kate@valentinodevelopment.com",
+			"website": "https://www.instagram.com/bradleygreens_saco"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-03-18": {
+				"event": "Sale Listing",
+				"price": 829900,
+				"listingType": "New Construction",
+				"listedDate": "2025-03-18T00:00:00.000Z",
+				"removedDate": "2026-01-07T00:00:00.000Z",
+				"daysOnMarket": 295
+			},
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 849900,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "10-Creekside-Ct,-Unit-10,-Kennebunk,-ME-04043",
+		"formattedAddress": "10 Creekside Ct, Unit 10, Kennebunk, ME 04043",
+		"addressLine1": "10 Creekside Ct",
+		"addressLine2": "Unit 10",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.37585,
+		"longitude": -70.552681,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1525,
+		"lotSize": 612018,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 312
+		},
+		"status": "Active",
+		"price": 550000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.832Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675039",
+		"listingAgent": {
+			"name": "Amy Foley",
+			"phone": "2072390457",
+			"email": "amy@scovillefoleyhomes.com",
+			"website": "scovillefoleyhomes.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "171-Summer-St,-Kennebunk,-ME-04043",
+		"formattedAddress": "171 Summer St, Kennebunk, ME 04043",
+		"addressLine1": "171 Summer St",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.376201,
+		"longitude": -70.508331,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2260,
+		"lotSize": 28314,
+		"yearBuilt": 1799,
+		"status": "Active",
+		"price": 869000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-09T08:58:06.761Z",
+		"lastSeenDate": "2026-09-12T08:13:10.818Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675320",
+		"listingAgent": {
+			"name": "Holly Mitchell & Will Chapman",
+			"phone": "2076506176",
+			"email": "hmitchell@kw.com",
+			"website": "http://www.maineprice.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 869000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "13-River-Bend-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "13 River Bend Dr, Kennebunk, ME 04043",
+		"addressLine1": "13 River Bend Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.373148,
+		"longitude": -70.529032,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2560,
+		"lotSize": 21780,
+		"yearBuilt": 1984,
+		"status": "Active",
+		"price": 899000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.809Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675666",
+		"listingAgent": {
+			"name": "Katie Watts",
+			"phone": "2073634300",
+			"email": "katie.yorkerealty@gmail.com",
+			"website": "http://www.coldwellbanker.com/website/katiewatts"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Yorke Realty",
+			"phone": "2073634300",
+			"email": "coldwellbankeryorkerealty@gmail.com",
+			"website": "http://www.yorkerealty.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "217-And-219-Sea-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "217 And 219 Sea Rd, Kennebunk, ME 04043",
+		"addressLine1": "217 And 219 Sea Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.351372,
+		"longitude": -70.504547,
+		"propertyType": "Single Family",
+		"bedrooms": 10,
+		"bathrooms": 6,
+		"squareFootage": 6930,
+		"lotSize": 51836,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 2895000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.809Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675853",
+		"listingAgent": {
+			"name": "Julie Grady",
+			"phone": "2075900977",
+			"email": "julie.grady@lregmaine.com",
+			"website": "http://www.lighthouseregmaine.com/"
+		},
+		"listingOffice": {
+			"name": "Lighthouse Real Estate Group",
+			"phone": "2074675346",
+			"email": "info@lregmaine.com",
+			"website": "http://www.lighthouseregmaine.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 2895000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "7-Pebble-Ln,-Unit-4,-Kennebunk,-ME-04043",
+		"formattedAddress": "7 Pebble Ln, Unit 4, Kennebunk, ME 04043",
+		"addressLine1": "7 Pebble Ln",
+		"addressLine2": "Unit 4",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.355312,
+		"longitude": -70.505196,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1792,
+		"lotSize": 43560,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 749000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.808Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675866",
+		"listingAgent": {
+			"name": "Julie Grady",
+			"phone": "2075900977",
+			"email": "julie.grady@lregmaine.com",
+			"website": "http://www.lighthouseregmaine.com/"
+		},
+		"listingOffice": {
+			"name": "Lighthouse Real Estate Group",
+			"phone": "2074675346",
+			"email": "info@lregmaine.com",
+			"website": "http://www.lighthouseregmaine.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "10-Morning-Walk-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "10 Morning Walk Ln, Kennebunk, ME 04043",
+		"addressLine1": "10 Morning Walk Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.361218,
+		"longitude": -70.487643,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3594,
+		"lotSize": 25700,
+		"yearBuilt": 2013,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 2650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.783Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676412",
+		"listingAgent": {
+			"name": "Jeff Rioux",
+			"phone": "2072403421",
+			"email": "jeff@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 2650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "18-Littlefield-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "18 Littlefield Dr, Kennebunk, ME 04043",
+		"addressLine1": "18 Littlefield Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.425885,
+		"longitude": -70.604874,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1344,
+		"lotSize": 130680,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 518900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.782Z",
+		"daysOnMarket": 28,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676435",
+		"listingAgent": {
+			"name": "Angela Pierce Houghton",
+			"phone": "2074159447",
+			"email": "angelapiercehoughton@gmail.com",
+			"website": "http://angelapiercehoughton.remax.com"
+		},
+		"listingOffice": {
+			"name": "Remax Coastal",
+			"phone": "2077736400",
+			"email": "remaxcoastaloffice@gmail.com",
+			"website": "coastal-hollis-center-me.remax.com"
+		},
+		"history": {
+			"2026-08-16": {
+				"event": "Sale Listing",
+				"price": 518900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 28
+			}
+		}
+	},
+	{
+		"id": "576-Alfred-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "576 Alfred Rd, Kennebunk, ME 04043",
+		"addressLine1": "576 Alfred Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.420237,
+		"longitude": -70.611953,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1370,
+		"lotSize": 76230,
+		"yearBuilt": 1949,
+		"status": "Active",
+		"price": 430000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.768Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676659",
+		"listingAgent": {
+			"name": "Julie Barros",
+			"phone": "2072510205",
+			"email": "julie.barros@lregmaine.com",
+			"website": "https://www.juliebarros.com"
+		},
+		"listingOffice": {
+			"name": "Lighthouse Real Estate Group",
+			"phone": "2074675346",
+			"email": "info@lregmaine.com",
+			"website": "http://www.lighthouseregmaine.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 430000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "13-Tranquility-Dr,-Unit-20,-Kennebunk,-ME-04043",
+		"formattedAddress": "13 Tranquility Dr, Unit 20, Kennebunk, ME 04043",
+		"addressLine1": "13 Tranquility Dr",
+		"addressLine2": "Unit 20",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.408672,
+		"longitude": -70.596161,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2662,
+		"lotSize": 16988,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 170
+		},
+		"status": "Active",
+		"price": 990000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.710Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677281",
+		"listingAgent": {
+			"name": "Caroline Nadeau",
+			"phone": "6037786400",
+			"email": "cnadeau@thegovegroup.com"
+		},
+		"listingOffice": {
+			"name": "The Gove Group Real Estate, LLC",
+			"phone": "6037786400",
+			"email": "info@thegovegroup.com",
+			"website": "www.thegovegroup.com"
+		},
+		"history": {
+			"2025-03-21": {
+				"event": "Sale Listing",
+				"price": 975000,
+				"listingType": "New Construction",
+				"listedDate": "2025-03-21T00:00:00.000Z",
+				"removedDate": "2026-01-09T00:00:00.000Z",
+				"daysOnMarket": 294
+			},
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 990000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "7-Christensen-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "7 Christensen Ln, Kennebunk, ME 04043",
+		"addressLine1": "7 Christensen Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.360668,
+		"longitude": -70.482914,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3942,
+		"lotSize": 13939,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 3098000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.710Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677418",
+		"listingAgent": {
+			"name": "Jessica Girard",
+			"phone": "2079673883",
+			"email": "jgirard@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 3098000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "20-Eastwoods-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "20 Eastwoods Rd, Kennebunk, ME 04043",
+		"addressLine1": "20 Eastwoods Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.409454,
+		"longitude": -70.60102,
+		"propertyType": "Land",
+		"lotSize": 350658,
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.705Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677121",
+		"listingAgent": {
+			"name": "Vicki Benenti",
+			"phone": "2075905650",
+			"email": "vbenenti@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "24-Cat-Mousam-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "24 Cat Mousam Rd, Kennebunk, ME 04043",
+		"addressLine1": "24 Cat Mousam Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.385174,
+		"longitude": -70.550815,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 858,
+		"lotSize": 52272,
+		"yearBuilt": 2016,
+		"status": "Active",
+		"price": 385000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.704Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677578",
+		"listingAgent": {
+			"name": "Josh Cousineau",
+			"phone": "2072121523",
+			"email": "josh@cousineaumaine.com",
+			"website": "cousineaumaine.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-02-18": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-18T00:00:00.000Z",
+				"removedDate": "2026-07-02T00:00:00.000Z",
+				"daysOnMarket": 134
+			},
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 385000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "4-Cottagewood-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "4 Cottagewood Ln, Kennebunk, ME 04043",
+		"addressLine1": "4 Cottagewood Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.355851,
+		"longitude": -70.504252,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 4739,
+		"lotSize": 40946,
+		"yearBuilt": 2000,
+		"status": "Active",
+		"price": 1725000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.692Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677424",
+		"listingAgent": {
+			"name": "Catie-an Seavey",
+			"phone": "2072511285",
+			"email": "catie@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-05-24": {
+				"event": "Sale Listing",
+				"price": 1750000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-24T00:00:00.000Z",
+				"removedDate": "2026-08-24T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 1725000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "81-Farragut-Way,-Unit-81,-Kennebunk,-ME-04043",
+		"formattedAddress": "81 Farragut Way, Unit 81, Kennebunk, ME 04043",
+		"addressLine1": "81 Farragut Way",
+		"addressLine2": "Unit 81",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.397481,
+		"longitude": -70.525071,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1264,
+		"lotSize": 43560,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 647
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.771Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677864",
+		"listingAgent": {
+			"name": "Karen Schlegel",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com",
+			"website": "http://www.schlegelrealty.com"
+		},
+		"listingOffice": {
+			"name": "Schlegel Realty",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "3-Cider-Mill-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "3 Cider Mill Ln, Kennebunk, ME 04043",
+		"addressLine1": "3 Cider Mill Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.376305,
+		"longitude": -70.557653,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1988,
+		"lotSize": 8712,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 825000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.745Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678054",
+		"listingAgent": {
+			"name": "Cyndi Smith",
+			"phone": "2074758480",
+			"email": "cyndi@oceanexposure.com",
+			"website": "http://smithandcompanyrealty.com"
+		},
+		"listingOffice": {
+			"name": "Smith & Company Realty",
+			"phone": "2074758480",
+			"email": "cyndi@oceanexposure.com"
+		},
+		"history": {
+			"2025-10-10": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-10T00:00:00.000Z",
+				"removedDate": "2026-01-21T00:00:00.000Z",
+				"daysOnMarket": 103
+			},
+			"2026-03-02": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-02T00:00:00.000Z",
+				"removedDate": "2026-04-26T00:00:00.000Z",
+				"daysOnMarket": 55
+			},
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 825000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "4-Tanglewood-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "4 Tanglewood Dr, Kennebunk, ME 04043",
+		"addressLine1": "4 Tanglewood Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.403783,
+		"longitude": -70.647476,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1309,
+		"lotSize": 51401,
+		"yearBuilt": 1992,
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.744Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678071",
+		"listingAgent": {
+			"name": "Catie-an Seavey",
+			"phone": "2072511285",
+			"email": "catie@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "164-Sea-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "164 Sea Rd, Kennebunk, ME 04043",
+		"addressLine1": "164 Sea Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.359934,
+		"longitude": -70.510705,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1638,
+		"lotSize": 45738,
+		"yearBuilt": 1983,
+		"status": "Active",
+		"price": 689000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.741Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678086",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 689000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "143-Summer-St,-Kennebunk,-ME-04043",
+		"formattedAddress": "143 Summer St, Kennebunk, ME 04043",
+		"addressLine1": "143 Summer St",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.378513,
+		"longitude": -70.511453,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2.5,
+		"squareFootage": 3152,
+		"lotSize": 20909,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 620000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.723Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678171",
+		"listingAgent": {
+			"name": "Catie-an Seavey",
+			"phone": "2072511285",
+			"email": "catie@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 620000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "1-Wilderness-Way,-Kennebunk,-ME-04043",
+		"formattedAddress": "1 Wilderness Way, Kennebunk, ME 04043",
+		"addressLine1": "1 Wilderness Way",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.40163,
+		"longitude": -70.609082,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"lotSize": 148540,
+		"yearBuilt": 2024,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.713Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678503",
+		"listingAgent": {
+			"name": "Shannon George",
+			"phone": "2072825988",
+			"email": "shannon.george@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "31-Middle-Rd,-Kennebunk,-ME-04043",
+		"formattedAddress": "31 Middle Rd, Kennebunk, ME 04043",
+		"addressLine1": "31 Middle Rd",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.427087,
+		"longitude": -70.626707,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1560,
+		"lotSize": 149846,
+		"yearBuilt": 2014,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.675Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679230",
+		"listingAgent": {
+			"name": "Timothy Yee",
+			"phone": "2072825988",
+			"email": "timothy.yee@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "5-Mulberry-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "5 Mulberry Ln, Kennebunk, ME 04043",
+		"addressLine1": "5 Mulberry Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.367992,
+		"longitude": -70.499449,
+		"propertyType": "Land",
+		"lotSize": 43560,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.674Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679180",
+		"listingAgent": {
+			"name": "Julie Barros",
+			"phone": "2072510205",
+			"email": "julie.barros@lregmaine.com",
+			"website": "https://www.juliebarros.com"
+		},
+		"listingOffice": {
+			"name": "Lighthouse Real Estate Group",
+			"phone": "2074675346",
+			"email": "info@lregmaine.com",
+			"website": "http://www.lighthouseregmaine.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "7-Chipmunk-Trl,-Kennebunk,-ME-04043",
+		"formattedAddress": "7 Chipmunk Trl, Kennebunk, ME 04043",
+		"addressLine1": "7 Chipmunk Trl",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.415867,
+		"longitude": -70.54644,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2580,
+		"lotSize": 152024,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1399000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.160Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679853",
+		"listingAgent": {
+			"name": "Sarah Bedard",
+			"phone": "2075905392",
+			"email": "sarah.bedardrealty@gmail.com",
+			"website": "http://www.bedardhomesandrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Bedard Homes and Realty",
+			"phone": "2077101908",
+			"email": "victoria.bedardrealty@gmail.com"
+		},
+		"history": {
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 1390000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": "2026-08-06T00:00:00.000Z",
+				"daysOnMarket": 94
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 1399000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "43-Chamberlain-Way,-Unit-43,-Kennebunk,-ME-04043",
+		"formattedAddress": "43 Chamberlain Way, Unit 43, Kennebunk, ME 04043",
+		"addressLine1": "43 Chamberlain Way",
+		"addressLine2": "Unit 43",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.380645,
+		"longitude": -70.549156,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2236,
+		"lotSize": 43560,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 315
+		},
+		"status": "Active",
+		"price": 739000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.159Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679758",
+		"listingAgent": {
+			"name": "Greg Robert",
+			"phone": "2072864782",
+			"email": "greg.robert@nemoves.com",
+			"website": "http://gregrobert.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 739000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "25-Kingsbury-Ln,-Kennebunk,-ME-04043",
+		"formattedAddress": "25 Kingsbury Ln, Kennebunk, ME 04043",
+		"addressLine1": "25 Kingsbury Ln",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.375099,
+		"longitude": -70.546676,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2975,
+		"lotSize": 26572,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 63
+		},
+		"status": "Active",
+		"price": 1100000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.123Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679955",
+		"listingAgent": {
+			"name": "Lauren Kane",
+			"phone": "2077493822",
+			"email": "laurenkane@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 1100000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "29-Agatha-James-Dr,-Unit-29,-Kennebunk,-ME-04043",
+		"formattedAddress": "29 Agatha James Dr, Unit 29, Kennebunk, ME 04043",
+		"addressLine1": "29 Agatha James Dr",
+		"addressLine2": "Unit 29",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.378578,
+		"longitude": -70.551283,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1136,
+		"lotSize": 43560,
+		"yearBuilt": 2012,
+		"hoa": {
+			"fee": 398
+		},
+		"status": "Active",
+		"price": 529000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.114Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680112",
+		"listingAgent": {
+			"name": "Holly Webb",
+			"phone": "2074322991",
+			"email": "holly.webb@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 529000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "42-Farragut-Way,-Unit-31,-Kennebunk,-ME-04043",
+		"formattedAddress": "42 Farragut Way, Unit 31, Kennebunk, ME 04043",
+		"addressLine1": "42 Farragut Way",
+		"addressLine2": "Unit 31",
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.3969,
+		"longitude": -70.526377,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1258,
+		"lotSize": 43560,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 659
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:03:27.973Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677846",
+		"listingAgent": {
+			"name": "Peggy Hill",
+			"phone": "2074234123",
+			"email": "peggy.hill@nemoves.com",
+			"website": "http://peggyhill.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "18-Ledgewater-Dr,-Kennebunk,-ME-04043",
+		"formattedAddress": "18 Ledgewater Dr, Kennebunk, ME 04043",
+		"addressLine1": "18 Ledgewater Dr",
+		"addressLine2": null,
+		"city": "Kennebunk",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04043",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.372913,
+		"longitude": -70.488772,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3742,
+		"lotSize": 28314,
+		"yearBuilt": 1997,
+		"status": "Active",
+		"price": 1795000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T10:52:08.365Z",
+		"daysOnMarket": 177,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654663",
+		"listingAgent": {
+			"name": "Trevor Dodge",
+			"phone": "2079670934",
+			"email": "tdodge@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-03-18": {
+				"event": "Sale Listing",
+				"price": 1795000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 177
+			}
+		}
+	}
+]

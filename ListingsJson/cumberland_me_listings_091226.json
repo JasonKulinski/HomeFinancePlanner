@@ -1,0 +1,1990 @@
+[
+	{
+		"id": "Tinker-Ln,-Unit-57D,-Cumberland,-ME-04021",
+		"formattedAddress": "Tinker Ln, Unit 57D, Cumberland, ME 04021",
+		"addressLine1": "Tinker Ln",
+		"addressLine2": "Unit 57D",
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.804572,
+		"longitude": -70.319284,
+		"propertyType": "Land",
+		"lotSize": 150282,
+		"status": "Active",
+		"price": 175000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.689Z",
+		"daysOnMarket": 389,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1634951",
+		"listingAgent": {
+			"name": "Ann Cianchette",
+			"phone": "2073185318",
+			"email": "team@mainedreamproperties.com",
+			"website": "http://www.mainedreamproperties.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-08-20": {
+				"event": "Sale Listing",
+				"price": 175000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 389
+			}
+		}
+	},
+	{
+		"id": "7-Preston-Way,-Cumberland,-ME-04021",
+		"formattedAddress": "7 Preston Way, Cumberland, ME 04021",
+		"addressLine1": "7 Preston Way",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.811286,
+		"longitude": -70.311494,
+		"propertyType": "Multi-Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1597,
+		"lotSize": 17424,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-02-05T05:43:17.502Z",
+		"lastSeenDate": "2026-09-12T09:52:04.601Z",
+		"daysOnMarket": 164,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656242",
+		"listingOffice": {
+			"name": "Allied Real Estate",
+			"phone": "2078922214",
+			"email": "kellykeenanremax@gmail.com",
+			"website": "http://www.alliedmainehomes.com"
+		},
+		"history": {
+			"2025-07-08": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-08T00:00:00.000Z",
+				"removedDate": "2025-12-02T00:00:00.000Z",
+				"daysOnMarket": 147
+			},
+			"2026-04-02": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 164
+			}
+		}
+	},
+	{
+		"id": "229-Greely-Rd,-Cumberland,-ME-04021",
+		"formattedAddress": "229 Greely Rd, Cumberland, ME 04021",
+		"addressLine1": "229 Greely Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.801184,
+		"longitude": -70.230677,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 4002,
+		"lotSize": 133729,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1595000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.212Z",
+		"daysOnMarket": 128,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661337",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-05-08": {
+				"event": "Sale Listing",
+				"price": 1595000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 128
+			}
+		}
+	},
+	{
+		"id": "47-Skillin-Rd,-Cumberland,-ME-04021",
+		"formattedAddress": "47 Skillin Rd, Cumberland, ME 04021",
+		"addressLine1": "47 Skillin Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.817909,
+		"longitude": -70.305517,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 4760,
+		"lotSize": 106722,
+		"yearBuilt": 1860,
+		"status": "Active",
+		"price": 1995000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-01-15T10:26:42.957Z",
+		"lastSeenDate": "2026-09-12T08:52:34.555Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666452",
+		"listingAgent": {
+			"name": "Heather Shields",
+			"phone": "2077808900",
+			"email": "hshields@legacysir.com",
+			"website": "http://www.legacysir.com/hshields"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 1995000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "64-G-Browning-Way,-Cumberland,-ME-04021",
+		"formattedAddress": "64-G Browning Way, Cumberland, ME 04021",
+		"addressLine1": "64-G Browning Way",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.807671,
+		"longitude": -70.329485,
+		"propertyType": "Land",
+		"lotSize": 109771,
+		"status": "Active",
+		"price": 239900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.863Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668654",
+		"listingAgent": {
+			"name": "John Parvin",
+			"phone": "2076713958",
+			"email": "parvinhouses@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Dan Anderson Real Estate, Inc.",
+			"phone": "2078783206",
+			"email": "dan@danandersonrealestate.com",
+			"website": "dareinc.mainelistings.com"
+		},
+		"history": {
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 239900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "7-Coastal-Pnes,-Cumberland,-ME-04021",
+		"formattedAddress": "7 Coastal Pnes, Cumberland, ME 04021",
+		"addressLine1": "7 Coastal Pnes",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.79756,
+		"longitude": -70.265205,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 4711,
+		"lotSize": 53143,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 83
+		},
+		"status": "Active",
+		"price": 2290000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.843Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669082",
+		"listingAgent": {
+			"name": "Daniel Reali",
+			"phone": "2076712752",
+			"email": "dannyreali@realirealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 2290000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "4-Ledge-Rd,-Cumberland,-ME-04110",
+		"formattedAddress": "4 Ledge Rd, Cumberland, ME 04110",
+		"addressLine1": "4 Ledge Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.771409,
+		"longitude": -70.194622,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 4790,
+		"lotSize": 41818,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 2575000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.787Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669877",
+		"listingAgent": {
+			"name": "Brenda Cerino",
+			"phone": "2076713164",
+			"email": "inquiries@townandshore.com"
+		},
+		"listingOffice": {
+			"name": "Town & Shore",
+			"phone": "2077730262",
+			"email": "inquiries@townandshore.com",
+			"website": "http://www.townandshore.com/"
+		},
+		"history": {
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 2575000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "9-Conifer-Ridge-Rd,-Cumberland,-ME-04110",
+		"formattedAddress": "9 Conifer Ridge Rd, Cumberland, ME 04110",
+		"addressLine1": "9 Conifer Ridge Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.754141,
+		"longitude": -70.205632,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3769,
+		"lotSize": 38333,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 1195000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.781Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669936",
+		"listingAgent": {
+			"name": "Kristina Keaney",
+			"phone": "2077808900",
+			"email": "kkeaney@legacysir.com",
+			"website": "http://www.legacysir.com/eng/agent/507-a-536-4043076/kristina-keaney"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-04-06": {
+				"event": "Sale Listing",
+				"price": 1295000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-06T00:00:00.000Z",
+				"removedDate": "2026-06-25T00:00:00.000Z",
+				"daysOnMarket": 80
+			},
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 1195000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "445-Greely-Road-Ext,-Cumberland,-ME-04021",
+		"formattedAddress": "445 Greely Road Ext, Cumberland, ME 04021",
+		"addressLine1": "445 Greely Road Ext",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.819775,
+		"longitude": -70.262399,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2577,
+		"lotSize": 315374,
+		"yearBuilt": 1820,
+		"status": "Active",
+		"price": 1195000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.871Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671878",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2025-09-08": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-08T00:00:00.000Z",
+				"removedDate": "2026-01-01T00:00:00.000Z",
+				"daysOnMarket": 115
+			},
+			"2026-03-03": {
+				"event": "Sale Listing",
+				"price": 1245000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-03T00:00:00.000Z",
+				"removedDate": "2026-06-26T00:00:00.000Z",
+				"daysOnMarket": 115
+			},
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 1195000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "26-Kathy-Ln,-Cumberland,-ME-04021",
+		"formattedAddress": "26 Kathy Ln, Cumberland, ME 04021",
+		"addressLine1": "26 Kathy Ln",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.81413,
+		"longitude": -70.310888,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1624,
+		"lotSize": 19166,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.865Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672142",
+		"listingAgent": {
+			"name": "Cari Turnbull",
+			"phone": "2078072062",
+			"email": "cari@turnbullteam.com",
+			"website": "http://www.turnbullteam.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2078072062",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "33-Gray-Rd,-Cumberland,-ME-04021",
+		"formattedAddress": "33 Gray Rd, Cumberland, ME 04021",
+		"addressLine1": "33 Gray Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.796989,
+		"longitude": -70.305741,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1290,
+		"lotSize": 46174,
+		"yearBuilt": 2018,
+		"status": "Active",
+		"price": 509000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.856Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672258",
+		"listingAgent": {
+			"name": "Paul Mckee",
+			"phone": "2077752121"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2077752121",
+			"email": "dnickerson1@maine.rr.com",
+			"website": "www.johnhatcher.us"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 509000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "7-Preston-Dr,-Cumberland,-ME-04021",
+		"formattedAddress": "7 Preston Dr, Cumberland, ME 04021",
+		"addressLine1": "7 Preston Dr",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.811286,
+		"longitude": -70.311494,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"squareFootage": 1597,
+		"lotSize": 17424,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.843Z",
+		"daysOnMarket": 56,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672548",
+		"listingOffice": {
+			"name": "Allied Real Estate",
+			"phone": "2078922214",
+			"email": "kellykeenanremax@gmail.com",
+			"website": "http://www.alliedmainehomes.com"
+		},
+		"history": {
+			"2026-07-19": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 56
+			}
+		}
+	},
+	{
+		"id": "36-Feldspar-Ln,-Unit-20,-Cumberland,-ME-04021",
+		"formattedAddress": "36 Feldspar Ln, Unit 20, Cumberland, ME 04021",
+		"addressLine1": "36 Feldspar Ln",
+		"addressLine2": "Unit 20",
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.80885,
+		"longitude": -70.319924,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2224,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 709000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.837Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672903",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-03-20": {
+				"event": "Sale Listing",
+				"price": 699900,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-20T00:00:00.000Z",
+				"removedDate": "2026-07-22T00:00:00.000Z",
+				"daysOnMarket": 124
+			},
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 709000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "Amandas-Way,-Cumberland,-ME-04021",
+		"formattedAddress": "Amandas Way, Cumberland, ME 04021",
+		"addressLine1": "Amandas Way",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.791369,
+		"longitude": -70.256403,
+		"propertyType": "Land",
+		"lotSize": 87120,
+		"status": "Active",
+		"price": 200000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.835Z",
+		"daysOnMarket": 57,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672456",
+		"listingAgent": {
+			"name": "Michelle Lib Danielle Read",
+			"phone": "8008447653",
+			"email": "conciergehome@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "2076510836",
+			"email": "jdamico@brandsbyintegra.com"
+		},
+		"history": {
+			"2026-07-18": {
+				"event": "Sale Listing",
+				"price": 200000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 57
+			}
+		}
+	},
+	{
+		"id": "4-Feldspar-Ln,-Unit-31,-Cumberland,-ME-04021",
+		"formattedAddress": "4 Feldspar Ln, Unit 31, Cumberland, ME 04021",
+		"addressLine1": "4 Feldspar Ln",
+		"addressLine2": "Unit 31",
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.810383,
+		"longitude": -70.320396,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1472,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 535000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.784Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673863",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 535000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "6-Feldspar-Ln,-Unit-30,-Cumberland,-ME-04021",
+		"formattedAddress": "6 Feldspar Ln, Unit 30, Cumberland, ME 04021",
+		"addressLine1": "6 Feldspar Ln",
+		"addressLine2": "Unit 30",
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.810297,
+		"longitude": -70.320449,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2027,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 685000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.755Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674237",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 685000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "26-Lanewood-Rd,-Cumberland,-ME-04110",
+		"formattedAddress": "26 Lanewood Rd, Cumberland, ME 04110",
+		"addressLine1": "26 Lanewood Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.753804,
+		"longitude": -70.199734,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 4.5,
+		"squareFootage": 5342,
+		"lotSize": 213444,
+		"yearBuilt": 1994,
+		"status": "Active",
+		"price": 5195000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.683Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674352",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 5195000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "46-Cortland-Ct,-Cumberland,-ME-04021",
+		"formattedAddress": "46 Cortland Ct, Cumberland, ME 04021",
+		"addressLine1": "46 Cortland Ct",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.831265,
+		"longitude": -70.303578,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 4078,
+		"lotSize": 60113,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 1550000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.652Z",
+		"daysOnMarket": 41,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674560",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-05-08": {
+				"event": "Sale Listing",
+				"price": 1600000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-08T00:00:00.000Z",
+				"removedDate": "2026-08-01T00:00:00.000Z",
+				"daysOnMarket": 85
+			},
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 1550000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 41
+			}
+		}
+	},
+	{
+		"id": "22-Feldspar-Ln,-Unit-24,-Cumberland,-ME-04021",
+		"formattedAddress": "22 Feldspar Ln, Unit 24, Cumberland, ME 04021",
+		"addressLine1": "22 Feldspar Ln",
+		"addressLine2": "Unit 24",
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.809585,
+		"longitude": -70.320514,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1274,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.599Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675619",
+		"listingAgent": {
+			"name": "Taylor Mcfarlane",
+			"phone": "2072333933",
+			"email": "taylor@portsidereg.com",
+			"website": "www.mcfarlanefield.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2077474236",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "15-Sturdivant-Rd,-Cumberland,-ME-04110",
+		"formattedAddress": "15 Sturdivant Rd, Cumberland, ME 04110",
+		"addressLine1": "15 Sturdivant Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.756028,
+		"longitude": -70.198754,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3531,
+		"lotSize": 254826,
+		"yearBuilt": 1997,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 4900000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.593Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675669",
+		"listingAgent": {
+			"name": "Elise Kiely",
+			"phone": "2077808900",
+			"email": "elise@elisekiely.com",
+			"website": "http://www.legacysir.com/eng/associate/507-a-536-4039104/elise-kiely"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 4900000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "18-Feldspar-Ln,-Unit-25,-Cumberland,-ME-04021",
+		"formattedAddress": "18 Feldspar Ln, Unit 25, Cumberland, ME 04021",
+		"addressLine1": "18 Feldspar Ln",
+		"addressLine2": "Unit 25",
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.810352,
+		"longitude": -70.32017,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1536,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 510000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.458Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677079",
+		"listingAgent": {
+			"name": "Sydney Harrison",
+			"phone": "2077513671",
+			"email": "sharrison@townandshore.com"
+		},
+		"listingOffice": {
+			"name": "Town & Shore",
+			"phone": "2077730262",
+			"email": "inquiries@townandshore.com",
+			"website": "http://www.townandshore.com/"
+		},
+		"history": {
+			"2026-01-08": {
+				"event": "Sale Listing",
+				"price": 510000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-08T00:00:00.000Z",
+				"removedDate": "2026-03-02T00:00:00.000Z",
+				"daysOnMarket": 53
+			},
+			"2026-03-04": {
+				"event": "Sale Listing",
+				"price": 510000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-04T00:00:00.000Z",
+				"removedDate": "2026-05-01T00:00:00.000Z",
+				"daysOnMarket": 58
+			},
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 510000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": "2026-08-15T00:00:00.000Z",
+				"daysOnMarket": 45
+			},
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 510000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "227-Foreside-Rd,-Cumberland,-ME-04110",
+		"formattedAddress": "227 Foreside Rd, Cumberland, ME 04110",
+		"addressLine1": "227 Foreside Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.769323,
+		"longitude": -70.197354,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 5,
+		"squareFootage": 3600,
+		"lotSize": 43560,
+		"yearBuilt": 1820,
+		"status": "Active",
+		"price": 1995000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.456Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676490",
+		"listingAgent": {
+			"name": "Cindy Rague",
+			"phone": "2077561901",
+			"email": "cindy@cindyrague.com",
+			"website": "https://www.oceansidemaine.com/"
+		},
+		"listingOffice": {
+			"name": "Remax Oceanside",
+			"phone": "2077997600",
+			"email": "vicki@oceansidemaine.com",
+			"website": "oceanside-cape-elizabeth-me.remax.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 1995000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "44-Maeves-Way,-Cumberland,-ME-04110",
+		"formattedAddress": "44 Maeves Way, Cumberland, ME 04110",
+		"addressLine1": "44 Maeves Way",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.746759,
+		"longitude": -70.205477,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 4807,
+		"lotSize": 65340,
+		"yearBuilt": 2009,
+		"hoa": {
+			"fee": 208
+		},
+		"status": "Active",
+		"price": 3700000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-30T13:48:45.671Z",
+		"lastSeenDate": "2026-09-12T05:30:06.245Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678630",
+		"listingAgent": {
+			"name": "Eddie Dickhaut",
+			"phone": "2077490524",
+			"email": "eddie@landmarkrealtymaine.com",
+			"website": "http://landmarkrealtymaine.com/"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2024-09-12": {
+				"event": "Sale Listing",
+				"price": 2850000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-12T00:00:00.000Z",
+				"removedDate": "2024-09-24T00:00:00.000Z",
+				"daysOnMarket": 12
+			},
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 3700000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "61-Rose-Dr,-Cumberland,-ME-04021",
+		"formattedAddress": "61 Rose Dr, Cumberland, ME 04021",
+		"addressLine1": "61 Rose Dr",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.84525,
+		"longitude": -70.298621,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 5340,
+		"lotSize": 92783,
+		"yearBuilt": 2006,
+		"status": "Active",
+		"price": 1325000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.243Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678632",
+		"listingAgent": {
+			"name": "Sandra Wendland",
+			"phone": "2072337788",
+			"email": "swendland@legacysir.com",
+			"website": "http://www.legacysir.com/swendland"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 1325000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "17-Coastal-Pnes,-Cumberland,-ME-04021",
+		"formattedAddress": "17 Coastal Pnes, Cumberland, ME 04021",
+		"addressLine1": "17 Coastal Pnes",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.79756,
+		"longitude": -70.265205,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 5060,
+		"lotSize": 53143,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 83
+		},
+		"status": "Active",
+		"price": 2390000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.232Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678789",
+		"listingAgent": {
+			"name": "Daniel Reali",
+			"phone": "2076712752",
+			"email": "dannyreali@realirealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 2390000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "10-Birch-Ln,-Cumberland,-ME-04110",
+		"formattedAddress": "10 Birch Ln, Cumberland, ME 04110",
+		"addressLine1": "10 Birch Ln",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.761255,
+		"longitude": -70.197844,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2156,
+		"lotSize": 4792,
+		"yearBuilt": 1923,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 1495000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.153Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679383",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "4-Highland-Ave,-Cumberland,-ME-04021",
+		"formattedAddress": "4 Highland Ave, Cumberland, ME 04021",
+		"addressLine1": "4 Highland Ave",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.817789,
+		"longitude": -70.314887,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 920,
+		"lotSize": 9148,
+		"yearBuilt": 1923,
+		"status": "Active",
+		"price": 395000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.548Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679788",
+		"listingAgent": {
+			"name": "Elaine Pratte",
+			"phone": "2073448291",
+			"email": "elaine@meservier.com",
+			"website": "http://elainepratte.meservierhomes.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2024-12-09": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2024-12-09T00:00:00.000Z",
+				"removedDate": "2025-02-15T00:00:00.000Z",
+				"daysOnMarket": 68
+			},
+			"2025-12-24": {
+				"event": "Sale Listing",
+				"price": 399999,
+				"listingType": "Standard",
+				"listedDate": "2025-12-24T00:00:00.000Z",
+				"removedDate": "2026-06-17T00:00:00.000Z",
+				"daysOnMarket": 175
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 395000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "38-Blanchard-Rd,-Cumberland,-ME-04021",
+		"formattedAddress": "38 Blanchard Rd, Cumberland, ME 04021",
+		"addressLine1": "38 Blanchard Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.798131,
+		"longitude": -70.265892,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3496,
+		"lotSize": 265280,
+		"yearBuilt": 1997,
+		"status": "Active",
+		"price": 1800000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.540Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679809",
+		"listingAgent": {
+			"name": "Melissa Mckersie",
+			"phone": "2077808900",
+			"email": "melissam@legacysir.com",
+			"website": "https://melissamckersie.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 1800000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "40-Powell-Rd,-Cumberland,-ME-04110",
+		"formattedAddress": "40 Powell Rd, Cumberland, ME 04110",
+		"addressLine1": "40 Powell Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.773006,
+		"longitude": -70.198595,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1540,
+		"lotSize": 66647,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 729000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.512Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679910",
+		"listingAgent": {
+			"name": "Mandy Wheeler",
+			"phone": "2073331050",
+			"email": "realtormandylou@gmail.com",
+			"website": "https://www.uandrrealestate.com/mandy-wheeler"
+		},
+		"listingOffice": {
+			"name": "U&R Real Estate",
+			"phone": "2073331050",
+			"email": "uandrrealestate@gmail.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 729000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "19-Nautical-Dr,-Cumberland,-ME-04110",
+		"formattedAddress": "19 Nautical Dr, Cumberland, ME 04110",
+		"addressLine1": "19 Nautical Dr",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.751596,
+		"longitude": -70.213144,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1932,
+		"lotSize": 6098,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 55
+		},
+		"status": "Active",
+		"price": 785000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.482Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679970",
+		"listingAgent": {
+			"name": "Derrick Buckspan & Richard Deering",
+			"phone": "2079560295",
+			"email": "team@mainepropertysource.com",
+			"website": "https://www.shorelineagents.com/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 785000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "14-Pine-Ridge-Rd,-Cumberland,-ME-04110",
+		"formattedAddress": "14 Pine Ridge Rd, Cumberland, ME 04110",
+		"addressLine1": "14 Pine Ridge Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.744487,
+		"longitude": -70.207051,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3318,
+		"lotSize": 145490,
+		"yearBuilt": 1981,
+		"status": "Active",
+		"price": 1775000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.473Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680004",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-06-01": {
+				"event": "Sale Listing",
+				"price": 1825000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-01T00:00:00.000Z",
+				"removedDate": "2026-09-06T00:00:00.000Z",
+				"daysOnMarket": 97
+			},
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 1775000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "45-Sand-Point-Ln,-Unit-28,-Cumberland,-ME-04110",
+		"formattedAddress": "45 Sand Point Ln, Unit 28, Cumberland, ME 04110",
+		"addressLine1": "45 Sand Point Ln",
+		"addressLine2": "Unit 28",
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.777467,
+		"longitude": -70.1959,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1920,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 575
+		},
+		"status": "Active",
+		"price": 689000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.454Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680216",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 689000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "49-Wilson-Rd,-Cumberland,-ME-04021",
+		"formattedAddress": "49 Wilson Rd, Cumberland, ME 04021",
+		"addressLine1": "49 Wilson Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.809093,
+		"longitude": -70.302341,
+		"propertyType": "Land",
+		"lotSize": 217800,
+		"status": "Active",
+		"price": 259900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-03-10T07:38:27.667Z",
+		"lastSeenDate": "2026-09-11T09:01:26.234Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676356",
+		"listingAgent": {
+			"name": "Laura Fassett",
+			"phone": "2077731990",
+			"email": "laura.fassett@nemoves.com",
+			"website": "https://laurafassett.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 259900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "22-Muirfield-Rd,-Cumberland,-ME-04021",
+		"formattedAddress": "22 Muirfield Rd, Cumberland, ME 04021",
+		"addressLine1": "22 Muirfield Rd",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.769537,
+		"longitude": -70.260326,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3107,
+		"lotSize": 45302,
+		"yearBuilt": 2001,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T09:48:05.375Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673748",
+		"listingAgent": {
+			"name": "John Fitzsimons",
+			"phone": "2072338314",
+			"email": "jfitzsimons@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "13-Nautical-Dr,-Cumberland,-ME-04110",
+		"formattedAddress": "13 Nautical Dr, Cumberland, ME 04110",
+		"addressLine1": "13 Nautical Dr",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04110",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.75181,
+		"longitude": -70.213644,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2748,
+		"lotSize": 5663,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 55
+		},
+		"status": "Active",
+		"price": 799900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:14:17.812Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679035",
+		"listingAgent": {
+			"name": "Bridget King Jason Miller",
+			"phone": "2078053716",
+			"email": "info@kingmillerrealestate.com",
+			"website": "http://kingmillerrealestate.com"
+		},
+		"listingOffice": {
+			"name": "King + Miller Real Estate",
+			"phone": "2078053716",
+			"email": "jason@kingmillerrealestate.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 799900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "5-Peaks-Ln,-Cumberland,-ME-04021",
+		"formattedAddress": "5 Peaks Ln, Cumberland, ME 04021",
+		"addressLine1": "5 Peaks Ln",
+		"addressLine2": null,
+		"city": "Cumberland",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04021",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.790038,
+		"longitude": -70.256829,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2349,
+		"lotSize": 20473,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 113
+		},
+		"status": "Active",
+		"price": 1098000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:08:42.465Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679558",
+		"listingAgent": {
+			"name": "Jason Saphire",
+			"phone": "8772495478",
+			"email": "entryonly.lead@gmail.com",
+			"website": "http://www.entryonly.com/"
+		},
+		"listingOffice": {
+			"name": "HomeZu.com",
+			"phone": "8772495478",
+			"email": "listings@homezu.com",
+			"website": "http://www.homezu.com"
+		},
+		"history": {
+			"2024-10-04": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-04T00:00:00.000Z",
+				"removedDate": "2024-10-12T00:00:00.000Z",
+				"daysOnMarket": 8
+			},
+			"2024-10-12": {
+				"event": "Sale Listing",
+				"price": 895000,
+				"listingType": "New Construction",
+				"listedDate": "2024-10-12T00:00:00.000Z",
+				"removedDate": "2025-01-22T00:00:00.000Z",
+				"daysOnMarket": 102
+			},
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 1098000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	}
+]

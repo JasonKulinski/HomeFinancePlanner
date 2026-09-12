@@ -1,0 +1,5258 @@
+[
+	{
+		"id": "19-Signal-St,-Unit-I2,-Sanford,-ME-04083",
+		"formattedAddress": "19 Signal St, Unit I2, Sanford, ME 04083",
+		"addressLine1": "19 Signal St",
+		"addressLine2": "Unit I2",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.464504,
+		"longitude": -70.784103,
+		"propertyType": "Townhouse",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2250,
+		"lotSize": 368953,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 429900,
+		"listingType": "New Construction",
+		"listedDate": "2025-03-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.906Z",
+		"daysOnMarket": 542,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1616615",
+		"listingAgent": {
+			"name": "Danielle Lape",
+			"phone": "2077302476",
+			"email": "danielle@kingrealestate.com",
+			"website": "http://www.kingrealestate.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2024-06-16": {
+				"event": "Sale Listing",
+				"price": 434900,
+				"listingType": "New Construction",
+				"listedDate": "2024-06-16T00:00:00.000Z",
+				"removedDate": "2025-03-01T00:00:00.000Z",
+				"daysOnMarket": 258
+			},
+			"2025-03-20": {
+				"event": "Sale Listing",
+				"price": 429900,
+				"listingType": "New Construction",
+				"listedDate": "2025-03-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 542
+			}
+		}
+	},
+	{
+		"id": "12-Marsh-Brook-Xing,-Sanford,-ME-04073",
+		"formattedAddress": "12 Marsh Brook Xing, Sanford, ME 04073",
+		"addressLine1": "12 Marsh Brook Xing",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.41286,
+		"longitude": -70.664077,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1568,
+		"yearBuilt": 1995,
+		"hoa": {
+			"fee": 900
+		},
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.980Z",
+		"daysOnMarket": 401,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1633588",
+		"listingAgent": {
+			"name": "Matt & Gena Lamontagne, Agent",
+			"phone": "2077490433",
+			"email": "info@wearesellingmaine.com",
+			"website": "http://www.wearesellingmaine.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group, Llc",
+			"phone": "2075364607",
+			"website": "signaturehomesmaine.com"
+		},
+		"history": {
+			"2025-08-08": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 401
+			}
+		}
+	},
+	{
+		"id": "2-Bedrock-Dr,-Unit-2,-Sanford,-ME-04073",
+		"formattedAddress": "2 Bedrock Dr, Unit 2, Sanford, ME 04073",
+		"addressLine1": "2 Bedrock Dr",
+		"addressLine2": "Unit 2",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.412524,
+		"longitude": -70.741194,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1600,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 405900,
+		"listingType": "New Construction",
+		"listedDate": "2025-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.979Z",
+		"daysOnMarket": 399,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1633762",
+		"listingAgent": {
+			"name": "Danielle Lape",
+			"phone": "2077302476",
+			"email": "danielle@kingrealestate.com",
+			"website": "http://www.kingrealestate.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2025-08-10": {
+				"event": "Sale Listing",
+				"price": 405900,
+				"listingType": "New Construction",
+				"listedDate": "2025-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 399
+			}
+		}
+	},
+	{
+		"id": "0-Airport-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "0 Airport Rd, Sanford, ME 04073",
+		"addressLine1": "0 Airport Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.401449,
+		"longitude": -70.725089,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1040,
+		"lotSize": 18731,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 399600,
+		"listingType": "New Construction",
+		"listedDate": "2025-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.977Z",
+		"daysOnMarket": 389,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1634997",
+		"listingAgent": {
+			"name": "Joey Radford",
+			"phone": "2072296134",
+			"email": "joe.radford@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"listingOffice": {
+			"name": "OceanView Properties",
+			"phone": "2072821732",
+			"email": "info@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"history": {
+			"2025-08-20": {
+				"event": "Sale Listing",
+				"price": 399600,
+				"listingType": "New Construction",
+				"listedDate": "2025-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 389
+			}
+		}
+	},
+	{
+		"id": "3-George-St,-Sanford,-ME-04083",
+		"formattedAddress": "3 George St, Sanford, ME 04083",
+		"addressLine1": "3 George St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.466355,
+		"longitude": -70.793187,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 3010,
+		"lotSize": 9148,
+		"yearBuilt": 1898,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-03-18T06:33:07.036Z",
+		"lastSeenDate": "2026-09-12T09:54:55.977Z",
+		"daysOnMarket": 386,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1635343",
+		"listingAgent": {
+			"name": "Daniel Meuse",
+			"phone": "2074509643",
+			"email": "meuserealtypllc@gmail.com",
+			"website": "https://mainefamilyrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2025-08-23": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 386
+			}
+		}
+	},
+	{
+		"id": "21-Signal-St,-Unit-I3,-Sanford,-ME-04083",
+		"formattedAddress": "21 Signal St, Unit I3, Sanford, ME 04083",
+		"addressLine1": "21 Signal St",
+		"addressLine2": "Unit I3",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.464558,
+		"longitude": -70.784004,
+		"propertyType": "Townhouse",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2250,
+		"lotSize": 368953,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 429900,
+		"listingType": "New Construction",
+		"listedDate": "2025-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.975Z",
+		"daysOnMarket": 383,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1635604",
+		"listingAgent": {
+			"name": "Danielle Lape",
+			"phone": "2077302476",
+			"email": "danielle@kingrealestate.com",
+			"website": "http://www.kingrealestate.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2025-08-26": {
+				"event": "Sale Listing",
+				"price": 429900,
+				"listingType": "New Construction",
+				"listedDate": "2025-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 383
+			}
+		}
+	},
+	{
+		"id": "Weymouth-St,-Lot-37,-Sanford,-ME-04073",
+		"formattedAddress": "Weymouth St, Lot 37, Sanford, ME 04073",
+		"addressLine1": "Weymouth St",
+		"addressLine2": "Lot 37",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.438183,
+		"longitude": -70.769497,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1488,
+		"lotSize": 4356,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "New Construction",
+		"listedDate": "2025-11-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.953Z",
+		"daysOnMarket": 312,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642842",
+		"listingAgent": {
+			"name": "Tammy Macpherson",
+			"phone": "6038422833",
+			"email": "bob@teamkelley.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2025-11-05": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "New Construction",
+				"listedDate": "2025-11-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 312
+			}
+		}
+	},
+	{
+		"id": "Bernier-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "Bernier Rd, Sanford, ME 04073",
+		"addressLine1": "Bernier Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.450077,
+		"longitude": -70.712947,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1872,
+		"lotSize": 304484,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 829999,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.917Z",
+		"daysOnMarket": 235,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649953",
+		"listingAgent": {
+			"name": "John Caramihalis",
+			"phone": "2074902900",
+			"email": "johncaramihalis@masiello.com",
+			"website": "http://www.johncaramihalis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2024-08-29": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-29T00:00:00.000Z",
+				"removedDate": "2025-03-01T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2026-01-21": {
+				"event": "Sale Listing",
+				"price": 829999,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 235
+			}
+		}
+	},
+	{
+		"id": "38-Brook-St,-Sanford,-ME-04073",
+		"formattedAddress": "38 Brook St, Sanford, ME 04073",
+		"addressLine1": "38 Brook St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.44321,
+		"longitude": -70.770528,
+		"propertyType": "Multi-Family",
+		"bedrooms": 10,
+		"bathrooms": 3,
+		"squareFootage": 3149,
+		"lotSize": 6534,
+		"yearBuilt": 1817,
+		"status": "Active",
+		"price": 319900,
+		"listingType": "Standard",
+		"listedDate": "2026-01-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-12-11T10:10:27.886Z",
+		"lastSeenDate": "2026-09-12T09:54:55.910Z",
+		"daysOnMarket": 236,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642571",
+		"listingAgent": {
+			"name": "Sarah Donnell",
+			"phone": "2072743733"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2025-11-03": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-03T00:00:00.000Z",
+				"removedDate": "2025-11-16T00:00:00.000Z",
+				"daysOnMarket": 13
+			},
+			"2026-01-20": {
+				"event": "Sale Listing",
+				"price": 319900,
+				"listingType": "Standard",
+				"listedDate": "2026-01-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 236
+			}
+		}
+	},
+	{
+		"id": "Tbd1-Bernier-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "Tbd1 Bernier Rd, Sanford, ME 04073",
+		"addressLine1": "Tbd1 Bernier Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.449985,
+		"longitude": -70.713008,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1552,
+		"lotSize": 238709,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 769999,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.898Z",
+		"daysOnMarket": 236,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649766",
+		"listingAgent": {
+			"name": "John Caramihalis",
+			"phone": "2074902900",
+			"email": "johncaramihalis@masiello.com",
+			"website": "http://www.johncaramihalis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-01-20": {
+				"event": "Sale Listing",
+				"price": 769999,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 236
+			}
+		}
+	},
+	{
+		"id": "New-Dam-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "New Dam Rd, Sanford, ME 04073",
+		"addressLine1": "New Dam Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.435494,
+		"longitude": -70.724366,
+		"propertyType": "Land",
+		"lotSize": 757944,
+		"status": "Active",
+		"price": 209000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.441Z",
+		"daysOnMarket": 151,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657919",
+		"listingAgent": {
+			"name": "Cameron Avery",
+			"phone": "6033037361",
+			"email": "cam.avery@livetheseacoasthomes.com",
+			"website": "http://livetheseacoasthomes.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-04-15": {
+				"event": "Sale Listing",
+				"price": 209000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 151
+			}
+		}
+	},
+	{
+		"id": "Camp-St,-Lot-2,-Sanford,-ME-04073",
+		"formattedAddress": "Camp St, Lot 2, Sanford, ME 04073",
+		"addressLine1": "Camp St",
+		"addressLine2": "Lot 2",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.424571426,
+		"longitude": -70.75798558,
+		"propertyType": "Land",
+		"lotSize": 82764,
+		"status": "Active",
+		"price": 199900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.437Z",
+		"daysOnMarket": 150,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658094",
+		"listingAgent": {
+			"name": "Rebecca Lapierre",
+			"phone": "2076514529",
+			"email": "rebecca@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2026-01-16": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-16T00:00:00.000Z",
+				"removedDate": "2026-04-03T00:00:00.000Z",
+				"daysOnMarket": 77
+			},
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 199900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "7-Bates-St,-Sanford,-ME-04073",
+		"formattedAddress": "7 Bates St, Sanford, ME 04073",
+		"addressLine1": "7 Bates St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.442563,
+		"longitude": -70.766932,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1404,
+		"lotSize": 12632,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 285000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.425Z",
+		"daysOnMarket": 149,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658304",
+		"listingAgent": {
+			"name": "Billie Gammon",
+			"phone": "2078799800",
+			"email": "bjo@kw.com"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2025-09-08": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-08T00:00:00.000Z",
+				"removedDate": "2026-03-07T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-04-17": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 149
+			}
+		}
+	},
+	{
+		"id": "11-Wilson-St,-Sanford,-ME-04073",
+		"formattedAddress": "11 Wilson St, Sanford, ME 04073",
+		"addressLine1": "11 Wilson St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.441017,
+		"longitude": -70.761326,
+		"propertyType": "Land",
+		"lotSize": 5227,
+		"status": "Active",
+		"price": 180000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.379Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659971",
+		"listingAgent": {
+			"name": "Stephen Cabana",
+			"phone": "2073242860",
+			"email": "steve@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2025-07-16": {
+				"event": "Sale Listing",
+				"price": 180000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-16T00:00:00.000Z",
+				"removedDate": "2026-01-17T00:00:00.000Z",
+				"daysOnMarket": 185
+			},
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 180000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "39-Payne-St,-Sanford,-ME-04083",
+		"formattedAddress": "39 Payne St, Sanford, ME 04083",
+		"addressLine1": "39 Payne St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.469321,
+		"longitude": -70.793455,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2308,
+		"lotSize": 22216,
+		"yearBuilt": 1861,
+		"status": "Active",
+		"price": 229900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.378Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659983",
+		"listingAgent": {
+			"name": "Ann Lapierre, Broker/owner",
+			"phone": "2073242860",
+			"email": "ann@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2025-11-10": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2025-11-10T00:00:00.000Z",
+				"removedDate": "2026-04-11T00:00:00.000Z",
+				"daysOnMarket": 152
+			},
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 229900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "22-Thompson-St,-Sanford,-ME-04073",
+		"formattedAddress": "22 Thompson St, Sanford, ME 04073",
+		"addressLine1": "22 Thompson St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444461,
+		"longitude": -70.770012,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1296,
+		"lotSize": 3485,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 289900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.342Z",
+		"daysOnMarket": 129,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661027",
+		"listingAgent": {
+			"name": "Brian Samia",
+			"phone": "8008447653",
+			"email": "brian@samiarealtyme.com",
+			"website": "http://www.c21samiarealty.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-05-07": {
+				"event": "Sale Listing",
+				"price": 289900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 129
+			}
+		}
+	},
+	{
+		"id": "11-Sidetrack-Ln,-Unit-0,-Sanford,-ME-04083",
+		"formattedAddress": "11 Sidetrack Ln, Unit 0, Sanford, ME 04083",
+		"addressLine1": "11 Sidetrack Ln",
+		"addressLine2": "Unit 0",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.464611,
+		"longitude": -70.784683,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1759,
+		"lotSize": 368953,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 160
+		},
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.337Z",
+		"daysOnMarket": 122,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662233",
+		"listingAgent": {
+			"name": "Ardis Bosse",
+			"phone": "6033329500"
+		},
+		"listingOffice": {
+			"name": "Somerset Group Real Estate",
+			"phone": "6035125971",
+			"email": "propertycoordinator247@gmail.com"
+		},
+		"history": {
+			"2026-05-14": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 122
+			}
+		}
+	},
+	{
+		"id": "472-School-St,-Sanford,-ME-04073",
+		"formattedAddress": "472 School St, Sanford, ME 04073",
+		"addressLine1": "472 School St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.420764,
+		"longitude": -70.738154,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2018,
+		"lotSize": 58370,
+		"yearBuilt": 1947,
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-01T05:50:05.889Z",
+		"lastSeenDate": "2026-09-12T09:45:41.743Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663369",
+		"listingAgent": {
+			"name": "Peggy Hill",
+			"phone": "2074234123",
+			"email": "peggy.hill@nemoves.com",
+			"website": "http://peggyhill.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2025-08-11": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-11T00:00:00.000Z",
+				"removedDate": "2025-09-26T00:00:00.000Z",
+				"daysOnMarket": 46
+			},
+			"2026-05-21": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "92-Farview-Dr,-Sanford,-ME-04073",
+		"formattedAddress": "92 Farview Dr, Sanford, ME 04073",
+		"addressLine1": "92 Farview Dr",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.413584,
+		"longitude": -70.758899,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2224,
+		"lotSize": 10890,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 419900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.679Z",
+		"daysOnMarket": 113,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663692",
+		"listingAgent": {
+			"name": "Bill Barbin",
+			"phone": "6039860385",
+			"email": "bill@ilovenorthconway.com",
+			"website": "http://www.ilovenorthconway.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountins Realty",
+			"phone": "6035694663",
+			"email": "ndickey@kw.com",
+			"website": "http://newenglandcoastalrealty.com"
+		},
+		"history": {
+			"2026-05-23": {
+				"event": "Sale Listing",
+				"price": 419900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 113
+			}
+		}
+	},
+	{
+		"id": "27-Emerson-St,-Sanford,-ME-04073",
+		"formattedAddress": "27 Emerson St, Sanford, ME 04073",
+		"addressLine1": "27 Emerson St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.433214,
+		"longitude": -70.777391,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 720,
+		"lotSize": 14375,
+		"yearBuilt": 2019,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.655Z",
+		"daysOnMarket": 100,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665581",
+		"listingOffice": {
+			"name": "Engel & Volkers Portsmouth",
+			"phone": "6034988978",
+			"email": "rosi.andrews@evrealestate.com"
+		},
+		"history": {
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 100
+			}
+		}
+	},
+	{
+		"id": "68-Alfred-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "68 Alfred Rd, Sanford, ME 04073",
+		"addressLine1": "68 Alfred Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.415821,
+		"longitude": -70.741258,
+		"propertyType": "Land",
+		"lotSize": 87120,
+		"status": "Active",
+		"price": 310000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.644Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664990",
+		"listingAgent": {
+			"name": "Michael Anderson",
+			"phone": "2077722422",
+			"email": "mike@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 310000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "5-Kirk-St,-Sanford,-ME-04083",
+		"formattedAddress": "5 Kirk St, Sanford, ME 04083",
+		"addressLine1": "5 Kirk St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.467033,
+		"longitude": -70.800668,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2226,
+		"lotSize": 9148,
+		"yearBuilt": 1913,
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-01T06:45:59.633Z",
+		"lastSeenDate": "2026-09-12T09:45:41.641Z",
+		"daysOnMarket": 108,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664267",
+		"listingAgent": {
+			"name": "Steve Oates",
+			"phone": "6037777908",
+			"email": "steve@soates.com",
+			"website": "https://steveoatesrealestate.com/"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group, Llc",
+			"phone": "6035010463",
+			"email": "chris@alandrealty.com",
+			"website": "http://www.alandrealty.com"
+		},
+		"history": {
+			"2026-05-28": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 108
+			}
+		}
+	},
+	{
+		"id": "1322-Main-St,-Sanford,-ME-04073",
+		"formattedAddress": "1322 Main St, Sanford, ME 04073",
+		"addressLine1": "1322 Main St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.416128,
+		"longitude": -70.750308,
+		"propertyType": "Multi-Family",
+		"bedrooms": 9,
+		"bathrooms": 4,
+		"squareFootage": 4042,
+		"lotSize": 13504,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 580000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-16T11:04:55.684Z",
+		"lastSeenDate": "2026-09-12T09:45:41.628Z",
+		"daysOnMarket": 89,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667473",
+		"listingAgent": {
+			"name": "Gesine Weller",
+			"phone": "8334444755",
+			"email": "gesine@4mainerealty.com",
+			"website": "http://www.4mainerealy.com"
+		},
+		"listingOffice": {
+			"name": "4 Maine Realty",
+			"phone": "8334444755",
+			"email": "gesine@4mainerealty.com"
+		},
+		"history": {
+			"2026-06-16": {
+				"event": "Sale Listing",
+				"price": 580000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 89
+			}
+		}
+	},
+	{
+		"id": "3-Montreal-St,-Sanford,-ME-04073",
+		"formattedAddress": "3 Montreal St, Sanford, ME 04073",
+		"addressLine1": "3 Montreal St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444681,
+		"longitude": -70.767392,
+		"propertyType": "Multi-Family",
+		"bedrooms": 8,
+		"bathrooms": 2,
+		"squareFootage": 2389,
+		"lotSize": 6970,
+		"yearBuilt": 1914,
+		"status": "Active",
+		"price": 380000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.627Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665539",
+		"listingAgent": {
+			"name": "Elias Leland",
+			"phone": "2072825988",
+			"email": "elias.leland@cbrealty.com",
+			"website": "https://eliaslelandrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2025-03-03": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-03T00:00:00.000Z",
+				"removedDate": "2025-08-29T00:00:00.000Z",
+				"daysOnMarket": 179
+			},
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 380000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "380-Oak-St,-Sanford,-ME-04073",
+		"formattedAddress": "380 Oak St, Sanford, ME 04073",
+		"addressLine1": "380 Oak St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.443039,
+		"longitude": -70.815869,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 2248,
+		"lotSize": 414691,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 434900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.616Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667049",
+		"listingAgent": {
+			"name": "Kelly Lehoux",
+			"phone": "2074322699",
+			"email": "kelly@exitoceansiderealty.com",
+			"website": "https://www.yourtattooedagent.com/"
+		},
+		"listingOffice": {
+			"name": "EXIT OCEANSIDE REALTY",
+			"phone": "2076468333",
+			"email": "rick@exitoceansiderealty.com",
+			"website": "www.exitoceansiderealty.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 434900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "63-Rockwood-Dr,-Sanford,-ME-04073",
+		"formattedAddress": "63 Rockwood Dr, Sanford, ME 04073",
+		"addressLine1": "63 Rockwood Dr",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.442059,
+		"longitude": -70.746998,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2148,
+		"lotSize": 54014,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 515000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.612Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666365",
+		"listingAgent": {
+			"name": "Amy Greenleaf",
+			"phone": "2074599794",
+			"email": "amy@exitoceansiderealty.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 515000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "11-Payne-St,-Sanford,-ME-04083",
+		"formattedAddress": "11 Payne St, Sanford, ME 04083",
+		"addressLine1": "11 Payne St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.467046,
+		"longitude": -70.794065,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1186,
+		"lotSize": 4356,
+		"yearBuilt": 1921,
+		"status": "Active",
+		"price": 249900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.667Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669057",
+		"listingAgent": {
+			"name": "Robert Myers",
+			"phone": "2072825988",
+			"email": "robert.myers@nemoves.com",
+			"website": "http://robmyers.cbintouch.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "78-Sam-Allen-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "78 Sam Allen Rd, Sanford, ME 04073",
+		"addressLine1": "78 Sam Allen Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.380373,
+		"longitude": -70.694159,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1712,
+		"lotSize": 41818,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.619Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668669",
+		"listingAgent": {
+			"name": "Tina White",
+			"phone": "2072894347",
+			"email": "tina@townsquarerg.com",
+			"website": "https://townsquarerg.com/agent/tina-white/"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "11-Miller-St,-Sanford,-ME-04073",
+		"formattedAddress": "11 Miller St, Sanford, ME 04073",
+		"addressLine1": "11 Miller St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.438816,
+		"longitude": -70.785492,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3546,
+		"lotSize": 13068,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 455000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.601Z",
+		"daysOnMarket": 67,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670787",
+		"listingAgent": {
+			"name": "Jessie Herod",
+			"phone": "2078799800",
+			"email": "jessieherod@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-08": {
+				"event": "Sale Listing",
+				"price": 455000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 67
+			}
+		}
+	},
+	{
+		"id": "5-Goodwin-St,-Sanford,-ME-04083",
+		"formattedAddress": "5 Goodwin St, Sanford, ME 04083",
+		"addressLine1": "5 Goodwin St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.470483,
+		"longitude": -70.795145,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2172,
+		"lotSize": 3920,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 459900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-05T08:47:53.536Z",
+		"lastSeenDate": "2026-09-12T08:50:22.587Z",
+		"daysOnMarket": 71,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670295",
+		"listingAgent": {
+			"name": "Shaquille Alston",
+			"phone": "2076895741",
+			"email": "shaquillealston0@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2025-10-23": {
+				"event": "Sale Listing",
+				"price": 464900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-23T00:00:00.000Z",
+				"removedDate": "2026-03-15T00:00:00.000Z",
+				"daysOnMarket": 143
+			},
+			"2026-07-04": {
+				"event": "Sale Listing",
+				"price": 459900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 71
+			}
+		}
+	},
+	{
+		"id": "42-Spruce-St,-Sanford,-ME-04073",
+		"formattedAddress": "42 Spruce St, Sanford, ME 04073",
+		"addressLine1": "42 Spruce St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.44426,
+		"longitude": -70.772592,
+		"propertyType": "Multi-Family",
+		"bedrooms": 9,
+		"bathrooms": 6,
+		"squareFootage": 3514,
+		"lotSize": 4356,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 675000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-03-30T11:13:18.300Z",
+		"lastSeenDate": "2026-09-12T08:46:44.956Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671525",
+		"listingAgent": {
+			"name": "Noah Stebbins",
+			"phone": "2077721333",
+			"email": "nstebbins@boulos.com",
+			"website": "http://www.boulos.com"
+		},
+		"listingOffice": {
+			"name": "The Boulos Company",
+			"phone": "2077721333",
+			"email": "nstevens@boulos.com",
+			"website": "http://www.boulos.com"
+		},
+		"history": {
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 675000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "M30-27-Dudley-St,-Sanford,-ME-04073",
+		"formattedAddress": "M30-27 Dudley St, Sanford, ME 04073",
+		"addressLine1": "M30-27 Dudley St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.434628,
+		"longitude": -70.781261,
+		"propertyType": "Land",
+		"lotSize": 10019,
+		"status": "Active",
+		"price": 22500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.939Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672155",
+		"listingAgent": {
+			"name": "Holly Webb",
+			"phone": "2074322991",
+			"email": "holly.webb@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 22500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "44-Redwood-Ln,-Sanford,-ME-04073",
+		"formattedAddress": "44 Redwood Ln, Sanford, ME 04073",
+		"addressLine1": "44 Redwood Ln",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.410455,
+		"longitude": -70.821692,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1872,
+		"lotSize": 61855,
+		"yearBuilt": 2024,
+		"status": "Active",
+		"price": 589900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.935Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672322",
+		"listingAgent": {
+			"name": "Amy Sainteloi",
+			"phone": "8008447653",
+			"email": "asainteloi@c21ne.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 589900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "63-North-Ave,-Sanford,-ME-04073",
+		"formattedAddress": "63 North Ave, Sanford, ME 04073",
+		"addressLine1": "63 North Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.446682,
+		"longitude": -70.770309,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1312,
+		"lotSize": 5227,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 309900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.934Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672324",
+		"listingAgent": {
+			"name": "Donna Nichols",
+			"phone": "2073244866",
+			"email": "donna@dfdnlaw.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 309900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "19-Kilby-St,-Sanford,-ME-04073",
+		"formattedAddress": "19 Kilby St, Sanford, ME 04073",
+		"addressLine1": "19 Kilby St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.437108,
+		"longitude": -70.781718,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2533,
+		"lotSize": 7405,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 489000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.912Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673009",
+		"listingAgent": {
+			"name": "Anchor Real Estate"
+		},
+		"listingOffice": {
+			"name": "Anchor Real Estate",
+			"phone": "2073615007",
+			"email": "jason@anchorrealestatecompany.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 489000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "375-Lebanon-St,-Sanford,-ME-04073",
+		"formattedAddress": "375 Lebanon St, Sanford, ME 04073",
+		"addressLine1": "375 Lebanon St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.429957,
+		"longitude": -70.8071,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1840,
+		"lotSize": 141134,
+		"yearBuilt": 2007,
+		"status": "Active",
+		"price": 580000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.904Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672645",
+		"listingAgent": {
+			"name": "Kayladyer@masiello.com Kayladyer@masiello.com",
+			"phone": "2074328828",
+			"email": "kayladyer@masiello.com",
+			"website": "https://www.kayladyer.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 580000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "26-Nason-St,-Sanford,-ME-04073",
+		"formattedAddress": "26 Nason St, Sanford, ME 04073",
+		"addressLine1": "26 Nason St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.440473,
+		"longitude": -70.780476,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 4460,
+		"lotSize": 2178,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 324950,
+		"listingType": "Standard",
+		"listedDate": "2026-07-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.892Z",
+		"daysOnMarket": 56,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672522",
+		"listingAgent": {
+			"name": "Tasha Massey",
+			"phone": "2077545058",
+			"email": "tashamassy@rogcompass.com",
+			"website": "https://www.facebook.com/tashalmasseyrog/"
+		},
+		"listingOffice": {
+			"name": "On Point Realty",
+			"phone": "2077545058",
+			"email": "tashamasseyrealty@gmail.com"
+		},
+		"history": {
+			"2026-07-19": {
+				"event": "Sale Listing",
+				"price": 324950,
+				"listingType": "Standard",
+				"listedDate": "2026-07-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 56
+			}
+		}
+	},
+	{
+		"id": "9-Chestnut-St,-Sanford,-ME-04083",
+		"formattedAddress": "9 Chestnut St, Sanford, ME 04083",
+		"addressLine1": "9 Chestnut St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.466506,
+		"longitude": -70.794893,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1120,
+		"lotSize": 3049,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.888Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672982",
+		"listingAgent": {
+			"name": "Amanda Tanguay",
+			"phone": "2074902900",
+			"email": "amandatanguay@masiello.com",
+			"website": "https://www.amandatanguay.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Bedard Homes and Realty",
+			"phone": "2077101908",
+			"email": "victoria.bedardrealty@gmail.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "54-High-St,-Sanford,-ME-04073",
+		"formattedAddress": "54 High St, Sanford, ME 04073",
+		"addressLine1": "54 High St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.442592,
+		"longitude": -70.768923,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1240,
+		"lotSize": 5227,
+		"yearBuilt": 1872,
+		"status": "Active",
+		"price": 197500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.875Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673746",
+		"listingAgent": {
+			"name": "Ann Lapierre, Broker/owner",
+			"phone": "2073242860",
+			"email": "ann@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 197500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "471-Twombley-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "471 Twombley Rd, Sanford, ME 04073",
+		"addressLine1": "471 Twombley Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.408128,
+		"longitude": -70.778743,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 3044,
+		"lotSize": 313632,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 985665,
+		"listingType": "Standard",
+		"listedDate": "2026-07-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.868Z",
+		"daysOnMarket": 48,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673657",
+		"listingAgent": {
+			"name": "Kathleen Mcclelland, Broker",
+			"phone": "2076538482",
+			"email": "kathy@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-07-27": {
+				"event": "Sale Listing",
+				"price": 985665,
+				"listingType": "Standard",
+				"listedDate": "2026-07-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 48
+			}
+		}
+	},
+	{
+		"id": "136-Harry-Howes-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "136 Harry Howes Rd, Sanford, ME 04073",
+		"addressLine1": "136 Harry Howes Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.438806,
+		"longitude": -70.800628,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 2830,
+		"lotSize": 435600,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 950000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.861Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673437",
+		"listingAgent": {
+			"name": "Maryam Wyant",
+			"phone": "8008447653",
+			"email": "mwyant@c21ne.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 950000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "12-Sidetrack-Ln,-Unit-12,-Sanford,-ME-04083",
+		"formattedAddress": "12 Sidetrack Ln, Unit 12, Sanford, ME 04083",
+		"addressLine1": "12 Sidetrack Ln",
+		"addressLine2": "Unit 12",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.464236,
+		"longitude": -70.784745,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1750,
+		"lotSize": 368953,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 160
+		},
+		"status": "Active",
+		"price": 391000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.858Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673769",
+		"listingAgent": {
+			"name": "Jonathan Mcinnis",
+			"phone": "6039183323",
+			"email": "jonathan.mcinnis@beangroup.com"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 391000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "10-Sugar-Hill-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "10 Sugar Hill Rd, Sanford, ME 04073",
+		"addressLine1": "10 Sugar Hill Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.424007,
+		"longitude": -70.779701,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2100,
+		"lotSize": 24394,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 545000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.905Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674771",
+		"listingAgent": {
+			"name": "Stephen Foglio, Broker",
+			"phone": "2076369996",
+			"email": "steve@realestate2000menh.com",
+			"website": "http://www.realestate2000menh.com"
+		},
+		"listingOffice": {
+			"name": "Real Estate 2000 ME/NH",
+			"phone": "2076369996",
+			"email": "info@realestate2000menh.com",
+			"website": "http://www.realestate2000menh.com"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 545000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "8-Eastman-Rd,-Sanford,-ME-04083",
+		"formattedAddress": "8 Eastman Rd, Sanford, ME 04083",
+		"addressLine1": "8 Eastman Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.459281,
+		"longitude": -70.793869,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3634,
+		"lotSize": 29621,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 529900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.862Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674702",
+		"listingAgent": {
+			"name": "Brinn Page",
+			"phone": "2074902900",
+			"email": "brinnpage@masiello.com",
+			"website": "https://www.brinnpage.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 529900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "167-Sunset-Rd,-Sanford,-ME-04083",
+		"formattedAddress": "167 Sunset Rd, Sanford, ME 04083",
+		"addressLine1": "167 Sunset Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.466696,
+		"longitude": -70.848783,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1768,
+		"lotSize": 119790,
+		"yearBuilt": 1983,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.851Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675125",
+		"listingAgent": {
+			"name": "Tina White",
+			"phone": "2072894347",
+			"email": "tina@townsquarerg.com",
+			"website": "https://townsquarerg.com/agent/tina-white/"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "23-Oxford-St,-Sanford,-ME-04073",
+		"formattedAddress": "23 Oxford St, Sanford, ME 04073",
+		"addressLine1": "23 Oxford St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.438258,
+		"longitude": -70.781653,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1665,
+		"lotSize": 6970,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.822Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675834",
+		"listingAgent": {
+			"name": "Brinn Page",
+			"phone": "2074902900",
+			"email": "brinnpage@masiello.com",
+			"website": "https://www.brinnpage.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "23-Cottage-St,-Sanford,-ME-04073",
+		"formattedAddress": "23 Cottage St, Sanford, ME 04073",
+		"addressLine1": "23 Cottage St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444209,
+		"longitude": -70.773596,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1330,
+		"lotSize": 5663,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 295000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.814Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675171",
+		"listingAgent": {
+			"name": "Brian Samia",
+			"phone": "8008447653",
+			"email": "brian@samiarealtyme.com",
+			"website": "http://www.c21samiarealty.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "17-Phillipstown-Ln,-Unit-17,-Sanford,-ME-04073",
+		"formattedAddress": "17 Phillipstown Ln, Unit 17, Sanford, ME 04073",
+		"addressLine1": "17 Phillipstown Ln",
+		"addressLine2": "Unit 17",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.428833,
+		"longitude": -70.766768,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 900,
+		"lotSize": 84942,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 140
+		},
+		"status": "Active",
+		"price": 190000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.789Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676339",
+		"listingAgent": {
+			"name": "Emilee Allen",
+			"phone": "2072825988",
+			"email": "edallen2023@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 190000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "550-Main-St,-Sanford,-ME-04083",
+		"formattedAddress": "550 Main St, Sanford, ME 04083",
+		"addressLine1": "550 Main St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.460607,
+		"longitude": -70.792928,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1426,
+		"lotSize": 5663,
+		"yearBuilt": 1923,
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-05T05:07:10.859Z",
+		"lastSeenDate": "2026-09-12T07:35:34.779Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676474",
+		"listingAgent": {
+			"name": "Kim Carignan",
+			"phone": "2078928100",
+			"email": "kimcarignan@masiello.com",
+			"website": "https://kimcarignan.masiello.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2025-01-10": {
+				"event": "Sale Listing",
+				"price": 368000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-10T00:00:00.000Z",
+				"removedDate": "2025-01-17T00:00:00.000Z",
+				"daysOnMarket": 7
+			},
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "137-Stebbins-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "137 Stebbins Rd, Sanford, ME 04073",
+		"addressLine1": "137 Stebbins Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.409817,
+		"longitude": -70.677117,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1287,
+		"lotSize": 40946,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.771Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676609",
+		"listingAgent": {
+			"name": "Julie Davis",
+			"phone": "6035341480",
+			"email": "julierene.davis@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "21B-Blanchard-Rd,-Sanford,-ME-04083",
+		"formattedAddress": "21B Blanchard Rd, Sanford, ME 04083",
+		"addressLine1": "21B Blanchard Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.464176,
+		"longitude": -70.833611,
+		"propertyType": "Land",
+		"lotSize": 509652,
+		"status": "Active",
+		"price": 988000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.767Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676669",
+		"listingAgent": {
+			"name": "Jessica Girard",
+			"phone": "2079673883",
+			"email": "jgirard@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 988000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "13-Eastview-Dr,-Sanford,-ME-04073",
+		"formattedAddress": "13 Eastview Dr, Sanford, ME 04073",
+		"addressLine1": "13 Eastview Dr",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.408324,
+		"longitude": -70.756526,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2256,
+		"lotSize": 23087,
+		"yearBuilt": 1980,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.761Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676727",
+		"listingAgent": {
+			"name": "Nola Cady",
+			"phone": "2074750999",
+			"email": "nola@kw.com",
+			"website": "www.nola.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2024-08-23": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-23T00:00:00.000Z",
+				"removedDate": "2024-10-11T00:00:00.000Z",
+				"daysOnMarket": 49
+			},
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "18-Marsh-Brook-Xing,-Sanford,-ME-04073",
+		"formattedAddress": "18 Marsh Brook Xing, Sanford, ME 04073",
+		"addressLine1": "18 Marsh Brook Xing",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.413128,
+		"longitude": -70.663665,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1428,
+		"yearBuilt": 1996,
+		"hoa": {
+			"fee": 720
+		},
+		"status": "Active",
+		"price": 244900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.754Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676764",
+		"listingAgent": {
+			"name": "Kelli Genest",
+			"phone": "8002872622",
+			"email": "kelli@exitkeyrealestate.com",
+			"website": "https://www.exitkeyrealestate.com/agents/4-kelli-genest/"
+		},
+		"listingOffice": {
+			"name": "Lakes Region Realty",
+			"phone": "2076362818",
+			"email": "lakeladies1@gmail.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 244900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "51-Lenox-St,-Sanford,-ME-04073",
+		"formattedAddress": "51 Lenox St, Sanford, ME 04073",
+		"addressLine1": "51 Lenox St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.432406,
+		"longitude": -70.76509,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2052,
+		"lotSize": 13068,
+		"yearBuilt": 1923,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.716Z",
+		"daysOnMarket": 21,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677385",
+		"listingAgent": {
+			"name": "Dorinda Stark",
+			"phone": "2079679900",
+			"email": "rindy.stark@cbrealty.com",
+			"website": "https://www.realtor.com/realestateagents/rindy-stark_wells_me_1052079_666894925"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-02-23": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-23T00:00:00.000Z",
+				"removedDate": "2026-08-21T00:00:00.000Z",
+				"daysOnMarket": 179
+			},
+			"2026-08-23": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 21
+			}
+		}
+	},
+	{
+		"id": "13-Island-Ave,-Sanford,-ME-04073",
+		"formattedAddress": "13 Island Ave, Sanford, ME 04073",
+		"addressLine1": "13 Island Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.443305,
+		"longitude": -70.768994,
+		"propertyType": "Land",
+		"lotSize": 2614,
+		"status": "Active",
+		"price": 15000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.701Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677518",
+		"listingAgent": {
+			"name": "John Caramihalis",
+			"phone": "2074902900",
+			"email": "johncaramihalis@masiello.com",
+			"website": "http://www.johncaramihalis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-08-21": {
+				"event": "Sale Listing",
+				"price": 29900,
+				"listingType": "Standard",
+				"listedDate": "2025-08-21T00:00:00.000Z",
+				"removedDate": "2025-08-30T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 15000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "49-North-Ave,-Sanford,-ME-04073",
+		"formattedAddress": "49 North Ave, Sanford, ME 04073",
+		"addressLine1": "49 North Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.446062,
+		"longitude": -70.76972,
+		"propertyType": "Land",
+		"lotSize": 5663,
+		"status": "Active",
+		"price": 20000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.698Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677513",
+		"listingAgent": {
+			"name": "John Caramihalis",
+			"phone": "2074902900",
+			"email": "johncaramihalis@masiello.com",
+			"website": "http://www.johncaramihalis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-08-21": {
+				"event": "Sale Listing",
+				"price": 47500,
+				"listingType": "Standard",
+				"listedDate": "2025-08-21T00:00:00.000Z",
+				"removedDate": "2025-08-30T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 20000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "11-Glen-St,-Sanford,-ME-04073",
+		"formattedAddress": "11 Glen St, Sanford, ME 04073",
+		"addressLine1": "11 Glen St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.430921,
+		"longitude": -70.778129,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1680,
+		"lotSize": 13068,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 419000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.698Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677595",
+		"listingAgent": {
+			"name": "Patrick Luizzo",
+			"phone": "2075202522",
+			"email": "patrickluizzo@rogcompass.com"
+		},
+		"listingOffice": {
+			"name": "Townsend Real Estate",
+			"phone": "2078429200",
+			"email": "ktownsend@townsendre.com;info@townsendre.com",
+			"website": "http://www.townsendre.com"
+		},
+		"history": {
+			"2025-06-26": {
+				"event": "Sale Listing",
+				"price": 224900,
+				"listingType": "Standard",
+				"listedDate": "2025-06-26T00:00:00.000Z",
+				"removedDate": "2025-09-20T00:00:00.000Z",
+				"daysOnMarket": 86
+			},
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 419000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "22-North-Ave,-Sanford,-ME-04073",
+		"formattedAddress": "22 North Ave, Sanford, ME 04073",
+		"addressLine1": "22 North Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444566,
+		"longitude": -70.768995,
+		"propertyType": "Land",
+		"lotSize": 2614,
+		"status": "Active",
+		"price": 20000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.696Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677517",
+		"listingAgent": {
+			"name": "John Caramihalis",
+			"phone": "2074902900",
+			"email": "johncaramihalis@masiello.com",
+			"website": "http://www.johncaramihalis.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-08-21": {
+				"event": "Sale Listing",
+				"price": 39900,
+				"listingType": "Standard",
+				"listedDate": "2025-08-21T00:00:00.000Z",
+				"removedDate": "2025-08-30T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 20000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "11-St-Louis-St,-Sanford,-ME-04073",
+		"formattedAddress": "11 St Louis St, Sanford, ME 04073",
+		"addressLine1": "11 St Louis St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.446276,
+		"longitude": -70.767585,
+		"propertyType": "Multi-Family",
+		"lotSize": 4792,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 374900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.690Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677254",
+		"listingAgent": {
+			"name": "Stephen Foglio, Broker",
+			"phone": "2076369996",
+			"email": "steve@realestate2000menh.com",
+			"website": "http://www.realestate2000menh.com"
+		},
+		"listingOffice": {
+			"name": "Real Estate 2000 ME/NH",
+			"phone": "2076369996",
+			"email": "info@realestate2000menh.com",
+			"website": "http://www.realestate2000menh.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 374900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "103-Grammar-St,-Sanford,-ME-04073",
+		"formattedAddress": "103 Grammar St, Sanford, ME 04073",
+		"addressLine1": "103 Grammar St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.449169,
+		"longitude": -70.759448,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1326,
+		"lotSize": 10454,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 359000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.684Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677530",
+		"listingAgent": {
+			"name": "Carol Levesque",
+			"phone": "2076365119",
+			"email": "carol@svrteam.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 359000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "Gallant-Ave,-Lot-3,-Sanford,-ME-04073",
+		"formattedAddress": "Gallant Ave, Lot 3, Sanford, ME 04073",
+		"addressLine1": "Gallant Ave",
+		"addressLine2": "Lot 3",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.429706,
+		"longitude": -70.829764,
+		"propertyType": "Land",
+		"lotSize": 178596,
+		"hoa": {
+			"fee": 6
+		},
+		"status": "Active",
+		"price": 140000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.683Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677681",
+		"listingAgent": {
+			"name": "Melanie Graham",
+			"phone": "9784571247",
+			"email": "mel@goldfinchmaine.com",
+			"website": "http://goldfinchmaine.com"
+		},
+		"listingOffice": {
+			"name": "Goldfinch Realty",
+			"phone": "2074242003",
+			"email": "mel@goldfinchmaine.com"
+		},
+		"history": {
+			"2025-07-08": {
+				"event": "Sale Listing",
+				"price": 157900,
+				"listingType": "Standard",
+				"listedDate": "2025-07-08T00:00:00.000Z",
+				"removedDate": "2025-08-21T00:00:00.000Z",
+				"daysOnMarket": 44
+			},
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 140000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "12-Deborah-Ave,-Sanford,-ME-04073",
+		"formattedAddress": "12 Deborah Ave, Sanford, ME 04073",
+		"addressLine1": "12 Deborah Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.421809,
+		"longitude": -70.761551,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2352,
+		"lotSize": 10019,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 545000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.679Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677711",
+		"listingAgent": {
+			"name": "Linda Ditomaso",
+			"phone": "8016952284",
+			"email": "lindad@oceanviewproperties.net"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2026-08-03": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-03T00:00:00.000Z",
+				"removedDate": "2026-08-21T00:00:00.000Z",
+				"daysOnMarket": 18
+			},
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 545000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "34-Lavalley-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "34 Lavalley Rd, Sanford, ME 04073",
+		"addressLine1": "34 Lavalley Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.432552,
+		"longitude": -70.696255,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1512,
+		"lotSize": 66211,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 220000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.771Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677869",
+		"listingAgent": {
+			"name": "Michelle Allen",
+			"phone": "2076326767",
+			"email": "michelle@yorkmaine.com",
+			"website": "www.yorkmaine.com/agent/michelle-allen/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Realty One",
+			"phone": "2073632497",
+			"email": "admin@yorkmaine.com",
+			"website": "http://www.southernmainehomes.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 220000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "459-Hanson-Ridge-Rd,-Sanford,-ME-04083",
+		"formattedAddress": "459 Hanson Ridge Rd, Sanford, ME 04083",
+		"addressLine1": "459 Hanson Ridge Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.458108,
+		"longitude": -70.817992,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2580,
+		"lotSize": 83200,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 1150000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.765Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677909",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "623-Country-Club-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "623 Country Club Rd, Sanford, ME 04073",
+		"addressLine1": "623 Country Club Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.36989,
+		"longitude": -70.7346,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2534,
+		"lotSize": 120226,
+		"yearBuilt": 1987,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-10T08:15:34.756Z",
+		"lastSeenDate": "2026-09-12T06:55:56.762Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677939",
+		"listingAgent": {
+			"name": "Joshua Lagasse",
+			"phone": "2072513701",
+			"email": "josh@lagasseteam.com",
+			"website": "http://www.joshknowsmaine.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Realty One",
+			"phone": "2073632497",
+			"email": "admin@yorkmaine.com",
+			"website": "http://www.southernmainehomes.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "Gatehouse-Rd,-Lot-1,-Sanford,-ME-04073",
+		"formattedAddress": "Gatehouse Rd, Lot 1, Sanford, ME 04073",
+		"addressLine1": "Gatehouse Rd",
+		"addressLine2": "Lot 1",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.392299,
+		"longitude": -70.719839,
+		"propertyType": "Land",
+		"lotSize": 49223,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.741Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678088",
+		"listingAgent": {
+			"name": "Brian Samia",
+			"phone": "8008447653",
+			"email": "brian@samiarealtyme.com",
+			"website": "http://www.c21samiarealty.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2025-02-04": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-04T00:00:00.000Z",
+				"removedDate": "2025-09-18T00:00:00.000Z",
+				"daysOnMarket": 226
+			},
+			"2025-11-20": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-20T00:00:00.000Z",
+				"removedDate": "2026-02-03T00:00:00.000Z",
+				"daysOnMarket": 75
+			},
+			"2026-02-12": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-12T00:00:00.000Z",
+				"removedDate": "2026-08-13T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "Gatehouse-Rd,-Lot-2,-Sanford,-ME-04073",
+		"formattedAddress": "Gatehouse Rd, Lot 2, Sanford, ME 04073",
+		"addressLine1": "Gatehouse Rd",
+		"addressLine2": "Lot 2",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.391792,
+		"longitude": -70.719811,
+		"propertyType": "Land",
+		"lotSize": 47916,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.739Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678089",
+		"listingAgent": {
+			"name": "Brian Samia",
+			"phone": "8008447653",
+			"email": "brian@samiarealtyme.com",
+			"website": "http://www.c21samiarealty.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2025-02-04": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-04T00:00:00.000Z",
+				"removedDate": "2025-09-18T00:00:00.000Z",
+				"daysOnMarket": 226
+			},
+			"2025-11-20": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-20T00:00:00.000Z",
+				"removedDate": "2026-02-03T00:00:00.000Z",
+				"daysOnMarket": 75
+			},
+			"2026-02-12": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-12T00:00:00.000Z",
+				"removedDate": "2026-08-13T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "Gatehouse-Rd,-Lot-3,-Sanford,-ME-04073",
+		"formattedAddress": "Gatehouse Rd, Lot 3, Sanford, ME 04073",
+		"addressLine1": "Gatehouse Rd",
+		"addressLine2": "Lot 3",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.400898,
+		"longitude": -70.71807,
+		"propertyType": "Land",
+		"lotSize": 49223,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.738Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678092",
+		"listingAgent": {
+			"name": "Brian Samia",
+			"phone": "8008447653",
+			"email": "brian@samiarealtyme.com",
+			"website": "http://www.c21samiarealty.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2025-02-04": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-04T00:00:00.000Z",
+				"removedDate": "2025-09-18T00:00:00.000Z",
+				"daysOnMarket": 226
+			},
+			"2025-11-20": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-20T00:00:00.000Z",
+				"removedDate": "2026-02-03T00:00:00.000Z",
+				"daysOnMarket": 75
+			},
+			"2026-02-12": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-12T00:00:00.000Z",
+				"removedDate": "2026-08-13T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "156-Milton-Ave,-Sanford,-ME-04073",
+		"formattedAddress": "156 Milton Ave, Sanford, ME 04073",
+		"addressLine1": "156 Milton Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.415234,
+		"longitude": -70.767258,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1582,
+		"lotSize": 22651,
+		"yearBuilt": 1992,
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.724Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678108",
+		"listingAgent": {
+			"name": "Mary-ellen Prescott",
+			"phone": "2079679900",
+			"email": "maryellen.prescott@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "46-Tanguay-St,-Sanford,-ME-04073",
+		"formattedAddress": "46 Tanguay St, Sanford, ME 04073",
+		"addressLine1": "46 Tanguay St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444944,
+		"longitude": -70.76712,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1068,
+		"lotSize": 3485,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 269900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.721Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678241",
+		"listingAgent": {
+			"name": "Joyce Veroneau",
+			"phone": "2077526209",
+			"email": "joyce.veroneau@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com/me/kennebunk/agent/joyce-veroneau/aid_221806/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 269900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "14-Hammond-St,-Sanford,-ME-04073",
+		"formattedAddress": "14 Hammond St, Sanford, ME 04073",
+		"addressLine1": "14 Hammond St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444041,
+		"longitude": -70.769102,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1224,
+		"lotSize": 2614,
+		"yearBuilt": 1902,
+		"status": "Active",
+		"price": 280000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.720Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678234",
+		"listingAgent": {
+			"name": "Brian Samia",
+			"phone": "8008447653",
+			"email": "brian@samiarealtyme.com",
+			"website": "http://www.c21samiarealty.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 280000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "7-Pioneer-Ave,-Sanford,-ME-04073",
+		"formattedAddress": "7 Pioneer Ave, Sanford, ME 04073",
+		"addressLine1": "7 Pioneer Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.440098,
+		"longitude": -70.773483,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"squareFootage": 1120,
+		"lotSize": 4356,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 105000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.716Z",
+		"daysOnMarket": 14,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678347",
+		"listingAgent": {
+			"name": "Autumn Celeste Potter",
+			"phone": "7706395227",
+			"email": "autumncelestere@gmail.com",
+			"website": "https://www.facebook.com/autumncelestere"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-30": {
+				"event": "Sale Listing",
+				"price": 105000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 14
+			}
+		}
+	},
+	{
+		"id": "47-Spencer-Hill-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "47 Spencer Hill Rd, Sanford, ME 04073",
+		"addressLine1": "47 Spencer Hill Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.408494,
+		"longitude": -70.730578,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1560,
+		"lotSize": 10890,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 13
+		},
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.713Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678380",
+		"listingAgent": {
+			"name": "Pam Moody-maxon",
+			"phone": "2072513585",
+			"email": "pam@moodymaxon.com",
+			"website": "http://www.moodymaxon.com"
+		},
+		"listingOffice": {
+			"name": "Moody Maxon Real Estate",
+			"phone": "2072513585",
+			"email": "pam@moodymaxon.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "R6-41-4-Railroad-Ave,-Sanford,-ME-04083",
+		"formattedAddress": "R6-41-4 Railroad Ave, Sanford, ME 04083",
+		"addressLine1": "R6-41-4 Railroad Ave",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.473339,
+		"longitude": -70.777806,
+		"propertyType": "Land",
+		"lotSize": 148104,
+		"status": "Active",
+		"price": 89000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.712Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678549",
+		"listingAgent": {
+			"name": "Stephen Cabana",
+			"phone": "2073242860",
+			"email": "steve@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 89000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "Harry-Howes-Rd,-Lot-1,-Sanford,-ME-04073",
+		"formattedAddress": "Harry Howes Rd, Lot 1, Sanford, ME 04073",
+		"addressLine1": "Harry Howes Rd",
+		"addressLine2": "Lot 1",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.439228,
+		"longitude": -70.795802,
+		"propertyType": "Land",
+		"lotSize": 41382,
+		"status": "Active",
+		"price": 95000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.708Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678389",
+		"listingAgent": {
+			"name": "Maryam Wyant",
+			"phone": "8008447653",
+			"email": "mwyant@c21ne.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 95000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "241-Sam-Allen-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "241 Sam Allen Rd, Sanford, ME 04073",
+		"addressLine1": "241 Sam Allen Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.373806,
+		"longitude": -70.704853,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1900,
+		"lotSize": 189922,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 612500,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.708Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678750",
+		"listingAgent": {
+			"name": "Jason Saphire",
+			"phone": "8772495478",
+			"email": "entryonly.lead@gmail.com",
+			"website": "http://www.entryonly.com/"
+		},
+		"listingOffice": {
+			"name": "HomeZu.com",
+			"phone": "8772495478",
+			"email": "listings@homezu.com",
+			"website": "http://www.homezu.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 612500,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "7-Juniper-Ln,-Sanford,-ME-04073",
+		"formattedAddress": "7 Juniper Ln, Sanford, ME 04073",
+		"addressLine1": "7 Juniper Ln",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.4162,
+		"longitude": -70.66882,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1968,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 239000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.706Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678496",
+		"listingAgent": {
+			"name": "Debra Ann Morse",
+			"phone": "8778333999",
+			"email": "dmorseandcompany@gmail.com",
+			"website": "https://dmorseandcompany.com"
+		},
+		"listingOffice": {
+			"name": "Startpoint Realty",
+			"phone": "9784223999",
+			"email": "jeffreybastress@gmail.com",
+			"website": "http://www.startpoint.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 239000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "7-Mill-St,-Apt-1,-Sanford,-ME-04083",
+		"formattedAddress": "7 Mill St, Apt 1, Sanford, ME 04083",
+		"addressLine1": "7 Mill St",
+		"addressLine2": "Apt 1",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.467518,
+		"longitude": -70.797379,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1518,
+		"lotSize": 28750,
+		"yearBuilt": 1864,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 294900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.689Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679073",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 294900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "7-Mill-St,-Apt-5,-Sanford,-ME-04083",
+		"formattedAddress": "7 Mill St, Apt 5, Sanford, ME 04083",
+		"addressLine1": "7 Mill St",
+		"addressLine2": "Apt 5",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.467462,
+		"longitude": -70.79737,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1370,
+		"lotSize": 28750,
+		"yearBuilt": 1864,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 289900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.282Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679661",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 289900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "7-Mill-St,-Apt-4,-Sanford,-ME-04083",
+		"formattedAddress": "7 Mill St, Apt 4, Sanford, ME 04083",
+		"addressLine1": "7 Mill St",
+		"addressLine2": "Apt 4",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.467518,
+		"longitude": -70.797379,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1072,
+		"lotSize": 28750,
+		"yearBuilt": 1864,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.280Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679638",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "34-Oak-St,-Sanford,-ME-04083",
+		"formattedAddress": "34 Oak St, Sanford, ME 04083",
+		"addressLine1": "34 Oak St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.46376,
+		"longitude": -70.798896,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1575,
+		"lotSize": 5227,
+		"yearBuilt": 1914,
+		"status": "Active",
+		"price": 359900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.189Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679310",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 359900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": "2026-08-22T00:00:00.000Z",
+				"daysOnMarket": 8
+			},
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 359900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "1-New-Hampshire-St,-Sanford,-ME-04073",
+		"formattedAddress": "1 New Hampshire St, Sanford, ME 04073",
+		"addressLine1": "1 New Hampshire St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.430576,
+		"longitude": -70.770524,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1316,
+		"lotSize": 4792,
+		"yearBuilt": 1929,
+		"status": "Active",
+		"price": 359900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.188Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679329",
+		"listingAgent": {
+			"name": "Joyce Veroneau",
+			"phone": "2077526209",
+			"email": "joyce.veroneau@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com/me/kennebunk/agent/joyce-veroneau/aid_221806/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 359900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "Rockwood-Dr,-Sanford,-ME-04073",
+		"formattedAddress": "Rockwood Dr, Sanford, ME 04073",
+		"addressLine1": "Rockwood Dr",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.442023,
+		"longitude": -70.745637,
+		"propertyType": "Land",
+		"lotSize": 1187881,
+		"status": "Active",
+		"price": 225000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.175Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679450",
+		"listingAgent": {
+			"name": "Lisa Hughes",
+			"phone": "2072825988",
+			"email": "lisa.hughes@cbrealty.com",
+			"website": "https://lisahughesrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-04-18": {
+				"event": "Sale Listing",
+				"price": 269900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-18T00:00:00.000Z",
+				"removedDate": "2026-05-27T00:00:00.000Z",
+				"daysOnMarket": 39
+			},
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "31-Pleasant-St,-Sanford,-ME-04083",
+		"formattedAddress": "31 Pleasant St, Sanford, ME 04083",
+		"addressLine1": "31 Pleasant St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.465011,
+		"longitude": -70.792531,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1294,
+		"lotSize": 5663,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 239895,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.174Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679465",
+		"listingAgent": {
+			"name": "Jonathan Minerick",
+			"phone": "8884002513",
+			"email": "info@homecoin.com"
+		},
+		"listingOffice": {
+			"name": "HOMECOIN.COM",
+			"phone": "8884002513",
+			"email": "info@homecoin.com",
+			"website": "homecoin.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 239895,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "7-Mill-St,-Apt-2,-Sanford,-ME-04083",
+		"formattedAddress": "7 Mill St, Apt 2, Sanford, ME 04083",
+		"addressLine1": "7 Mill St",
+		"addressLine2": "Apt 2",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.467518,
+		"longitude": -70.797379,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1432,
+		"lotSize": 28750,
+		"yearBuilt": 1864,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 274900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.171Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679563",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 274900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "106-Westview-Dr,-Sanford,-ME-04073",
+		"formattedAddress": "106 Westview Dr, Sanford, ME 04073",
+		"addressLine1": "106 Westview Dr",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.409154,
+		"longitude": -70.754712,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1536,
+		"lotSize": 152460,
+		"yearBuilt": 2024,
+		"status": "Active",
+		"price": 580000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.168Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679602",
+		"listingAgent": {
+			"name": "Tanya Campbell",
+			"phone": "2074750999",
+			"email": "tanyacampbell@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2024-06-26": {
+				"event": "Sale Listing",
+				"price": 539000,
+				"listingType": "New Construction",
+				"listedDate": "2024-06-26T00:00:00.000Z",
+				"removedDate": "2024-12-14T00:00:00.000Z",
+				"daysOnMarket": 171
+			},
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 580000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "19-Tricia-Ct,-Sanford,-ME-04073",
+		"formattedAddress": "19 Tricia Ct, Sanford, ME 04073",
+		"addressLine1": "19 Tricia Ct",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.422422,
+		"longitude": -70.764068,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1676,
+		"lotSize": 13504,
+		"yearBuilt": 2002,
+		"status": "Active",
+		"price": 459000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.163Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679866",
+		"listingAgent": {
+			"name": "Helen Curry",
+			"phone": "2079675481",
+			"email": "hcurry@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"listingOffice": {
+			"name": "KENNEBUNK BEACH REALTY",
+			"phone": "2079675481",
+			"email": "gail@kennebunkbeachrealty.com;kbr@kennebunkbeachrealty.com",
+			"website": "http://www.kennebunkbeachrealty.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 459000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "311-Main-St,-Sanford,-ME-04083",
+		"formattedAddress": "311 Main St, Sanford, ME 04083",
+		"addressLine1": "311 Main St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.471889,
+		"longitude": -70.809109,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1312,
+		"lotSize": 10019,
+		"yearBuilt": 1850,
+		"status": "Active",
+		"price": 185000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-02-05T09:00:57.954Z",
+		"lastSeenDate": "2026-09-12T06:33:44.139Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679852",
+		"listingAgent": {
+			"name": "Peggy Hill",
+			"phone": "2074234123",
+			"email": "peggy.hill@nemoves.com",
+			"website": "http://peggyhill.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2026-03-13": {
+				"event": "Sale Listing",
+				"price": 185000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-13T00:00:00.000Z",
+				"removedDate": "2026-08-15T00:00:00.000Z",
+				"daysOnMarket": 155
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 185000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "9-Gove-St,-Sanford,-ME-04073",
+		"formattedAddress": "9 Gove St, Sanford, ME 04073",
+		"addressLine1": "9 Gove St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.428102,
+		"longitude": -70.769192,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1176,
+		"lotSize": 566280,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.136Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680066",
+		"listingAgent": {
+			"name": "Mark Zoeller | The Zoeller Group",
+			"phone": "6036108560",
+			"email": "mark@tzghomes.com",
+			"website": "http://www.thezoellergroup.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "7-Mill-St,-Apt-3,-Sanford,-ME-04083",
+		"formattedAddress": "7 Mill St, Apt 3, Sanford, ME 04083",
+		"addressLine1": "7 Mill St",
+		"addressLine2": "Apt 3",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04083",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.467518,
+		"longitude": -70.797379,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1665,
+		"lotSize": 28750,
+		"yearBuilt": 1864,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.128Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679784",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "11-Granite-Dr,-Unit-0,-Sanford,-ME-04073",
+		"formattedAddress": "11 Granite Dr, Unit 0, Sanford, ME 04073",
+		"addressLine1": "11 Granite Dr",
+		"addressLine2": "Unit 0",
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.409706,
+		"longitude": -70.731903,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1764,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 439000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.116Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680217",
+		"listingAgent": {
+			"name": "Vicki Benenti",
+			"phone": "2075905650",
+			"email": "vbenenti@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 439000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "0-0-Airport-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "0 0 Airport Rd, Sanford, ME 04073",
+		"addressLine1": "0 0 Airport Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.401524,
+		"longitude": -70.725151,
+		"propertyType": "Land",
+		"lotSize": 18731,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.115Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680238",
+		"listingAgent": {
+			"name": "Joey Radford",
+			"phone": "2072296134",
+			"email": "joe.radford@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"listingOffice": {
+			"name": "OceanView Properties",
+			"phone": "2072821732",
+			"email": "info@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "41-Sunny-Ln,-Sanford,-ME-04073",
+		"formattedAddress": "41 Sunny Ln, Sanford, ME 04073",
+		"addressLine1": "41 Sunny Ln",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.361512,
+		"longitude": -70.733896,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1489,
+		"lotSize": 13504,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-07T07:53:20.719Z",
+		"lastSeenDate": "2026-09-12T06:33:44.113Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680110",
+		"listingAgent": {
+			"name": "Kristin Hardingham",
+			"phone": "2075903050",
+			"email": "kristinhardingham@masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-06-06": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-06T00:00:00.000Z",
+				"removedDate": "2025-11-07T00:00:00.000Z",
+				"daysOnMarket": 154
+			},
+			"2025-11-11": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-11T00:00:00.000Z",
+				"removedDate": "2026-02-11T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2026-04-21": {
+				"event": "Sale Listing",
+				"price": 480000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-21T00:00:00.000Z",
+				"removedDate": "2026-09-07T00:00:00.000Z",
+				"daysOnMarket": 139
+			},
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "15-Stevens-St,-Sanford,-ME-04073",
+		"formattedAddress": "15 Stevens St, Sanford, ME 04073",
+		"addressLine1": "15 Stevens St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.432796,
+		"longitude": -70.757561,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1173,
+		"lotSize": 26572,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:03:27.974Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677835",
+		"listingAgent": {
+			"name": "Emilee Allen",
+			"phone": "2072825988",
+			"email": "edallen2023@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "3-Leighton-St,-Sanford,-ME-04073",
+		"formattedAddress": "3 Leighton St, Sanford, ME 04073",
+		"addressLine1": "3 Leighton St",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.437718,
+		"longitude": -70.770661,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1560,
+		"lotSize": 2614,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 320000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:03:27.926Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678399",
+		"listingAgent": {
+			"name": "Steve Brunette",
+			"phone": "2074902900",
+			"email": "sbrunette@masiello.com",
+			"website": "http://www.stevesellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2074902900",
+			"email": "sanford@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 365000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": "2026-08-13T00:00:00.000Z",
+				"daysOnMarket": 99
+			},
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 320000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "11-Palace-Dr,-Sanford,-ME-04073",
+		"formattedAddress": "11 Palace Dr, Sanford, ME 04073",
+		"addressLine1": "11 Palace Dr",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.437418,
+		"longitude": -70.727327,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1584,
+		"lotSize": 37897,
+		"yearBuilt": 1982,
+		"status": "Active",
+		"price": 245000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T09:38:26.369Z",
+		"daysOnMarket": 94,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666194",
+		"listingAgent": {
+			"name": "Maryam Wyant",
+			"phone": "8008447653",
+			"email": "mwyant@c21ne.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 245000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 94
+			}
+		}
+	},
+	{
+		"id": "152-Sand-Pond-Rd,-Sanford,-ME-04073",
+		"formattedAddress": "152 Sand Pond Rd, Sanford, ME 04073",
+		"addressLine1": "152 Sand Pond Rd",
+		"addressLine2": null,
+		"city": "Sanford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04073",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.391043,
+		"longitude": -70.756435,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1974,
+		"lotSize": 56628,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 465000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:46:12.106Z",
+		"daysOnMarket": 14,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678242",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": "2026-08-07T00:00:00.000Z",
+				"daysOnMarket": 7
+			},
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 14
+			}
+		}
+	}
+]

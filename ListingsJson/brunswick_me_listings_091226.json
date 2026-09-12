@@ -1,0 +1,4290 @@
+[
+	{
+		"id": "42B-Greystone-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "42B Greystone Ln, Brunswick, ME 04011",
+		"addressLine1": "42B Greystone Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.914307,
+		"longitude": -70.016289,
+		"propertyType": "Land",
+		"lotSize": 304920,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2024-10-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:09:18.465Z",
+		"daysOnMarket": 706,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1606093",
+		"listingAgent": {
+			"name": "Tim Dunham",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "www.dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2024-10-07": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2024-10-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 706
+			}
+		}
+	},
+	{
+		"id": "6-Front-St,-Brunswick,-ME-04011",
+		"formattedAddress": "6 Front St, Brunswick, ME 04011",
+		"addressLine1": "6 Front St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.917232,
+		"longitude": -69.899722,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 900,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 159995,
+		"listingType": "New Construction",
+		"listedDate": "2025-12-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.706Z",
+		"daysOnMarket": 282,
+		"mlsName": "SunCommunities",
+		"mlsNumber": "156586",
+		"listingAgent": {
+			"name": "Matthew Smith"
+		},
+		"listingOffice": {
+			"name": "Michael Brendan Barnett - Maplewood Manor",
+			"phone": "8778853747",
+			"email": "realtor@suncommunities.com"
+		},
+		"history": {
+			"2025-12-05": {
+				"event": "Sale Listing",
+				"price": 159995,
+				"listingType": "New Construction",
+				"listedDate": "2025-12-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 282
+			}
+		}
+	},
+	{
+		"id": "83-Central-Ave,-Brunswick,-ME-04011",
+		"formattedAddress": "83 Central Ave, Brunswick, ME 04011",
+		"addressLine1": "83 Central Ave",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.824574,
+		"longitude": -70.024646,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2116,
+		"lotSize": 21344,
+		"yearBuilt": 1880,
+		"hoa": {
+			"fee": 175
+		},
+		"status": "Active",
+		"price": 1195000,
+		"listingType": "Standard",
+		"listedDate": "2025-09-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.684Z",
+		"daysOnMarket": 352,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1638939",
+		"listingAgent": {
+			"name": "Robert Williams",
+			"phone": "2078335078",
+			"email": "rob@baileyisland.com"
+		},
+		"listingOffice": {
+			"name": "Rob Williams Real Estate Brokers",
+			"phone": "2078335078",
+			"email": "rob@baileyisland.com",
+			"website": "www.baileyisland.com"
+		},
+		"history": {
+			"2025-09-26": {
+				"event": "Sale Listing",
+				"price": 1195000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 352
+			}
+		}
+	},
+	{
+		"id": "646-Gurnet-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "646 Gurnet Rd, Brunswick, ME 04011",
+		"addressLine1": "646 Gurnet Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.862394,
+		"longitude": -69.913748,
+		"propertyType": "Land",
+		"bedrooms": 0,
+		"squareFootage": 1040,
+		"lotSize": 14375,
+		"status": "Active",
+		"price": 134900,
+		"listingType": "Standard",
+		"listedDate": "2025-10-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-01-20T07:17:52.935Z",
+		"lastSeenDate": "2026-09-12T09:52:04.683Z",
+		"daysOnMarket": 341,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640043",
+		"listingAgent": {
+			"name": "Jill Huard",
+			"phone": "2074365555",
+			"email": "jill@summitofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2025-10-07": {
+				"event": "Sale Listing",
+				"price": 134900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 341
+			}
+		}
+	},
+	{
+		"id": "Peterson-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "Peterson Ln, Brunswick, ME 04011",
+		"addressLine1": "Peterson Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.932013,
+		"longitude": -69.868535,
+		"propertyType": "Land",
+		"bedrooms": 1,
+		"squareFootage": 338,
+		"lotSize": 433422,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 490000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.681Z",
+		"daysOnMarket": 328,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1641411",
+		"listingAgent": {
+			"name": "Paula Hersom",
+			"phone": "2075207585",
+			"email": "woodsongrealty207@gmail.com",
+			"website": "http://www.woodsongrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2024-09-30": {
+				"event": "Sale Listing",
+				"price": 515000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-30T00:00:00.000Z",
+				"removedDate": "2025-09-25T00:00:00.000Z",
+				"daysOnMarket": 360
+			},
+			"2025-10-20": {
+				"event": "Sale Listing",
+				"price": 490000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 328
+			}
+		}
+	},
+	{
+		"id": "23-Noble-St,-Brunswick,-ME-04011",
+		"formattedAddress": "23 Noble St, Brunswick, ME 04011",
+		"addressLine1": "23 Noble St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.910261,
+		"longitude": -69.965724,
+		"propertyType": "Land",
+		"bedrooms": 7,
+		"bathrooms": 4,
+		"squareFootage": 3680,
+		"lotSize": 13939,
+		"yearBuilt": 1810,
+		"status": "Active",
+		"price": 445000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.649Z",
+		"daysOnMarket": 240,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649547",
+		"listingAgent": {
+			"name": "The Brent & Lisa Team",
+			"phone": "2077565135",
+			"email": "brentandlisa@portsidereg.com",
+			"website": "https://brentandlisa.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2024-05-02": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2024-05-02T00:00:00.000Z",
+				"removedDate": "2025-05-01T00:00:00.000Z",
+				"daysOnMarket": 364
+			},
+			"2026-01-16": {
+				"event": "Sale Listing",
+				"price": 445000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 240
+			}
+		}
+	},
+	{
+		"id": "2-Remington-Way,-Brunswick,-ME-04011",
+		"formattedAddress": "2 Remington Way, Brunswick, ME 04011",
+		"addressLine1": "2 Remington Way",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.883319,
+		"longitude": -69.982229,
+		"propertyType": "Land",
+		"lotSize": 13068,
+		"status": "Active",
+		"price": 129900,
+		"listingType": "Standard",
+		"listedDate": "2026-03-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.614Z",
+		"daysOnMarket": 191,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653577",
+		"listingAgent": {
+			"name": "Adam Nelson",
+			"phone": "2073507444",
+			"email": "adam@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2025-01-21": {
+				"event": "Sale Listing",
+				"price": 149900,
+				"listingType": "Standard",
+				"listedDate": "2025-01-21T00:00:00.000Z",
+				"removedDate": "2025-08-22T00:00:00.000Z",
+				"daysOnMarket": 213
+			},
+			"2026-03-06": {
+				"event": "Sale Listing",
+				"price": 129900,
+				"listingType": "Standard",
+				"listedDate": "2026-03-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 191
+			}
+		}
+	},
+	{
+		"id": "Crossman-Dr,-Lot-6,-Brunswick,-ME-04011",
+		"formattedAddress": "Crossman Dr, Lot 6, Brunswick, ME 04011",
+		"addressLine1": "Crossman Dr",
+		"addressLine2": "Lot 6",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.924333,
+		"longitude": -70.026227,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1872,
+		"lotSize": 21344,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 675000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.611Z",
+		"daysOnMarket": 171,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655498",
+		"listingAgent": {
+			"name": "Brittney Barr",
+			"phone": "2075962431",
+			"email": "cmcolby@maine.rr.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-03-26": {
+				"event": "Sale Listing",
+				"price": 675000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 171
+			}
+		}
+	},
+	{
+		"id": "Little-Fawn-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "Little Fawn Ln, Brunswick, ME 04011",
+		"addressLine1": "Little Fawn Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.940274,
+		"longitude": -70.047997,
+		"propertyType": "Land",
+		"lotSize": 220414,
+		"hoa": {
+			"fee": 115
+		},
+		"status": "Active",
+		"price": 265000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.609Z",
+		"daysOnMarket": 156,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657311",
+		"listingAgent": {
+			"name": "Brian Maiorino",
+			"phone": "2078006094",
+			"email": "brianmaiorino@portsidereg.com",
+			"website": "http://www.homesportlandmaine.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2024-07-10": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-10T00:00:00.000Z",
+				"removedDate": "2025-07-09T00:00:00.000Z",
+				"daysOnMarket": 364
+			},
+			"2026-04-10": {
+				"event": "Sale Listing",
+				"price": 265000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 156
+			}
+		}
+	},
+	{
+		"id": "Little-Fawn-Ln,-Lot-10,-Brunswick,-ME-04011",
+		"formattedAddress": "Little Fawn Ln, Lot 10, Brunswick, ME 04011",
+		"addressLine1": "Little Fawn Ln",
+		"addressLine2": "Lot 10",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.939987,
+		"longitude": -70.048122,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2068,
+		"lotSize": 20473,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 130
+		},
+		"status": "Active",
+		"price": 1064400,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-01-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.377Z",
+		"daysOnMarket": 146,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658512",
+		"listingAgent": {
+			"name": "Cady Toussaint",
+			"phone": "2076042389",
+			"email": "cadytoussaint@portsidereg.com",
+			"website": "http://www.cadytoussaint.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2025-01-08": {
+				"event": "Sale Listing",
+				"price": 889000,
+				"listingType": "New Construction",
+				"listedDate": "2025-01-08T00:00:00.000Z",
+				"removedDate": "2025-09-23T00:00:00.000Z",
+				"daysOnMarket": 258
+			},
+			"2026-04-20": {
+				"event": "Sale Listing",
+				"price": 1064400,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 146
+			}
+		}
+	},
+	{
+		"id": "15-Forrestal-Dr,-Unit-15,-Brunswick,-ME-04011",
+		"formattedAddress": "15 Forrestal Dr, Unit 15, Brunswick, ME 04011",
+		"addressLine1": "15 Forrestal Dr",
+		"addressLine2": "Unit 15",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.902361,
+		"longitude": -69.91618,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1303,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 405
+		},
+		"status": "Active",
+		"price": 339000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-01T10:47:12.456Z",
+		"lastSeenDate": "2026-09-12T08:55:21.284Z",
+		"daysOnMarket": 149,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658282",
+		"listingAgent": {
+			"name": "Sue Spann",
+			"phone": "2073197814",
+			"email": "suespann@remax.net",
+			"website": "http://www.remax-riverside-maine.com/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-04-17": {
+				"event": "Sale Listing",
+				"price": 339000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 149
+			}
+		}
+	},
+	{
+		"id": "Village-Cir,-Lot-6,-Brunswick,-ME-04011",
+		"formattedAddress": "Village Cir, Lot 6, Brunswick, ME 04011",
+		"addressLine1": "Village Cir",
+		"addressLine2": "Lot 6",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.892535,
+		"longitude": -69.978168,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1711,
+		"lotSize": 7405,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 785000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.281Z",
+		"daysOnMarket": 145,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658630",
+		"listingAgent": {
+			"name": "Sarah Bourgoin",
+			"phone": "2075040112",
+			"email": "sbourgoin@sharondrake.com"
+		},
+		"listingOffice": {
+			"name": "Sharon Drake Real Estate, Inc.",
+			"phone": "2074431005",
+			"email": "sharonlo@sharondrake.com",
+			"website": "www.sharondrake.com"
+		},
+		"history": {
+			"2026-04-21": {
+				"event": "Sale Listing",
+				"price": 785000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 145
+			}
+		}
+	},
+	{
+		"id": "16-Dunlap-St,-Brunswick,-ME-04011",
+		"formattedAddress": "16 Dunlap St, Brunswick, ME 04011",
+		"addressLine1": "16 Dunlap St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.917103,
+		"longitude": -69.96474,
+		"propertyType": "Multi-Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1670,
+		"lotSize": 3049,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 648000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.278Z",
+		"daysOnMarket": 144,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658781",
+		"listingAgent": {
+			"name": "John Graham",
+			"phone": "2074911660",
+			"email": "john@sullivanmulti.com"
+		},
+		"listingOffice": {
+			"name": "John Graham Real Estate",
+			"phone": "2074911660"
+		},
+		"history": {
+			"2025-06-30": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-30T00:00:00.000Z",
+				"removedDate": "2025-08-23T00:00:00.000Z",
+				"daysOnMarket": 54
+			},
+			"2026-04-22": {
+				"event": "Sale Listing",
+				"price": 648000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 144
+			}
+		}
+	},
+	{
+		"id": "Village-Cir,-Lot-3,-Brunswick,-ME-04011",
+		"formattedAddress": "Village Cir, Lot 3, Brunswick, ME 04011",
+		"addressLine1": "Village Cir",
+		"addressLine2": "Lot 3",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.893191,
+		"longitude": -69.978376,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1862,
+		"lotSize": 7841,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 840000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.274Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659106",
+		"listingAgent": {
+			"name": "Sarah Bourgoin",
+			"phone": "2075040112",
+			"email": "sbourgoin@sharondrake.com"
+		},
+		"listingOffice": {
+			"name": "Sharon Drake Real Estate, Inc.",
+			"phone": "2074431005",
+			"email": "sharonlo@sharondrake.com",
+			"website": "www.sharondrake.com"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 840000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "54-Larry-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "54 Larry Ln, Brunswick, ME 04011",
+		"addressLine1": "54 Larry Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.935389,
+		"longitude": -69.874942,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 924,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 635
+		},
+		"status": "Active",
+		"price": 74500,
+		"listingType": "Standard",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.262Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659478",
+		"listingAgent": {
+			"name": "Jason Norton",
+			"phone": "2073195568",
+			"email": "jason.norton@cbrealty.com",
+			"website": "https://jnorton.sites.cbmoxi.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077258522",
+			"email": "kathy.duca@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/brunswick/office/brunswick/oid_3581/"
+		},
+		"history": {
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 74500,
+				"listingType": "Standard",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "31-Primrose-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "31 Primrose Ln, Brunswick, ME 04011",
+		"addressLine1": "31 Primrose Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.934228,
+		"longitude": -69.881557,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 924,
+		"yearBuilt": 2002,
+		"hoa": {
+			"fee": 835
+		},
+		"status": "Active",
+		"price": 50000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.256Z",
+		"daysOnMarket": 136,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659848",
+		"listingAgent": {
+			"name": "Matthew Trask",
+			"phone": "2076326025",
+			"email": "matttrasksellsmaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-04-30": {
+				"event": "Sale Listing",
+				"price": 50000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 136
+			}
+		}
+	},
+	{
+		"id": "Crossman-Dr,-Lot-8,-Brunswick,-ME-04011",
+		"formattedAddress": "Crossman Dr, Lot 8, Brunswick, ME 04011",
+		"addressLine1": "Crossman Dr",
+		"addressLine2": "Lot 8",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.923795,
+		"longitude": -70.026952,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2173,
+		"lotSize": 20038,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 750000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.222Z",
+		"daysOnMarket": 131,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660652",
+		"listingAgent": {
+			"name": "Brittney Barr",
+			"phone": "2075962431",
+			"email": "cmcolby@maine.rr.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2025-03-04": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-04T00:00:00.000Z",
+				"removedDate": "2026-04-30T00:00:00.000Z",
+				"daysOnMarket": 422
+			},
+			"2026-05-05": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 131
+			}
+		}
+	},
+	{
+		"id": "15-Dolloff-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "15 Dolloff Dr, Brunswick, ME 04011",
+		"addressLine1": "15 Dolloff Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.918468,
+		"longitude": -69.905389,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 1615,
+		"lotSize": 104544,
+		"yearBuilt": 2017,
+		"status": "Active",
+		"price": 535000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.218Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661674",
+		"listingAgent": {
+			"name": "Paul Clark",
+			"phone": "2075224374",
+			"email": "pclark@gre207.com",
+			"website": "https://paulsellsmaine.com/"
+		},
+		"listingOffice": {
+			"name": "Gallant Real Estate",
+			"phone": "2078417569",
+			"email": "kgallant@gre207.com"
+		},
+		"history": {
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 535000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "61-Larry-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "61 Larry Ln, Brunswick, ME 04011",
+		"addressLine1": "61 Larry Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.93484,
+		"longitude": -69.874404,
+		"propertyType": "Manufactured",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2128,
+		"yearBuilt": 1998,
+		"hoa": {
+			"fee": 665
+		},
+		"status": "Active",
+		"price": 149000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.210Z",
+		"daysOnMarket": 123,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661991",
+		"listingAgent": {
+			"name": "Jeff Mateja",
+			"phone": "2075532605",
+			"email": "jeff@kwmateja.com",
+			"website": "http://www.jeffsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2075532605",
+			"email": "klrw318@kw.com",
+			"website": "findmainehomesnow.com"
+		},
+		"history": {
+			"2026-05-13": {
+				"event": "Sale Listing",
+				"price": 149000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 123
+			}
+		}
+	},
+	{
+		"id": "Little-Fawn-Ln,-Lot-13,-Brunswick,-ME-04011",
+		"formattedAddress": "Little Fawn Ln, Lot 13, Brunswick, ME 04011",
+		"addressLine1": "Little Fawn Ln",
+		"addressLine2": "Lot 13",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.939663,
+		"longitude": -70.048572,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1841,
+		"lotSize": 20038,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 130
+		},
+		"status": "Active",
+		"price": 1106400,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-25T05:16:55.329Z",
+		"lastSeenDate": "2026-09-12T08:55:21.207Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661559",
+		"listingAgent": {
+			"name": "Cady Toussaint",
+			"phone": "2076042389",
+			"email": "cadytoussaint@portsidereg.com",
+			"website": "http://www.cadytoussaint.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2025-01-08": {
+				"event": "Sale Listing",
+				"price": 828500,
+				"listingType": "New Construction",
+				"listedDate": "2025-01-08T00:00:00.000Z",
+				"removedDate": "2025-09-23T00:00:00.000Z",
+				"daysOnMarket": 258
+			},
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 1106400,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "105-Hillside-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "105 Hillside Rd, Brunswick, ME 04011",
+		"addressLine1": "105 Hillside Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.906389,
+		"longitude": -70.023193,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2540,
+		"lotSize": 91476,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.204Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662989",
+		"listingAgent": {
+			"name": "Kathryn Winglass",
+			"phone": "2077989152",
+			"email": "kwinglass@remax.net",
+			"website": "http://kwinglass.remax.com"
+		},
+		"listingOffice": {
+			"name": "Blue Lobster Real Estate Co.",
+			"phone": "2075538125",
+			"email": "amy@bluelobsterrealestate.com"
+		},
+		"history": {
+			"2025-05-26": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2025-05-26T00:00:00.000Z",
+				"removedDate": "2025-12-01T00:00:00.000Z",
+				"daysOnMarket": 189
+			},
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "30-Franklin-Pkwy,-Brunswick,-ME-04011",
+		"formattedAddress": "30 Franklin Pkwy, Brunswick, ME 04011",
+		"addressLine1": "30 Franklin Pkwy",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.935807,
+		"longitude": -69.879095,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1344,
+		"yearBuilt": 2007,
+		"hoa": {
+			"fee": 835
+		},
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.200Z",
+		"daysOnMarket": 113,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663658",
+		"listingAgent": {
+			"name": "Heather Caron"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2074801050",
+			"email": "jon.finch@nemoves.com"
+		},
+		"history": {
+			"2024-10-16": {
+				"event": "Sale Listing",
+				"price": 126000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-16T00:00:00.000Z",
+				"removedDate": "2024-11-20T00:00:00.000Z",
+				"daysOnMarket": 35
+			},
+			"2025-09-02": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-02T00:00:00.000Z",
+				"removedDate": "2025-10-30T00:00:00.000Z",
+				"daysOnMarket": 58
+			},
+			"2026-05-23": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 113
+			}
+		}
+	},
+	{
+		"id": "44A-Greystone-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "44A Greystone Ln, Brunswick, ME 04011",
+		"addressLine1": "44A Greystone Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.91394,
+		"longitude": -70.017252,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2005,
+		"lotSize": 54014,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 670000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.197Z",
+		"daysOnMarket": 114,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663548",
+		"listingAgent": {
+			"name": "Tyson Laverdiere",
+			"phone": "2077297297",
+			"email": "tyson@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-05-22": {
+				"event": "Sale Listing",
+				"price": 670000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 114
+			}
+		}
+	},
+	{
+		"id": "39-Franklin-Pkwy,-Brunswick,-ME-04011",
+		"formattedAddress": "39 Franklin Pkwy, Brunswick, ME 04011",
+		"addressLine1": "39 Franklin Pkwy",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.93562,
+		"longitude": -69.879249,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 665
+		},
+		"status": "Active",
+		"price": 85500,
+		"listingType": "Standard",
+		"listedDate": "2026-05-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.591Z",
+		"daysOnMarket": 108,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664386",
+		"listingAgent": {
+			"name": "Robbin Eusebio",
+			"phone": "2078735634",
+			"email": "robbine@surette-realestate.com",
+			"website": "www.surette-realestate.com"
+		},
+		"listingOffice": {
+			"name": "COLDWELL BANKER PLOURDE REAL ESTATE",
+			"phone": "2078727650",
+			"email": "office@cbplourde.com",
+			"website": "http://www.cbplourde.com"
+		},
+		"history": {
+			"2024-10-03": {
+				"event": "Sale Listing",
+				"price": 115000,
+				"listingType": "New Construction",
+				"listedDate": "2024-10-03T00:00:00.000Z",
+				"removedDate": "2024-12-04T00:00:00.000Z",
+				"daysOnMarket": 62
+			},
+			"2026-05-28": {
+				"event": "Sale Listing",
+				"price": 85500,
+				"listingType": "Standard",
+				"listedDate": "2026-05-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 108
+			}
+		}
+	},
+	{
+		"id": "122-Thomas-Point-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "122 Thomas Point Rd, Brunswick, ME 04011",
+		"addressLine1": "122 Thomas Point Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.902699,
+		"longitude": -69.906067,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2656,
+		"lotSize": 87120,
+		"yearBuilt": 2022,
+		"status": "Active",
+		"price": 729000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T03:26:31.267Z",
+		"lastSeenDate": "2026-09-12T08:52:34.588Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664515",
+		"listingAgent": {
+			"name": "Tim Dunham",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "www.dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 729000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "11-Lincoln-St,-Brunswick,-ME-04011",
+		"formattedAddress": "11 Lincoln St, Brunswick, ME 04011",
+		"addressLine1": "11 Lincoln St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.916244,
+		"longitude": -69.967333,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 4327,
+		"lotSize": 12632,
+		"yearBuilt": 1887,
+		"status": "Active",
+		"price": 1258000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-18T09:05:33.578Z",
+		"lastSeenDate": "2026-09-12T08:52:34.585Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664621",
+		"listingAgent": {
+			"name": "John Graham",
+			"phone": "2074911660",
+			"email": "john@sullivanmulti.com"
+		},
+		"listingOffice": {
+			"name": "John Graham Real Estate",
+			"phone": "2074911660"
+		},
+		"history": {
+			"2025-10-20": {
+				"event": "Sale Listing",
+				"price": 1358000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-20T00:00:00.000Z",
+				"removedDate": "2026-03-21T00:00:00.000Z",
+				"daysOnMarket": 152
+			},
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 1258000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "80B-Durham-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "80B Durham Rd, Brunswick, ME 04011",
+		"addressLine1": "80B Durham Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.913509,
+		"longitude": -70.020485,
+		"propertyType": "Land",
+		"lotSize": 21780,
+		"status": "Active",
+		"price": 99500,
+		"listingType": "Standard",
+		"listedDate": "2026-06-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.572Z",
+		"daysOnMarket": 102,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665202",
+		"listingAgent": {
+			"name": "Sarah Singer",
+			"phone": "2076075965",
+			"email": "sarahsinger@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-06-03": {
+				"event": "Sale Listing",
+				"price": 99500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 102
+			}
+		}
+	},
+	{
+		"id": "Old-Portland-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "Old Portland Rd, Brunswick, ME 04011",
+		"addressLine1": "Old Portland Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.907583,
+		"longitude": -70.053185,
+		"propertyType": "Land",
+		"lotSize": 1228392,
+		"status": "Active",
+		"price": 65000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.556Z",
+		"daysOnMarket": 94,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666725",
+		"listingAgent": {
+			"name": "Desmond Duguay",
+			"phone": "2072255888",
+			"email": "desmond@amnetrealty.com",
+			"website": "http://www.amnetrealty.com"
+		},
+		"listingOffice": {
+			"name": "AmNet Realty",
+			"phone": "2072255888",
+			"email": "desmond@amnetrealty.com",
+			"website": "http://www.amnetrealty.com/"
+		},
+		"history": {
+			"2026-06-11": {
+				"event": "Sale Listing",
+				"price": 65000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 94
+			}
+		}
+	},
+	{
+		"id": "44B-Greystone-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "44B Greystone Ln, Brunswick, ME 04011",
+		"addressLine1": "44B Greystone Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.913932,
+		"longitude": -70.017233,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2444,
+		"lotSize": 54014,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 749000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.526Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667004",
+		"listingAgent": {
+			"name": "Cornelius Tyson",
+			"phone": "2077297297",
+			"email": "cornelius@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "Church-Rd,-Lot-0,-Brunswick,-ME-04011",
+		"formattedAddress": "Church Rd, Lot 0, Brunswick, ME 04011",
+		"addressLine1": "Church Rd",
+		"addressLine2": "Lot 0",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.911399,
+		"longitude": -69.98798,
+		"propertyType": "Land",
+		"lotSize": 18295,
+		"status": "Active",
+		"price": 225000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.513Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667624",
+		"listingAgent": {
+			"name": "Kylie Bureau",
+			"phone": "2078799800",
+			"email": "kbureau@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-09-17": {
+				"event": "Sale Listing",
+				"price": 99000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-17T00:00:00.000Z",
+				"removedDate": "2025-09-20T00:00:00.000Z",
+				"daysOnMarket": 3
+			},
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 225000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "41-James-St,-Brunswick,-ME-04011",
+		"formattedAddress": "41 James St, Brunswick, ME 04011",
+		"addressLine1": "41 James St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.918179,
+		"longitude": -69.896053,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1008,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 640
+		},
+		"status": "Active",
+		"price": 99000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.882Z",
+		"daysOnMarket": 85,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668216",
+		"listingAgent": {
+			"name": "Christopher Davis",
+			"phone": "2072723984",
+			"email": "chris@placesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-06-20": {
+				"event": "Sale Listing",
+				"price": 99000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 85
+			}
+		}
+	},
+	{
+		"id": "156-Bridge-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "156 Bridge Rd, Brunswick, ME 04011",
+		"addressLine1": "156 Bridge Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.942148,
+		"longitude": -69.861666,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1497,
+		"lotSize": 190793,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-10-20T09:35:53.676Z",
+		"lastSeenDate": "2026-09-12T08:45:51.798Z",
+		"daysOnMarket": 78,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669334",
+		"listingAgent": {
+			"name": "Sam Lambert",
+			"phone": "2075227728",
+			"email": "samlambertrealestate@gmail.com",
+			"website": "http://samlambertrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-06-27": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 78
+			}
+		}
+	},
+	{
+		"id": "33-Cameron-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "33 Cameron Ln, Brunswick, ME 04011",
+		"addressLine1": "33 Cameron Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.923781,
+		"longitude": -70.049996,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2380,
+		"lotSize": 95832,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 850000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.763Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670127",
+		"listingAgent": {
+			"name": "Beth Bell",
+			"phone": "2077546500",
+			"email": "bethbellhomes@roadrunner.com",
+			"website": "http://www.bethbellhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "Mere-Point-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "Mere Point Rd, Brunswick, ME 04011",
+		"addressLine1": "Mere Point Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.860935,
+		"longitude": -69.990448,
+		"propertyType": "Land",
+		"lotSize": 318859,
+		"status": "Active",
+		"price": 1175000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.896Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672625",
+		"listingAgent": {
+			"name": "Glenn Jonsson",
+			"phone": "2077808900",
+			"email": "glenn@legacysir.com",
+			"website": "http://www.legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-12-02": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-02T00:00:00.000Z",
+				"removedDate": "2025-12-05T00:00:00.000Z",
+				"daysOnMarket": 3
+			},
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 1175000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "8-Elaine-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "8 Elaine Dr, Brunswick, ME 04011",
+		"addressLine1": "8 Elaine Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.91235,
+		"longitude": -69.948801,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1092,
+		"lotSize": 14810,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.894Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672696",
+		"listingAgent": {
+			"name": "Nicole Axelsen",
+			"phone": "2077569461",
+			"email": "nlaxelsen@gmail.com",
+			"website": "http://www.northpointrealty.me"
+		},
+		"listingOffice": {
+			"name": "North Point Realty LLC",
+			"phone": "2078879543",
+			"email": "nlaxelsen@gmail.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "6-Merrymeeting-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "6 Merrymeeting Rd, Brunswick, ME 04011",
+		"addressLine1": "6 Merrymeeting Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.915799,
+		"longitude": -69.948784,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1440,
+		"lotSize": 10019,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 489000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.890Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671250",
+		"listingAgent": {
+			"name": "Kelsie Labbe",
+			"phone": "2077731990",
+			"email": "kelsie.labbe@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com/me/brunswick/agent/kelsie-labbe/aid_216990/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077258522",
+			"email": "kathy.duca@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/brunswick/office/brunswick/oid_3581/"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 489000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "7-Ballard-St,-Brunswick,-ME-04011",
+		"formattedAddress": "7 Ballard St, Brunswick, ME 04011",
+		"addressLine1": "7 Ballard St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.917784,
+		"longitude": -69.986559,
+		"propertyType": "Land",
+		"lotSize": 6534,
+		"status": "Active",
+		"price": 89000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-01-04T05:08:16.614Z",
+		"lastSeenDate": "2026-09-12T08:02:50.879Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655551",
+		"listingAgent": {
+			"name": "Laura Fassett",
+			"phone": "2077731990",
+			"email": "laura.fassett@nemoves.com",
+			"website": "https://laurafassett.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2024-04-12": {
+				"event": "Sale Listing",
+				"price": 89000,
+				"listingType": "Standard",
+				"listedDate": "2024-04-12T00:00:00.000Z",
+				"removedDate": "2025-04-06T00:00:00.000Z",
+				"daysOnMarket": 359
+			},
+			"2026-03-27": {
+				"event": "Sale Listing",
+				"price": 89000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-27T00:00:00.000Z",
+				"removedDate": "2026-04-05T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 89000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "415-Bath-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "415 Bath Rd, Brunswick, ME 04011",
+		"addressLine1": "415 Bath Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.912954,
+		"longitude": -69.876926,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2851,
+		"lotSize": 65340,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 695000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.869Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672025",
+		"listingAgent": {
+			"name": "Kathryn Winglass",
+			"phone": "2077989152",
+			"email": "kwinglass@remax.net",
+			"website": "http://kwinglass.remax.com"
+		},
+		"listingOffice": {
+			"name": "Blue Lobster Real Estate Co.",
+			"phone": "2075538125",
+			"email": "amy@bluelobsterrealestate.com"
+		},
+		"history": {
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 695000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "5-B-St,-Brunswick,-ME-04011",
+		"formattedAddress": "5 B St, Brunswick, ME 04011",
+		"addressLine1": "5 B St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.908235,
+		"longitude": -69.920878,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1500,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 219995,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.866Z",
+		"daysOnMarket": 59,
+		"mlsName": "SunCommunities",
+		"mlsNumber": "161290",
+		"listingAgent": {
+			"name": "Matthew Smith",
+			"phone": "8772336506"
+		},
+		"listingOffice": {
+			"name": "Merrymeeting",
+			"phone": "8772336506"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 219995,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "44C-Greystone-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "44C Greystone Ln, Brunswick, ME 04011",
+		"addressLine1": "44C Greystone Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.913933,
+		"longitude": -70.017233,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1758,
+		"lotSize": 54014,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 562000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.820Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673233",
+		"listingAgent": {
+			"name": "Cornelius Tyson",
+			"phone": "2077297297",
+			"email": "cornelius@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 562000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "41-Bay-Bridge-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "41 Bay Bridge Rd, Brunswick, ME 04011",
+		"addressLine1": "41 Bay Bridge Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.933603,
+		"longitude": -69.881375,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1280,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 600
+		},
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.648Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674673",
+		"listingAgent": {
+			"name": "Ashley Fearon",
+			"phone": "2075950427",
+			"email": "ashley@ateammaine.com",
+			"website": "https://www.ateammaine.com"
+		},
+		"listingOffice": {
+			"name": "A Team Realty",
+			"phone": "2078948484",
+			"email": "ashley@ateamrealty.org"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "51-Lunt-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "51 Lunt Rd, Brunswick, ME 04011",
+		"addressLine1": "51 Lunt Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.934593,
+		"longitude": -70.067173,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1365,
+		"lotSize": 100188,
+		"yearBuilt": 1982,
+		"status": "Active",
+		"price": 430000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-11-22T08:44:19.306Z",
+		"lastSeenDate": "2026-09-12T07:52:49.607Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675812",
+		"listingAgent": {
+			"name": "Julie Court",
+			"phone": "2072825988",
+			"email": "julie@merealestateco.com",
+			"website": "https://merealestateco.com/julie-court/"
+		},
+		"listingOffice": {
+			"name": "JC North East Real Estate",
+			"phone": "2072549160",
+			"email": "jeulic@gmail.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 430000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "22-Lamb-Farm-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "22 Lamb Farm Rd, Brunswick, ME 04011",
+		"addressLine1": "22 Lamb Farm Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.927486,
+		"longitude": -69.996594,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1215,
+		"lotSize": 22651,
+		"yearBuilt": 1953,
+		"status": "Active",
+		"price": 410000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-18T08:24:45.055Z",
+		"lastSeenDate": "2026-09-12T07:52:49.598Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675436",
+		"listingAgent": {
+			"name": "Tom Cole",
+			"phone": "2075223375",
+			"email": "tomcolerealtor@gmail.com",
+			"website": "http://www.tomcolerealtor.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Premier Realty",
+			"phone": "2078889711",
+			"email": "info@mynexthomepremierrealty.com",
+			"website": "http://www.mynexthomepremierrealty.com"
+		},
+		"history": {
+			"2025-06-19": {
+				"event": "Sale Listing",
+				"price": 368000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-19T00:00:00.000Z",
+				"removedDate": "2025-07-31T00:00:00.000Z",
+				"daysOnMarket": 42
+			},
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 410000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "21-Guadalcanal-Dr,-Unit-21,-Brunswick,-ME-04011",
+		"formattedAddress": "21 Guadalcanal Dr, Unit 21, Brunswick, ME 04011",
+		"addressLine1": "21 Guadalcanal Dr",
+		"addressLine2": "Unit 21",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.900387,
+		"longitude": -69.913612,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1303,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 405
+		},
+		"status": "Active",
+		"price": 334000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.591Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675490",
+		"listingAgent": {
+			"name": "Sue Spann",
+			"phone": "2073197814",
+			"email": "suespann@remax.net",
+			"website": "http://www.remax-riverside-maine.com/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 334000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "39-Theodore-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "39 Theodore Dr, Brunswick, ME 04011",
+		"addressLine1": "39 Theodore Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.935762,
+		"longitude": -69.877795,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1144,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 600
+		},
+		"status": "Active",
+		"price": 95000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.584Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676064",
+		"listingAgent": {
+			"name": "Shaquille Alston",
+			"phone": "2076895741",
+			"email": "shaquillealston0@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 95000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "660-Durham-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "660 Durham Rd, Brunswick, ME 04011",
+		"addressLine1": "660 Durham Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.936965,
+		"longitude": -70.062398,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1792,
+		"lotSize": 87120,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 169000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.582Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676350",
+		"listingAgent": {
+			"name": "Elizabeth Garner",
+			"phone": "2072894387",
+			"email": "elizabethgarnerrealty@gmail.com",
+			"website": "https://onpointrealtyme.com/"
+		},
+		"listingOffice": {
+			"name": "On Point Realty",
+			"phone": "2077545058",
+			"email": "tashamasseyrealty@gmail.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 169000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "53-Willow-Grove-Rd,-Unit-53,-Brunswick,-ME-04011",
+		"formattedAddress": "53 Willow Grove Rd, Unit 53, Brunswick, ME 04011",
+		"addressLine1": "53 Willow Grove Rd",
+		"addressLine2": "Unit 53",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.901079,
+		"longitude": -69.990063,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2132,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 275
+		},
+		"status": "Active",
+		"price": 579000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.463Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677331",
+		"listingAgent": {
+			"name": "Joshua Houde",
+			"phone": "2077511843",
+			"email": "realestate@joshhoude.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-08-22": {
+				"event": "Sale Listing",
+				"price": 579000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	},
+	{
+		"id": "20-Weymouth-St,-Brunswick,-ME-04011",
+		"formattedAddress": "20 Weymouth St, Brunswick, ME 04011",
+		"addressLine1": "20 Weymouth St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.909825,
+		"longitude": -69.970548,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1536,
+		"lotSize": 8712,
+		"yearBuilt": 1931,
+		"status": "Active",
+		"price": 540000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-22T08:39:33.340Z",
+		"lastSeenDate": "2026-09-12T06:00:31.462Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677202",
+		"listingAgent": {
+			"name": "Sarah Singer + Ellen Domingos",
+			"phone": "2078371066",
+			"email": "sarahandellen@portsidereg.com",
+			"website": "https://singerdomingos.portsiderealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 540000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "38-Primrose-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "38 Primrose Ln, Brunswick, ME 04011",
+		"addressLine1": "38 Primrose Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.934508,
+		"longitude": -69.882099,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 784,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 665
+		},
+		"status": "Active",
+		"price": 79000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.407Z",
+		"daysOnMarket": 22,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677347",
+		"listingAgent": {
+			"name": "Jonathan Larssen",
+			"phone": "2076076221",
+			"email": "jon@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-08-22": {
+				"event": "Sale Listing",
+				"price": 79000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 22
+			}
+		}
+	},
+	{
+		"id": "73-Willow-Grove-Rd,-Unit-73,-Brunswick,-ME-04011",
+		"formattedAddress": "73 Willow Grove Rd, Unit 73, Brunswick, ME 04011",
+		"addressLine1": "73 Willow Grove Rd",
+		"addressLine2": "Unit 73",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.90251,
+		"longitude": -69.987801,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1940,
+		"lotSize": 1305493,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 275
+		},
+		"status": "Active",
+		"price": 585000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.393Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677197",
+		"listingAgent": {
+			"name": "Tim Dunham",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "www.dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 585000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "17-Belmont-St,-Brunswick,-ME-04011",
+		"formattedAddress": "17 Belmont St, Brunswick, ME 04011",
+		"addressLine1": "17 Belmont St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.905031,
+		"longitude": -69.969055,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2020,
+		"lotSize": 11326,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 639900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.388Z",
+		"daysOnMarket": 19,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677654",
+		"listingAgent": {
+			"name": "Dorothy M. Ollier",
+			"phone": "2077514919",
+			"email": "dot@basinpoint.com",
+			"website": "https://www.basinpointrealestate.com/"
+		},
+		"listingOffice": {
+			"name": "Basin Point Real Estate",
+			"phone": "2075221065",
+			"email": "amy.saxton@basinpoint.com"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 639900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 19
+			}
+		}
+	},
+	{
+		"id": "1-Beacon-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "1 Beacon Dr, Brunswick, ME 04011",
+		"addressLine1": "1 Beacon Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.903361,
+		"longitude": -69.902428,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2516,
+		"lotSize": 18731,
+		"yearBuilt": 2025,
+		"status": "Active",
+		"price": 825000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.376Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678110",
+		"listingAgent": {
+			"name": "Rick Beal",
+			"phone": "2077731990",
+			"email": "rick.beal@nemoves.com",
+			"website": "http://www.mainehousevalues.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 895000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": "2026-08-20T00:00:00.000Z",
+				"daysOnMarket": 38
+			},
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 825000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "27-Chamberlain-Ave,-Brunswick,-ME-04011",
+		"formattedAddress": "27 Chamberlain Ave, Brunswick, ME 04011",
+		"addressLine1": "27 Chamberlain Ave",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.906091,
+		"longitude": -69.953521,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1008,
+		"lotSize": 6970,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.375Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678041",
+		"listingAgent": {
+			"name": "William Graiver",
+			"phone": "2078907485",
+			"email": "wgraiver@townandshore.com",
+			"website": "https://willgraiver.townandshore.com/"
+		},
+		"listingOffice": {
+			"name": "Town & Shore",
+			"phone": "2077730262",
+			"email": "inquiries@townandshore.com",
+			"website": "http://www.townandshore.com/"
+		},
+		"history": {
+			"2025-09-15": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-15T00:00:00.000Z",
+				"removedDate": "2025-10-11T00:00:00.000Z",
+				"daysOnMarket": 26
+			},
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "10-Primrose-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "10 Primrose Ln, Brunswick, ME 04011",
+		"addressLine1": "10 Primrose Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.934087,
+		"longitude": -69.879443,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 868,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 665
+		},
+		"status": "Active",
+		"price": 84000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.369Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678032",
+		"listingAgent": {
+			"name": "Kristin Rofe",
+			"phone": "2076152167",
+			"email": "kristin@themainerealestategroup.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-05-23": {
+				"event": "Sale Listing",
+				"price": 89000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-23T00:00:00.000Z",
+				"removedDate": "2026-08-27T00:00:00.000Z",
+				"daysOnMarket": 96
+			},
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 84000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "23-Ward-Cir,-Unit-23,-Brunswick,-ME-04011",
+		"formattedAddress": "23 Ward Cir, Unit 23, Brunswick, ME 04011",
+		"addressLine1": "23 Ward Cir",
+		"addressLine2": "Unit 23",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.897488,
+		"longitude": -69.907124,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1560,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 375
+		},
+		"status": "Active",
+		"price": 350500,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.250Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678600",
+		"listingAgent": {
+			"name": "Libby Hunt",
+			"phone": "2073195095",
+			"email": "libby.hunt@evrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Engel & Volkers Harpswell",
+			"phone": "2078330500",
+			"email": "harpswell@engelvoelkers.com",
+			"website": "https://harpswell.evrealestate.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 350500,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "25-Range-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "25 Range Rd, Brunswick, ME 04011",
+		"addressLine1": "25 Range Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.914105,
+		"longitude": -69.999877,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2055,
+		"lotSize": 26572,
+		"yearBuilt": 1983,
+		"hoa": {
+			"fee": 25
+		},
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.237Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678661",
+		"listingAgent": {
+			"name": "Christopher Voynik",
+			"phone": "2073130959",
+			"email": "chris@listingsdirectme.com",
+			"website": "www.listingsdirectme.com"
+		},
+		"listingOffice": {
+			"name": "Listings Direct",
+			"phone": "2073130959",
+			"email": "chris@listingsdirectme.com"
+		},
+		"history": {
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": "2026-08-11T00:00:00.000Z",
+				"daysOnMarket": 55
+			},
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "57-Long-St,-Brunswick,-ME-04011",
+		"formattedAddress": "57 Long St, Brunswick, ME 04011",
+		"addressLine1": "57 Long St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.918134,
+		"longitude": -69.897753,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1064,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 69995,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.201Z",
+		"daysOnMarket": 10,
+		"mlsName": "SunCommunities",
+		"mlsNumber": "44745",
+		"listingAgent": {
+			"name": "Matthew Smith"
+		},
+		"listingOffice": {
+			"name": "Michael Brendan Barnett - Maplewood Manor",
+			"phone": "8778853747",
+			"email": "realtor@suncommunities.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 69995,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "34-Bowker-St,-Brunswick,-ME-04011",
+		"formattedAddress": "34 Bowker St, Brunswick, ME 04011",
+		"addressLine1": "34 Bowker St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.90733,
+		"longitude": -69.953893,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2056,
+		"lotSize": 10890,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 750000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-06T09:55:37.452Z",
+		"lastSeenDate": "2026-09-12T05:30:06.196Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679132",
+		"listingAgent": {
+			"name": "Tiffany Poland",
+			"phone": "2075773339",
+			"email": "tiffany@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "86-Willow-Grove-Rd,-Unit-86,-Brunswick,-ME-04011",
+		"formattedAddress": "86 Willow Grove Rd, Unit 86, Brunswick, ME 04011",
+		"addressLine1": "86 Willow Grove Rd",
+		"addressLine2": "Unit 86",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.900997,
+		"longitude": -69.991238,
+		"propertyType": "Townhouse",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1940,
+		"lotSize": 4356,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 275
+		},
+		"status": "Active",
+		"price": 545000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.153Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679414",
+		"listingAgent": {
+			"name": "Dorothy M. Ollier",
+			"phone": "2077514919",
+			"email": "dot@basinpoint.com",
+			"website": "https://www.basinpointrealestate.com/"
+		},
+		"listingOffice": {
+			"name": "Basin Point Real Estate",
+			"phone": "2075221065",
+			"email": "amy.saxton@basinpoint.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 545000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "290-Simpsons-Point-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "290 Simpsons Point Rd, Brunswick, ME 04011",
+		"addressLine1": "290 Simpsons Point Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.854939,
+		"longitude": -69.972014,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2802,
+		"lotSize": 148104,
+		"yearBuilt": 1962,
+		"status": "Active",
+		"price": 985000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.136Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679542",
+		"listingAgent": {
+			"name": "Timothy Crosta",
+			"phone": "2077563822",
+			"email": "reph@rephchorew.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 985000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "7-Spring-St,-Brunswick,-ME-04011",
+		"formattedAddress": "7 Spring St, Brunswick, ME 04011",
+		"addressLine1": "7 Spring St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.912583,
+		"longitude": -69.971968,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1658,
+		"lotSize": 10019,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 469000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-25T05:56:25.782Z",
+		"lastSeenDate": "2026-09-12T05:30:06.132Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679609",
+		"listingAgent": {
+			"name": "Bruce Davis",
+			"phone": "2077989595",
+			"email": "bruce.davis@evrealestate.com",
+			"website": "https://cascobay.evrealestate.com/our-listings"
+		},
+		"listingOffice": {
+			"name": "Engel & Volkers Harpswell",
+			"phone": "2078330500",
+			"email": "harpswell@engelvoelkers.com",
+			"website": "https://harpswell.evrealestate.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "65-Madeline-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "65 Madeline Dr, Brunswick, ME 04011",
+		"addressLine1": "65 Madeline Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.963205,
+		"longitude": -70.041787,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1836,
+		"lotSize": 24394,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 29
+		},
+		"status": "Active",
+		"price": 271000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-02-17T08:55:22.445Z",
+		"lastSeenDate": "2026-09-12T05:30:06.131Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679591",
+		"listingAgent": {
+			"name": "Daniel Bolling",
+			"phone": "8778418223",
+			"email": "dan@danbolling.com",
+			"website": "http://danbolling.com"
+		},
+		"listingOffice": {
+			"name": "Dan The Man Real Estate",
+			"phone": "2075125902",
+			"email": "dan@danbolling.com",
+			"website": "http://www.danbolling.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 271000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "38-Safari-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "38 Safari Dr, Brunswick, ME 04011",
+		"addressLine1": "38 Safari Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.915521,
+		"longitude": -70.070428,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 2044,
+		"lotSize": 69696,
+		"yearBuilt": 2017,
+		"hoa": {
+			"fee": 71
+		},
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.127Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679615",
+		"listingAgent": {
+			"name": "Jessie Herod",
+			"phone": "2078799800",
+			"email": "jessieherod@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "11-Birch-Meadow-Rd,-Unit-11,-Brunswick,-ME-04011",
+		"formattedAddress": "11 Birch Meadow Rd, Unit 11, Brunswick, ME 04011",
+		"addressLine1": "11 Birch Meadow Rd",
+		"addressLine2": "Unit 11",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.903854,
+		"longitude": -69.995765,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 1962,
+		"lotSize": 43560,
+		"yearBuilt": 1989,
+		"hoa": {
+			"fee": 477
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-10-11T10:00:57.305Z",
+		"lastSeenDate": "2026-09-12T05:22:48.569Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679668",
+		"listingAgent": {
+			"name": "Zachariah Oja",
+			"phone": "2076996998",
+			"email": "zoja@kw.com",
+			"website": "https://propertydreams.me/"
+		},
+		"listingOffice": {
+			"name": "Realty ONE Group Next Level",
+			"phone": "6032523500"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "1-Sapphire,-Brunswick,-ME-04011",
+		"formattedAddress": "1 Sapphire, Brunswick, ME 04011",
+		"addressLine1": "1 Sapphire",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.913548,
+		"longitude": -70.025294,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1700,
+		"lotSize": 119790,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 545000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.566Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679686",
+		"listingAgent": {
+			"name": "Jordan J Stolt",
+			"phone": "2076202652",
+			"email": "jordanstoltrealtor@gmail.com",
+			"website": "summitofmaine.com"
+		},
+		"listingOffice": {
+			"name": "Summit Real Estate",
+			"phone": "2074365555",
+			"email": "jordanstoltrealtor@gmail.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 545000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "37-County-Xing,-Brunswick,-ME-04011",
+		"formattedAddress": "37 County Xing, Brunswick, ME 04011",
+		"addressLine1": "37 County Xing",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.899822,
+		"longitude": -69.980384,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"squareFootage": 3800,
+		"lotSize": 54450,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 50
+		},
+		"status": "Active",
+		"price": 1295000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.553Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679755",
+		"listingAgent": {
+			"name": "Michelle Gosselin",
+			"phone": "2077544998",
+			"email": "michellegosselin@fontaineteam.com",
+			"website": "https://brendafontaine.com/"
+		},
+		"listingOffice": {
+			"name": "Home At Last Realty",
+			"phone": "2077544998",
+			"email": "michelle@homeatlastrealty.me"
+		},
+		"history": {
+			"2025-04-25": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "New Construction",
+				"listedDate": "2025-04-25T00:00:00.000Z",
+				"removedDate": "2025-10-16T00:00:00.000Z",
+				"daysOnMarket": 174
+			},
+			"2026-05-30": {
+				"event": "Sale Listing",
+				"price": 1350000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-30T00:00:00.000Z",
+				"removedDate": "2026-09-02T00:00:00.000Z",
+				"daysOnMarket": 95
+			},
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 1295000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "33-Tidal-Run-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "33 Tidal Run Ln, Brunswick, ME 04011",
+		"addressLine1": "33 Tidal Run Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.854237,
+		"longitude": -69.974671,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 4356,
+		"lotSize": 262667,
+		"yearBuilt": 1986,
+		"status": "Active",
+		"price": 2900000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.552Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679757",
+		"listingAgent": {
+			"name": "Dylan Suagee",
+			"phone": "4062742186"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 2900000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "11-Chamberlain-Ave,-Brunswick,-ME-04011",
+		"formattedAddress": "11 Chamberlain Ave, Brunswick, ME 04011",
+		"addressLine1": "11 Chamberlain Ave",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.905461,
+		"longitude": -69.955185,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1184,
+		"lotSize": 14375,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.472Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680047",
+		"listingAgent": {
+			"name": "Cj Davis",
+			"phone": "2073194421",
+			"email": "cj.davis@evrealestate.com",
+			"website": "http://homesandharbors.com/default.asp.f-meetouragents_view_profile.agentid-31986"
+		},
+		"listingOffice": {
+			"name": "Engel & Volkers Harpswell",
+			"phone": "2078330500",
+			"email": "harpswell@engelvoelkers.com",
+			"website": "https://harpswell.evrealestate.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "8-Pine-St,-Brunswick,-ME-04011",
+		"formattedAddress": "8 Pine St, Brunswick, ME 04011",
+		"addressLine1": "8 Pine St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.907009,
+		"longitude": -69.950394,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1680,
+		"lotSize": 19166,
+		"yearBuilt": 2012,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-03-26T10:20:00.275Z",
+		"lastSeenDate": "2026-09-12T05:22:48.467Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680187",
+		"listingAgent": {
+			"name": "Daniel Weber Nicholas Laverriere",
+			"phone": "2078799800",
+			"email": "info@vistareb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "32-Safari-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "32 Safari Dr, Brunswick, ME 04011",
+		"addressLine1": "32 Safari Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.915542,
+		"longitude": -70.071393,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1456,
+		"lotSize": 82764,
+		"yearBuilt": 2018,
+		"hoa": {
+			"fee": 79
+		},
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.462Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680053",
+		"listingAgent": {
+			"name": "The Brent & Lisa Team",
+			"phone": "2077565135",
+			"email": "brentandlisa@portsidereg.com",
+			"website": "https://brentandlisa.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "48-Weymouth-St,-Brunswick,-ME-04011",
+		"formattedAddress": "48 Weymouth St, Brunswick, ME 04011",
+		"addressLine1": "48 Weymouth St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.909367,
+		"longitude": -69.973968,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 988,
+		"lotSize": 7841,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.459Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680220",
+		"listingAgent": {
+			"name": "Kayla Hatheway",
+			"phone": "2077258522",
+			"email": "kayla.hatheway@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com/me/brunswick/agent/kayla-hatheway/aid_189442/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "26-Hemlock-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "26 Hemlock Rd, Brunswick, ME 04011",
+		"addressLine1": "26 Hemlock Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.891416,
+		"longitude": -69.96561,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2328,
+		"lotSize": 27878,
+		"yearBuilt": 1984,
+		"status": "Active",
+		"price": 679900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.456Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680255",
+		"listingAgent": {
+			"name": "Rob Edgerley",
+			"phone": "2073322476",
+			"email": "rob@robedgerley.com",
+			"website": "https://www.maineliferealestate.com/"
+		},
+		"listingOffice": {
+			"name": "FIV Realty Co Maine, LLC",
+			"phone": "2074092961",
+			"email": "kim@kimtarbox.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 679900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "32-Emanual-Dr,-Brunswick,-ME-04011",
+		"formattedAddress": "32 Emanual Dr, Brunswick, ME 04011",
+		"addressLine1": "32 Emanual Dr",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.903848,
+		"longitude": -69.982925,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1316,
+		"lotSize": 5227,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-02-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.454Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680246",
+		"listingAgent": {
+			"name": "Heather Mayer",
+			"phone": "2078799800",
+			"email": "heathermayer@kw.com",
+			"website": "https://instacard.co/heather-mayer"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "242-Simpsons-Point-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "242 Simpsons Point Rd, Brunswick, ME 04011",
+		"addressLine1": "242 Simpsons Point Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.855999,
+		"longitude": -69.972384,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2085,
+		"lotSize": 235224,
+		"yearBuilt": 1760,
+		"status": "Active",
+		"price": 943000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.452Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680281",
+		"listingAgent": {
+			"name": "Anna Charlotte",
+			"phone": "2078070203",
+			"email": "anna.charlotte.maine@gmail.com",
+			"website": "https://annacharlotte.legacysir.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077292820",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 943000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "44-Carriage-Ln,-Unit-6,-Brunswick,-ME-04011",
+		"formattedAddress": "44 Carriage Ln, Unit 6, Brunswick, ME 04011",
+		"addressLine1": "44 Carriage Ln",
+		"addressLine2": "Unit 6",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.940239,
+		"longitude": -70.01924,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2264,
+		"lotSize": 1067220,
+		"yearBuilt": 2008,
+		"hoa": {
+			"fee": 540
+		},
+		"status": "Active",
+		"price": 619000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:01:26.250Z",
+		"daysOnMarket": 28,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676364",
+		"listingAgent": {
+			"name": "Richard Dow",
+			"phone": "2073323741",
+			"email": "rickdow@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-08-28": {
+				"event": "Sale Listing",
+				"price": 618900,
+				"listingType": "Standard",
+				"listedDate": "2025-08-28T00:00:00.000Z",
+				"removedDate": "2025-10-18T00:00:00.000Z",
+				"daysOnMarket": 51
+			},
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 619000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 28
+			}
+		}
+	},
+	{
+		"id": "75-Willow-Grove-Rd,-Unit-75,-Brunswick,-ME-04011",
+		"formattedAddress": "75 Willow Grove Rd, Unit 75, Brunswick, ME 04011",
+		"addressLine1": "75 Willow Grove Rd",
+		"addressLine2": "Unit 75",
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.901745,
+		"longitude": -69.988352,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1940,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 275
+		},
+		"status": "Active",
+		"price": 500000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:01:26.243Z",
+		"daysOnMarket": 28,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676432",
+		"listingAgent": {
+			"name": "Rick Bisson",
+			"phone": "2073170366",
+			"email": "rick@bissonrealestate.com",
+			"website": "http://www.bissonrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 500000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 28
+			}
+		}
+	},
+	{
+		"id": "52-Greystone-Ln,-Brunswick,-ME-04011",
+		"formattedAddress": "52 Greystone Ln, Brunswick, ME 04011",
+		"addressLine1": "52 Greystone Ln",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.915435,
+		"longitude": -70.015522,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1176,
+		"lotSize": 42253,
+		"yearBuilt": 2008,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T09:48:08.872Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670724",
+		"listingAgent": {
+			"name": "Daneel Dafni",
+			"phone": "2077517380",
+			"email": "daneelsellsmaine@gmail.com",
+			"website": "https://daneeldafni.masiello.com/"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-07-08": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "32-Tree-Farm-Rd,-Brunswick,-ME-04011",
+		"formattedAddress": "32 Tree Farm Rd, Brunswick, ME 04011",
+		"addressLine1": "32 Tree Farm Rd",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.913005,
+		"longitude": -70.02838,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2808,
+		"lotSize": 46174,
+		"yearBuilt": 2019,
+		"status": "Active",
+		"price": 660000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-12-17T11:45:26.423Z",
+		"lastSeenDate": "2026-09-10T07:14:17.929Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677686",
+		"listingAgent": {
+			"name": "Kathy Gallant, Agent",
+			"phone": "2078417569",
+			"email": "kgallant@gre207.com",
+			"website": "http://www.gre207.com"
+		},
+		"listingOffice": {
+			"name": "Gallant Real Estate",
+			"phone": "2078417569",
+			"email": "kgallant@gre207.com"
+		},
+		"history": {
+			"2026-08-25": {
+				"event": "Sale Listing",
+				"price": 660000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "56-Federal-St,-Brunswick,-ME-04011",
+		"formattedAddress": "56 Federal St, Brunswick, ME 04011",
+		"addressLine1": "56 Federal St",
+		"addressLine2": null,
+		"city": "Brunswick",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04011",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.913283,
+		"longitude": -69.961994,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3016,
+		"lotSize": 14375,
+		"yearBuilt": 1876,
+		"status": "Active",
+		"price": 1300000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:08:42.509Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679174",
+		"listingAgent": {
+			"name": "Joane Tait",
+			"phone": "2077292820",
+			"email": "jtait@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077292820",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 1300000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	}
+]

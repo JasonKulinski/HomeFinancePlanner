@@ -1,0 +1,1220 @@
+[
+	{
+		"id": "37-South-St,-Yarmouth,-ME-04096",
+		"formattedAddress": "37 South St, Yarmouth, ME 04096",
+		"addressLine1": "37 South St",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.801357,
+		"longitude": -70.192467,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3427,
+		"lotSize": 10019,
+		"yearBuilt": 1858,
+		"status": "Active",
+		"price": 2899900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:52:04.596Z",
+		"daysOnMarket": 156,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657339",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-06-27": {
+				"event": "Sale Listing",
+				"price": 3750000,
+				"listingType": "New Construction",
+				"listedDate": "2025-06-27T00:00:00.000Z",
+				"removedDate": "2025-08-19T00:00:00.000Z",
+				"daysOnMarket": 53
+			},
+			"2025-08-19": {
+				"event": "Sale Listing",
+				"price": 3850000,
+				"listingType": "New Construction",
+				"listedDate": "2025-08-19T00:00:00.000Z",
+				"removedDate": "2025-10-15T00:00:00.000Z",
+				"daysOnMarket": 57
+			},
+			"2025-11-06": {
+				"event": "Sale Listing",
+				"price": 3850000,
+				"listingType": "New Construction",
+				"listedDate": "2025-11-06T00:00:00.000Z",
+				"removedDate": "2026-02-26T00:00:00.000Z",
+				"daysOnMarket": 112
+			},
+			"2026-04-10": {
+				"event": "Sale Listing",
+				"price": 2899900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 156
+			}
+		}
+	},
+	{
+		"id": "350-Hillside-St,-Yarmouth,-ME-04096",
+		"formattedAddress": "350 Hillside St, Yarmouth, ME 04096",
+		"addressLine1": "350 Hillside St",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.795714,
+		"longitude": -70.206877,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 3058,
+		"lotSize": 49223,
+		"yearBuilt": 1996,
+		"status": "Active",
+		"price": 1100000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.264Z",
+		"daysOnMarket": 139,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659431",
+		"listingAgent": {
+			"name": "Christine Pemberton",
+			"phone": "2077494711",
+			"email": "gr8fulmaine@gmail.com",
+			"website": "http://www.pembertonmaine.com/"
+		},
+		"listingOffice": {
+			"name": "Pemberton Real Estate",
+			"phone": "2077494711",
+			"email": "gr8fulmaine@gmail.com"
+		},
+		"history": {
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 1100000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 139
+			}
+		}
+	},
+	{
+		"id": "36-Merrill-Dr,-Unit-36,-Yarmouth,-ME-04096",
+		"formattedAddress": "36 Merrill Dr, Unit 36, Yarmouth, ME 04096",
+		"addressLine1": "36 Merrill Dr",
+		"addressLine2": "Unit 36",
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.790759,
+		"longitude": -70.181522,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1442,
+		"lotSize": 723967,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 569
+		},
+		"status": "Active",
+		"price": 699000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:55:21.204Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663081",
+		"listingAgent": {
+			"name": "Melissa Richter",
+			"phone": "2074504203",
+			"email": "mdowling@kw.com",
+			"website": "http://www.mainesold.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "92-Spruce-Point-Rd,-Yarmouth,-ME-04096",
+		"formattedAddress": "92 Spruce Point Rd, Yarmouth, ME 04096",
+		"addressLine1": "92 Spruce Point Rd",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.750927,
+		"longitude": -70.144217,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 9773,
+		"lotSize": 91476,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 8500000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.585Z",
+		"daysOnMarket": 107,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664594",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2025-09-16": {
+				"event": "Sale Listing",
+				"price": 9500000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-16T00:00:00.000Z",
+				"removedDate": "2025-12-01T00:00:00.000Z",
+				"daysOnMarket": 76
+			},
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 8500000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 107
+			}
+		}
+	},
+	{
+		"id": "492-W-Elm-St,-Yarmouth,-ME-04096",
+		"formattedAddress": "492 W Elm St, Yarmouth, ME 04096",
+		"addressLine1": "492 W Elm St",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.787287,
+		"longitude": -70.197649,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 2429,
+		"lotSize": 56192,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 1425000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-19T09:00:32.384Z",
+		"lastSeenDate": "2026-09-12T08:52:34.575Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665079",
+		"listingAgent": {
+			"name": "Pete Molloy",
+			"phone": "2077730262",
+			"email": "pmolloy@townandshore.com",
+			"website": "http://www.townandshore.com"
+		},
+		"listingOffice": {
+			"name": "Town & Shore",
+			"phone": "2077730262",
+			"email": "inquiries@townandshore.com",
+			"website": "http://www.townandshore.com/"
+		},
+		"history": {
+			"2026-04-04": {
+				"event": "Sale Listing",
+				"price": 1590000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-04T00:00:00.000Z",
+				"removedDate": "2026-05-24T00:00:00.000Z",
+				"daysOnMarket": 50
+			},
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 1425000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "607-Granite-St,-Yarmouth,-ME-04096",
+		"formattedAddress": "607 Granite St, Yarmouth, ME 04096",
+		"addressLine1": "607 Granite St",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.832616,
+		"longitude": -70.163422,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1560,
+		"lotSize": 29621,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 615000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:52:34.537Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667844",
+		"listingAgent": {
+			"name": "Duncan Mcgilvery",
+			"phone": "2072825988",
+			"email": "duncan.mcgilvery@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 615000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "143-Royall-Point-Rd,-Yarmouth,-ME-04096",
+		"formattedAddress": "143 Royall Point Rd, Yarmouth, ME 04096",
+		"addressLine1": "143 Royall Point Rd",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.788386,
+		"longitude": -70.154177,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 5203,
+		"lotSize": 57064,
+		"yearBuilt": 1991,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 1900000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-24T12:37:35.673Z",
+		"lastSeenDate": "2026-09-12T08:52:34.525Z",
+		"daysOnMarket": 89,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667477",
+		"listingAgent": {
+			"name": "Peter Bettinger",
+			"phone": "3406429800",
+			"email": "peterbettinger@remax.net",
+			"website": "http://www.dotollierteam.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-06-16": {
+				"event": "Sale Listing",
+				"price": 1900000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 89
+			}
+		}
+	},
+	{
+		"id": "90-Cornfield-Pt,-Yarmouth,-ME-04096",
+		"formattedAddress": "90 Cornfield Pt, Yarmouth, ME 04096",
+		"addressLine1": "90 Cornfield Pt",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.773074,
+		"longitude": -70.12288,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 6,
+		"squareFootage": 7592,
+		"lotSize": 309276,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 14000000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.879Z",
+		"daysOnMarket": 85,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668255",
+		"listingAgent": {
+			"name": "Anna Charlotte",
+			"phone": "2078070203",
+			"email": "anna.charlotte.maine@gmail.com",
+			"website": "https://annacharlotte.legacysir.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077292820",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-06-20": {
+				"event": "Sale Listing",
+				"price": 14000000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 85
+			}
+		}
+	},
+	{
+		"id": "51-Old-Field-Rd,-Yarmouth,-ME-04096",
+		"formattedAddress": "51 Old Field Rd, Yarmouth, ME 04096",
+		"addressLine1": "51 Old Field Rd",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.825225,
+		"longitude": -70.201916,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3434,
+		"lotSize": 39640,
+		"yearBuilt": 2000,
+		"status": "Active",
+		"price": 995000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.773Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671212",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2026-02-02": {
+				"event": "Sale Listing",
+				"price": 1175000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-02T00:00:00.000Z",
+				"removedDate": "2026-07-01T00:00:00.000Z",
+				"daysOnMarket": 149
+			},
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "232-Bluff-Rd,-Unit-232,-Yarmouth,-ME-04096",
+		"formattedAddress": "232 Bluff Rd, Unit 232, Yarmouth, ME 04096",
+		"addressLine1": "232 Bluff Rd",
+		"addressLine2": "Unit 232",
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.813848,
+		"longitude": -70.170748,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1739,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 835
+		},
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:45:51.767Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669953",
+		"listingAgent": {
+			"name": "Michelle Libby | Team Leader In Maine",
+			"phone": "2077494995",
+			"email": "mlibby@c21ne.com",
+			"website": "http://www.michelleinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "2076510836",
+			"email": "jdamico@brandsbyintegra.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "4-Foxglove-Ct,-Unit-4,-Yarmouth,-ME-04096",
+		"formattedAddress": "4 Foxglove Ct, Unit 4, Yarmouth, ME 04096",
+		"addressLine1": "4 Foxglove Ct",
+		"addressLine2": "Unit 4",
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.814222,
+		"longitude": -70.175665,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2076,
+		"yearBuilt": 1984,
+		"hoa": {
+			"fee": 660
+		},
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.862Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672183",
+		"listingAgent": {
+			"name": "Stacy Salvo",
+			"phone": "2077808900",
+			"email": "ssalvo@legacysir.com",
+			"website": "http://www.stacysalvo.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "240-And-304-Moshier-Is,-Yarmouth,-ME-04096",
+		"formattedAddress": "240 And 304 Moshier Is, Yarmouth, ME 04096",
+		"addressLine1": "240 And 304 Moshier Is",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.778268,
+		"longitude": -70.101558,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3016,
+		"lotSize": 402930,
+		"yearBuilt": 2010,
+		"status": "Active",
+		"price": 3100000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.839Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672740",
+		"listingAgent": {
+			"name": "Carrie Martin",
+			"phone": "2077808900",
+			"email": "cmartin@legacysir.com",
+			"website": "http://www.legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 3100000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "30-Melissa-Dr,-Yarmouth,-ME-04096",
+		"formattedAddress": "30 Melissa Dr, Yarmouth, ME 04096",
+		"addressLine1": "30 Melissa Dr",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.812125,
+		"longitude": -70.180982,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1360,
+		"lotSize": 17424,
+		"yearBuilt": 1977,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.829Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673276",
+		"listingAgent": {
+			"name": "Brandon Gallagher",
+			"phone": "2078042012",
+			"email": "brandon@waypointbrokers.com"
+		},
+		"listingOffice": {
+			"name": "Waypoint Brokers Collective",
+			"phone": "2078042012",
+			"email": "ali.malone@gmail.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "53-Waters-Edge-Dr,-Yarmouth,-ME-04096",
+		"formattedAddress": "53 Waters Edge Dr, Yarmouth, ME 04096",
+		"addressLine1": "53 Waters Edge Dr",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.797263,
+		"longitude": -70.153265,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 5678,
+		"lotSize": 87120,
+		"yearBuilt": 1996,
+		"status": "Active",
+		"price": 2550000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:02:50.817Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672910",
+		"listingAgent": {
+			"name": "Heather Shields",
+			"phone": "2077808900",
+			"email": "hshields@legacysir.com",
+			"website": "http://www.legacysir.com/hshields"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 2550000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "84-Winding-Way,-Yarmouth,-ME-04096",
+		"formattedAddress": "84 Winding Way, Yarmouth, ME 04096",
+		"addressLine1": "84 Winding Way",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.789315,
+		"longitude": -70.195399,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2898,
+		"lotSize": 51401,
+		"yearBuilt": 1994,
+		"status": "Active",
+		"price": 1099000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:52:49.610Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675096",
+		"listingAgent": {
+			"name": "Ann Cianchette",
+			"phone": "2073185318",
+			"email": "team@mainedreamproperties.com",
+			"website": "http://www.mainedreamproperties.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 1099000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "7-Lupine-Ct,-Unit-7,-Yarmouth,-ME-04096",
+		"formattedAddress": "7 Lupine Ct, Unit 7, Yarmouth, ME 04096",
+		"addressLine1": "7 Lupine Ct",
+		"addressLine2": "Unit 7",
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.813292,
+		"longitude": -70.176937,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 1956,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 729
+		},
+		"status": "Active",
+		"price": 634900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:00:31.372Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678133",
+		"listingAgent": {
+			"name": "Shawn Boissonneault",
+			"phone": "2077560649",
+			"email": "shawn@myhomesinmaine.com",
+			"website": "http://www.myhomesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Verrill Real Estate, Inc",
+			"phone": "2073297755",
+			"email": "verrip1@gmail.com"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 634900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "410-Gilman-Rd,-Yarmouth,-ME-04096",
+		"formattedAddress": "410 Gilman Rd, Yarmouth, ME 04096",
+		"addressLine1": "410 Gilman Rd",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.783139,
+		"longitude": -70.15816,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1428,
+		"lotSize": 87556,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 950000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.186Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679273",
+		"listingAgent": {
+			"name": "Stacy Salvo",
+			"phone": "2077808900",
+			"email": "ssalvo@legacysir.com",
+			"website": "http://www.stacysalvo.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2025-05-05": {
+				"event": "Sale Listing",
+				"price": 815000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-05T00:00:00.000Z",
+				"removedDate": "2025-05-10T00:00:00.000Z",
+				"daysOnMarket": 5
+			},
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 950000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "8-Riverbend-Dr,-Unit-8,-Yarmouth,-ME-04096",
+		"formattedAddress": "8 Riverbend Dr, Unit 8, Yarmouth, ME 04096",
+		"addressLine1": "8 Riverbend Dr",
+		"addressLine2": "Unit 8",
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.808837,
+		"longitude": -70.193028,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1104,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 550
+		},
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-03-29T08:00:30.854Z",
+		"lastSeenDate": "2026-09-12T05:30:06.184Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679133",
+		"listingAgent": {
+			"name": "Kristina Keaney",
+			"phone": "2077808900",
+			"email": "kkeaney@legacysir.com",
+			"website": "http://www.legacysir.com/eng/agent/507-a-536-4043076/kristina-keaney"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "135-Burnell-Dr,-Yarmouth,-ME-04096",
+		"formattedAddress": "135 Burnell Dr, Yarmouth, ME 04096",
+		"addressLine1": "135 Burnell Dr",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.811543,
+		"longitude": -70.186886,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1702,
+		"lotSize": 41382,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 599900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:30:06.150Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679287",
+		"listingAgent": {
+			"name": "Rita Yarnold",
+			"phone": "2077753838",
+			"email": "cbayrea1@maine.rr.com",
+			"website": "http://www.bayrealtyassociates.com"
+		},
+		"listingOffice": {
+			"name": "Bay Realty",
+			"phone": "2077753838",
+			"email": "rita@bayrealtyassociates.com",
+			"website": "http://www.bayrealtyassociates.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 599900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "176-Melissa-Dr,-Yarmouth,-ME-04096",
+		"formattedAddress": "176 Melissa Dr, Yarmouth, ME 04096",
+		"addressLine1": "176 Melissa Dr",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.809473,
+		"longitude": -70.186895,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 2000,
+		"lotSize": 12632,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.562Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679698",
+		"listingAgent": {
+			"name": "Susie Kendeigh",
+			"phone": "2076534412",
+			"email": "susiekendeigh@gmail.com",
+			"website": "https://portsiderealestategroup.com/group/agent/132/kendeigh/susie/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "284-W-Main-St,-Yarmouth,-ME-04096",
+		"formattedAddress": "284 W Main St, Yarmouth, ME 04096",
+		"addressLine1": "284 W Main St",
+		"addressLine2": null,
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.802593,
+		"longitude": -70.205737,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1869,
+		"lotSize": 27878,
+		"yearBuilt": 1787,
+		"status": "Active",
+		"price": 785000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.525Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679837",
+		"listingAgent": {
+			"name": "Pete Molloy",
+			"phone": "2077730262",
+			"email": "pmolloy@townandshore.com",
+			"website": "http://www.townandshore.com"
+		},
+		"listingOffice": {
+			"name": "Town & Shore",
+			"phone": "2077730262",
+			"email": "inquiries@townandshore.com",
+			"website": "http://www.townandshore.com/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 785000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "52-Blueberry-Cove-Rd,-Unit-52,-Yarmouth,-ME-04096",
+		"formattedAddress": "52 Blueberry Cove Rd, Unit 52, Yarmouth, ME 04096",
+		"addressLine1": "52 Blueberry Cove Rd",
+		"addressLine2": "Unit 52",
+		"city": "Yarmouth",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04096",
+		"county": "Cumberland",
+		"countyFips": "005",
+		"latitude": 43.79697,
+		"longitude": -70.169881,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3315,
+		"lotSize": 1611720,
+		"yearBuilt": 1982,
+		"hoa": {
+			"fee": 800
+		},
+		"status": "Active",
+		"price": 725000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:22:48.464Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680202",
+		"listingAgent": {
+			"name": "Holly Mitchell & Will Chapman",
+			"phone": "2076506176",
+			"email": "hmitchell@kw.com",
+			"website": "http://www.maineprice.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-09-10": {
+				"event": "Sale Listing",
+				"price": 730000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-10T00:00:00.000Z",
+				"removedDate": "2026-08-26T00:00:00.000Z",
+				"daysOnMarket": 350
+			},
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	}
+]

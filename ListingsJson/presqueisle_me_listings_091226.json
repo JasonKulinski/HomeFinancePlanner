@@ -1,0 +1,2428 @@
+[
+	{
+		"id": "10-Delmont-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "10 Delmont St, Presque Isle, ME 04769",
+		"addressLine1": "10 Delmont St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.691127,
+		"longitude": -68.017272,
+		"propertyType": "Land",
+		"lotSize": 7841,
+		"status": "Active",
+		"price": 15000,
+		"listingType": "Standard",
+		"listedDate": "2025-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T10:39:01.343Z",
+		"lastSeenDate": "2026-09-12T10:17:38.443Z",
+		"daysOnMarket": 417,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1631481",
+		"listingAgent": {
+			"name": "Charles Johnston",
+			"phone": "2072272305"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2025-07-23": {
+				"event": "Sale Listing",
+				"price": 15000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 417
+			}
+		}
+	},
+	{
+		"id": "14-Reach-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "14 Reach Rd, Presque Isle, ME 04769",
+		"addressLine1": "14 Reach Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.70532,
+		"longitude": -68.005771,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1771,
+		"lotSize": 102366,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 399900,
+		"listingType": "Standard",
+		"listedDate": "2025-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:17:38.419Z",
+		"daysOnMarket": 445,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1628003",
+		"listingAgent": {
+			"name": "Frederick Dobbs",
+			"phone": "2074921300",
+			"email": "dobbsrealty@hotmail.com"
+		},
+		"listingOffice": {
+			"name": "Dobbs Realty",
+			"phone": "2074921300",
+			"email": "dobbsrealty@hotmail.com",
+			"website": "http://www.dobbsrealty.com"
+		},
+		"history": {
+			"2025-06-25": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "Standard",
+				"listedDate": "2025-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 445
+			}
+		}
+	},
+	{
+		"id": "138-Reach-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "138 Reach Rd, Presque Isle, ME 04769",
+		"addressLine1": "138 Reach Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.700486,
+		"longitude": -67.980291,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 2032,
+		"lotSize": 291852,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 255000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:17:38.415Z",
+		"daysOnMarket": 405,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1632955",
+		"listingAgent": {
+			"name": "Stacey Skinner",
+			"phone": "2074921300",
+			"email": "stacey@upnorthrealtyme.com",
+			"website": "http://upnorthrealtyme.com"
+		},
+		"listingOffice": {
+			"name": "Up North Realty",
+			"phone": "2072275006",
+			"email": "stacey@upnorthrealtyme.com"
+		},
+		"history": {
+			"2025-08-04": {
+				"event": "Sale Listing",
+				"price": 255000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 405
+			}
+		}
+	},
+	{
+		"id": "309-State-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "309 State St, Presque Isle, ME 04769",
+		"addressLine1": "309 State St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.682193,
+		"longitude": -68.003383,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 5024,
+		"lotSize": 217800,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2025-10-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:17:38.413Z",
+		"daysOnMarket": 341,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640089",
+		"listingAgent": {
+			"name": "Jane Towle",
+			"phone": "2075516617",
+			"email": "janetowle@fastmail.com",
+			"website": "http://www.countyrealestate.me"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2025-10-07": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 341
+			}
+		}
+	},
+	{
+		"id": "38-Elizabeth-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "38 Elizabeth St, Presque Isle, ME 04769",
+		"addressLine1": "38 Elizabeth St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.680427,
+		"longitude": -68.029107,
+		"propertyType": "Land",
+		"lotSize": 12632,
+		"status": "Active",
+		"price": 19000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:17:38.407Z",
+		"daysOnMarket": 394,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1634463",
+		"listingAgent": {
+			"name": "Charles Johnston",
+			"phone": "2072272305"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2025-08-15": {
+				"event": "Sale Listing",
+				"price": 19000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 394
+			}
+		}
+	},
+	{
+		"id": "5-Epworth-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "5 Epworth St, Presque Isle, ME 04769",
+		"addressLine1": "5 Epworth St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.678723,
+		"longitude": -68.01373,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1908,
+		"lotSize": 4792,
+		"yearBuilt": 1897,
+		"status": "Active",
+		"price": 129900,
+		"listingType": "Standard",
+		"listedDate": "2025-10-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:17:38.379Z",
+		"daysOnMarket": 324,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1641800",
+		"listingAgent": {
+			"name": "Stephanie Beaulieu",
+			"phone": "2075515835",
+			"email": "fieldsrealtyllc@gmail.com",
+			"website": "http://fieldsrealtyllc.com"
+		},
+		"listingOffice": {
+			"name": "Fields Realty Llc",
+			"phone": "2075515835",
+			"email": "fieldsrealty@maine.rr.com"
+		},
+		"history": {
+			"2024-09-20": {
+				"event": "Sale Listing",
+				"price": 144900,
+				"listingType": "Standard",
+				"listedDate": "2024-09-20T00:00:00.000Z",
+				"removedDate": "2025-03-19T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2025-10-24": {
+				"event": "Sale Listing",
+				"price": 129900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 324
+			}
+		}
+	},
+	{
+		"id": "8-Lincoln-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "8 Lincoln St, Presque Isle, ME 04769",
+		"addressLine1": "8 Lincoln St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.681324,
+		"longitude": -68.027212,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1277,
+		"lotSize": 8712,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 204900,
+		"listingType": "Standard",
+		"listedDate": "2026-02-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-02-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:53:42.924Z",
+		"daysOnMarket": 198,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652840",
+		"listingAgent": {
+			"name": "Martha Buck",
+			"email": "marthabuck77@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-02-27": {
+				"event": "Sale Listing",
+				"price": 204900,
+				"listingType": "Standard",
+				"listedDate": "2026-02-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 198
+			}
+		}
+	},
+	{
+		"id": "67-And-69-St-N,-Presque-Isle,-ME-04769",
+		"formattedAddress": "67 And 69 St N, Presque Isle, ME 04769",
+		"addressLine1": "67 And 69 St N",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.68878,
+		"longitude": -68.004067,
+		"propertyType": "Land",
+		"lotSize": 27878,
+		"status": "Active",
+		"price": 15000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-10-03T05:51:51.300Z",
+		"lastSeenDate": "2026-09-12T09:53:42.843Z",
+		"daysOnMarket": 165,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656090",
+		"listingAgent": {
+			"name": "Charles Johnston",
+			"phone": "2072272305"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2025-01-31": {
+				"event": "Sale Listing",
+				"price": 18000,
+				"listingType": "Standard",
+				"listedDate": "2025-01-31T00:00:00.000Z",
+				"removedDate": "2026-01-31T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2026-04-01": {
+				"event": "Sale Listing",
+				"price": 15000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 165
+			}
+		}
+	},
+	{
+		"id": "217-Houlton-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "217 Houlton Rd, Presque Isle, ME 04769",
+		"addressLine1": "217 Houlton Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.634771,
+		"longitude": -68.006588,
+		"propertyType": "Multi-Family",
+		"bedrooms": 8,
+		"bathrooms": 4,
+		"squareFootage": 4742,
+		"lotSize": 5292540,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 345000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-03-25T10:19:12.403Z",
+		"lastSeenDate": "2026-09-12T09:53:42.819Z",
+		"daysOnMarket": 151,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657869",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2025-10-18": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-18T00:00:00.000Z",
+				"removedDate": "2026-02-28T00:00:00.000Z",
+				"daysOnMarket": 133
+			},
+			"2026-04-15": {
+				"event": "Sale Listing",
+				"price": 345000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 151
+			}
+		}
+	},
+	{
+		"id": "55-Niles-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "55 Niles Rd, Presque Isle, ME 04769",
+		"addressLine1": "55 Niles Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.646083,
+		"longitude": -68.043648,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"squareFootage": 4237,
+		"lotSize": 958320,
+		"yearBuilt": 1999,
+		"status": "Active",
+		"price": 995000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:53:42.808Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659184",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 995000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "30-Park-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "30 Park St, Presque Isle, ME 04769",
+		"addressLine1": "30 Park St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.685924,
+		"longitude": -68.017962,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1748,
+		"lotSize": 15682,
+		"yearBuilt": 1860,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.854Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661486",
+		"listingAgent": {
+			"name": "Stephanie Tanner",
+			"phone": "4092001567",
+			"email": "stephanie.tanner7@gmail.com",
+			"website": "https://kwmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "http://kwmaine.com"
+		},
+		"history": {
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "23-Park-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "23 Park St, Presque Isle, ME 04769",
+		"addressLine1": "23 Park St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.685384,
+		"longitude": -68.017489,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 2228,
+		"lotSize": 8276,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 135000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.843Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662344",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 135000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "27-Reach-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "27 Reach Rd, Presque Isle, ME 04769",
+		"addressLine1": "27 Reach Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.702521,
+		"longitude": -68.002259,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 6,
+		"squareFootage": 2554,
+		"lotSize": 100188,
+		"yearBuilt": 1983,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.836Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662999",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2025-06-18": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-18T00:00:00.000Z",
+				"removedDate": "2025-08-05T00:00:00.000Z",
+				"daysOnMarket": 48
+			},
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "118-Lombard-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "118 Lombard St, Presque Isle, ME 04769",
+		"addressLine1": "118 Lombard St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.686998,
+		"longitude": -67.996785,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2056,
+		"lotSize": 24394,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 284000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.831Z",
+		"daysOnMarket": 114,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663541",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-05-22": {
+				"event": "Sale Listing",
+				"price": 284000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 114
+			}
+		}
+	},
+	{
+		"id": "107-Echo-Lake-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "107 Echo Lake Rd, Presque Isle, ME 04769",
+		"addressLine1": "107 Echo Lake Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.612796,
+		"longitude": -68.001764,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 906,
+		"lotSize": 6534,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 259000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.803Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665521",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2025-07-03": {
+				"event": "Sale Listing",
+				"price": 273000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-03T00:00:00.000Z",
+				"removedDate": "2025-08-05T00:00:00.000Z",
+				"daysOnMarket": 33
+			},
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 259000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "86-Williams-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "86 Williams Rd, Presque Isle, ME 04769",
+		"addressLine1": "86 Williams Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.630517,
+		"longitude": -67.966187,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2060,
+		"lotSize": 325393,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 324900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.800Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665535",
+		"listingAgent": {
+			"name": "Lehrle Kieffer",
+			"phone": "2075519258",
+			"email": "lehrlekieffer@gmail.com",
+			"website": "http://kiefferrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Kieffer Real Estate",
+			"phone": "2074982900",
+			"email": "lehrlekieffer@gmail.com",
+			"website": "http://www.kiefferrealestate.com"
+		},
+		"history": {
+			"2025-06-11": {
+				"event": "Sale Listing",
+				"price": 339000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-11T00:00:00.000Z",
+				"removedDate": "2025-10-28T00:00:00.000Z",
+				"daysOnMarket": 139
+			},
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 324900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "63-Lakeshore-Dr,-Presque-Isle,-ME-04769",
+		"formattedAddress": "63 Lakeshore Dr, Presque Isle, ME 04769",
+		"addressLine1": "63 Lakeshore Dr",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.618537,
+		"longitude": -68.010081,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1152,
+		"lotSize": 65340,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 195000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.797Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665073",
+		"listingAgent": {
+			"name": "Travis Ouellette",
+			"phone": "2077644600",
+			"email": "travisouellette@icloud.com"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 195000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "28-Dyer-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "28 Dyer St, Presque Isle, ME 04769",
+		"addressLine1": "28 Dyer St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.684298,
+		"longitude": -68.016966,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1700,
+		"lotSize": 9583,
+		"yearBuilt": 1879,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.792Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665078",
+		"listingAgent": {
+			"name": "Frederick Dobbs",
+			"phone": "2074921300",
+			"email": "dobbsrealty@hotmail.com"
+		},
+		"listingOffice": {
+			"name": "Dobbs Realty",
+			"phone": "2074921300",
+			"email": "dobbsrealty@hotmail.com",
+			"website": "http://www.dobbsrealty.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "499-Caribou-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "499 Caribou Rd, Presque Isle, ME 04769",
+		"addressLine1": "499 Caribou Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.775111,
+		"longitude": -67.988723,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1155,
+		"lotSize": 24394,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 35700,
+		"listingType": "Standard",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.770Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656599",
+		"listingAgent": {
+			"name": "Crystal Krainis",
+			"phone": "8134696676"
+		},
+		"listingOffice": {
+			"name": "LPT Realty",
+			"phone": "8773662213",
+			"email": "mebrokers@lptrealty.com"
+		},
+		"history": {
+			"2024-06-21": {
+				"event": "Sale Listing",
+				"price": 74700,
+				"listingType": "Standard",
+				"listedDate": "2024-06-21T00:00:00.000Z",
+				"removedDate": "2024-12-01T00:00:00.000Z",
+				"daysOnMarket": 163
+			},
+			"2024-12-06": {
+				"event": "Sale Listing",
+				"price": 68700,
+				"listingType": "Standard",
+				"listedDate": "2024-12-06T00:00:00.000Z",
+				"removedDate": "2025-01-31T00:00:00.000Z",
+				"daysOnMarket": 56
+			},
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 35700,
+				"listingType": "Standard",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "51-Cedar-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "51 Cedar St, Presque Isle, ME 04769",
+		"addressLine1": "51 Cedar St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.675726,
+		"longitude": -68.009761,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1700,
+		"lotSize": 11761,
+		"yearBuilt": 1953,
+		"status": "Active",
+		"price": 220000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.766Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670103",
+		"listingAgent": {
+			"name": "Dan Castle",
+			"phone": "2075540187",
+			"email": "dcastle@nexthomediscover.com",
+			"website": "https://teamcastle.nexthomediscover.com/"
+		},
+		"listingOffice": {
+			"name": "NextHome Discover",
+			"phone": "2077626398",
+			"email": "dcastle@nexthomediscover.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 220000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "6-Skyview-Dr,-Presque-Isle,-ME-04769",
+		"formattedAddress": "6 Skyview Dr, Presque Isle, ME 04769",
+		"addressLine1": "6 Skyview Dr",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.687039,
+		"longitude": -67.995209,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1152,
+		"lotSize": 13939,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 289900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:10.763Z",
+		"daysOnMarket": 75,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669658",
+		"listingAgent": {
+			"name": "Dan Castle",
+			"phone": "2075540187",
+			"email": "dcastle@nexthomediscover.com",
+			"website": "https://teamcastle.nexthomediscover.com/"
+		},
+		"listingOffice": {
+			"name": "NextHome Discover",
+			"phone": "2077626398",
+			"email": "dcastle@nexthomediscover.com"
+		},
+		"history": {
+			"2026-06-30": {
+				"event": "Sale Listing",
+				"price": 289900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 75
+			}
+		}
+	},
+	{
+		"id": "122-Dudley-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "122 Dudley St, Presque Isle, ME 04769",
+		"addressLine1": "122 Dudley St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.674402,
+		"longitude": -68.007765,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2166,
+		"lotSize": 10454,
+		"yearBuilt": 1956,
+		"status": "Active",
+		"price": 295000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T20:01:38.143Z",
+		"lastSeenDate": "2026-09-12T09:32:10.761Z",
+		"daysOnMarket": 78,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669320",
+		"listingAgent": {
+			"name": "Michael Willette",
+			"phone": "2077644699",
+			"email": "mikeblackbear@gmail.com",
+			"website": "https://www.bigbearrealestatecompany.com/"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2026-06-27": {
+				"event": "Sale Listing",
+				"price": 295000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 78
+			}
+		}
+	},
+	{
+		"id": "16-Ward-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "16 Ward St, Presque Isle, ME 04769",
+		"addressLine1": "16 Ward St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.680793,
+		"longitude": -68.026426,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1568,
+		"lotSize": 16117,
+		"yearBuilt": 2006,
+		"status": "Active",
+		"price": 205000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.590Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670540",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 205000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "33-Davis-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "33 Davis St, Presque Isle, ME 04769",
+		"addressLine1": "33 Davis St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.691071,
+		"longitude": -68.008154,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 1800,
+		"lotSize": 16988,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 199900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.575Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671117",
+		"listingAgent": {
+			"name": "Stephanie Beaulieu",
+			"phone": "2075515835",
+			"email": "fieldsrealtyllc@gmail.com",
+			"website": "http://fieldsrealtyllc.com"
+		},
+		"listingOffice": {
+			"name": "Fields Realty Llc",
+			"phone": "2075515835",
+			"email": "fieldsrealty@maine.rr.com"
+		},
+		"history": {
+			"2025-07-01": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-01T00:00:00.000Z",
+				"removedDate": "2026-06-27T00:00:00.000Z",
+				"daysOnMarket": 361
+			},
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 199900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "83-Exchange-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "83 Exchange St, Presque Isle, ME 04769",
+		"addressLine1": "83 Exchange St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.676794,
+		"longitude": -68.02442,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 600,
+		"lotSize": 24829,
+		"yearBuilt": 1980,
+		"status": "Active",
+		"price": 55000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.574Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671242",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 55000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "62-Lakeshore-Dr,-Presque-Isle,-ME-04769",
+		"formattedAddress": "62 Lakeshore Dr, Presque Isle, ME 04769",
+		"addressLine1": "62 Lakeshore Dr",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.618913,
+		"longitude": -68.008923,
+		"propertyType": "Land",
+		"lotSize": 87120,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.554Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672071",
+		"listingAgent": {
+			"name": "Stephanie Beaulieu",
+			"phone": "2075515835",
+			"email": "fieldsrealtyllc@gmail.com",
+			"website": "http://fieldsrealtyllc.com"
+		},
+		"listingOffice": {
+			"name": "Fields Realty Llc",
+			"phone": "2075515835",
+			"email": "fieldsrealty@maine.rr.com"
+		},
+		"history": {
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "44-Washburn-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "44 Washburn Rd, Presque Isle, ME 04769",
+		"addressLine1": "44 Washburn Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.709483,
+		"longitude": -68.014697,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 880,
+		"lotSize": 74052,
+		"yearBuilt": 1949,
+		"status": "Active",
+		"price": 115000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-05-16T07:49:15.355Z",
+		"lastSeenDate": "2026-09-12T08:01:29.553Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672084",
+		"listingAgent": {
+			"name": "Tracy Ostlund",
+			"phone": "2075515083",
+			"email": "tostlund@nexthomediscover.com",
+			"website": "http://www.tracyostlund.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Discover",
+			"phone": "2077626398",
+			"email": "dcastle@nexthomediscover.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 115000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "15-Strawberry-Bank-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "15 Strawberry Bank Rd, Presque Isle, ME 04769",
+		"addressLine1": "15 Strawberry Bank Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.677953,
+		"longitude": -67.995522,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1542,
+		"lotSize": 14375,
+		"yearBuilt": 1972,
+		"status": "Active",
+		"price": 279900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.530Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674196",
+		"listingAgent": {
+			"name": "Christy Leblanc",
+			"phone": "2077626398",
+			"email": "cleblanc@nexthomediscover.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Discover",
+			"phone": "2077626398",
+			"email": "dcastle@nexthomediscover.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 279900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "12-Lincoln-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "12 Lincoln St, Presque Isle, ME 04769",
+		"addressLine1": "12 Lincoln St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.681503,
+		"longitude": -68.027648,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1058,
+		"lotSize": 9148,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 134000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-03T10:25:01.849Z",
+		"lastSeenDate": "2026-09-12T08:01:29.504Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672425",
+		"listingAgent": {
+			"name": "Jennifer Banton",
+			"phone": "2074171033",
+			"email": "jenniferbanton@kw.com",
+			"website": "http://jenniferbanton.kw.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 134000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "8-Carpenter-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "8 Carpenter St, Presque Isle, ME 04769",
+		"addressLine1": "8 Carpenter St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.684407,
+		"longitude": -68.031978,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 732,
+		"lotSize": 13068,
+		"yearBuilt": 1927,
+		"status": "Active",
+		"price": 69900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.494Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674848",
+		"listingAgent": {
+			"name": "Elias Leland",
+			"phone": "2072825988",
+			"email": "elias.leland@cbrealty.com",
+			"website": "https://eliaslelandrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 69900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "346-Parkhurst-Siding-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "346 Parkhurst Siding Rd, Presque Isle, ME 04769",
+		"addressLine1": "346 Parkhurst Siding Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.755586,
+		"longitude": -67.963074,
+		"propertyType": "Land",
+		"lotSize": 91476,
+		"status": "Active",
+		"price": 30000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.492Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673253",
+		"listingAgent": {
+			"name": "Travis Ouellette",
+			"phone": "2077644600",
+			"email": "travisouellette@icloud.com"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 30000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "6-Delmont-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "6 Delmont St, Presque Isle, ME 04769",
+		"addressLine1": "6 Delmont St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.690759,
+		"longitude": -68.017249,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"squareFootage": 624,
+		"lotSize": 7841,
+		"yearBuilt": 1946,
+		"status": "Active",
+		"price": 29000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.490Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673879",
+		"listingAgent": {
+			"name": "Michael Willette",
+			"phone": "2077644699",
+			"email": "mikeblackbear@gmail.com",
+			"website": "https://www.bigbearrealestatecompany.com/"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 29000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "369-Fort-Fairfield-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "369 Fort Fairfield Rd, Presque Isle, ME 04769",
+		"addressLine1": "369 Fort Fairfield Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.716728,
+		"longitude": -67.932478,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2600,
+		"lotSize": 489179,
+		"yearBuilt": 1989,
+		"status": "Active",
+		"price": 569000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.468Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674760",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 569000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "117-Cedar-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "117 Cedar St, Presque Isle, ME 04769",
+		"addressLine1": "117 Cedar St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.675791,
+		"longitude": -68.002082,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1300,
+		"lotSize": 11326,
+		"yearBuilt": 1956,
+		"status": "Active",
+		"price": 249900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.456Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675769",
+		"listingAgent": {
+			"name": "Tracy Ostlund",
+			"phone": "2075515083",
+			"email": "tostlund@nexthomediscover.com",
+			"website": "http://www.tracyostlund.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Discover",
+			"phone": "2077626398",
+			"email": "dcastle@nexthomediscover.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "6-Whitney-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "6 Whitney St, Presque Isle, ME 04769",
+		"addressLine1": "6 Whitney St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.682824,
+		"longitude": -68.010221,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1619,
+		"lotSize": 11761,
+		"yearBuilt": 1914,
+		"status": "Active",
+		"price": 239000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:01:29.444Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676382",
+		"listingAgent": {
+			"name": "Leigh Smith",
+			"phone": "2072274501",
+			"email": "leighsmith@remax.net",
+			"website": "http://www.leighsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 239000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "24-Braden-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "24 Braden St, Presque Isle, ME 04769",
+		"addressLine1": "24 Braden St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.692109,
+		"longitude": -68.018487,
+		"propertyType": "Land",
+		"lotSize": 7841,
+		"status": "Active",
+		"price": 15000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.418Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677838",
+		"listingAgent": {
+			"name": "Charles Johnston",
+			"phone": "2072272305"
+		},
+		"listingOffice": {
+			"name": "Big Bear Real Estate Company",
+			"phone": "2077644600",
+			"website": "www.bigbearrealestatecompany.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 15000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "28-State-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "28 State St, Presque Isle, ME 04769",
+		"addressLine1": "28 State St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.685248,
+		"longitude": -68.022685,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1939,
+		"lotSize": 18731,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 164900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.343Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676738",
+		"listingAgent": {
+			"name": "Jane Towle",
+			"phone": "2075516617",
+			"email": "janetowle@fastmail.com",
+			"website": "http://www.countyrealestate.me"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 164900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "46-Hardy-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "46 Hardy St, Presque Isle, ME 04769",
+		"addressLine1": "46 Hardy St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.680737,
+		"longitude": -68.004371,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2.5,
+		"squareFootage": 2364,
+		"lotSize": 13939,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 269900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.186Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678229",
+		"listingAgent": {
+			"name": "Dan Castle",
+			"phone": "2075540187",
+			"email": "dcastle@nexthomediscover.com",
+			"website": "https://teamcastle.nexthomediscover.com/"
+		},
+		"listingOffice": {
+			"name": "NextHome Discover",
+			"phone": "2077626398",
+			"email": "dcastle@nexthomediscover.com"
+		},
+		"history": {
+			"2025-05-08": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-08T00:00:00.000Z",
+				"removedDate": "2025-11-28T00:00:00.000Z",
+				"daysOnMarket": 204
+			},
+			"2026-05-28": {
+				"event": "Sale Listing",
+				"price": 279900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-28T00:00:00.000Z",
+				"removedDate": "2026-08-28T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 269900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "6-E-Echo-Lake-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "6 E Echo Lake Rd, Presque Isle, ME 04769",
+		"addressLine1": "6 E Echo Lake Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.624979,
+		"longitude": -67.996208,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 938,
+		"lotSize": 43560,
+		"yearBuilt": 1995,
+		"status": "Active",
+		"price": 120000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.174Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678591",
+		"listingAgent": {
+			"name": "Tracy Ostlund",
+			"phone": "2075515083",
+			"email": "tostlund@nexthomediscover.com",
+			"website": "http://www.tracyostlund.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Discover",
+			"phone": "2077626398",
+			"email": "dcastle@nexthomediscover.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 120000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "33-Pleasant-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "33 Pleasant St, Presque Isle, ME 04769",
+		"addressLine1": "33 Pleasant St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.676686,
+		"longitude": -68.011641,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 936,
+		"lotSize": 6534,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 50000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.167Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678605",
+		"listingAgent": {
+			"name": "Lehrle Kieffer",
+			"phone": "2075519258",
+			"email": "lehrlekieffer@gmail.com",
+			"website": "http://kiefferrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Kieffer Real Estate",
+			"phone": "2074982900",
+			"email": "lehrlekieffer@gmail.com",
+			"website": "http://www.kiefferrealestate.com"
+		},
+		"history": {
+			"2025-09-26": {
+				"event": "Sale Listing",
+				"price": 99900,
+				"listingType": "Standard",
+				"listedDate": "2025-09-26T00:00:00.000Z",
+				"removedDate": "2026-03-25T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 50000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "7-2nd-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "7 2nd St, Presque Isle, ME 04769",
+		"addressLine1": "7 2nd St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.683594,
+		"longitude": -68.013283,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 4134,
+		"lotSize": 14375,
+		"yearBuilt": 1921,
+		"status": "Active",
+		"price": 255000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.139Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679420",
+		"listingAgent": {
+			"name": "Catherine Duffy Cullins",
+			"phone": "2072270878",
+			"email": "cathy@progressiverealty.net",
+			"website": "http://www.progressiverealty.net/"
+		},
+		"listingOffice": {
+			"name": "Progressive Realty",
+			"phone": "2074983848"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 255000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "79-State-Park-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "79 State Park Rd, Presque Isle, ME 04769",
+		"addressLine1": "79 State Park Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.61655,
+		"longitude": -68.01036,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1102,
+		"lotSize": 312325,
+		"yearBuilt": 1951,
+		"status": "Active",
+		"price": 239900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.138Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680212",
+		"listingAgent": {
+			"name": "Danny Sullivan",
+			"phone": "2072159222",
+			"email": "danny@laflinwolfingtonrealty.com"
+		},
+		"listingOffice": {
+			"name": "Laflin & Wolfington Realty",
+			"phone": "2076299211",
+			"email": "harrison@laflinwolfingtonrealty.com",
+			"website": "http://www.laflinwolfingtonrealty.com/"
+		},
+		"history": {
+			"2024-10-12": {
+				"event": "Sale Listing",
+				"price": 229000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-12T00:00:00.000Z",
+				"removedDate": "2025-03-14T00:00:00.000Z",
+				"daysOnMarket": 153
+			},
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 239900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "9-2nd-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "9 2nd St, Presque Isle, ME 04769",
+		"addressLine1": "9 2nd St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.683351,
+		"longitude": -68.013235,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3450,
+		"lotSize": 17424,
+		"yearBuilt": 1916,
+		"status": "Active",
+		"price": 195000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.136Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679408",
+		"listingAgent": {
+			"name": "Catherine Duffy Cullins",
+			"phone": "2072270878",
+			"email": "cathy@progressiverealty.net",
+			"website": "http://www.progressiverealty.net/"
+		},
+		"listingOffice": {
+			"name": "Progressive Realty",
+			"phone": "2074983848"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 195000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "330-Chapman-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "330 Chapman Rd, Presque Isle, ME 04769",
+		"addressLine1": "330 Chapman Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.655456,
+		"longitude": -68.042095,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"squareFootage": 800,
+		"lotSize": 714384,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 99900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:40:46.117Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680221",
+		"listingAgent": {
+			"name": "Judson Colby",
+			"phone": "2072498810",
+			"email": "judsoncolby@yahoo.com",
+			"website": "http://maineccre.com"
+		},
+		"listingOffice": {
+			"name": "Maine Country and Coast Real Estate",
+			"phone": "2073383344",
+			"email": "judsoncolby@yahoo.com",
+			"website": "http://maineccre.com/"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 99900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "316-Parkhurst-Siding-Rd,-Presque-Isle,-ME-04769",
+		"formattedAddress": "316 Parkhurst Siding Rd, Presque Isle, ME 04769",
+		"addressLine1": "316 Parkhurst Siding Rd",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.752284,
+		"longitude": -67.960066,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 1,
+		"squareFootage": 1879,
+		"lotSize": 128502,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 149500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T08:15:22.325Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672859",
+		"listingAgent": {
+			"name": "Kayla Brown",
+			"phone": "2074983848",
+			"email": "krichardsbrown9@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Progressive Realty",
+			"phone": "2074983848"
+		},
+		"history": {
+			"2026-01-09": {
+				"event": "Sale Listing",
+				"price": 128500,
+				"listingType": "Standard",
+				"listedDate": "2026-01-09T00:00:00.000Z",
+				"removedDate": "2026-02-11T00:00:00.000Z",
+				"daysOnMarket": 33
+			},
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 149500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "13-Turner-St,-Presque-Isle,-ME-04769",
+		"formattedAddress": "13 Turner St, Presque Isle, ME 04769",
+		"addressLine1": "13 Turner St",
+		"addressLine2": null,
+		"city": "Presque Isle",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04769",
+		"county": "Aroostook",
+		"countyFips": "003",
+		"latitude": 46.687302,
+		"longitude": -68.022531,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 832,
+		"lotSize": 10454,
+		"yearBuilt": 1909,
+		"status": "Active",
+		"price": 99900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T08:15:22.205Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676013",
+		"listingAgent": {
+			"name": "Martha Buck",
+			"email": "marthabuck77@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Remax County",
+			"phone": "2077692900",
+			"email": "leighsmith@remax.net",
+			"website": "county-presque-isle-me.remax.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 99900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	}
+]

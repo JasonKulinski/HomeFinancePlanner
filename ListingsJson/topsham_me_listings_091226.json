@@ -1,0 +1,1470 @@
+[
+	{
+		"id": "34-Compass-Ln,-Topsham,-ME-04086",
+		"formattedAddress": "34 Compass Ln, Topsham, ME 04086",
+		"addressLine1": "34 Compass Ln",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.947331,
+		"longitude": -69.984126,
+		"propertyType": "Land",
+		"lotSize": 115870,
+		"status": "Active",
+		"price": 1450000,
+		"listingType": "Standard",
+		"listedDate": "2025-05-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:39:08.668Z",
+		"daysOnMarket": 493,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1621819",
+		"listingAgent": {
+			"name": "Tom Cole",
+			"phone": "2075223375",
+			"email": "tomcolerealtor@gmail.com",
+			"website": "http://www.tomcolerealtor.com"
+		},
+		"listingOffice": {
+			"name": "NextHome Premier Realty",
+			"phone": "2078889711",
+			"email": "info@mynexthomepremierrealty.com",
+			"website": "http://www.mynexthomepremierrealty.com"
+		},
+		"history": {
+			"2025-05-08": {
+				"event": "Sale Listing",
+				"price": 1450000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 493
+			}
+		}
+	},
+	{
+		"id": "118-Main-St,-Topsham,-ME-04086",
+		"formattedAddress": "118 Main St, Topsham, ME 04086",
+		"addressLine1": "118 Main St",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.938805,
+		"longitude": -69.967208,
+		"propertyType": "Land",
+		"lotSize": 17860,
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2023-09-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:39:08.667Z",
+		"daysOnMarket": 1095,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1572043",
+		"listingAgent": {
+			"name": "Don Spann",
+			"phone": "2073197815",
+			"email": "donspann@remax.net"
+		},
+		"listingOffice": {
+			"name": "Remax Shoreline",
+			"phone": "2077258505",
+			"email": "info@remax-riverside-maine.com",
+			"website": "shoreline-topsham-me.remax.com"
+		},
+		"history": {
+			"2023-09-14": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2023-09-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 1095
+			}
+		}
+	},
+	{
+		"id": "210-Augusta-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "210 Augusta Rd, Topsham, ME 04086",
+		"addressLine1": "210 Augusta Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.959963,
+		"longitude": -69.96706,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2363,
+		"lotSize": 1560319,
+		"yearBuilt": 1926,
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-11-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:39:08.660Z",
+		"daysOnMarket": 390,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1634842",
+		"listingAgent": {
+			"name": "Dave Demeo",
+			"phone": "2072953293",
+			"email": "dave@davedemeo.com",
+			"website": "https://www.homesin.me/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2024-11-07": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2024-11-07T00:00:00.000Z",
+				"removedDate": "2025-01-04T00:00:00.000Z",
+				"daysOnMarket": 58
+			},
+			"2025-05-07": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-07T00:00:00.000Z",
+				"removedDate": "2025-08-19T00:00:00.000Z",
+				"daysOnMarket": 104
+			},
+			"2025-08-19": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 390
+			}
+		}
+	},
+	{
+		"id": "29-Winter-St,-Topsham,-ME-04086",
+		"formattedAddress": "29 Winter St, Topsham, ME 04086",
+		"addressLine1": "29 Winter St",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.925911,
+		"longitude": -69.968821,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2664,
+		"lotSize": 43560,
+		"yearBuilt": 1700,
+		"status": "Active",
+		"price": 200000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:39:08.655Z",
+		"daysOnMarket": 169,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655682",
+		"listingAgent": {
+			"name": "Joseph Shaw Jr",
+			"phone": "2079398508",
+			"email": "joey@greeneshaw.com",
+			"website": "https://greeneshaw.com"
+		},
+		"listingOffice": {
+			"name": "Greene & Shaw Real Estate",
+			"phone": "2079398508",
+			"email": "joey@greeneshaw.com"
+		},
+		"history": {
+			"2025-07-17": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-17T00:00:00.000Z",
+				"removedDate": "2025-10-03T00:00:00.000Z",
+				"daysOnMarket": 78
+			},
+			"2026-03-28": {
+				"event": "Sale Listing",
+				"price": 200000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 169
+			}
+		}
+	},
+	{
+		"id": "17-Chestnut-Dr,-Topsham,-ME-04086",
+		"formattedAddress": "17 Chestnut Dr, Topsham, ME 04086",
+		"addressLine1": "17 Chestnut Dr",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.984019,
+		"longitude": -69.988331,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 4946,
+		"lotSize": 261360,
+		"yearBuilt": 1981,
+		"status": "Active",
+		"price": 629000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:39:08.650Z",
+		"daysOnMarket": 333,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640886",
+		"listingAgent": {
+			"name": "David Jones",
+			"phone": "2076503455",
+			"email": "david.j.jones56@gmail.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2025-10-15": {
+				"event": "Sale Listing",
+				"price": 629000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 333
+			}
+		}
+	},
+	{
+		"id": "847-Middlesex-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "847 Middlesex Rd, Topsham, ME 04086",
+		"addressLine1": "847 Middlesex Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.967708,
+		"longitude": -69.901106,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2494,
+		"lotSize": 892980,
+		"yearBuilt": 1963,
+		"status": "Active",
+		"price": 799000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:49.678Z",
+		"daysOnMarket": 157,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657182",
+		"listingAgent": {
+			"name": "Kim Talbot",
+			"phone": "2077982055",
+			"email": "kim.talbot@engelvoelkers.com",
+			"website": "https://kimtalbot.evcascobay.com/"
+		},
+		"listingOffice": {
+			"name": "Engel & Volkers Casco Bay"
+		},
+		"history": {
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 157
+			}
+		}
+	},
+	{
+		"id": "75-Tedford-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "75 Tedford Rd, Topsham, ME 04086",
+		"addressLine1": "75 Tedford Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.932471,
+		"longitude": -69.942756,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1792,
+		"lotSize": 522720,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 780000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:49.611Z",
+		"daysOnMarket": 143,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659020",
+		"listingAgent": {
+			"name": "Jeff Mateja",
+			"phone": "2075532605",
+			"email": "jeff@kwmateja.com",
+			"website": "http://www.jeffsellsmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2075532605",
+			"email": "klrw318@kw.com",
+			"website": "findmainehomesnow.com"
+		},
+		"history": {
+			"2026-04-23": {
+				"event": "Sale Listing",
+				"price": 780000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 143
+			}
+		}
+	},
+	{
+		"id": "15-Ofarell-St,-Topsham,-ME-04086",
+		"formattedAddress": "15 Ofarell St, Topsham, ME 04086",
+		"addressLine1": "15 Ofarell St",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.950739,
+		"longitude": -69.965888,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1008,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 575
+		},
+		"status": "Active",
+		"price": 89900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:49.529Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661717",
+		"listingAgent": {
+			"name": "Adrian Griffin",
+			"phone": "2073180460",
+			"email": "ajmikegriffin@yahoo.com",
+			"website": "http://www.pogorealty.com"
+		},
+		"listingOffice": {
+			"name": "Po-Go Realty",
+			"phone": "2078393309",
+			"email": "peter@pogorealty.com",
+			"website": "www.pogorealty.com"
+		},
+		"history": {
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 89900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "33-Serenity-Ln,-Topsham,-ME-04086",
+		"formattedAddress": "33 Serenity Ln, Topsham, ME 04086",
+		"addressLine1": "33 Serenity Ln",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.987758,
+		"longitude": -70.036724,
+		"propertyType": "Land",
+		"lotSize": 435600,
+		"status": "Active",
+		"price": 195000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:49.280Z",
+		"daysOnMarket": 99,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665854",
+		"listingAgent": {
+			"name": "Tyson Laverdiere",
+			"phone": "2077297297",
+			"email": "tyson@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-06-06": {
+				"event": "Sale Listing",
+				"price": 195000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 99
+			}
+		}
+	},
+	{
+		"id": "32-Beechwood-Dr,-Topsham,-ME-04086",
+		"formattedAddress": "32 Beechwood Dr, Topsham, ME 04086",
+		"addressLine1": "32 Beechwood Dr",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.952973,
+		"longitude": -69.93309,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2060,
+		"lotSize": 69696,
+		"yearBuilt": 2014,
+		"status": "Active",
+		"price": 799000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:49.253Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666347",
+		"listingAgent": {
+			"name": "Kathy Gallant, Agent",
+			"phone": "2078417569",
+			"email": "kgallant@gre207.com",
+			"website": "http://www.gre207.com"
+		},
+		"listingOffice": {
+			"name": "Gallant Real Estate",
+			"phone": "2078417569",
+			"email": "kgallant@gre207.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "108-Middlesex-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "108 Middlesex Rd, Topsham, ME 04086",
+		"addressLine1": "108 Middlesex Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.930906,
+		"longitude": -69.941938,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 1628,
+		"lotSize": 23958,
+		"yearBuilt": 1946,
+		"status": "Active",
+		"price": 415000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.985Z",
+		"daysOnMarket": 67,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670793",
+		"listingAgent": {
+			"name": "David Super",
+			"phone": "2077297297",
+			"email": "david@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-07-08": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 67
+			}
+		}
+	},
+	{
+		"id": "34-W-Bay-Bridge-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "34 W Bay Bridge Rd, Topsham, ME 04086",
+		"addressLine1": "34 W Bay Bridge Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.941886,
+		"longitude": -69.904602,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 960,
+		"yearBuilt": 2019,
+		"status": "Active",
+		"price": 90000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.961Z",
+		"daysOnMarket": 72,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11866040",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 90000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "22-Granite-Hill-Dr,-Unit-6,-Topsham,-ME-04086",
+		"formattedAddress": "22 Granite Hill Dr, Unit 6, Topsham, ME 04086",
+		"addressLine1": "22 Granite Hill Dr",
+		"addressLine2": "Unit 6",
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.926167,
+		"longitude": -69.977951,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1361,
+		"yearBuilt": 2001,
+		"hoa": {
+			"fee": 450
+		},
+		"status": "Active",
+		"price": 429000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.831Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671211",
+		"listingAgent": {
+			"name": "Bruce Davis",
+			"phone": "2077989595",
+			"email": "bruce.davis@evrealestate.com",
+			"website": "https://cascobay.evrealestate.com/our-listings"
+		},
+		"listingOffice": {
+			"name": "Engel & Volkers Harpswell",
+			"phone": "2078330500",
+			"email": "harpswell@engelvoelkers.com",
+			"website": "https://harpswell.evrealestate.com"
+		},
+		"history": {
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 429000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "62-Main-St,-Topsham,-ME-04086",
+		"formattedAddress": "62 Main St, Topsham, ME 04086",
+		"addressLine1": "62 Main St",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.929611,
+		"longitude": -69.965141,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1649,
+		"lotSize": 28750,
+		"yearBuilt": 1800,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.733Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672814",
+		"listingAgent": {
+			"name": "Theresa Campbell",
+			"phone": "2075764180",
+			"email": "teri@fontaineteam.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "71-Munroe-Ln,-Unit-71,-Topsham,-ME-04086",
+		"formattedAddress": "71 Munroe Ln, Unit 71, Topsham, ME 04086",
+		"addressLine1": "71 Munroe Ln",
+		"addressLine2": "Unit 71",
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.941113,
+		"longitude": -69.971852,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1104,
+		"yearBuilt": 1983,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 292500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.725Z",
+		"daysOnMarket": 55,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672698",
+		"listingAgent": {
+			"name": "David Flaherty",
+			"phone": "2077510425",
+			"email": "dflahertymaine@gmail.com",
+			"website": "http://www.flahertyrealty.com"
+		},
+		"listingOffice": {
+			"name": "Flaherty Realty",
+			"phone": "2077515605",
+			"email": "dflaherty@flahertyrealty.com",
+			"website": "www.sandrafish.com"
+		},
+		"history": {
+			"2026-07-20": {
+				"event": "Sale Listing",
+				"price": 292500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 55
+			}
+		}
+	},
+	{
+		"id": "19-Murder-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "19 Murder Rd, Topsham, ME 04086",
+		"addressLine1": "19 Murder Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.945645,
+		"longitude": -69.926639,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2636,
+		"lotSize": 97574,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 850000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.721Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676093",
+		"listingAgent": {
+			"name": "Tiana Lacombe",
+			"phone": "2073129643",
+			"email": "tianalacombe@rogcompass.com",
+			"website": "http://tianalacombe.realtyonegrouomaine.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "210A-Augusta-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "210A Augusta Rd, Topsham, ME 04086",
+		"addressLine1": "210A Augusta Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.961403,
+		"longitude": -69.964272,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2363,
+		"lotSize": 200376,
+		"yearBuilt": 1926,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.671Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675341",
+		"listingAgent": {
+			"name": "Dave Demeo",
+			"phone": "2072953293",
+			"email": "dave@davedemeo.com",
+			"website": "https://www.homesin.me/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "210B-Augusta-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "210B Augusta Rd, Topsham, ME 04086",
+		"addressLine1": "210B Augusta Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.961403,
+		"longitude": -69.964272,
+		"propertyType": "Land",
+		"lotSize": 1359072,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.609Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675339",
+		"listingAgent": {
+			"name": "Dave Demeo",
+			"phone": "2072953293",
+			"email": "dave@davedemeo.com",
+			"website": "https://www.homesin.me/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "30-Mallett-Dr,-Topsham,-ME-04086",
+		"formattedAddress": "30 Mallett Dr, Topsham, ME 04086",
+		"addressLine1": "30 Mallett Dr",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.932189,
+		"longitude": -69.975371,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1957,
+		"lotSize": 13939,
+		"yearBuilt": 1969,
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.582Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675088",
+		"listingAgent": {
+			"name": "Andrea Page",
+			"phone": "2078799800",
+			"email": "andrea.page@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "220-Congress-Cir,-Topsham,-ME-04086",
+		"formattedAddress": "220 Congress Cir, Topsham, ME 04086",
+		"addressLine1": "220 Congress Cir",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.947158,
+		"longitude": -69.959208,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1528,
+		"lotSize": 14375,
+		"yearBuilt": 1956,
+		"hoa": {
+			"fee": 70
+		},
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.527Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674872",
+		"listingAgent": {
+			"name": "John Fitzsimons",
+			"phone": "2072338314",
+			"email": "jfitzsimons@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "21-Royal-Oak-Cir,-Topsham,-ME-04086",
+		"formattedAddress": "21 Royal Oak Cir, Topsham, ME 04086",
+		"addressLine1": "21 Royal Oak Cir",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.94513,
+		"longitude": -69.932884,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2892,
+		"lotSize": 39204,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 749000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.446Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675722",
+		"listingAgent": {
+			"name": "James Michaud",
+			"phone": "2074499947",
+			"email": "bruce@homesandharbors.com"
+		},
+		"listingOffice": {
+			"name": "Engel & Volkers Harpswell",
+			"phone": "2078330500",
+			"email": "harpswell@engelvoelkers.com",
+			"website": "https://harpswell.evrealestate.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "65-Elm-St,-Topsham,-ME-04086",
+		"formattedAddress": "65 Elm St, Topsham, ME 04086",
+		"addressLine1": "65 Elm St",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.923986,
+		"longitude": -69.951007,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 3003,
+		"lotSize": 382021,
+		"yearBuilt": 1810,
+		"status": "Active",
+		"price": 849900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.427Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676885",
+		"listingAgent": {
+			"name": "Tim Dunham",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "www.dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 849900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "Raspberry-Ln,-Lot-13,-Topsham,-ME-04086",
+		"formattedAddress": "Raspberry Ln, Lot 13, Topsham, ME 04086",
+		"addressLine1": "Raspberry Ln",
+		"addressLine2": "Lot 13",
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.947546,
+		"longitude": -69.990417,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1544,
+		"lotSize": 59677,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 729000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.403Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675918",
+		"listingAgent": {
+			"name": "Amanda Gervais",
+			"phone": "2076153269",
+			"email": "remaxcoastal@securespeed.net"
+		},
+		"listingOffice": {
+			"name": "Remax Coastal",
+			"phone": "2077736400",
+			"email": "remaxcoastaloffice@gmail.com",
+			"website": "coastal-hollis-center-me.remax.com"
+		},
+		"history": {
+			"2025-03-28": {
+				"event": "Sale Listing",
+				"price": 829000,
+				"listingType": "New Construction",
+				"listedDate": "2025-03-28T00:00:00.000Z",
+				"removedDate": "2026-03-07T00:00:00.000Z",
+				"daysOnMarket": 344
+			},
+			"2026-03-13": {
+				"event": "Sale Listing",
+				"price": 699900,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-13T00:00:00.000Z",
+				"removedDate": "2026-07-22T00:00:00.000Z",
+				"daysOnMarket": 131
+			},
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 729000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "36-Turkey-Run,-Topsham,-ME-04086",
+		"formattedAddress": "36 Turkey Run, Topsham, ME 04086",
+		"addressLine1": "36 Turkey Run",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.962414,
+		"longitude": -69.983665,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2500,
+		"lotSize": 65340,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 998000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.391Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679469",
+		"listingAgent": {
+			"name": "Paul Clark",
+			"phone": "2077515706"
+		},
+		"listingOffice": {
+			"name": "Maine Coastal Properties LLC",
+			"phone": "2075224076",
+			"email": "rrmulli@yahoo.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 998000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "10-Elm-St,-Topsham,-ME-04086",
+		"formattedAddress": "10 Elm St, Topsham, ME 04086",
+		"addressLine1": "10 Elm St",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.926517,
+		"longitude": -69.962744,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1955,
+		"lotSize": 5663,
+		"yearBuilt": 1810,
+		"status": "Active",
+		"price": 425900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.317Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679726",
+		"listingAgent": {
+			"name": "Craig Garrett",
+			"phone": "2077297297",
+			"email": "craig@dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 425900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "228-Congress-Cir,-Topsham,-ME-04086",
+		"formattedAddress": "228 Congress Cir, Topsham, ME 04086",
+		"addressLine1": "228 Congress Cir",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.947025,
+		"longitude": -69.958244,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1528,
+		"lotSize": 10890,
+		"yearBuilt": 1956,
+		"hoa": {
+			"fee": 70
+		},
+		"status": "Active",
+		"price": 410000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.306Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679833",
+		"listingAgent": {
+			"name": "John Fitzsimons",
+			"phone": "2072338314",
+			"email": "jfitzsimons@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 410000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "19-Trufant-Ln,-Topsham,-ME-04086",
+		"formattedAddress": "19 Trufant Ln, Topsham, ME 04086",
+		"addressLine1": "19 Trufant Ln",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.981175,
+		"longitude": -69.930532,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2345,
+		"lotSize": 75359,
+		"yearBuilt": 2018,
+		"status": "Active",
+		"price": 559999,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:29:48.232Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679108",
+		"listingAgent": {
+			"name": "Brooke Lacombe",
+			"phone": "2077134600",
+			"email": "brookesellsmaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 559999,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "219-River-Rd,-Topsham,-ME-04086",
+		"formattedAddress": "219 River Rd, Topsham, ME 04086",
+		"addressLine1": "219 River Rd",
+		"addressLine2": null,
+		"city": "Topsham",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04086",
+		"county": "Sagadahoc",
+		"countyFips": "023",
+		"latitude": 43.937556,
+		"longitude": -69.99797,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1456,
+		"lotSize": 41818,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 453900,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T07:01:05.502Z",
+		"daysOnMarket": 99,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665819",
+		"listingAgent": {
+			"name": "Ted Wandishin",
+			"phone": "2073100079",
+			"email": "ted@cbhm.com"
+		},
+		"listingOffice": {
+			"name": "Custom Built Homes Of Maine Real Estate Inc.",
+			"phone": "2073100079",
+			"email": "ted@cbhmaine.com"
+		},
+		"history": {
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 453900,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 99
+			}
+		}
+	}
+]

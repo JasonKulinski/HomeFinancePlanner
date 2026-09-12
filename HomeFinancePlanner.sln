@@ -17,7 +17,37 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ListingsJson", "ListingsJson", "{E0E052DB-EADF-4A5F-9592-3267C3FD0F1B}"
 	ProjectSection(SolutionItems) = preProject
-		ListingsJson\request_test_1.json = ListingsJson\request_test_1.json
+		ListingsJson\auburn_me_listings_091226.json = ListingsJson\auburn_me_listings_091226.json
+		ListingsJson\augusta_me_listings_091226.json = ListingsJson\augusta_me_listings_091226.json
+		ListingsJson\bangor_me_listings_091226.json = ListingsJson\bangor_me_listings_091226.json
+		ListingsJson\biddeford_me_listings_091226.json = ListingsJson\biddeford_me_listings_091226.json
+		ListingsJson\brewer_me_listings_091226.json = ListingsJson\brewer_me_listings_091226.json
+		ListingsJson\brunswick_me_listings_091226.json = ListingsJson\brunswick_me_listings_091226.json
+		ListingsJson\calais_me_listings_091226.json = ListingsJson\calais_me_listings_091226.json
+		ListingsJson\capeelizabeth_me_listings_091226.json = ListingsJson\capeelizabeth_me_listings_091226.json
+		ListingsJson\cumberland_me_listings_091226.json = ListingsJson\cumberland_me_listings_091226.json
+		ListingsJson\falmouth_me_listings_091226.json = ListingsJson\falmouth_me_listings_091226.json
+		ListingsJson\gorham_me_listings_091226.json = ListingsJson\gorham_me_listings_091226.json
+		ListingsJson\kennebunk_me_listings_091226.json = ListingsJson\kennebunk_me_listings_091226.json
+		ListingsJson\kittery_me_listings_091226.json = ListingsJson\kittery_me_listings_091226.json
+		ListingsJson\lewiston_me_listings_091226.json = ListingsJson\lewiston_me_listings_091226.json
+		ListingsJson\lisbon_me_listings_091226.json = ListingsJson\lisbon_me_listings_091226.json
+		ListingsJson\oldorchardbeach_me_listings_091226.json = ListingsJson\oldorchardbeach_me_listings_091226.json
+		ListingsJson\orono_me_listings_091226.json = ListingsJson\orono_me_listings_091226.json
+		ListingsJson\portland_me_listings_091226.json = ListingsJson\portland_me_listings_091226.json
+		ListingsJson\presqueisle_me_listings_091226.json = ListingsJson\presqueisle_me_listings_091226.json
+		ListingsJson\saco_me_listings_091226.json = ListingsJson\saco_me_listings_091226.json
+		ListingsJson\sanford_me_listings_091226.json = ListingsJson\sanford_me_listings_091226.json
+		ListingsJson\scarborough_me_listings_091226.json = ListingsJson\scarborough_me_listings_091226.json
+		ListingsJson\southportland_me_listings_091226.json = ListingsJson\southportland_me_listings_091226.json
+		ListingsJson\standish_me_listings_091226.json = ListingsJson\standish_me_listings_091226.json
+		ListingsJson\topsham_me_listings_091226.json = ListingsJson\topsham_me_listings_091226.json
+		ListingsJson\waterville_me_listings_091226.json = ListingsJson\waterville_me_listings_091226.json
+		ListingsJson\wells_me_listings_091226.json = ListingsJson\wells_me_listings_091226.json
+		ListingsJson\westbrook_me_listings_091226.json = ListingsJson\westbrook_me_listings_091226.json
+		ListingsJson\windham_me_listings_091226.json = ListingsJson\windham_me_listings_091226.json
+		ListingsJson\yarmouth_me_listings_091226.json = ListingsJson\yarmouth_me_listings_091226.json
+		ListingsJson\york_me_listings_091226.json = ListingsJson\york_me_listings_091226.json
 	EndProjectSection
 EndProject
 Global

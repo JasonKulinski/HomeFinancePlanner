@@ -1,0 +1,1680 @@
+[
+	{
+		"id": "606-Lisbon-St,-Lisbon,-ME-04252",
+		"formattedAddress": "606 Lisbon St, Lisbon, ME 04252",
+		"addressLine1": "606 Lisbon St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.003108,
+		"longitude": -70.069156,
+		"propertyType": "Land",
+		"lotSize": 87120,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-22T08:11:24.536Z",
+		"lastSeenDate": "2026-09-12T07:09:19.141Z",
+		"daysOnMarket": 220,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651223",
+		"listingAgent": {
+			"name": "Jonathan Rizzo",
+			"phone": "2077721333",
+			"email": "jrizzo@boulos.com"
+		},
+		"listingOffice": {
+			"name": "The Boulos Company",
+			"phone": "2077721333",
+			"email": "nstevens@boulos.com",
+			"website": "http://www.boulos.com"
+		},
+		"history": {
+			"2023-09-13": {
+				"event": "Sale Listing",
+				"price": 165000,
+				"listingType": "Standard",
+				"listedDate": "2023-09-13T00:00:00.000Z",
+				"removedDate": "2025-01-02T00:00:00.000Z",
+				"daysOnMarket": 477
+			},
+			"2026-02-05": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 220
+			}
+		}
+	},
+	{
+		"id": "139-Gould-Rd,-Lisbon,-ME-04252",
+		"formattedAddress": "139 Gould Rd, Lisbon, ME 04252",
+		"addressLine1": "139 Gould Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.022911,
+		"longitude": -70.044203,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1170,
+		"lotSize": 43560,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 159900,
+		"listingType": "Standard",
+		"listedDate": "2026-03-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.133Z",
+		"daysOnMarket": 191,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653513",
+		"listingAgent": {
+			"name": "Brian Dubois",
+			"phone": "2073339019",
+			"email": "brian@duboisrealtygroup.net",
+			"website": "http://www.brian.duboisrealtygroup.net"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-03-06": {
+				"event": "Sale Listing",
+				"price": 159900,
+				"listingType": "Standard",
+				"listedDate": "2026-03-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 191
+			}
+		}
+	},
+	{
+		"id": "363-Lisbon-St,-Lisbon,-ME-04250",
+		"formattedAddress": "363 Lisbon St, Lisbon, ME 04250",
+		"addressLine1": "363 Lisbon St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.019792,
+		"longitude": -70.094425,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1235,
+		"lotSize": 12197,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 285000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.110Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663260",
+		"listingAgent": {
+			"name": "Shivam Kumar",
+			"phone": "2073444414",
+			"email": "shivamsells207@gmail.com",
+			"website": "https://www.facebook.com/207shivamkumar/"
+		},
+		"listingOffice": {
+			"name": "Rockstar Real Estate",
+			"phone": "2073171338",
+			"email": "abkrikken@gmail.com"
+		},
+		"history": {
+			"2025-07-03": {
+				"event": "Sale Listing",
+				"price": 74900,
+				"listingType": "Standard",
+				"listedDate": "2025-07-03T00:00:00.000Z",
+				"removedDate": "2025-07-12T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-05-21": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "54-Moody-Rd,-Lisbon,-ME-04250",
+		"formattedAddress": "54 Moody Rd, Lisbon, ME 04250",
+		"addressLine1": "54 Moody Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.036004,
+		"longitude": -70.120399,
+		"propertyType": "Land",
+		"lotSize": 805860,
+		"status": "Active",
+		"price": 297000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.110Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667010",
+		"listingAgent": {
+			"name": "Sam Prindle",
+			"phone": "2072227042",
+			"email": "sam@dunhamrealty.com",
+			"website": "http://www.tallhouseguy.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 297000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "7-1st-St,-Lisbon,-ME-04252",
+		"formattedAddress": "7 1st St, Lisbon, ME 04252",
+		"addressLine1": "7 1st St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.004902,
+		"longitude": -70.061075,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1638,
+		"lotSize": 10019,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 369900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.103Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666297",
+		"listingAgent": {
+			"name": "Susan Dube - Team Leader Or Team Dube",
+			"phone": "2072402613",
+			"email": "susandube@masiello.com",
+			"website": "http://dubeteam.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2077828311",
+			"email": "auburn@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 369900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "King-Rd,-Unit-C4,-Lisbon,-ME-04250",
+		"formattedAddress": "King Rd, Unit C4, Lisbon, ME 04250",
+		"addressLine1": "King Rd",
+		"addressLine2": "Unit C4",
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.057978,
+		"longitude": -70.090545,
+		"propertyType": "Land",
+		"lotSize": 135472,
+		"status": "Active",
+		"price": 100000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.100Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659174",
+		"listingAgent": {
+			"name": "Kevin Fletcher",
+			"phone": "2077549311",
+			"email": "kevin@malonecb.com",
+			"website": "http://www.malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 100000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "15-B-Lisbon-Rd,-Lisbon,-ME-04250",
+		"formattedAddress": "15-B Lisbon Rd, Lisbon, ME 04250",
+		"addressLine1": "15-B Lisbon Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.044674,
+		"longitude": -70.129576,
+		"propertyType": "Land",
+		"lotSize": 4443120,
+		"status": "Active",
+		"price": 1800000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-12-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:09:19.084Z",
+		"daysOnMarket": 89,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667492",
+		"listingAgent": {
+			"name": "Clayton Larochelle - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766524",
+			"email": "clay@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2023-02-03": {
+				"event": "Sale Listing",
+				"price": 3000000,
+				"listingType": "Standard",
+				"listedDate": "2023-02-03T00:00:00.000Z",
+				"removedDate": "2025-07-01T00:00:00.000Z",
+				"daysOnMarket": 879
+			},
+			"2026-06-16": {
+				"event": "Sale Listing",
+				"price": 1800000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 89
+			}
+		}
+	},
+	{
+		"id": "72-Frost-Hill-Ave,-Lisbon,-ME-04252",
+		"formattedAddress": "72 Frost Hill Ave, Lisbon, ME 04252",
+		"addressLine1": "72 Frost Hill Ave",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.010427,
+		"longitude": -70.078823,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2237,
+		"lotSize": 40511,
+		"yearBuilt": 2014,
+		"status": "Active",
+		"price": 449000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.354Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668828",
+		"listingAgent": {
+			"name": "Austin Hanthorn",
+			"phone": "2078087193",
+			"email": "austin.hanthron@redfin.com"
+		},
+		"listingOffice": {
+			"name": "Redfin Corporation",
+			"phone": "2078087193",
+			"email": "alexcoon@gmail.com",
+			"website": "www.redfin.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 449000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "13-Saint-Ann-St,-Lisbon,-ME-04250",
+		"formattedAddress": "13 Saint Ann St, Lisbon, ME 04250",
+		"addressLine1": "13 Saint Ann St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.034378,
+		"longitude": -70.103636,
+		"propertyType": "Single Family",
+		"bedrooms": 0,
+		"bathrooms": 1,
+		"squareFootage": 1370,
+		"lotSize": 22216,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 122600,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.351Z",
+		"daysOnMarket": 79,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11855514",
+		"listingAgent": {
+			"name": "Richard Keenan",
+			"phone": "2078855100",
+			"email": "info@keenanauction.com",
+			"website": "www.keenanauction.com"
+		},
+		"listingOffice": {
+			"name": "Keenan Auction Company, Inc.",
+			"phone": "2078855100"
+		},
+		"history": {
+			"2025-09-08": {
+				"event": "Sale Listing",
+				"price": 235000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-08T00:00:00.000Z",
+				"removedDate": "2026-02-07T00:00:00.000Z",
+				"daysOnMarket": 152
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 122600,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "1-Stevens-Dr,-Lisbon,-ME-04252",
+		"formattedAddress": "1 Stevens Dr, Lisbon, ME 04252",
+		"addressLine1": "1 Stevens Dr",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.004265,
+		"longitude": -70.049992,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 980,
+		"yearBuilt": 1991,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 55000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.349Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669417",
+		"listingAgent": {
+			"name": "Ryley Austin",
+			"phone": "2075761951"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 55000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "7-Arrowhead-Dr,-Lisbon,-ME-04250",
+		"formattedAddress": "7 Arrowhead Dr, Lisbon, ME 04250",
+		"addressLine1": "7 Arrowhead Dr",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.022087,
+		"longitude": -70.127008,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1152,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 425
+		},
+		"status": "Active",
+		"price": 162000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.336Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670567",
+		"listingAgent": {
+			"name": "Angela Lee Team",
+			"phone": "2073443300",
+			"email": "angelaleehomes@gmail.com",
+			"website": "http://www.angelaleehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 162000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "28-Douglas-St,-Lisbon,-ME-04252",
+		"formattedAddress": "28 Douglas St, Lisbon, ME 04252",
+		"addressLine1": "28 Douglas St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.001562,
+		"longitude": -70.052189,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1853,
+		"lotSize": 10019,
+		"yearBuilt": 2020,
+		"status": "Active",
+		"price": 471000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.332Z",
+		"daysOnMarket": 67,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670788",
+		"listingAgent": {
+			"name": "Sarah Singer + Ellen Domingos",
+			"phone": "2078371066",
+			"email": "sarahandellen@portsidereg.com",
+			"website": "https://singerdomingos.portsiderealestategroup.com/"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076075965",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-07-08": {
+				"event": "Sale Listing",
+				"price": 471000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 67
+			}
+		}
+	},
+	{
+		"id": "57-Upland-Rd,-Lisbon,-ME-04250",
+		"formattedAddress": "57 Upland Rd, Lisbon, ME 04250",
+		"addressLine1": "57 Upland Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.030091,
+		"longitude": -70.092951,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1689,
+		"lotSize": 103673,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 400000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.303Z",
+		"daysOnMarket": 65,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671302",
+		"listingAgent": {
+			"name": "Bill Bergeron - Fontaine Family-the Real Estate Leader",
+			"phone": "2075766523",
+			"email": "bill@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2025-07-31": {
+				"event": "Sale Listing",
+				"price": 379900,
+				"listingType": "Standard",
+				"listedDate": "2025-07-31T00:00:00.000Z",
+				"removedDate": "2025-08-05T00:00:00.000Z",
+				"daysOnMarket": 5
+			},
+			"2026-07-10": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 65
+			}
+		}
+	},
+	{
+		"id": "125-Main-St,-Lisbon,-ME-04252",
+		"formattedAddress": "125 Main St, Lisbon, ME 04252",
+		"addressLine1": "125 Main St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.006642,
+		"longitude": -70.05284,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3944,
+		"lotSize": 119354,
+		"yearBuilt": 1884,
+		"status": "Active",
+		"price": 725000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.298Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672154",
+		"listingAgent": {
+			"name": "Tiana Lacombe",
+			"phone": "2073129643",
+			"email": "tianalacombe@rogcompass.com",
+			"website": "http://tianalacombe.realtyonegrouomaine.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "28-Park-St,-Lisbon,-ME-04250",
+		"formattedAddress": "28 Park St, Lisbon, ME 04250",
+		"addressLine1": "28 Park St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.031575,
+		"longitude": -70.108962,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2547,
+		"lotSize": 27878,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 420000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.292Z",
+		"daysOnMarket": 56,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672561",
+		"listingAgent": {
+			"name": "Mike Sahabo",
+			"phone": "2078799800",
+			"email": "mike.sahabo@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-09-25": {
+				"event": "Sale Listing",
+				"price": 374000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-25T00:00:00.000Z",
+				"removedDate": "2024-10-01T00:00:00.000Z",
+				"daysOnMarket": 6
+			},
+			"2026-07-19": {
+				"event": "Sale Listing",
+				"price": 420000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 56
+			}
+		}
+	},
+	{
+		"id": "327-Ridge-Rd,-Lisbon,-ME-04252",
+		"formattedAddress": "327 Ridge Rd, Lisbon, ME 04252",
+		"addressLine1": "327 Ridge Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.046023,
+		"longitude": -70.0757,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 3000,
+		"lotSize": 971388,
+		"yearBuilt": 2017,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.259Z",
+		"daysOnMarket": 42,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674479",
+		"listingAgent": {
+			"name": "Katie Parish",
+			"phone": "4152467054"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-02": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 42
+			}
+		}
+	},
+	{
+		"id": "12-Champagne-Ln,-Lisbon,-ME-04250",
+		"formattedAddress": "12 Champagne Ln, Lisbon, ME 04250",
+		"addressLine1": "12 Champagne Ln",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.037088,
+		"longitude": -70.113242,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1665,
+		"lotSize": 20038,
+		"yearBuilt": 2018,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:48:54.247Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675027",
+		"listingAgent": {
+			"name": "Sarah Foster",
+			"phone": "2073805805",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "126-Summer-St,-Lisbon,-ME-04252",
+		"formattedAddress": "126 Summer St, Lisbon, ME 04252",
+		"addressLine1": "126 Summer St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.009783,
+		"longitude": -70.0443,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1983,
+		"lotSize": 88862,
+		"yearBuilt": 1885,
+		"status": "Active",
+		"price": 649000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.609Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676213",
+		"listingAgent": {
+			"name": "Madeleine Hill",
+			"phone": "2078336363",
+			"email": "mhill.realestate@gmail.com",
+			"website": "http://www.roxanneyorkrealestate.com/"
+		},
+		"listingOffice": {
+			"name": "Roxanne York Real Estate",
+			"phone": "2078336363",
+			"email": "roxanneyorkre@gmail.com",
+			"website": "http://www.roxanneyorkrealestate.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "27-Crest-Ave,-Lisbon,-ME-04250",
+		"formattedAddress": "27 Crest Ave, Lisbon, ME 04250",
+		"addressLine1": "27 Crest Ave",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.027775,
+		"longitude": -70.098011,
+		"propertyType": "Land",
+		"lotSize": 65340,
+		"status": "Active",
+		"price": 69900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.606Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676407",
+		"listingAgent": {
+			"name": "Laura Drinkwater",
+			"phone": "2077822121",
+			"email": "lauramillerdrinkwater@gmail.com",
+			"website": "https://lauradrinkwater.sites.c21.homes/"
+		},
+		"listingOffice": {
+			"name": "Century 21 Advantage",
+			"phone": "2077822121",
+			"email": "century21advant@gmail.com",
+			"website": "http://www.century21-advantage.com/"
+		},
+		"history": {
+			"2026-08-15": {
+				"event": "Sale Listing",
+				"price": 69900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "12-Serena-St,-Lisbon,-ME-04250",
+		"formattedAddress": "12 Serena St, Lisbon, ME 04250",
+		"addressLine1": "12 Serena St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.016741,
+		"longitude": -70.106265,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 2016,
+		"lotSize": 14810,
+		"yearBuilt": 1993,
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.603Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676520",
+		"listingAgent": {
+			"name": "Stacey Schuler-cannon",
+			"phone": "2072397888"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "69-Lisbon-St,-Lot-F-and-G,-Lisbon,-ME-04250",
+		"formattedAddress": "69 Lisbon St, Lot F and G, Lisbon, ME 04250",
+		"addressLine1": "69 Lisbon St",
+		"addressLine2": "Lot F and G",
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.04721,
+		"longitude": -70.11984,
+		"propertyType": "Land",
+		"lotSize": 87120,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.557Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678476",
+		"listingAgent": {
+			"name": "David Foster",
+			"phone": "2074157501",
+			"email": "davidfoster@fontaineteam.com",
+			"website": "https://www.moveme2maine.com/"
+		},
+		"listingOffice": {
+			"name": "Fontaine Family - The Real Estate Leader",
+			"phone": "2077843800",
+			"email": "brenda@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"history": {
+			"2025-09-02": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-02T00:00:00.000Z",
+				"removedDate": "2026-08-26T00:00:00.000Z",
+				"daysOnMarket": 358
+			},
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "4-Moody-Rd,-Lisbon,-ME-04250",
+		"formattedAddress": "4 Moody Rd, Lisbon, ME 04250",
+		"addressLine1": "4 Moody Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.039333,
+		"longitude": -70.11202,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1944,
+		"lotSize": 24829,
+		"yearBuilt": 2000,
+		"status": "Active",
+		"price": 480000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.546Z",
+		"daysOnMarket": 15,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678320",
+		"listingAgent": {
+			"name": "Dawn Lopez",
+			"phone": "2075200552",
+			"email": "dawn@hearthandkeyrealty.com"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2026-08-29": {
+				"event": "Sale Listing",
+				"price": 480000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 15
+			}
+		}
+	},
+	{
+		"id": "413-Lisbon-St,-Lisbon,-ME-04250",
+		"formattedAddress": "413 Lisbon St, Lisbon, ME 04250",
+		"addressLine1": "413 Lisbon St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.014461,
+		"longitude": -70.090486,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1680,
+		"lotSize": 20038,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.541Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678765",
+		"listingAgent": {
+			"name": "John Swan",
+			"phone": "2074625545"
+		},
+		"listingOffice": {
+			"name": "Brookewood Realty",
+			"phone": "2076208212",
+			"email": "blogan@brookewood.com",
+			"website": "http://www.brookewoodrealty.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "22-Moody-Rd,-Lisbon,-ME-04250",
+		"formattedAddress": "22 Moody Rd, Lisbon, ME 04250",
+		"addressLine1": "22 Moody Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.038227,
+		"longitude": -70.114617,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1728,
+		"lotSize": 23958,
+		"yearBuilt": 1976,
+		"status": "Active",
+		"price": 359000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.537Z",
+		"daysOnMarket": 7,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679508",
+		"listingAgent": {
+			"name": "Holly Mooney",
+			"phone": "2076083164",
+			"email": "hollymooney@kw.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077258522",
+			"email": "kathy.duca@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/brunswick/office/brunswick/oid_3581/"
+		},
+		"history": {
+			"2026-09-06": {
+				"event": "Sale Listing",
+				"price": 359000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 7
+			}
+		}
+	},
+	{
+		"id": "8-Higgins-St,-Lisbon,-ME-04252",
+		"formattedAddress": "8 Higgins St, Lisbon, ME 04252",
+		"addressLine1": "8 Higgins St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.013629,
+		"longitude": -70.066421,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1344,
+		"lotSize": 48352,
+		"yearBuilt": 1975,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.526Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680048",
+		"listingAgent": {
+			"name": "Steven Johndro",
+			"phone": "2073131103",
+			"email": "steven@johndrorealty.com",
+			"website": "http://www.johndrorealty.com"
+		},
+		"listingOffice": {
+			"name": "Androvise Realty",
+			"phone": "2073336020",
+			"email": "chad@androvise.com",
+			"website": "http://www.androvise.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "9-Fox-Knoll-Ln,-Lisbon,-ME-04250",
+		"formattedAddress": "9 Fox Knoll Ln, Lisbon, ME 04250",
+		"addressLine1": "9 Fox Knoll Ln",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.028478,
+		"longitude": -70.08976,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2696,
+		"lotSize": 81893,
+		"yearBuilt": 2017,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.525Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680116",
+		"listingAgent": {
+			"name": "Daniel Fahey",
+			"phone": "2076326265",
+			"email": "dansellsmaine@kw.com"
+		},
+		"listingOffice": {
+			"name": "Elevate Realty LLC",
+			"phone": "2073314565",
+			"email": "info@elevatemaine.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "242-Ferry-Rd,-Lisbon,-ME-04250",
+		"formattedAddress": "242 Ferry Rd, Lisbon, ME 04250",
+		"addressLine1": "242 Ferry Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 43.999549,
+		"longitude": -70.136119,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1687,
+		"lotSize": 127631,
+		"yearBuilt": 2022,
+		"status": "Active",
+		"price": 440000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.523Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679064",
+		"listingAgent": {
+			"name": "Kaitlin Parker",
+			"phone": "4075695540",
+			"email": "kaitlin@locationsinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Locations Real Estate Group Llc",
+			"phone": "2078051811",
+			"email": "info@locationsinmaine.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 440000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "12-Highland-Ave,-Lisbon,-ME-04252",
+		"formattedAddress": "12 Highland Ave, Lisbon, ME 04252",
+		"addressLine1": "12 Highland Ave",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.00804,
+		"longitude": -70.078056,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1136,
+		"lotSize": 15682,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 359000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.520Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679466",
+		"listingAgent": {
+			"name": "Beth Bell",
+			"phone": "2077546500",
+			"email": "bethbellhomes@roadrunner.com",
+			"website": "http://www.bethbellhomes.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 359000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "13-Andrea-St,-Lisbon,-ME-04250",
+		"formattedAddress": "13 Andrea St, Lisbon, ME 04250",
+		"addressLine1": "13 Andrea St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.02194,
+		"longitude": -70.106221,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1684,
+		"lotSize": 10019,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 365000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T05:31:36.519Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679825",
+		"listingAgent": {
+			"name": "Julia Leighton",
+			"phone": "2078998041",
+			"email": "julia@landinghomesmaine.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 365000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "11-Patterson-St,-Lisbon,-ME-04250",
+		"formattedAddress": "11 Patterson St, Lisbon, ME 04250",
+		"addressLine1": "11 Patterson St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.015585,
+		"longitude": -70.088581,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 959,
+		"lotSize": 7405,
+		"yearBuilt": 1965,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-11-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T05:14:32.603Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675872",
+		"listingAgent": {
+			"name": "Thurlow Farmer",
+			"phone": "2077797252",
+			"email": "tafarmer@rizzomattson.com",
+			"website": "https://www.realtor.com/realestateagents/5fa5a2a36235fb00114933be"
+		},
+		"listingOffice": {
+			"name": "RIZZO MATTSON, REALTORS®",
+			"phone": "2076229000",
+			"email": "info@rizzomattson.com",
+			"website": "http://www.rizzomattson.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "178-Main-St,-Lisbon,-ME-04252",
+		"formattedAddress": "178 Main St, Lisbon, ME 04252",
+		"addressLine1": "178 Main St",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04252",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.013443,
+		"longitude": -70.050177,
+		"propertyType": "Multi-Family",
+		"bedrooms": 8,
+		"bathrooms": 4,
+		"squareFootage": 3400,
+		"lotSize": 49223,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T06:26:50.792Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662886",
+		"listingAgent": {
+			"name": "Sam Prindle",
+			"phone": "2072227042",
+			"email": "sam@dunhamrealty.com",
+			"website": "http://www.tallhouseguy.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "15-Hatch-Rd,-Lisbon,-ME-04250",
+		"formattedAddress": "15 Hatch Rd, Lisbon, ME 04250",
+		"addressLine1": "15 Hatch Rd",
+		"addressLine2": null,
+		"city": "Lisbon",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04250",
+		"county": "Androscoggin",
+		"countyFips": "001",
+		"latitude": 44.008215,
+		"longitude": -70.148595,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2316,
+		"lotSize": 60113,
+		"yearBuilt": 2011,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T05:11:16.530Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678758",
+		"listingAgent": {
+			"name": "Tim Dunham",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "www.dunhamrealty.com"
+		},
+		"listingOffice": {
+			"name": "Tim Dunham Realty",
+			"phone": "2077297297",
+			"email": "tim@dunhamrealty.com",
+			"website": "http://www.dunhamrealty.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	}
+]

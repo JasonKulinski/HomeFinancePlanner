@@ -1,0 +1,5960 @@
+[
+	{
+		"id": "179-Saco-Ave,-Lot-C13,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "179 Saco Ave, Lot C13, Old Orchard Beach, ME 04064",
+		"addressLine1": "179 Saco Ave",
+		"addressLine2": "Lot C13",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50983,
+		"longitude": -70.397102,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 393,
+		"yearBuilt": 2024,
+		"status": "Active",
+		"price": 149995,
+		"listingType": "Standard",
+		"listedDate": "2024-09-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.918Z",
+		"daysOnMarket": 724,
+		"mlsName": "SunCommunities",
+		"mlsNumber": "136758",
+		"listingAgent": {
+			"name": "Jess Doane"
+		},
+		"listingOffice": {
+			"name": "Michael Brendan Barnett - Sun Retreats Wild Acres",
+			"phone": "8664931313",
+			"email": "realtor@suncommunities.com"
+		},
+		"history": {
+			"2024-09-19": {
+				"event": "Sale Listing",
+				"price": 149995,
+				"listingType": "Standard",
+				"listedDate": "2024-09-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 724
+			}
+		}
+	},
+	{
+		"id": "2-Union-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "2 Union Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "2 Union Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.507429,
+		"longitude": -70.379387,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 1548,
+		"lotSize": 2614,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 1890000,
+		"listingType": "Standard",
+		"listedDate": "2024-11-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.912Z",
+		"daysOnMarket": 664,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1588813",
+		"listingAgent": {
+			"name": "Patry Family Realty",
+			"phone": "2079344432",
+			"email": "dpatry@maine.rr.com"
+		},
+		"listingOffice": {
+			"name": "Patry Family Realty, Inc.",
+			"phone": "2079340515",
+			"email": "dpatry@maine.rr.com"
+		},
+		"history": {
+			"2024-11-18": {
+				"event": "Sale Listing",
+				"price": 1890000,
+				"listingType": "Standard",
+				"listedDate": "2024-11-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 664
+			}
+		}
+	},
+	{
+		"id": "15-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "15 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "15 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.534868,
+		"longitude": -70.37535,
+		"propertyType": "Land",
+		"lotSize": 20038,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.968Z",
+		"daysOnMarket": 333,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640847",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-15": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 333
+			}
+		}
+	},
+	{
+		"id": "57-E-Grand-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "57 E Grand Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "57 E Grand Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.520252,
+		"longitude": -70.370399,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 3020,
+		"lotSize": 3485,
+		"yearBuilt": 1915,
+		"status": "Active",
+		"price": 2499990,
+		"listingType": "Standard",
+		"listedDate": "2025-10-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.965Z",
+		"daysOnMarket": 326,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1641567",
+		"listingAgent": {
+			"name": "Cristina Eugen",
+			"phone": "2077101477",
+			"email": "cristinaeugen@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-22": {
+				"event": "Sale Listing",
+				"price": 2499990,
+				"listingType": "Standard",
+				"listedDate": "2025-10-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 326
+			}
+		}
+	},
+	{
+		"id": "17-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "17 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "17 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533935,
+		"longitude": -70.379261,
+		"propertyType": "Land",
+		"lotSize": 21344,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.963Z",
+		"daysOnMarket": 321,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642024",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-27": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 321
+			}
+		}
+	},
+	{
+		"id": "19-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "19 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "19 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533913,
+		"longitude": -70.379283,
+		"propertyType": "Land",
+		"lotSize": 21780,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.962Z",
+		"daysOnMarket": 321,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642029",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-27": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 321
+			}
+		}
+	},
+	{
+		"id": "21-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "21 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "21 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533892,
+		"longitude": -70.379306,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.962Z",
+		"daysOnMarket": 320,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642039",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-28": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 320
+			}
+		}
+	},
+	{
+		"id": "9-Or-53-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "9 Or 53 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "9 Or 53 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.534195,
+		"longitude": -70.378113,
+		"propertyType": "Land",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2544,
+		"lotSize": 20038,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.961Z",
+		"daysOnMarket": 320,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642040",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-28": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 320
+			}
+		}
+	},
+	{
+		"id": "51-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "51 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "51 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533563,
+		"longitude": -70.379654,
+		"propertyType": "Land",
+		"lotSize": 22651,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.960Z",
+		"daysOnMarket": 320,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642119",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-28": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 320
+			}
+		}
+	},
+	{
+		"id": "49-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "49 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "49 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533583,
+		"longitude": -70.37963,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.960Z",
+		"daysOnMarket": 320,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642122",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-28": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 320
+			}
+		}
+	},
+	{
+		"id": "47-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "47 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "47 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533604,
+		"longitude": -70.379606,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.958Z",
+		"daysOnMarket": 319,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642131",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-29": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 319
+			}
+		}
+	},
+	{
+		"id": "12-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "12 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "12 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.536047,
+		"longitude": -70.377988,
+		"propertyType": "Land",
+		"lotSize": 21780,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.957Z",
+		"daysOnMarket": 319,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642256",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-29": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 319
+			}
+		}
+	},
+	{
+		"id": "45-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "45 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "45 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533625,
+		"longitude": -70.379582,
+		"propertyType": "Land",
+		"lotSize": 20038,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.957Z",
+		"daysOnMarket": 319,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642132",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-29": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 319
+			}
+		}
+	},
+	{
+		"id": "14-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "14 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "14 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.535765,
+		"longitude": -70.377052,
+		"propertyType": "Land",
+		"lotSize": 21344,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.956Z",
+		"daysOnMarket": 318,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642257",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-30": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 318
+			}
+		}
+	},
+	{
+		"id": "16-Red-Oak-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "16 Red Oak Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "16 Red Oak Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.53564,
+		"longitude": -70.375721,
+		"propertyType": "Land",
+		"lotSize": 20473,
+		"hoa": {
+			"fee": 75
+		},
+		"status": "Active",
+		"price": 279000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.955Z",
+		"daysOnMarket": 318,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642266",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-30": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 318
+			}
+		}
+	},
+	{
+		"id": "107-Ocean-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "107 Ocean Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "107 Ocean Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.511289,
+		"longitude": -70.388684,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2199,
+		"lotSize": 3920,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 599999,
+		"listingType": "Standard",
+		"listedDate": "2026-02-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-30T09:35:31.801Z",
+		"lastSeenDate": "2026-09-12T09:54:55.911Z",
+		"daysOnMarket": 201,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652589",
+		"listingAgent": {
+			"name": "Mitchell Holman",
+			"phone": "2078928100",
+			"email": "mitchellholman@masiello.com"
+		},
+		"listingOffice": {
+			"name": "C21 NORTH EAST",
+			"phone": "2078921522",
+			"email": "info@c21ne.com",
+			"website": "www.c21ne.com"
+		},
+		"history": {
+			"2026-02-24": {
+				"event": "Sale Listing",
+				"price": 599999,
+				"listingType": "Standard",
+				"listedDate": "2026-02-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 201
+			}
+		}
+	},
+	{
+		"id": "7-Heath-St,-Apt-2,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "7 Heath St, Apt 2, Old Orchard Beach, ME 04064",
+		"addressLine1": "7 Heath St",
+		"addressLine2": "Apt 2",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.513769,
+		"longitude": -70.379328,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2406,
+		"lotSize": 124146,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 500
+		},
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.904Z",
+		"daysOnMarket": 216,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651501",
+		"listingAgent": {
+			"name": "Stephen Erickson",
+			"phone": "2072825988",
+			"email": "steve.erickson@cbrealty.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-02-09": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 216
+			}
+		}
+	},
+	{
+		"id": "126-Seacoast-Ln,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "126 Seacoast Ln, Old Orchard Beach, ME 04064",
+		"addressLine1": "126 Seacoast Ln",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.535657,
+		"longitude": -70.373667,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 800,
+		"yearBuilt": 2008,
+		"hoa": {
+			"fee": 850
+		},
+		"status": "Active",
+		"price": 87500,
+		"listingType": "Standard",
+		"listedDate": "2026-03-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.902Z",
+		"daysOnMarket": 196,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652943",
+		"listingAgent": {
+			"name": "Aaron Kollmeyer",
+			"phone": "2072825988",
+			"email": "aaron.kollmeyer@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-03-01": {
+				"event": "Sale Listing",
+				"price": 87500,
+				"listingType": "Standard",
+				"listedDate": "2026-03-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 196
+			}
+		}
+	},
+	{
+		"id": "1-Cleaves-St,-Apt-304,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "1 Cleaves St, Apt 304, Old Orchard Beach, ME 04064",
+		"addressLine1": "1 Cleaves St",
+		"addressLine2": "Apt 304",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.51934,
+		"longitude": -70.370321,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1198,
+		"lotSize": 40511,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 478
+		},
+		"status": "Active",
+		"price": 649000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.896Z",
+		"daysOnMarket": 215,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651569",
+		"listingAgent": {
+			"name": "Nancy Z Moreshead",
+			"phone": "2073293545",
+			"email": "nancyzbythesea@gmail.com",
+			"website": "http://www.nancyzsellsbythesea.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-02-10": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 215
+			}
+		}
+	},
+	{
+		"id": "191-E-Grand-Ave,-Apt-203,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "191 E Grand Ave, Apt 203, Old Orchard Beach, ME 04064",
+		"addressLine1": "191 E Grand Ave",
+		"addressLine2": "Apt 203",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.529318,
+		"longitude": -70.361924,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 640,
+		"lotSize": 52272,
+		"yearBuilt": 1983,
+		"hoa": {
+			"fee": 517
+		},
+		"status": "Active",
+		"price": 415000,
+		"listingType": "Standard",
+		"listedDate": "2026-02-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.894Z",
+		"daysOnMarket": 211,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651877",
+		"listingAgent": {
+			"name": "Nancy Z Moreshead",
+			"phone": "2073293545",
+			"email": "nancyzbythesea@gmail.com",
+			"website": "http://www.nancyzsellsbythesea.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-02-14": {
+				"event": "Sale Listing",
+				"price": 415000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 211
+			}
+		}
+	},
+	{
+		"id": "2-Sugar-Bush-Ln,-Unit-2,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "2 Sugar Bush Ln, Unit 2, Old Orchard Beach, ME 04064",
+		"addressLine1": "2 Sugar Bush Ln",
+		"addressLine2": "Unit 2",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515825,
+		"longitude": -70.396228,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2050,
+		"lotSize": 452588,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 170
+		},
+		"status": "Active",
+		"price": 610000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.864Z",
+		"daysOnMarket": 164,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656153",
+		"listingAgent": {
+			"name": "Angie Adrien",
+			"phone": "6038179113",
+			"email": "angie@heartandhomere.com",
+			"website": "https://hearthomere.com"
+		},
+		"listingOffice": {
+			"name": "Heart & Home Realty",
+			"phone": "2076049880",
+			"email": "angie@heartandhomere.com"
+		},
+		"history": {
+			"2026-04-02": {
+				"event": "Sale Listing",
+				"price": 610000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 164
+			}
+		}
+	},
+	{
+		"id": "5-Sugar-Bush-Ln,-Unit-5,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "5 Sugar Bush Ln, Unit 5, Old Orchard Beach, ME 04064",
+		"addressLine1": "5 Sugar Bush Ln",
+		"addressLine2": "Unit 5",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.516369,
+		"longitude": -70.397267,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1630,
+		"lotSize": 452588,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 170
+		},
+		"status": "Active",
+		"price": 550000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.863Z",
+		"daysOnMarket": 161,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656520",
+		"listingAgent": {
+			"name": "Angie Adrien",
+			"phone": "6038179113",
+			"email": "angie@heartandhomere.com",
+			"website": "https://hearthomere.com"
+		},
+		"listingOffice": {
+			"name": "Heart & Home Realty",
+			"phone": "2076049880",
+			"email": "angie@heartandhomere.com"
+		},
+		"history": {
+			"2026-04-05": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 161
+			}
+		}
+	},
+	{
+		"id": "4-Sugar-Bush-Ln,-Unit-4,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "4 Sugar Bush Ln, Unit 4, Old Orchard Beach, ME 04064",
+		"addressLine1": "4 Sugar Bush Ln",
+		"addressLine2": "Unit 4",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515677,
+		"longitude": -70.39653,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1640,
+		"lotSize": 452588,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 170
+		},
+		"status": "Active",
+		"price": 575000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.861Z",
+		"daysOnMarket": 164,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656238",
+		"listingAgent": {
+			"name": "Angie Adrien",
+			"phone": "6038179113",
+			"email": "angie@heartandhomere.com",
+			"website": "https://hearthomere.com"
+		},
+		"listingOffice": {
+			"name": "Heart & Home Realty",
+			"phone": "2076049880",
+			"email": "angie@heartandhomere.com"
+		},
+		"history": {
+			"2026-04-02": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 164
+			}
+		}
+	},
+	{
+		"id": "14-Sugar-Bush-Ln,-Unit-14,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "14 Sugar Bush Ln, Unit 14, Old Orchard Beach, ME 04064",
+		"addressLine1": "14 Sugar Bush Ln",
+		"addressLine2": "Unit 14",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.516189,
+		"longitude": -70.397344,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1490,
+		"lotSize": 452588,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 170
+		},
+		"status": "Active",
+		"price": 540000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.860Z",
+		"daysOnMarket": 164,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1656228",
+		"listingAgent": {
+			"name": "Angie Adrien",
+			"phone": "6038179113",
+			"email": "angie@heartandhomere.com",
+			"website": "https://hearthomere.com"
+		},
+		"listingOffice": {
+			"name": "Heart & Home Realty",
+			"phone": "2076049880",
+			"email": "angie@heartandhomere.com"
+		},
+		"history": {
+			"2026-04-02": {
+				"event": "Sale Listing",
+				"price": 540000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 164
+			}
+		}
+	},
+	{
+		"id": "34-Oceana-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "34 Oceana Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "34 Oceana Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.503337,
+		"longitude": -70.386272,
+		"propertyType": "Land",
+		"lotSize": 2614,
+		"status": "Active",
+		"price": 319000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.459Z",
+		"daysOnMarket": 158,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657006",
+		"listingAgent": {
+			"name": "Luke Morris",
+			"phone": "6034015858"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2025-08-22": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-22T00:00:00.000Z",
+				"removedDate": "2025-11-23T00:00:00.000Z",
+				"daysOnMarket": 93
+			},
+			"2026-04-08": {
+				"event": "Sale Listing",
+				"price": 319000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 158
+			}
+		}
+	},
+	{
+		"id": "4-Willow-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "4 Willow Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "4 Willow Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.527285,
+		"longitude": -70.389447,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1797,
+		"lotSize": 14810,
+		"yearBuilt": 1967,
+		"status": "Active",
+		"price": 512400,
+		"listingType": "Standard",
+		"listedDate": "2026-04-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.456Z",
+		"daysOnMarket": 157,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657145",
+		"listingAgent": {
+			"name": "Mark Small",
+			"phone": "2078077889",
+			"email": "mark@landmarkrealtymaine.com",
+			"website": "landmarkrealtymaine.com"
+		},
+		"listingOffice": {
+			"name": "Landmark Realty",
+			"phone": "2078077889",
+			"website": "www.landmarkrealtymaine.com"
+		},
+		"history": {
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 512400,
+				"listingType": "Standard",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 157
+			}
+		}
+	},
+	{
+		"id": "5-Carll-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "5 Carll Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "5 Carll Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.518568,
+		"longitude": -70.375555,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 924,
+		"lotSize": 4356,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 550000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-03T08:37:15.141Z",
+		"lastSeenDate": "2026-09-12T09:49:40.442Z",
+		"daysOnMarket": 151,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657860",
+		"listingAgent": {
+			"name": "Troy Williams",
+			"phone": "2073372061",
+			"email": "troy@williamsrealtypartners.com",
+			"website": "http://www.williamsrealtypartners.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Coastal and Lakes & Mountains Realty",
+			"phone": "6036108500",
+			"email": "welcome@kwclm.com",
+			"website": "http://kwclm.com/"
+		},
+		"history": {
+			"2025-10-14": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-14T00:00:00.000Z",
+				"removedDate": "2026-04-04T00:00:00.000Z",
+				"daysOnMarket": 172
+			},
+			"2026-04-15": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 151
+			}
+		}
+	},
+	{
+		"id": "15-Summer-Winds-Dr,-Unit-15,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "15 Summer Winds Dr, Unit 15, Old Orchard Beach, ME 04064",
+		"addressLine1": "15 Summer Winds Dr",
+		"addressLine2": "Unit 15",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510393,
+		"longitude": -70.403016,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 842,
+		"lotSize": 443441,
+		"yearBuilt": 2014,
+		"hoa": {
+			"fee": 360
+		},
+		"status": "Active",
+		"price": 405000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.440Z",
+		"daysOnMarket": 150,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657975",
+		"listingAgent": {
+			"name": "James Kelly",
+			"phone": "2079391170"
+		},
+		"listingOffice": {
+			"name": "Charlene's Coastal Properties",
+			"phone": "2079378084",
+			"email": "charlene@charlenescoastalproperties.com",
+			"website": "http://www.charlenescoastalproperties.com"
+		},
+		"history": {
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 405000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "12-Sugar-Bush-Ln,-Unit-12,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "12 Sugar Bush Ln, Unit 12, Old Orchard Beach, ME 04064",
+		"addressLine1": "12 Sugar Bush Ln",
+		"addressLine2": "Unit 12",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.516743,
+		"longitude": -70.398152,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 940,
+		"lotSize": 452588,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 14
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "New Construction",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.428Z",
+		"daysOnMarket": 150,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658143",
+		"listingAgent": {
+			"name": "Angie Adrien",
+			"phone": "6038179113",
+			"email": "angie@heartandhomere.com",
+			"website": "https://hearthomere.com"
+		},
+		"listingOffice": {
+			"name": "Heart & Home Realty",
+			"phone": "2076049880",
+			"email": "angie@heartandhomere.com"
+		},
+		"history": {
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "37-Cullen-Trl,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "37 Cullen Trl, Old Orchard Beach, ME 04064",
+		"addressLine1": "37 Cullen Trl",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.536902,
+		"longitude": -70.374793,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 700,
+		"yearBuilt": 2015,
+		"hoa": {
+			"fee": 850
+		},
+		"status": "Active",
+		"price": 115000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.420Z",
+		"daysOnMarket": 144,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658801",
+		"listingAgent": {
+			"name": "Connie Howe",
+			"phone": "2072329108",
+			"email": "conniehowe207@gmail.com",
+			"website": "http://www.conniehowe.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-04-22": {
+				"event": "Sale Listing",
+				"price": 115000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 144
+			}
+		}
+	},
+	{
+		"id": "7-Oregon-Ave,-Unit-499,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "7 Oregon Ave, Unit 499, Old Orchard Beach, ME 04064",
+		"addressLine1": "7 Oregon Ave",
+		"addressLine2": "Unit 499",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.51078,
+		"longitude": -70.408691,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 700,
+		"yearBuilt": 1989,
+		"hoa": {
+			"fee": 573
+		},
+		"status": "Active",
+		"price": 20000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.399Z",
+		"daysOnMarket": 139,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659403",
+		"listingAgent": {
+			"name": "Mike Mccormack",
+			"phone": "2075902598",
+			"email": "mbmccormack@icloud.com",
+			"website": "http://www.facebook.com/realestatemaine"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-07-08": {
+				"event": "Sale Listing",
+				"price": 39000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-08T00:00:00.000Z",
+				"removedDate": "2025-10-22T00:00:00.000Z",
+				"daysOnMarket": 106
+			},
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 20000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 139
+			}
+		}
+	},
+	{
+		"id": "7-Bay-Ave,-Unit-3,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "7 Bay Ave, Unit 3, Old Orchard Beach, ME 04064",
+		"addressLine1": "7 Bay Ave",
+		"addressLine2": "Unit 3",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50852,
+		"longitude": -70.379813,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 304,
+		"lotSize": 6970,
+		"yearBuilt": 2002,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 205000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-05T05:32:32.171Z",
+		"lastSeenDate": "2026-09-12T09:49:40.389Z",
+		"daysOnMarket": 141,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659211",
+		"listingAgent": {
+			"name": "Julie Lemieux",
+			"phone": "2072295032",
+			"email": "oldorchardbeachrealty@yahoo.com",
+			"website": "http://www.oldorchardbeachrealty.com"
+		},
+		"listingOffice": {
+			"name": "Old Orchard Beach Realty LLC",
+			"phone": "2072295032",
+			"email": "lemieux.julie79@yahoo.com"
+		},
+		"history": {
+			"2026-04-25": {
+				"event": "Sale Listing",
+				"price": 205000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 141
+			}
+		}
+	},
+	{
+		"id": "11-Smithwheel-Rd,-Unit-17,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "11 Smithwheel Rd, Unit 17, Old Orchard Beach, ME 04064",
+		"addressLine1": "11 Smithwheel Rd",
+		"addressLine2": "Unit 17",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.509313,
+		"longitude": -70.414039,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1945,
+		"lotSize": 226512,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 330
+		},
+		"status": "Active",
+		"price": 459000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-29T10:24:43.538Z",
+		"lastSeenDate": "2026-09-12T09:49:40.379Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659155",
+		"listingAgent": {
+			"name": "Ashley Gregory",
+			"phone": "2075387568",
+			"email": "ashley@elevatemaine.com",
+			"website": "https://www.elevatemaine.com/"
+		},
+		"listingOffice": {
+			"name": "Elevate Realty LLC",
+			"phone": "2073314565",
+			"email": "info@elevatemaine.com"
+		},
+		"history": {
+			"2024-07-26": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-26T00:00:00.000Z",
+				"removedDate": "2025-01-28T00:00:00.000Z",
+				"daysOnMarket": 186
+			},
+			"2025-04-24": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-24T00:00:00.000Z",
+				"removedDate": "2025-05-30T00:00:00.000Z",
+				"daysOnMarket": 36
+			},
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 459000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "10-Seacoast-Ln,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "10 Seacoast Ln, Old Orchard Beach, ME 04064",
+		"addressLine1": "10 Seacoast Ln",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.537998,
+		"longitude": -70.37661,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 700,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 906
+		},
+		"status": "Active",
+		"price": 70000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.377Z",
+		"daysOnMarket": 137,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659792",
+		"listingAgent": {
+			"name": "Connie Howe",
+			"phone": "2072329108",
+			"email": "conniehowe207@gmail.com",
+			"website": "http://www.conniehowe.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-04-29": {
+				"event": "Sale Listing",
+				"price": 70000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 137
+			}
+		}
+	},
+	{
+		"id": "86-Ross-Rd,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "86 Ross Rd, Old Orchard Beach, ME 04064",
+		"addressLine1": "86 Ross Rd",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.530869,
+		"longitude": -70.399627,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3305,
+		"lotSize": 128066,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 885000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.335Z",
+		"daysOnMarket": 122,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662141",
+		"listingAgent": {
+			"name": "Thomas Ranello",
+			"phone": "2078381651",
+			"email": "ranellogroup@gmail.com",
+			"website": "https://www.homesinmaine.com/ranello-group/"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-05-14": {
+				"event": "Sale Listing",
+				"price": 885000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 122
+			}
+		}
+	},
+	{
+		"id": "5-4th-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "5 4th Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "5 4th Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.512413,
+		"longitude": -70.376489,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 1.5,
+		"squareFootage": 1725,
+		"lotSize": 5227,
+		"yearBuilt": 1921,
+		"status": "Active",
+		"price": 1099000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.742Z",
+		"daysOnMarket": 117,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662871",
+		"listingAgent": {
+			"name": "Robert Baldacci",
+			"phone": "2077562063"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 1099000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 117
+			}
+		}
+	},
+	{
+		"id": "12-Silverbrook-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "12 Silverbrook Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "12 Silverbrook Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.539106,
+		"longitude": -70.382736,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 5.5,
+		"squareFootage": 3899,
+		"lotSize": 91476,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 200
+		},
+		"status": "Active",
+		"price": 2395000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.697Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663946",
+		"listingAgent": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://anneerwin.com"
+		},
+		"listingOffice": {
+			"name": "Anne Erwin Sotheby's International Realty",
+			"phone": "2073636640",
+			"email": "realestate@anneerwin.com",
+			"website": "http://www.anneerwin.com/"
+		},
+		"history": {
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 2395000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "10-Bay-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "10 Bay Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "10 Bay Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.508877,
+		"longitude": -70.379693,
+		"propertyType": "Land",
+		"lotSize": 2614,
+		"status": "Active",
+		"price": 300000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.687Z",
+		"daysOnMarket": 116,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662984",
+		"listingAgent": {
+			"name": "Joseph Italiaander",
+			"phone": "2077721333",
+			"email": "jitaliaander@boulos.com"
+		},
+		"listingOffice": {
+			"name": "The Boulos Company",
+			"phone": "2077721333",
+			"email": "nstevens@boulos.com",
+			"website": "http://www.boulos.com"
+		},
+		"history": {
+			"2026-05-20": {
+				"event": "Sale Listing",
+				"price": 300000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 116
+			}
+		}
+	},
+	{
+		"id": "14-Juniper-St,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "14 Juniper St, Old Orchard Beach, ME 04064",
+		"addressLine1": "14 Juniper St",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.535188,
+		"longitude": -70.393326,
+		"propertyType": "Land",
+		"lotSize": 10019,
+		"status": "Active",
+		"price": 200000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.683Z",
+		"daysOnMarket": 115,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663272",
+		"listingAgent": {
+			"name": "Kevin Fletcher",
+			"phone": "2077549311",
+			"email": "kevin@malonecb.com",
+			"website": "http://www.malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-21": {
+				"event": "Sale Listing",
+				"price": 200000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 115
+			}
+		}
+	},
+	{
+		"id": "70-E-Grand-Ave,-Unit-114,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "70 E Grand Ave, Unit 114, Old Orchard Beach, ME 04064",
+		"addressLine1": "70 E Grand Ave",
+		"addressLine2": "Unit 114",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.520746,
+		"longitude": -70.370655,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 715,
+		"lotSize": 14810,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 427
+		},
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.676Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663910",
+		"listingAgent": {
+			"name": "Patrick Nolan",
+			"phone": "4137865047",
+			"email": "patricksoldours@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Startpoint Realty",
+			"phone": "9784223999",
+			"email": "jeffreybastress@gmail.com",
+			"website": "http://www.startpoint.com"
+		},
+		"history": {
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "9-Stagecoach-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "9 Stagecoach Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "9 Stagecoach Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510276,
+		"longitude": -70.41591,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 784,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 776
+		},
+		"status": "Active",
+		"price": 209000,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.675Z",
+		"daysOnMarket": 110,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11791144",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 209000,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "79-Kenzie-Trl,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "79 Kenzie Trl, Old Orchard Beach, ME 04064",
+		"addressLine1": "79 Kenzie Trl",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.536274,
+		"longitude": -70.374501,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 630,
+		"yearBuilt": 2015,
+		"status": "Active",
+		"price": 69500,
+		"listingType": "Standard",
+		"listedDate": "2026-05-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.675Z",
+		"daysOnMarket": 109,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663997",
+		"listingAgent": {
+			"name": "Patrick Nolan",
+			"phone": "4137865047",
+			"email": "patricksoldours@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Startpoint Realty",
+			"phone": "9784223999",
+			"email": "jeffreybastress@gmail.com",
+			"website": "http://www.startpoint.com"
+		},
+		"history": {
+			"2026-05-27": {
+				"event": "Sale Listing",
+				"price": 69500,
+				"listingType": "Standard",
+				"listedDate": "2026-05-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 109
+			}
+		}
+	},
+	{
+		"id": "17-Randall-Ave,-Old-Orchard-Beach,-ME-04063",
+		"formattedAddress": "17 Randall Ave, Old Orchard Beach, ME 04063",
+		"addressLine1": "17 Randall Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04063",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.500268,
+		"longitude": -70.386534,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1981,
+		"lotSize": 3049,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 775000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.648Z",
+		"daysOnMarket": 104,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664913",
+		"listingAgent": {
+			"name": "Christopher Whittaker",
+			"phone": "2078006116",
+			"email": "maddie@oceanparkrealty.com",
+			"website": "http://www.oceanparkrealty.com"
+		},
+		"listingOffice": {
+			"name": "Ocean Park Realty",
+			"phone": "2079375054",
+			"email": "chris@oceanparkrealty.com"
+		},
+		"history": {
+			"2025-10-09": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-09T00:00:00.000Z",
+				"removedDate": "2025-12-24T00:00:00.000Z",
+				"daysOnMarket": 76
+			},
+			"2026-06-01": {
+				"event": "Sale Listing",
+				"price": 775000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 104
+			}
+		}
+	},
+	{
+		"id": "68-Central-Park-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "68 Central Park Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "68 Central Park Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.514031,
+		"longitude": -70.383421,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1372,
+		"lotSize": 1742,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 559000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.646Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665483",
+		"listingAgent": {
+			"name": "John Harmon Ii John Carroll",
+			"phone": "2074150957",
+			"email": "teamharmon@tmren.biz",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 559000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "40-11th-St,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "40 11th St, Old Orchard Beach, ME 04064",
+		"addressLine1": "40 11th St",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.513099,
+		"longitude": -70.386538,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1302,
+		"lotSize": 1307,
+		"yearBuilt": 1935,
+		"status": "Active",
+		"price": 447000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-15T17:08:30.762Z",
+		"lastSeenDate": "2026-09-12T09:45:41.636Z",
+		"daysOnMarket": 105,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664721",
+		"listingAgent": {
+			"name": "Marcy Lane",
+			"phone": "2078783035",
+			"email": "marcy@marcysoldmyhouse.com;marcylane@maine.rr.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-05-31": {
+				"event": "Sale Listing",
+				"price": 447000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 105
+			}
+		}
+	},
+	{
+		"id": "21-Milliken-St,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "21 Milliken St, Old Orchard Beach, ME 04064",
+		"addressLine1": "21 Milliken St",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.517911,
+		"longitude": -70.374049,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 3,
+		"squareFootage": 2288,
+		"lotSize": 5227,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 989000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.625Z",
+		"daysOnMarket": 97,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666064",
+		"listingAgent": {
+			"name": "Monica Dambach",
+			"phone": "2077494170",
+			"email": "monica@waypointbrokers.com",
+			"website": "www.facebook.com/liveinmaine"
+		},
+		"listingOffice": {
+			"name": "Waypoint Brokers Collective",
+			"phone": "2078042012",
+			"email": "ali.malone@gmail.com"
+		},
+		"history": {
+			"2024-06-11": {
+				"event": "Sale Listing",
+				"price": 1299000,
+				"listingType": "Standard",
+				"listedDate": "2024-06-11T00:00:00.000Z",
+				"removedDate": "2025-02-01T00:00:00.000Z",
+				"daysOnMarket": 235
+			},
+			"2025-05-23": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-23T00:00:00.000Z",
+				"removedDate": "2025-11-01T00:00:00.000Z",
+				"daysOnMarket": 162
+			},
+			"2025-11-17": {
+				"event": "Sale Listing",
+				"price": 1150000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-17T00:00:00.000Z",
+				"removedDate": "2026-01-19T00:00:00.000Z",
+				"daysOnMarket": 63
+			},
+			"2026-06-08": {
+				"event": "Sale Listing",
+				"price": 989000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 97
+			}
+		}
+	},
+	{
+		"id": "57-Saco-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "57 Saco Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "57 Saco Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.514646,
+		"longitude": -70.381661,
+		"propertyType": "Single Family",
+		"bedrooms": 0,
+		"bathrooms": 1.5,
+		"squareFootage": 1823,
+		"lotSize": 6970,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.621Z",
+		"daysOnMarket": 101,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665476",
+		"listingAgent": {
+			"name": "Brandon Mitchell",
+			"phone": "2077722422",
+			"email": "brandon@malonecb.com"
+		},
+		"listingOffice": {
+			"name": "Malone Commercial Brokers, Inc.",
+			"phone": "2077722422",
+			"email": "molly@malonecb.com",
+			"website": "www.malonecb.com"
+		},
+		"history": {
+			"2026-06-04": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 101
+			}
+		}
+	},
+	{
+		"id": "11-Smithwheel-Rd,-Unit-31,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "11 Smithwheel Rd, Unit 31, Old Orchard Beach, ME 04064",
+		"addressLine1": "11 Smithwheel Rd",
+		"addressLine2": "Unit 31",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.509313,
+		"longitude": -70.414039,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2152,
+		"lotSize": 226512,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 330
+		},
+		"status": "Active",
+		"price": 459000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-29T10:24:43.537Z",
+		"lastSeenDate": "2026-09-12T09:45:41.609Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666446",
+		"listingAgent": {
+			"name": "Rebecca Kingsley Mccandless",
+			"phone": "2077752121",
+			"email": "rk@peninsularealestate.me"
+		},
+		"listingOffice": {
+			"name": "Peninsula Real Estate LLC",
+			"phone": "2074000477",
+			"email": "rk@peninsularealestate.me"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 459000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "5-Long-Cove-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "5 Long Cove Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "5 Long Cove Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.525421,
+		"longitude": -70.404403,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3392,
+		"lotSize": 15682,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 839900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.676Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668864",
+		"listingAgent": {
+			"name": "Michaela Veillette",
+			"phone": "2074158650",
+			"email": "mveillette@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 839900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "8-Mayflower-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "8 Mayflower Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "8 Mayflower Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510483,
+		"longitude": -70.414989,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 980,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 724
+		},
+		"status": "Active",
+		"price": 140000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.675Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669242",
+		"listingAgent": {
+			"name": "Nolan Rice",
+			"phone": "2074096630",
+			"email": "nolanrice214@gmail.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-02-13": {
+				"event": "Sale Listing",
+				"price": 48000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-13T00:00:00.000Z",
+				"removedDate": "2026-02-22T00:00:00.000Z",
+				"daysOnMarket": 9
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 140000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "188-E-Grand-Ave,-Unit-1,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "188 E Grand Ave, Unit 1, Old Orchard Beach, ME 04064",
+		"addressLine1": "188 E Grand Ave",
+		"addressLine2": "Unit 1",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.52887,
+		"longitude": -70.363609,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2386,
+		"lotSize": 8712,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 1495000,
+		"listingType": "New Construction",
+		"listedDate": "2026-06-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.662Z",
+		"daysOnMarket": 80,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668831",
+		"listingAgent": {
+			"name": "Cristina Eugen",
+			"phone": "2077101477",
+			"email": "cristinaeugen@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-06-25": {
+				"event": "Sale Listing",
+				"price": 1495000,
+				"listingType": "New Construction",
+				"listedDate": "2026-06-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 80
+			}
+		}
+	},
+	{
+		"id": "207-E-Grand-Ave,-Apt-C2,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "207 E Grand Ave, Apt C2, Old Orchard Beach, ME 04064",
+		"addressLine1": "207 E Grand Ave",
+		"addressLine2": "Apt C2",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.532774,
+		"longitude": -70.358742,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1556,
+		"lotSize": 144619,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 475
+		},
+		"status": "Active",
+		"price": 1250000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.653Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667863",
+		"listingAgent": {
+			"name": "Nancy Z Moreshead",
+			"phone": "2073293545",
+			"email": "nancyzbythesea@gmail.com",
+			"website": "http://www.nancyzsellsbythesea.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 1250000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "21-Trinity-Way,-Unit-21,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "21 Trinity Way, Unit 21, Old Orchard Beach, ME 04064",
+		"addressLine1": "21 Trinity Way",
+		"addressLine2": "Unit 21",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.512097,
+		"longitude": -70.399695,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1547,
+		"lotSize": 490921,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 245
+		},
+		"status": "Active",
+		"price": 555000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.650Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667903",
+		"listingAgent": {
+			"name": "Stephen Erickson",
+			"phone": "2072825988",
+			"email": "steve.erickson@cbrealty.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 555000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "1-E-Grand-Ave,-Apt-309,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "1 E Grand Ave, Apt 309, Old Orchard Beach, ME 04064",
+		"addressLine1": "1 E Grand Ave",
+		"addressLine2": "Apt 309",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515919,
+		"longitude": -70.373449,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1196,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 748
+		},
+		"status": "Active",
+		"price": 689900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.646Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668076",
+		"listingAgent": {
+			"name": "Paul Dunton",
+			"phone": "9788570351",
+			"email": "pauldunton@comcast.net",
+			"website": "http://www.pauldunton.com/"
+		},
+		"listingOffice": {
+			"name": "Re/Max Triumph Realty",
+			"phone": "9788570351",
+			"email": "pauldunton@comcast.net"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 689900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "15-Bay-Ave,-Unit-4,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "15 Bay Ave, Unit 4, Old Orchard Beach, ME 04064",
+		"addressLine1": "15 Bay Ave",
+		"addressLine2": "Unit 4",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.508779,
+		"longitude": -70.380216,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1455,
+		"lotSize": 6970,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 690
+		},
+		"status": "Active",
+		"price": 530000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.638Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668349",
+		"listingAgent": {
+			"name": "Charlene Farley",
+			"phone": "2079378084",
+			"email": "charlene@mainecoastproperties.biz"
+		},
+		"listingOffice": {
+			"name": "Charlene's Coastal Properties",
+			"phone": "2079378084",
+			"email": "charlene@charlenescoastalproperties.com",
+			"website": "http://www.charlenescoastalproperties.com"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 530000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "1-Seacoast-Ln,-Unit-53,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "1 Seacoast Ln, Unit 53, Old Orchard Beach, ME 04064",
+		"addressLine1": "1 Seacoast Ln",
+		"addressLine2": "Unit 53",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.537788,
+		"longitude": -70.375923,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 618,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 850
+		},
+		"status": "Active",
+		"price": 80000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.613Z",
+		"daysOnMarket": 81,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668735",
+		"listingAgent": {
+			"name": "Edie Cornell",
+			"phone": "2078799800",
+			"email": "ediecornell@kw.com"
+		},
+		"listingOffice": {
+			"name": "Elevate Realty LLC",
+			"phone": "2073314565",
+			"email": "info@elevatemaine.com"
+		},
+		"history": {
+			"2026-06-24": {
+				"event": "Sale Listing",
+				"price": 80000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 81
+			}
+		}
+	},
+	{
+		"id": "20-Lewis-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "20 Lewis Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "20 Lewis Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.52231,
+		"longitude": -70.375164,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2903,
+		"lotSize": 43560,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 790000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.601Z",
+		"daysOnMarket": 69,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670346",
+		"listingAgent": {
+			"name": "Debi Buxton",
+			"phone": "2073211841",
+			"email": "debi.buxton@nemoves.com",
+			"website": "http://deborahbuxton.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-07-06": {
+				"event": "Sale Listing",
+				"price": 790000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 69
+			}
+		}
+	},
+	{
+		"id": "3-Overlook-Dr,-Unit-5,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "3 Overlook Dr, Unit 5, Old Orchard Beach, ME 04064",
+		"addressLine1": "3 Overlook Dr",
+		"addressLine2": "Unit 5",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.535904,
+		"longitude": -70.355476,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1264,
+		"lotSize": 116741,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 450
+		},
+		"status": "Active",
+		"price": 660000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.599Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670248",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2025-06-09": {
+				"event": "Sale Listing",
+				"price": 665000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-09T00:00:00.000Z",
+				"removedDate": "2025-09-07T00:00:00.000Z",
+				"daysOnMarket": 90
+			},
+			"2025-09-13": {
+				"event": "Sale Listing",
+				"price": 665000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-13T00:00:00.000Z",
+				"removedDate": "2025-12-01T00:00:00.000Z",
+				"daysOnMarket": 79
+			},
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 660000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": "2026-07-01T00:00:00.000Z",
+				"daysOnMarket": 50
+			},
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 660000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "5-Kinney-Ave,-Unit-103,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "5 Kinney Ave, Unit 103, Old Orchard Beach, ME 04064",
+		"addressLine1": "5 Kinney Ave",
+		"addressLine2": "Unit 103",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.516517,
+		"longitude": -70.3729,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 400,
+		"lotSize": 3049,
+		"yearBuilt": 1910,
+		"hoa": {
+			"fee": 475
+		},
+		"status": "Active",
+		"price": 324900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.598Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669740",
+		"listingAgent": {
+			"name": "Matt Whitten",
+			"phone": "2077490815",
+			"email": "mattwhitten.realtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2024-10-18": {
+				"event": "Sale Listing",
+				"price": 329000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-18T00:00:00.000Z",
+				"removedDate": "2025-04-08T00:00:00.000Z",
+				"daysOnMarket": 172
+			},
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 324900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "4-Overlook-Dr,-Unit-2,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "4 Overlook Dr, Unit 2, Old Orchard Beach, ME 04064",
+		"addressLine1": "4 Overlook Dr",
+		"addressLine2": "Unit 2",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.535774,
+		"longitude": -70.355362,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1264,
+		"lotSize": 116741,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 450
+		},
+		"status": "Active",
+		"price": 765000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.592Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670237",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2025-03-12": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-12T00:00:00.000Z",
+				"removedDate": "2025-09-09T00:00:00.000Z",
+				"daysOnMarket": 181
+			},
+			"2025-09-12": {
+				"event": "Sale Listing",
+				"price": 755000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-12T00:00:00.000Z",
+				"removedDate": "2025-12-01T00:00:00.000Z",
+				"daysOnMarket": 80
+			},
+			"2025-12-11": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "New Construction",
+				"listedDate": "2025-12-11T00:00:00.000Z",
+				"removedDate": "2026-07-03T00:00:00.000Z",
+				"daysOnMarket": 204
+			},
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 765000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "18-Salt-Point-Dr,-Unit-21,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "18 Salt Point Dr, Unit 21, Old Orchard Beach, ME 04064",
+		"addressLine1": "18 Salt Point Dr",
+		"addressLine2": "Unit 21",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.536495,
+		"longitude": -70.355728,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1264,
+		"lotSize": 116741,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 450
+		},
+		"status": "Active",
+		"price": 685000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.590Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670254",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2025-06-09": {
+				"event": "Sale Listing",
+				"price": 700000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-09T00:00:00.000Z",
+				"removedDate": "2025-09-07T00:00:00.000Z",
+				"daysOnMarket": 90
+			},
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 685000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "26-Salt-Point-Dr,-Unit-25,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "26 Salt Point Dr, Unit 25, Old Orchard Beach, ME 04064",
+		"addressLine1": "26 Salt Point Dr",
+		"addressLine2": "Unit 25",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.536629,
+		"longitude": -70.355988,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2.5,
+		"squareFootage": 1264,
+		"lotSize": 116741,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 450
+		},
+		"status": "Active",
+		"price": 685000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.581Z",
+		"daysOnMarket": 72,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670249",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2025-06-09": {
+				"event": "Sale Listing",
+				"price": 695000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-09T00:00:00.000Z",
+				"removedDate": "2025-09-07T00:00:00.000Z",
+				"daysOnMarket": 90
+			},
+			"2025-12-12": {
+				"event": "Sale Listing",
+				"price": 680000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-12T00:00:00.000Z",
+				"removedDate": "2026-07-01T00:00:00.000Z",
+				"daysOnMarket": 201
+			},
+			"2026-07-03": {
+				"event": "Sale Listing",
+				"price": 685000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 72
+			}
+		}
+	},
+	{
+		"id": "129-Portland-Ave,-Apt-31,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "129 Portland Ave, Apt 31, Old Orchard Beach, ME 04064",
+		"addressLine1": "129 Portland Ave",
+		"addressLine2": "Apt 31",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.5279,
+		"longitude": -70.376339,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 960,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 440
+		},
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.575Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670716",
+		"listingAgent": {
+			"name": "Teresa Hassay",
+			"phone": "4133257266",
+			"email": "teresahassay@kw.com",
+			"website": "http://teresahrealty.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Metropolitan",
+			"phone": "6035570810",
+			"email": "arice@kw.com"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "25-Evergreen-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "25 Evergreen Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "25 Evergreen Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.513097,
+		"longitude": -70.384901,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 2902,
+		"lotSize": 3920,
+		"yearBuilt": 1908,
+		"status": "Active",
+		"price": 749000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.574Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671099",
+		"listingAgent": {
+			"name": "Carrie Logan",
+			"phone": "2076157054",
+			"email": "carrie@vitalius.com"
+		},
+		"listingOffice": {
+			"name": "Vitalius Real Estate Group, Llc",
+			"phone": "2075413755",
+			"email": "brit@vitalius.com",
+			"website": "vitalius.com"
+		},
+		"history": {
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 749000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "170-E-Grand-Ave,-Apt-1,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "170 E Grand Ave, Apt 1, Old Orchard Beach, ME 04064",
+		"addressLine1": "170 E Grand Ave",
+		"addressLine2": "Apt 1",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.527738,
+		"longitude": -70.365028,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1544,
+		"lotSize": 44867,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 400
+		},
+		"status": "Active",
+		"price": 610000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.941Z",
+		"daysOnMarket": 60,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672040",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2025-06-09": {
+				"event": "Sale Listing",
+				"price": 600000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-09T00:00:00.000Z",
+				"removedDate": "2025-06-24T00:00:00.000Z",
+				"daysOnMarket": 15
+			},
+			"2026-07-15": {
+				"event": "Sale Listing",
+				"price": 610000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 60
+			}
+		}
+	},
+	{
+		"id": "27-Go-Camping-Way,-Unit-237,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "27 Go Camping Way, Unit 237, Old Orchard Beach, ME 04064",
+		"addressLine1": "27 Go Camping Way",
+		"addressLine2": "Unit 237",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.507401,
+		"longitude": -70.41378,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 700,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 656
+		},
+		"status": "Active",
+		"price": 159900,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.897Z",
+		"daysOnMarket": 57,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672505",
+		"listingAgent": {
+			"name": "Valerie Vrettos",
+			"phone": "2077812958",
+			"email": "vvrettos@maine.rr.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2026-07-18": {
+				"event": "Sale Listing",
+				"price": 159900,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 57
+			}
+		}
+	},
+	{
+		"id": "7-Old-Salt-Rd,-Apt-12,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "7 Old Salt Rd, Apt 12, Old Orchard Beach, ME 04064",
+		"addressLine1": "7 Old Salt Rd",
+		"addressLine2": "Apt 12",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50491,
+		"longitude": -70.403897,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1059,
+		"lotSize": 157252,
+		"yearBuilt": 1986,
+		"hoa": {
+			"fee": 457
+		},
+		"status": "Active",
+		"price": 315000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.887Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672973",
+		"listingAgent": {
+			"name": "Shawn Googins",
+			"phone": "2073327865",
+			"email": "shawn@landinghomesmaine.com"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 315000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "27-Go-Camping-Way,-Unit-235,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "27 Go Camping Way, Unit 235, Old Orchard Beach, ME 04064",
+		"addressLine1": "27 Go Camping Way",
+		"addressLine2": "Unit 235",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.507401,
+		"longitude": -70.41378,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 650,
+		"yearBuilt": 2020,
+		"hoa": {
+			"fee": 693
+		},
+		"status": "Active",
+		"price": 85000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.866Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673977",
+		"listingAgent": {
+			"name": "Aaron Chadbourne",
+			"phone": "2078395122",
+			"email": "aaron@godemetria.com",
+			"website": "http://www.buymaine.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Group",
+			"phone": "8008645122",
+			"email": "demetria@godemetria.com",
+			"website": "www.godemetria.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 85000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "9-Sea-Oaks-Dr,-Unit-2,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "9 Sea Oaks Dr, Unit 2, Old Orchard Beach, ME 04064",
+		"addressLine1": "9 Sea Oaks Dr",
+		"addressLine2": "Unit 2",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.534878,
+		"longitude": -70.376903,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2128,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 484
+		},
+		"status": "Active",
+		"price": 899000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.900Z",
+		"daysOnMarket": 34,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675434",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "12-Summer-Winds-Dr,-Unit-12,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "12 Summer Winds Dr, Unit 12, Old Orchard Beach, ME 04064",
+		"addressLine1": "12 Summer Winds Dr",
+		"addressLine2": "Unit 12",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.509815,
+		"longitude": -70.402962,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 842,
+		"lotSize": 439956,
+		"yearBuilt": 2012,
+		"hoa": {
+			"fee": 360
+		},
+		"status": "Active",
+		"price": 410000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.889Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674248",
+		"listingAgent": {
+			"name": "Katie Mcallister",
+			"phone": "2074464705",
+			"email": "katiemcallister1010@gmail.com",
+			"website": "http://www.katiemcallister.com"
+		},
+		"listingOffice": {
+			"name": "MCALLISTER REAL ESTATE",
+			"phone": "2076212345",
+			"email": "kimgleason@myfairpoint.net",
+			"website": "www.mcallisterrealestate.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 410000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "5-Sunset-Dr,-Apt-9,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "5 Sunset Dr, Apt 9, Old Orchard Beach, ME 04064",
+		"addressLine1": "5 Sunset Dr",
+		"addressLine2": "Apt 9",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515074,
+		"longitude": -70.377909,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1020,
+		"lotSize": 16988,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 330
+		},
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.865Z",
+		"daysOnMarket": 40,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674667",
+		"listingAgent": {
+			"name": "Nancy Z Moreshead",
+			"phone": "2073293545",
+			"email": "nancyzbythesea@gmail.com",
+			"website": "http://www.nancyzsellsbythesea.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-08-04": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 40
+			}
+		}
+	},
+	{
+		"id": "10-Magnolia-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "10 Magnolia Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "10 Magnolia Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.523769,
+		"longitude": -70.390341,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1897,
+		"lotSize": 11326,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 99
+		},
+		"status": "Active",
+		"price": 1098000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.855Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675008",
+		"listingAgent": {
+			"name": "Jordan Wielgoszinski",
+			"phone": "2075907638",
+			"email": "jordan@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 1098000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "2-Schooner-Way,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "2 Schooner Way, Old Orchard Beach, ME 04064",
+		"addressLine1": "2 Schooner Way",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.533634,
+		"longitude": -70.357773,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4.5,
+		"squareFootage": 4000,
+		"lotSize": 10890,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 2900000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-01-17T08:35:54.851Z",
+		"lastSeenDate": "2026-09-12T08:13:10.848Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675238",
+		"listingAgent": {
+			"name": "Fullers | Will And Ally Fuller",
+			"phone": "2075607000",
+			"email": "hello@fullersre.com",
+			"website": "http://fullersre.com/"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2077808900",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2024-06-12": {
+				"event": "Sale Listing",
+				"price": 3000000,
+				"listingType": "New Construction",
+				"listedDate": "2024-06-12T00:00:00.000Z",
+				"removedDate": "2024-11-06T00:00:00.000Z",
+				"daysOnMarket": 147
+			},
+			"2026-04-13": {
+				"event": "Sale Listing",
+				"price": 3295000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-13T00:00:00.000Z",
+				"removedDate": "2026-08-07T00:00:00.000Z",
+				"daysOnMarket": 116
+			},
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 2900000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "4-Sea-Oaks-Dr,-Unit-2,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "4 Sea Oaks Dr, Unit 2, Old Orchard Beach, ME 04064",
+		"addressLine1": "4 Sea Oaks Dr",
+		"addressLine2": "Unit 2",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.506917,
+		"longitude": -70.410001,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2128,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 484
+		},
+		"status": "Active",
+		"price": 949000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.847Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675350",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-11-19": {
+				"event": "Sale Listing",
+				"price": 1125000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-19T00:00:00.000Z",
+				"removedDate": "2026-01-06T00:00:00.000Z",
+				"daysOnMarket": 48
+			},
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 949000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "51-Macintosh-Ln,-Unit-51,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "51 Macintosh Ln, Unit 51, Old Orchard Beach, ME 04064",
+		"addressLine1": "51 Macintosh Ln",
+		"addressLine2": "Unit 51",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515808,
+		"longitude": -70.401168,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1712,
+		"lotSize": 2439360,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 440
+		},
+		"status": "Active",
+		"price": 509000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.846Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674911",
+		"listingAgent": {
+			"name": "Bob Magazu",
+			"phone": "2073170221",
+			"email": "bobsellsmaine@hotmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 509000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "11-Smithwheel-Rd,-Unit-13,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "11 Smithwheel Rd, Unit 13, Old Orchard Beach, ME 04064",
+		"addressLine1": "11 Smithwheel Rd",
+		"addressLine2": "Unit 13",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.509313,
+		"longitude": -70.414039,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1482,
+		"lotSize": 226512,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 330
+		},
+		"status": "Active",
+		"price": 427000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-12-12T09:31:07.728Z",
+		"lastSeenDate": "2026-09-12T08:13:10.839Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674907",
+		"listingAgent": {
+			"name": "Diane Jousset",
+			"phone": "6035689071",
+			"email": "dianejousset@masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 427000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "27-Ocean-Park-Rd,-Unit-288,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "27 Ocean Park Rd, Unit 288, Old Orchard Beach, ME 04064",
+		"addressLine1": "27 Ocean Park Rd",
+		"addressLine2": "Unit 288",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.507401,
+		"longitude": -70.41378,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 68000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.836Z",
+		"daysOnMarket": 34,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11927686",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-08-10": {
+				"event": "Sale Listing",
+				"price": 68000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 34
+			}
+		}
+	},
+	{
+		"id": "35-Old-Salt-Rd,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "35 Old Salt Rd, Old Orchard Beach, ME 04064",
+		"addressLine1": "35 Old Salt Rd",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.505859,
+		"longitude": -70.406132,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1316,
+		"lotSize": 65340,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.831Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675269",
+		"listingAgent": {
+			"name": "Tim Madden",
+			"phone": "2072820990",
+			"email": "tmadden@assist2sell.com",
+			"website": "http://www.hometeamadv.com"
+		},
+		"listingOffice": {
+			"name": "Assist-2-Sell Home Team Advantage",
+			"phone": "2072820990",
+			"email": "tmadden@assist2sell.com",
+			"website": "https://www.hometeamadv.com"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "53-Kavanaugh-Rd,-Unit-53,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "53 Kavanaugh Rd, Unit 53, Old Orchard Beach, ME 04064",
+		"addressLine1": "53 Kavanaugh Rd",
+		"addressLine2": "Unit 53",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515808,
+		"longitude": -70.401168,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1712,
+		"lotSize": 2439360,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 440
+		},
+		"status": "Active",
+		"price": 535000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.830Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675011",
+		"listingAgent": {
+			"name": "Kim Carignan",
+			"phone": "2078928100",
+			"email": "kimcarignan@masiello.com",
+			"website": "https://kimcarignan.masiello.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 535000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "6-Ivy-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "6 Ivy Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "6 Ivy Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.516353,
+		"longitude": -70.383097,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1489,
+		"lotSize": 2614,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 795000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.818Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675883",
+		"listingAgent": {
+			"name": "Christina Connell",
+			"phone": "2074237292",
+			"email": "tina.connell@verani.com",
+			"website": "http://www.gregandtinateam.com/"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "12-Tripoli-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "12 Tripoli Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "12 Tripoli Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.504926,
+		"longitude": -70.382592,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 4,
+		"squareFootage": 2835,
+		"lotSize": 4792,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 1650000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.814Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675822",
+		"listingAgent": {
+			"name": "Meghan Kerry",
+			"phone": "2075900836",
+			"email": "meghan.kerry@beangroup.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 1650000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "76A-Ryefield-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "76A Ryefield Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "76A Ryefield Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.517467,
+		"longitude": -70.404495,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1064,
+		"yearBuilt": 2002,
+		"hoa": {
+			"fee": 776
+		},
+		"status": "Active",
+		"price": 169900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.812Z",
+		"daysOnMarket": 33,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11929323",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 169900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "170-E-Grand-Ave,-Apt-4,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "170 E Grand Ave, Apt 4, Old Orchard Beach, ME 04064",
+		"addressLine1": "170 E Grand Ave",
+		"addressLine2": "Apt 4",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.527738,
+		"longitude": -70.365028,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1741,
+		"lotSize": 44867,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 400
+		},
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.811Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676009",
+		"listingAgent": {
+			"name": "Luke Morris",
+			"phone": "6034015858"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2025-06-27": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-27T00:00:00.000Z",
+				"removedDate": "2025-08-07T00:00:00.000Z",
+				"daysOnMarket": 41
+			},
+			"2025-08-21": {
+				"event": "Sale Listing",
+				"price": 609000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-21T00:00:00.000Z",
+				"removedDate": "2026-04-07T00:00:00.000Z",
+				"daysOnMarket": 229
+			},
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 609000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": "2026-04-28T00:00:00.000Z",
+				"daysOnMarket": 19
+			},
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "52-Wild-Dunes-Way,-Unit-22B,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "52 Wild Dunes Way, Unit 22B, Old Orchard Beach, ME 04064",
+		"addressLine1": "52 Wild Dunes Way",
+		"addressLine2": "Unit 22B",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.524559,
+		"longitude": -70.40117,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 3.5,
+		"squareFootage": 2646,
+		"lotSize": 12197,
+		"yearBuilt": 2013,
+		"hoa": {
+			"fee": 196
+		},
+		"status": "Active",
+		"price": 599900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.810Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676004",
+		"listingAgent": {
+			"name": "Faith Fontaine",
+			"phone": "2075764179",
+			"email": "faithfontaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 599900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "3-Bayberry-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "3 Bayberry Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "3 Bayberry Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.51534,
+		"longitude": -70.405986,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 776
+		},
+		"status": "Active",
+		"price": 214000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.775Z",
+		"daysOnMarket": 27,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11938437",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2025-10-30": {
+				"event": "Sale Listing",
+				"price": 217000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-30T00:00:00.000Z",
+				"removedDate": "2026-03-17T00:00:00.000Z",
+				"daysOnMarket": 138
+			},
+			"2026-03-26": {
+				"event": "Sale Listing",
+				"price": 214000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-26T00:00:00.000Z",
+				"removedDate": "2026-05-29T00:00:00.000Z",
+				"daysOnMarket": 64
+			},
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 214000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "44-Seaside-Ave,-Old-Orchard-Beach,-ME-04063",
+		"formattedAddress": "44 Seaside Ave, Old Orchard Beach, ME 04063",
+		"addressLine1": "44 Seaside Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04063",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50311,
+		"longitude": -70.383525,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2274,
+		"lotSize": 3485,
+		"yearBuilt": 1993,
+		"status": "Active",
+		"price": 1395000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.773Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676551",
+		"listingAgent": {
+			"name": "Ruth Summers",
+			"phone": "2073320111",
+			"email": "ruthsummers@kw.com",
+			"website": "https://ruthsummers.kw.com/"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 1395000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "27-Ocean-Park-Rd,-Unit-240,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "27 Ocean Park Rd, Unit 240, Old Orchard Beach, ME 04064",
+		"addressLine1": "27 Ocean Park Rd",
+		"addressLine2": "Unit 240",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.507401,
+		"longitude": -70.41378,
+		"propertyType": "Manufactured",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"yearBuilt": 2007,
+		"status": "Active",
+		"price": 64000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.764Z",
+		"daysOnMarket": 26,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11938691",
+		"listingAgent": {
+			"name": "Kathee Somes",
+			"phone": "2078838474",
+			"email": "kathee.mhb@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Mobile Home Brokers Unlimited",
+			"phone": "2078838474"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 64000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "129-Portland-Ave,-Apt-55,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "129 Portland Ave, Apt 55, Old Orchard Beach, ME 04064",
+		"addressLine1": "129 Portland Ave",
+		"addressLine2": "Apt 55",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.5279,
+		"longitude": -70.376339,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 944,
+		"lotSize": 217800,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 440
+		},
+		"status": "Active",
+		"price": 365000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.750Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677008",
+		"listingAgent": {
+			"name": "Katie Morency",
+			"phone": "2076508991",
+			"email": "realtorkatiemorency@gmail.com",
+			"website": "http://cottageandcomaine.com"
+		},
+		"listingOffice": {
+			"name": "Cottage & Co Real Estate",
+			"phone": "2076531188",
+			"email": "thebissonteam@gmail.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 365000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "23-Garden-St,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "23 Garden St, Old Orchard Beach, ME 04064",
+		"addressLine1": "23 Garden St",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.536283,
+		"longitude": -70.396439,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1424,
+		"lotSize": 10019,
+		"yearBuilt": 1980,
+		"status": "Active",
+		"price": 547900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-04-09T09:31:42.734Z",
+		"lastSeenDate": "2026-09-12T07:35:34.695Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677272",
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 547900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "9-Macintosh-Ln,-Unit-9,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "9 Macintosh Ln, Unit 9, Old Orchard Beach, ME 04064",
+		"addressLine1": "9 Macintosh Ln",
+		"addressLine2": "Unit 9",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515808,
+		"longitude": -70.401168,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1676,
+		"lotSize": 2439360,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 440
+		},
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.693Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677166",
+		"listingAgent": {
+			"name": "Megan Diffley",
+			"phone": "2073038180",
+			"email": "megan@signaturehomesmaine.com",
+			"website": "https://www.signaturehomesmaine.com/about/megan-diffley/"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2024-09-05": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2024-09-05T00:00:00.000Z",
+				"removedDate": "2024-10-03T00:00:00.000Z",
+				"daysOnMarket": 28
+			},
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "4-Ivy-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "4 Ivy Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "4 Ivy Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.516456,
+		"longitude": -70.383004,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 638,
+		"lotSize": 2614,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 360000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.691Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677196",
+		"listingAgent": {
+			"name": "Scott Reiff Denise Reiff",
+			"phone": "2077121463",
+			"email": "scottanddenise@cbrealty.com",
+			"website": "http://www.reiffteamrealtors.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 360000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "10-Ocean-Park-Rd,-Apt-2,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "10 Ocean Park Rd, Apt 2, Old Orchard Beach, ME 04064",
+		"addressLine1": "10 Ocean Park Rd",
+		"addressLine2": "Apt 2",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50816,
+		"longitude": -70.411796,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1032,
+		"lotSize": 25265,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 300
+		},
+		"status": "Active",
+		"price": 309900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-09-18T08:05:06.843Z",
+		"lastSeenDate": "2026-09-12T06:55:56.766Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677902",
+		"listingAgent": {
+			"name": "Christy Arnett",
+			"phone": "2076533433",
+			"email": "christy.tmren@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 309900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "58-Portland-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "58 Portland Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "58 Portland Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.521378,
+		"longitude": -70.379361,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 2,
+		"squareFootage": 4029,
+		"lotSize": 30928,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 849900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.765Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677903",
+		"listingAgent": {
+			"name": "Luke Morris",
+			"phone": "6034015858"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 849900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "191-E-Grand-Ave,-Apt-301,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "191 E Grand Ave, Apt 301, Old Orchard Beach, ME 04064",
+		"addressLine1": "191 E Grand Ave",
+		"addressLine2": "Apt 301",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.529318,
+		"longitude": -70.361924,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1237,
+		"lotSize": 52272,
+		"yearBuilt": 1983,
+		"hoa": {
+			"fee": 633
+		},
+		"status": "Active",
+		"price": 799900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.757Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678008",
+		"listingAgent": {
+			"name": "Nancy Z Moreshead",
+			"phone": "2073293545",
+			"email": "nancyzbythesea@gmail.com",
+			"website": "http://www.nancyzsellsbythesea.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 799900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "143-Inverness-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "143 Inverness Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "143 Inverness Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.524608,
+		"longitude": -70.387239,
+		"propertyType": "Land",
+		"lotSize": 6098,
+		"status": "Active",
+		"price": 250000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.742Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678081",
+		"listingAgent": {
+			"name": "Tia Chambers",
+			"phone": "2072825988",
+			"email": "tia.chambers@cbrealty.com",
+			"website": "https://tiachambersrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 250000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "46-Macintosh-Ln,-Unit-46,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "46 Macintosh Ln, Unit 46, Old Orchard Beach, ME 04064",
+		"addressLine1": "46 Macintosh Ln",
+		"addressLine2": "Unit 46",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515808,
+		"longitude": -70.401168,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1528,
+		"lotSize": 2439360,
+		"yearBuilt": 2004,
+		"hoa": {
+			"fee": 460
+		},
+		"status": "Active",
+		"price": 529000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.724Z",
+		"daysOnMarket": 15,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678317",
+		"listingAgent": {
+			"name": "Bob Magazu",
+			"phone": "2073170221",
+			"email": "bobsellsmaine@hotmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-29": {
+				"event": "Sale Listing",
+				"price": 529000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 15
+			}
+		}
+	},
+	{
+		"id": "3-Old-Orchard-Rd,-Unit-C8,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "3 Old Orchard Rd, Unit C8, Old Orchard Beach, ME 04064",
+		"addressLine1": "3 Old Orchard Rd",
+		"addressLine2": "Unit C8",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50631,
+		"longitude": -70.409714,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 576,
+		"yearBuilt": 2011,
+		"hoa": {
+			"fee": 657
+		},
+		"status": "Active",
+		"price": 63000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.715Z",
+		"daysOnMarket": 15,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678251",
+		"listingAgent": {
+			"name": "Debra Harris",
+			"phone": "2075768596",
+			"email": "debharris@kw.com",
+			"website": "http://www.kwconnect.com/profile"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2026-08-29": {
+				"event": "Sale Listing",
+				"price": 63000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 15
+			}
+		}
+	},
+	{
+		"id": "19-Dolphin-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "19 Dolphin Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "19 Dolphin Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.538578,
+		"longitude": -70.392306,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1344,
+		"lotSize": 19602,
+		"yearBuilt": 2016,
+		"hoa": {
+			"fee": 42
+		},
+		"status": "Active",
+		"price": 629000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.699Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678552",
+		"listingAgent": {
+			"name": "Paul Davis",
+			"phone": "2072723984",
+			"email": "paul@placesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 629000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "78-E-Grand-Ave,-Unit-110,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "78 E Grand Ave, Unit 110, Old Orchard Beach, ME 04064",
+		"addressLine1": "78 E Grand Ave",
+		"addressLine2": "Unit 110",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.521366,
+		"longitude": -70.370056,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 268,
+		"lotSize": 14375,
+		"yearBuilt": 1948,
+		"hoa": {
+			"fee": 295
+		},
+		"status": "Active",
+		"price": 239900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.687Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679115",
+		"listingAgent": {
+			"name": "Amy Goodine",
+			"phone": "2073433316",
+			"email": "amy.goodine@exprealty.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-05-29": {
+				"event": "Sale Listing",
+				"price": 249900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-29T00:00:00.000Z",
+				"removedDate": "2026-08-29T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 239900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "146-W-Grand-Ave,-Apt-92,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "146 W Grand Ave, Apt 92, Old Orchard Beach, ME 04064",
+		"addressLine1": "146 W Grand Ave",
+		"addressLine2": "Apt 92",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50584,
+		"longitude": -70.384546,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 904,
+		"lotSize": 453024,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 440
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.675Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679154",
+		"listingAgent": {
+			"name": "Nancy Z Moreshead",
+			"phone": "2073293545",
+			"email": "nancyzbythesea@gmail.com",
+			"website": "http://www.nancyzsellsbythesea.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "16-Wild-Dunes-Way,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "16 Wild Dunes Way, Old Orchard Beach, ME 04064",
+		"addressLine1": "16 Wild Dunes Way",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.528025,
+		"longitude": -70.401606,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2819,
+		"lotSize": 9148,
+		"yearBuilt": 2017,
+		"hoa": {
+			"fee": 13
+		},
+		"status": "Active",
+		"price": 915000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.279Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679700",
+		"listingAgent": {
+			"name": "Heather Anderson",
+			"phone": "2072297116",
+			"email": "heatheranderson@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2024-08-08": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2024-08-08T00:00:00.000Z",
+				"removedDate": "2024-11-19T00:00:00.000Z",
+				"daysOnMarket": 103
+			},
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 915000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "18-Union-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "18 Union Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "18 Union Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.508066,
+		"longitude": -70.380506,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 3,
+		"squareFootage": 2186,
+		"lotSize": 2614,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 1090000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.187Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679358",
+		"listingAgent": {
+			"name": "Stephen Erickson",
+			"phone": "2072825988",
+			"email": "steve.erickson@cbrealty.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 1090000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "29-Mayflower-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "29 Mayflower Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "29 Mayflower Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510381,
+		"longitude": -70.415107,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 938,
+		"yearBuilt": 1989,
+		"hoa": {
+			"fee": 776
+		},
+		"status": "Active",
+		"price": 79999,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.185Z",
+		"daysOnMarket": 9,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11966702",
+		"listingAgent": {
+			"name": "Robert Magazu",
+			"phone": "2073170221",
+			"email": "bobsellsmaine@hotmail.com",
+			"website": "http://www.mobilehomesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Mobile homes in Maine, LLC",
+			"phone": "2073170221"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 79999,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "10-Goodwin-Ave,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "10 Goodwin Ave, Old Orchard Beach, ME 04064",
+		"addressLine1": "10 Goodwin Ave",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.507733,
+		"longitude": -70.40352,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1560,
+		"lotSize": 11326,
+		"yearBuilt": 2020,
+		"status": "Active",
+		"price": 549000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-23T12:00:20.173Z",
+		"lastSeenDate": "2026-09-12T06:33:44.175Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679455",
+		"listingAgent": {
+			"name": "Kirstie Ransdell",
+			"phone": "2072135541",
+			"email": "makemainehome@gmail.com",
+			"website": "http://www.makemainehome.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 549000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "4-Sunset-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "4 Sunset Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "4 Sunset Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515805,
+		"longitude": -70.377719,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 1988,
+		"lotSize": 6970,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 939900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-04T12:52:34.635Z",
+		"lastSeenDate": "2026-09-12T06:33:44.143Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679716",
+		"listingAgent": {
+			"name": "Julie  A. Bayley",
+			"phone": "2078071947",
+			"email": "julieabayley@yahoo.com",
+			"website": "http://www.bayleyrealty.com"
+		},
+		"listingOffice": {
+			"name": "Bayley Realty Group",
+			"phone": "2072472407",
+			"email": "julieabayley@yahoo.com",
+			"website": "www.bayleyrealty.com"
+		},
+		"history": {
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 939900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	},
+	{
+		"id": "80-Ryefield-Dr,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "80 Ryefield Dr, Old Orchard Beach, ME 04064",
+		"addressLine1": "80 Ryefield Dr",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.517707,
+		"longitude": -70.404301,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 980,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 776
+		},
+		"status": "Active",
+		"price": 119995,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.132Z",
+		"daysOnMarket": 4,
+		"mlsName": "MyStateMLS",
+		"mlsNumber": "11970291",
+		"listingAgent": {
+			"name": "Robert Magazu",
+			"phone": "2073170221",
+			"email": "bobsellsmaine@hotmail.com",
+			"website": "http://www.mobilehomesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Mobile homes in Maine, LLC",
+			"phone": "2073170221"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 119995,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "11-Chestnut-St,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "11 Chestnut St, Old Orchard Beach, ME 04064",
+		"addressLine1": "11 Chestnut St",
+		"addressLine2": null,
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.537714,
+		"longitude": -70.400567,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1462,
+		"lotSize": 22216,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 789900,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.111Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680157",
+		"listingAgent": {
+			"name": "Deja Lett",
+			"phone": "2074158204",
+			"email": "deja@tophomesgroup.com",
+			"website": "http://www.topmainehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 789900,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	},
+	{
+		"id": "221-E-Grand-Ave,-Apt-6F,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "221 E Grand Ave, Apt 6F, Old Orchard Beach, ME 04064",
+		"addressLine1": "221 E Grand Ave",
+		"addressLine2": "Apt 6F",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.534844,
+		"longitude": -70.355381,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1.5,
+		"squareFootage": 835,
+		"lotSize": 52272,
+		"yearBuilt": 1988,
+		"hoa": {
+			"fee": 539
+		},
+		"status": "Active",
+		"price": 550000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:39:44.559Z",
+		"daysOnMarket": 91,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667055",
+		"listingOffice": {
+			"name": "Century 21 Advantage",
+			"phone": "2077822121",
+			"email": "century21advant@gmail.com",
+			"website": "http://www.century21-advantage.com/"
+		},
+		"history": {
+			"2026-06-13": {
+				"event": "Sale Listing",
+				"price": 550000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 91
+			}
+		}
+	},
+	{
+		"id": "162-E-Grand-Ave,-Unit-301,-Old-Orchard-Beach,-ME-04064",
+		"formattedAddress": "162 E Grand Ave, Unit 301, Old Orchard Beach, ME 04064",
+		"addressLine1": "162 E Grand Ave",
+		"addressLine2": "Unit 301",
+		"city": "Old Orchard Beach",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04064",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.526176,
+		"longitude": -70.365952,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 714,
+		"lotSize": 2614,
+		"yearBuilt": 1935,
+		"hoa": {
+			"fee": 220
+		},
+		"status": "Active",
+		"price": 489900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T09:03:27.977Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677811",
+		"listingAgent": {
+			"name": "Jen Whitehead",
+			"phone": "2074058503",
+			"email": "jen@dreamhomemaine.com",
+			"website": "http://www.dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-03-31": {
+				"event": "Sale Listing",
+				"price": 489000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-31T00:00:00.000Z",
+				"removedDate": "2026-06-01T00:00:00.000Z",
+				"daysOnMarket": 62
+			},
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 489900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	}
+]

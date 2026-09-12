@@ -1,0 +1,1597 @@
+[
+	{
+		"id": "270-Stillwater-Ave,-Orono,-ME-04473",
+		"formattedAddress": "270 Stillwater Ave, Orono, ME 04473",
+		"addressLine1": "270 Stillwater Ave",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.867367,
+		"longitude": -68.71877,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 400,
+		"lotSize": 2010294,
+		"yearBuilt": 2000,
+		"status": "Active",
+		"price": 199000,
+		"listingType": "Standard",
+		"listedDate": "2025-10-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:14.142Z",
+		"daysOnMarket": 333,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640941",
+		"listingAgent": {
+			"name": "Racheal Pasqual",
+			"phone": "2072492464",
+			"email": "rcousinsrealestate@gmail.com",
+			"website": "https://rachealpasqual.mynexthomeexperience.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2025-10-15": {
+				"event": "Sale Listing",
+				"price": 199000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 333
+			}
+		}
+	},
+	{
+		"id": "148-College-Ave,-Orono,-ME-04473",
+		"formattedAddress": "148 College Ave, Orono, ME 04473",
+		"addressLine1": "148 College Ave",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.893769,
+		"longitude": -68.671882,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3.5,
+		"squareFootage": 2432,
+		"lotSize": 39204,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 687000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:14.142Z",
+		"daysOnMarket": 300,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1643690",
+		"listingAgent": {
+			"name": "Carol Brooks",
+			"phone": "2079446970",
+			"email": "carolbrooks@eradawson.com",
+			"website": "http://carolbrooks4me.com"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2025-11-17": {
+				"event": "Sale Listing",
+				"price": 687000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 300
+			}
+		}
+	},
+	{
+		"id": "Margin-St,-Orono,-ME-04473",
+		"formattedAddress": "Margin St, Orono, ME 04473",
+		"addressLine1": "Margin St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.877321,
+		"longitude": -68.674261,
+		"propertyType": "Land",
+		"lotSize": 64904,
+		"status": "Active",
+		"price": 79900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.920Z",
+		"daysOnMarket": 130,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660960",
+		"listingAgent": {
+			"name": "Adrian Nadeau & Bruce Bragdon",
+			"phone": "2079476788",
+			"email": "andyj@eradawson.com",
+			"website": "http://www.eradawson.com/"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 79900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 130
+			}
+		}
+	},
+	{
+		"id": "30-Merritt-Dr,-Orono,-ME-04473",
+		"formattedAddress": "30 Merritt Dr, Orono, ME 04473",
+		"addressLine1": "30 Merritt Dr",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.882274,
+		"longitude": -68.766244,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3906,
+		"lotSize": 126324,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 719900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.903Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662397",
+		"listingAgent": {
+			"name": "Michelle Weatherbee",
+			"phone": "2076190441",
+			"email": "michelle@therockteam.com",
+			"website": "http://therockteam.com/"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 719900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "16-Godfrey-Dr,-Orono,-ME-04473",
+		"formattedAddress": "16 Godfrey Dr, Orono, ME 04473",
+		"addressLine1": "16 Godfrey Dr",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.899227,
+		"longitude": -68.685847,
+		"propertyType": "Land",
+		"lotSize": 154638,
+		"status": "Active",
+		"price": 149000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.896Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661678",
+		"listingAgent": {
+			"name": "Edward Baldacci"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 149000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "3-Park-St,-Orono,-ME-04473",
+		"formattedAddress": "3 Park St, Orono, ME 04473",
+		"addressLine1": "3 Park St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.887674,
+		"longitude": -68.669051,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1656,
+		"lotSize": 8276,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 269900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.893Z",
+		"daysOnMarket": 123,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662057",
+		"listingAgent": {
+			"name": "Dan Burpee",
+			"phone": "2074699930",
+			"email": "tworiversdanb@gmail.com",
+			"website": "http://www.tworiversrealtyme.com"
+		},
+		"listingOffice": {
+			"name": "Two Rivers Realty, LLC",
+			"phone": "2074699930",
+			"email": "tworiversrealtyoffice@gmail.com",
+			"website": "http://www.tworiversrealtyme.com"
+		},
+		"history": {
+			"2026-05-13": {
+				"event": "Sale Listing",
+				"price": 269900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 123
+			}
+		}
+	},
+	{
+		"id": "83-Orono-Landing-Rd,-Orono,-ME-04473",
+		"formattedAddress": "83 Orono Landing Rd, Orono, ME 04473",
+		"addressLine1": "83 Orono Landing Rd",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.892796,
+		"longitude": -68.760373,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 900,
+		"lotSize": 6098,
+		"yearBuilt": 1935,
+		"status": "Active",
+		"price": 334000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.815Z",
+		"daysOnMarket": 117,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662814",
+		"listingAgent": {
+			"name": "Michelle Weatherbee",
+			"phone": "2076190441",
+			"email": "michelle@therockteam.com",
+			"website": "http://therockteam.com/"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2025-11-06": {
+				"event": "Sale Listing",
+				"price": 369000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-06T00:00:00.000Z",
+				"removedDate": "2026-05-06T00:00:00.000Z",
+				"daysOnMarket": 181
+			},
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 334000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 117
+			}
+		}
+	},
+	{
+		"id": "Merritt-Dr,-Orono,-ME-04473",
+		"formattedAddress": "Merritt Dr, Orono, ME 04473",
+		"addressLine1": "Merritt Dr",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.880763,
+		"longitude": -68.766166,
+		"propertyType": "Land",
+		"lotSize": 182952,
+		"status": "Active",
+		"price": 99900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.770Z",
+		"daysOnMarket": 102,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665189",
+		"listingAgent": {
+			"name": "Kortnie Mullins",
+			"phone": "2079914924",
+			"email": "kortnie@chezreneeteam.com",
+			"website": "http://www.chezreneeteam.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Bangor",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2025-04-07": {
+				"event": "Sale Listing",
+				"price": 99000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-07T00:00:00.000Z",
+				"removedDate": "2025-06-27T00:00:00.000Z",
+				"daysOnMarket": 81
+			},
+			"2026-06-03": {
+				"event": "Sale Listing",
+				"price": 99900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 102
+			}
+		}
+	},
+	{
+		"id": "114-Main-St,-Orono,-ME-04473",
+		"formattedAddress": "114 Main St, Orono, ME 04473",
+		"addressLine1": "114 Main St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.879537,
+		"longitude": -68.674053,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2.5,
+		"squareFootage": 3920,
+		"lotSize": 50530,
+		"yearBuilt": 1836,
+		"status": "Active",
+		"price": 850000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.743Z",
+		"daysOnMarket": 94,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666694",
+		"listingAgent": {
+			"name": "Heather Young, Agent",
+			"phone": "2077358202",
+			"email": "heatheryoung7911@gmail.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2026-06-11": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 94
+			}
+		}
+	},
+	{
+		"id": "Stillwater-Ave,-Lot-0,-Orono,-ME-04473",
+		"formattedAddress": "Stillwater Ave, Lot 0, Orono, ME 04473",
+		"addressLine1": "Stillwater Ave",
+		"addressLine2": "Lot 0",
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.898537,
+		"longitude": -68.69516,
+		"propertyType": "Land",
+		"lotSize": 1110780,
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.733Z",
+		"daysOnMarket": 90,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667312",
+		"listingAgent": {
+			"name": "Renee Hudgens",
+			"phone": "2079914926",
+			"email": "renee@chezreneeteam.com",
+			"website": "http://www.chezreneeteam.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Bangor",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "29-Merritt-Dr,-Orono,-ME-04473",
+		"formattedAddress": "29 Merritt Dr, Orono, ME 04473",
+		"addressLine1": "29 Merritt Dr",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.883063,
+		"longitude": -68.768045,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2200,
+		"lotSize": 87120,
+		"yearBuilt": 2016,
+		"status": "Active",
+		"price": 439000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.952Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667691",
+		"listingAgent": {
+			"name": "Jessica Greene",
+			"phone": "2079424618",
+			"email": "jgreenerealestate@gmail.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Queen City Real Estate",
+			"phone": "2079424618",
+			"email": "almjhm@hotmail.com"
+		},
+		"history": {
+			"2025-09-26": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-26T00:00:00.000Z",
+				"removedDate": "2025-12-27T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 439000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "Grant-Rd,-Lot-14,-Orono,-ME-04473",
+		"formattedAddress": "Grant Rd, Lot 14, Orono, ME 04473",
+		"addressLine1": "Grant Rd",
+		"addressLine2": "Lot 14",
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.896622,
+		"longitude": -68.716657,
+		"propertyType": "Land",
+		"lotSize": 86249,
+		"status": "Active",
+		"price": 59000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.899Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669461",
+		"listingAgent": {
+			"name": "Linda Gardiner",
+			"phone": "2079426711",
+			"email": "lindagardiner@masiello.com",
+			"website": "http://www.bangorsbesthomes.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2079426711",
+			"email": "bangor@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-06-02": {
+				"event": "Sale Listing",
+				"price": 59900,
+				"listingType": "Standard",
+				"listedDate": "2025-06-02T00:00:00.000Z",
+				"removedDate": "2026-05-29T00:00:00.000Z",
+				"daysOnMarket": 361
+			},
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 59000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "Grant-Rd,-Lot-12,-Orono,-ME-04473",
+		"formattedAddress": "Grant Rd, Lot 12, Orono, ME 04473",
+		"addressLine1": "Grant Rd",
+		"addressLine2": "Lot 12",
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.895261,
+		"longitude": -68.715314,
+		"propertyType": "Land",
+		"lotSize": 86684,
+		"status": "Active",
+		"price": 59000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.893Z",
+		"daysOnMarket": 76,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669416",
+		"listingAgent": {
+			"name": "Linda Gardiner",
+			"phone": "2079426711",
+			"email": "lindagardiner@masiello.com",
+			"website": "http://www.bangorsbesthomes.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2079426711",
+			"email": "bangor@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-06-02": {
+				"event": "Sale Listing",
+				"price": 59900,
+				"listingType": "Standard",
+				"listedDate": "2025-06-02T00:00:00.000Z",
+				"removedDate": "2026-05-29T00:00:00.000Z",
+				"daysOnMarket": 361
+			},
+			"2026-06-29": {
+				"event": "Sale Listing",
+				"price": 59000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 76
+			}
+		}
+	},
+	{
+		"id": "372-Forest-Ave,-Orono,-ME-04473",
+		"formattedAddress": "372 Forest Ave, Orono, ME 04473",
+		"addressLine1": "372 Forest Ave",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.892008,
+		"longitude": -68.746585,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1512,
+		"lotSize": 2395800,
+		"yearBuilt": 1990,
+		"status": "Active",
+		"price": 480000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.885Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669907",
+		"listingAgent": {
+			"name": "Jessica Poole",
+			"phone": "2072998017"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2024-07-29": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-29T00:00:00.000Z",
+				"removedDate": "2024-09-27T00:00:00.000Z",
+				"daysOnMarket": 60
+			},
+			"2025-08-28": {
+				"event": "Sale Listing",
+				"price": 480000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-28T00:00:00.000Z",
+				"removedDate": "2025-12-07T00:00:00.000Z",
+				"daysOnMarket": 101
+			},
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 480000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "94-Stillwater-Ave,-Orono,-ME-04473",
+		"formattedAddress": "94 Stillwater Ave, Orono, ME 04473",
+		"addressLine1": "94 Stillwater Ave",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.890018,
+		"longitude": -68.705117,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1164,
+		"lotSize": 44867,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 242000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.879Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669915",
+		"listingAgent": {
+			"name": "Carol Brooks",
+			"phone": "2079446970",
+			"email": "carolbrooks@eradawson.com",
+			"website": "http://carolbrooks4me.com"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 242000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "117-Mill-St,-Orono,-ME-04473",
+		"formattedAddress": "117 Mill St, Orono, ME 04473",
+		"addressLine1": "117 Mill St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.882415,
+		"longitude": -68.66758,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 4560,
+		"lotSize": 10890,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.878Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669977",
+		"listingAgent": {
+			"name": "Adrian Nadeau & Bruce Bragdon",
+			"phone": "2079476788",
+			"email": "andyj@eradawson.com",
+			"website": "http://www.eradawson.com/"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "2-Averill-St,-Orono,-ME-04473",
+		"formattedAddress": "2 Averill St, Orono, ME 04473",
+		"addressLine1": "2 Averill St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.887101,
+		"longitude": -68.678032,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2425,
+		"lotSize": 20909,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 390000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.876Z",
+		"daysOnMarket": 70,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670328",
+		"listingAgent": {
+			"name": "Lewis Morrison",
+			"phone": "2079473363"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-07-05": {
+				"event": "Sale Listing",
+				"price": 390000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 70
+			}
+		}
+	},
+	{
+		"id": "22-Penobscot-St,-Orono,-ME-04473",
+		"formattedAddress": "22 Penobscot St, Orono, ME 04473",
+		"addressLine1": "22 Penobscot St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.884815,
+		"longitude": -68.660857,
+		"propertyType": "Multi-Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 3676,
+		"lotSize": 9583,
+		"yearBuilt": 1836,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-07-14T09:08:16.338Z",
+		"lastSeenDate": "2026-09-12T07:54:08.332Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671578",
+		"listingAgent": {
+			"name": "Kate Dawson",
+			"phone": "2079515539"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "166-Kelley-Rd,-Orono,-ME-04473",
+		"formattedAddress": "166 Kelley Rd, Orono, ME 04473",
+		"addressLine1": "166 Kelley Rd",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.87861,
+		"longitude": -68.711435,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1573,
+		"lotSize": 48787,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 294900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-08T10:31:38.975Z",
+		"lastSeenDate": "2026-09-12T07:54:08.330Z",
+		"daysOnMarket": 61,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671642",
+		"listingAgent": {
+			"name": "Jill Dunbar Mayhew",
+			"phone": "2079911909",
+			"email": "jmayhew9911909@aol.com",
+			"website": "https://www.trustthereevesgroup.com/"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2025-06-10": {
+				"event": "Sale Listing",
+				"price": 305000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-10T00:00:00.000Z",
+				"removedDate": "2025-08-23T00:00:00.000Z",
+				"daysOnMarket": 74
+			},
+			"2026-07-14": {
+				"event": "Sale Listing",
+				"price": 294900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 61
+			}
+		}
+	},
+	{
+		"id": "36-Kelley-Rd,-Orono,-ME-04473",
+		"formattedAddress": "36 Kelley Rd, Orono, ME 04473",
+		"addressLine1": "36 Kelley Rd",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.868629,
+		"longitude": -68.691633,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1800,
+		"lotSize": 61855,
+		"yearBuilt": 1960,
+		"status": "Active",
+		"price": 259000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-02-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.293Z",
+		"daysOnMarket": 48,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673601",
+		"listingAgent": {
+			"name": "Travis Coffin",
+			"phone": "2076676464",
+			"email": "traviscoffin@gmail.com",
+			"website": "http://www.traviscoffin.com/home.asp"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Ellsworth",
+			"phone": "2076672300",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2025-07-20": {
+				"event": "Sale Listing",
+				"price": 330000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-20T00:00:00.000Z",
+				"removedDate": "2025-10-15T00:00:00.000Z",
+				"daysOnMarket": 87
+			},
+			"2026-04-09": {
+				"event": "Sale Listing",
+				"price": 279000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-09T00:00:00.000Z",
+				"removedDate": "2026-07-21T00:00:00.000Z",
+				"daysOnMarket": 103
+			},
+			"2026-07-27": {
+				"event": "Sale Listing",
+				"price": 259000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 48
+			}
+		}
+	},
+	{
+		"id": "103-Union-St,-Orono,-ME-04473",
+		"formattedAddress": "103 Union St, Orono, ME 04473",
+		"addressLine1": "103 Union St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.868965,
+		"longitude": -68.674219,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1810,
+		"lotSize": 31799,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 444900,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.287Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673307",
+		"listingAgent": {
+			"name": "Isaac Raymond",
+			"phone": "2079494870",
+			"email": "iraymond4225@gmail.com",
+			"website": "www.mynexthomeexperience.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 444900,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "2461-Essex-St,-Orono,-ME-04473",
+		"formattedAddress": "2461 Essex St, Orono, ME 04473",
+		"addressLine1": "2461 Essex St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.890777,
+		"longitude": -68.787576,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1668,
+		"lotSize": 174240,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.260Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674004",
+		"listingAgent": {
+			"name": "John Goulet",
+			"phone": "8884398743",
+			"email": "jgoulet.wpm@outlook.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "Grant-Rd,-Lots-3-&-5,-Orono,-ME-04473",
+		"formattedAddress": "Grant Rd, Lots 3 & 5, Orono, ME 04473",
+		"addressLine1": "Grant Rd",
+		"addressLine2": "Lots 3 & 5",
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.892501,
+		"longitude": -68.714882,
+		"propertyType": "Land",
+		"lotSize": 362855,
+		"status": "Active",
+		"price": 56000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:51:41.136Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676771",
+		"listingAgent": {
+			"name": "Scott Young Melissa Young",
+			"phone": "2073561978"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2024-03-11": {
+				"event": "Sale Listing",
+				"price": 58000,
+				"listingType": "Standard",
+				"listedDate": "2024-03-11T00:00:00.000Z",
+				"removedDate": "2025-03-13T00:00:00.000Z",
+				"daysOnMarket": 367
+			},
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 56000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "6-Plummer-St,-Orono,-ME-04473",
+		"formattedAddress": "6 Plummer St, Orono, ME 04473",
+		"addressLine1": "6 Plummer St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.881311,
+		"longitude": -68.666307,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 944,
+		"lotSize": 9148,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 245000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:51:41.049Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677576",
+		"listingAgent": {
+			"name": "Marianna Reeves",
+			"phone": "2072996363",
+			"email": "marianna@trustthereevesgroup.com",
+			"website": "https://trustthereevesgroup.com"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 245000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "7-Pinewood-St,-Orono,-ME-04473",
+		"formattedAddress": "7 Pinewood St, Orono, ME 04473",
+		"addressLine1": "7 Pinewood St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.875187,
+		"longitude": -68.683009,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1800,
+		"lotSize": 9148,
+		"yearBuilt": 1961,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.976Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679873",
+		"listingAgent": {
+			"name": "Mariea Thurlow",
+			"phone": "2074033724",
+			"email": "marieathurlow@gmail.com"
+		},
+		"listingOffice": {
+			"name": "United Country Lifestyle Properties Of Maine",
+			"phone": "2077946164",
+			"email": "info@mcphailrealty.com",
+			"website": "www.mcphailrealty.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "30-Island-Ave,-Orono,-ME-04473",
+		"formattedAddress": "30 Island Ave, Orono, ME 04473",
+		"addressLine1": "30 Island Ave",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.874093,
+		"longitude": -68.67667,
+		"propertyType": "Land",
+		"lotSize": 3049,
+		"status": "Active",
+		"price": 7500,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.974Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679545",
+		"listingAgent": {
+			"name": "Scott Thomas",
+			"phone": "2078662299",
+			"email": "scott@mainebroker.com",
+			"website": "www.mainebroker.com"
+		},
+		"listingOffice": {
+			"name": "Maine Discount Realty",
+			"phone": "2078662299",
+			"email": "scott@mainebroker.com",
+			"website": "www.mainebroker.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 7500,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "28-Island-Ave,-Orono,-ME-04473",
+		"formattedAddress": "28 Island Ave, Orono, ME 04473",
+		"addressLine1": "28 Island Ave",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.874244,
+		"longitude": -68.676903,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1356,
+		"lotSize": 9583,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.973Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679543",
+		"listingAgent": {
+			"name": "Scott Thomas",
+			"phone": "2078662299",
+			"email": "scott@mainebroker.com",
+			"website": "www.mainebroker.com"
+		},
+		"listingOffice": {
+			"name": "Maine Discount Realty",
+			"phone": "2078662299",
+			"email": "scott@mainebroker.com",
+			"website": "www.mainebroker.com"
+		},
+		"history": {
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "143-Main-St,-Orono,-ME-04473",
+		"formattedAddress": "143 Main St, Orono, ME 04473",
+		"addressLine1": "143 Main St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.878551,
+		"longitude": -68.676792,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2940,
+		"lotSize": 33106,
+		"yearBuilt": 1830,
+		"status": "Active",
+		"price": 392500,
+		"listingType": "Standard",
+		"listedDate": "2026-09-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.966Z",
+		"daysOnMarket": 7,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679538",
+		"listingAgent": {
+			"name": "Scott Thomas",
+			"phone": "2078662299",
+			"email": "scott@mainebroker.com",
+			"website": "www.mainebroker.com"
+		},
+		"listingOffice": {
+			"name": "Maine Discount Realty",
+			"phone": "2078662299",
+			"email": "scott@mainebroker.com",
+			"website": "www.mainebroker.com"
+		},
+		"history": {
+			"2026-09-06": {
+				"event": "Sale Listing",
+				"price": 392500,
+				"listingType": "Standard",
+				"listedDate": "2026-09-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 7
+			}
+		}
+	},
+	{
+		"id": "6-Water-St,-Orono,-ME-04473",
+		"formattedAddress": "6 Water St, Orono, ME 04473",
+		"addressLine1": "6 Water St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.882488,
+		"longitude": -68.666581,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2572,
+		"lotSize": 3920,
+		"yearBuilt": 2000,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.957Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679968",
+		"listingAgent": {
+			"name": "Christina Patin",
+			"phone": "2073563913",
+			"email": "chrissypatin.realtor@gmail.com",
+			"website": "http://chrissypatin.mynexthomeexperience.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "210-Main-St,-Orono,-ME-04473",
+		"formattedAddress": "210 Main St, Orono, ME 04473",
+		"addressLine1": "210 Main St",
+		"addressLine2": null,
+		"city": "Orono",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04473",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.875792,
+		"longitude": -68.678029,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1813,
+		"lotSize": 7405,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 339000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.957Z",
+		"daysOnMarket": 2,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680135",
+		"listingAgent": {
+			"name": "Megan Schneider",
+			"phone": "2079426711",
+			"email": "meganschneider@masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2079426711",
+			"email": "bangor@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-09-11": {
+				"event": "Sale Listing",
+				"price": 339000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 2
+			}
+		}
+	}
+]

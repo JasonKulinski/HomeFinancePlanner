@@ -1,0 +1,5677 @@
+[
+	{
+		"id": "Longboard-Ln,-Lot-7,-Biddeford,-ME-04005",
+		"formattedAddress": "Longboard Ln, Lot 7, Biddeford, ME 04005",
+		"addressLine1": "Longboard Ln",
+		"addressLine2": "Lot 7",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.431872,
+		"longitude": -70.379882,
+		"propertyType": "Land",
+		"lotSize": 86249,
+		"status": "Active",
+		"price": 736000,
+		"listingType": "Standard",
+		"listedDate": "2025-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.913Z",
+		"daysOnMarket": 520,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1618812",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2025-04-11": {
+				"event": "Sale Listing",
+				"price": 736000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 520
+			}
+		}
+	},
+	{
+		"id": "Longboard-Ln,-Lot-3,-Biddeford,-ME-04005",
+		"formattedAddress": "Longboard Ln, Lot 3, Biddeford, ME 04005",
+		"addressLine1": "Longboard Ln",
+		"addressLine2": "Lot 3",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.432288,
+		"longitude": -70.379769,
+		"propertyType": "Land",
+		"lotSize": 83635,
+		"status": "Active",
+		"price": 795000,
+		"listingType": "Standard",
+		"listedDate": "2025-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.911Z",
+		"daysOnMarket": 520,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1618804",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2025-04-11": {
+				"event": "Sale Listing",
+				"price": 795000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 520
+			}
+		}
+	},
+	{
+		"id": "5-Apostolic-Way,-Biddeford,-ME-04005",
+		"formattedAddress": "5 Apostolic Way, Biddeford, ME 04005",
+		"addressLine1": "5 Apostolic Way",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.465757,
+		"longitude": -70.503942,
+		"propertyType": "Land",
+		"lotSize": 221285,
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2025-05-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-04-25T09:31:52.472Z",
+		"lastSeenDate": "2026-09-12T10:02:21.910Z",
+		"daysOnMarket": 471,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1624678",
+		"listingAgent": {
+			"name": "Kirk Butterfield",
+			"phone": "2072054007",
+			"email": "kabutterfield@yahoo.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-05-30": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 471
+			}
+		}
+	},
+	{
+		"id": "674-South-St,-Biddeford,-ME-04005",
+		"formattedAddress": "674 South St, Biddeford, ME 04005",
+		"addressLine1": "674 South St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.498016,
+		"longitude": -70.54941,
+		"propertyType": "Land",
+		"lotSize": 1524600,
+		"status": "Active",
+		"price": 1300000,
+		"listingType": "Standard",
+		"listedDate": "2025-05-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.908Z",
+		"daysOnMarket": 499,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1621111",
+		"listingAgent": {
+			"name": "Steve Liautaud",
+			"phone": "2076040655",
+			"email": "steve.liautaud@cbrealty.com",
+			"website": "http://steveliautaud.cbintouch.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2025-05-02": {
+				"event": "Sale Listing",
+				"price": 1300000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 499
+			}
+		}
+	},
+	{
+		"id": "Longboard-Ln,-Lot-2,-Biddeford,-ME-04005",
+		"formattedAddress": "Longboard Ln, Lot 2, Biddeford, ME 04005",
+		"addressLine1": "Longboard Ln",
+		"addressLine2": "Lot 2",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.432717,
+		"longitude": -70.379085,
+		"propertyType": "Land",
+		"lotSize": 86249,
+		"status": "Active",
+		"price": 619000,
+		"listingType": "Standard",
+		"listedDate": "2025-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.907Z",
+		"daysOnMarket": 520,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1618803",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2025-04-11": {
+				"event": "Sale Listing",
+				"price": 619000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 520
+			}
+		}
+	},
+	{
+		"id": "Longboard-Ln,-Lot-1,-Biddeford,-ME-04005",
+		"formattedAddress": "Longboard Ln, Lot 1, Biddeford, ME 04005",
+		"addressLine1": "Longboard Ln",
+		"addressLine2": "Lot 1",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.43299,
+		"longitude": -70.379257,
+		"propertyType": "Land",
+		"lotSize": 95832,
+		"status": "Active",
+		"price": 595000,
+		"listingType": "Standard",
+		"listedDate": "2025-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.904Z",
+		"daysOnMarket": 520,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1618798",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2025-04-11": {
+				"event": "Sale Listing",
+				"price": 595000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 520
+			}
+		}
+	},
+	{
+		"id": "Longboard-Ln,-Lot-6,-Biddeford,-ME-04005",
+		"formattedAddress": "Longboard Ln, Lot 6, Biddeford, ME 04005",
+		"addressLine1": "Longboard Ln",
+		"addressLine2": "Lot 6",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.431805,
+		"longitude": -70.379946,
+		"propertyType": "Land",
+		"lotSize": 88427,
+		"status": "Active",
+		"price": 759000,
+		"listingType": "Standard",
+		"listedDate": "2025-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.902Z",
+		"daysOnMarket": 520,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1618811",
+		"listingOffice": {
+			"name": "Pack Maynard & Associates Real estate LLC",
+			"phone": "2079673883",
+			"email": "info@pmrealestate.com",
+			"website": "http://www.pmrealestate.com"
+		},
+		"history": {
+			"2025-04-11": {
+				"event": "Sale Listing",
+				"price": 759000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 520
+			}
+		}
+	},
+	{
+		"id": "30-Westland-Ave,-Biddeford,-ME-04005",
+		"formattedAddress": "30 Westland Ave, Biddeford, ME 04005",
+		"addressLine1": "30 Westland Ave",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.478725,
+		"longitude": -70.468978,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1170,
+		"lotSize": 21780,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 459900,
+		"listingType": "Standard",
+		"listedDate": "2025-06-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-11-04T08:19:54.358Z",
+		"lastSeenDate": "2026-09-12T10:02:21.900Z",
+		"daysOnMarket": 467,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1625120",
+		"listingAgent": {
+			"name": "Julie Chandler",
+			"phone": "2076508927",
+			"email": "julie@pogorealty.com",
+			"website": "http://www.pogorealty.com"
+		},
+		"listingOffice": {
+			"name": "Po-Go Realty",
+			"phone": "2078393309",
+			"email": "peter@pogorealty.com",
+			"website": "www.pogorealty.com"
+		},
+		"history": {
+			"2025-06-03": {
+				"event": "Sale Listing",
+				"price": 459900,
+				"listingType": "Standard",
+				"listedDate": "2025-06-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 467
+			}
+		}
+	},
+	{
+		"id": "276-Hill-St,-Biddeford,-ME-04005",
+		"formattedAddress": "276 Hill St, Biddeford, ME 04005",
+		"addressLine1": "276 Hill St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.480186,
+		"longitude": -70.462285,
+		"propertyType": "Multi-Family",
+		"bedrooms": 26,
+		"bathrooms": 8,
+		"squareFootage": 11374,
+		"lotSize": 32670,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 2295000,
+		"listingType": "Standard",
+		"listedDate": "2025-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.988Z",
+		"daysOnMarket": 453,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1627070",
+		"listingAgent": {
+			"name": "Fred Andrews",
+			"phone": "2072336699",
+			"email": "fandrews@maine.rr.com"
+		},
+		"listingOffice": {
+			"name": "Spectrum Real Estate",
+			"phone": "2078053707",
+			"email": "fandrews@maine.rr.com",
+			"website": "http://spectrumrealestatecompany.com"
+		},
+		"history": {
+			"2025-06-17": {
+				"event": "Sale Listing",
+				"price": 2295000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 453
+			}
+		}
+	},
+	{
+		"id": "109-Proctor-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "109 Proctor Rd, Biddeford, ME 04005",
+		"addressLine1": "109 Proctor Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.448722,
+		"longitude": -70.466084,
+		"propertyType": "Land",
+		"lotSize": 551034,
+		"status": "Active",
+		"price": 210000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.954Z",
+		"daysOnMarket": 314,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642601",
+		"listingAgent": {
+			"name": "Kayla Brown",
+			"phone": "2075722483",
+			"email": "kayla@kwlifestyleproperties.com",
+			"website": "http://www.kwlifestyleproperties.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2024-12-05": {
+				"event": "Sale Listing",
+				"price": 199900,
+				"listingType": "Standard",
+				"listedDate": "2024-12-05T00:00:00.000Z",
+				"removedDate": "2025-02-25T00:00:00.000Z",
+				"daysOnMarket": 82
+			},
+			"2025-11-03": {
+				"event": "Sale Listing",
+				"price": 210000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 314
+			}
+		}
+	},
+	{
+		"id": "Newtown-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "Newtown Rd, Biddeford, ME 04005",
+		"addressLine1": "Newtown Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.451618,
+		"longitude": -70.401793,
+		"propertyType": "Land",
+		"lotSize": 378972,
+		"status": "Active",
+		"price": 329000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.953Z",
+		"daysOnMarket": 311,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1642859",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2025-11-06": {
+				"event": "Sale Listing",
+				"price": 329000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 311
+			}
+		}
+	},
+	{
+		"id": "13-Benson-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "13 Benson Rd, Biddeford, ME 04005",
+		"addressLine1": "13 Benson Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.443269,
+		"longitude": -70.416399,
+		"propertyType": "Land",
+		"lotSize": 66647,
+		"status": "Active",
+		"price": 185000,
+		"listingType": "Standard",
+		"listedDate": "2025-11-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.920Z",
+		"daysOnMarket": 293,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1644213",
+		"listingAgent": {
+			"name": "Roz Anton",
+			"phone": "2074503230",
+			"email": "roz@rozanton.com",
+			"website": "https://roslindanton.exprealty.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-11-24": {
+				"event": "Sale Listing",
+				"price": 185000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 293
+			}
+		}
+	},
+	{
+		"id": "26-Upper-Falls-Rd,-Unit-107,-Biddeford,-ME-04005",
+		"formattedAddress": "26 Upper Falls Rd, Unit 107, Biddeford, ME 04005",
+		"addressLine1": "26 Upper Falls Rd",
+		"addressLine2": "Unit 107",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.49699,
+		"longitude": -70.454619,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1714,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 425
+		},
+		"status": "Active",
+		"price": 690000,
+		"listingType": "New Construction",
+		"listedDate": "2026-02-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.918Z",
+		"daysOnMarket": 222,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1650966",
+		"listingAgent": {
+			"name": "David Marsden",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com",
+			"website": "https://www.marsdenrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Marsden Real Estate",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com"
+		},
+		"history": {
+			"2025-10-21": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "New Construction",
+				"listedDate": "2025-10-21T00:00:00.000Z",
+				"removedDate": "2026-02-03T00:00:00.000Z",
+				"daysOnMarket": 105
+			},
+			"2026-02-03": {
+				"event": "Sale Listing",
+				"price": 690000,
+				"listingType": "New Construction",
+				"listedDate": "2026-02-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 222
+			}
+		}
+	},
+	{
+		"id": "8-Digital-Dr,-Biddeford,-ME-04005",
+		"formattedAddress": "8 Digital Dr, Biddeford, ME 04005",
+		"addressLine1": "8 Digital Dr",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.462948,
+		"longitude": -70.487272,
+		"propertyType": "Land",
+		"lotSize": 92347,
+		"status": "Active",
+		"price": 165000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-02T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.912Z",
+		"daysOnMarket": 255,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1647456",
+		"listingAgent": {
+			"name": "Karen Schlegel",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com",
+			"website": "http://www.schlegelrealty.com"
+		},
+		"listingOffice": {
+			"name": "Schlegel Realty",
+			"phone": "2072298927",
+			"email": "karen@karenschlegel.com"
+		},
+		"history": {
+			"2026-01-01": {
+				"event": "Sale Listing",
+				"price": 165000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 255
+			}
+		}
+	},
+	{
+		"id": "2-Baxter-Blvd,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Baxter Blvd, Biddeford, ME 04005",
+		"addressLine1": "2 Baxter Blvd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493655,
+		"longitude": -70.502948,
+		"propertyType": "Manufactured",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1571,
+		"lotSize": 14375,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 575
+		},
+		"status": "Active",
+		"price": 389900,
+		"listingType": "New Construction",
+		"listedDate": "2025-12-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.911Z",
+		"daysOnMarket": 261,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1647234",
+		"listingAgent": {
+			"name": "Matthew G Chamberlain",
+			"phone": "2074507653",
+			"email": "matthewc@maine.rr.com",
+			"website": "http://www.realtyformaine.com/"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2025-08-25": {
+				"event": "Sale Listing",
+				"price": 399900,
+				"listingType": "New Construction",
+				"listedDate": "2025-08-25T00:00:00.000Z",
+				"removedDate": "2025-12-26T00:00:00.000Z",
+				"daysOnMarket": 123
+			},
+			"2025-12-26": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "New Construction",
+				"listedDate": "2025-12-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 261
+			}
+		}
+	},
+	{
+		"id": "625-Pool-St,-Biddeford,-ME-04005",
+		"formattedAddress": "625 Pool St, Biddeford, ME 04005",
+		"addressLine1": "625 Pool St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.450777,
+		"longitude": -70.384964,
+		"propertyType": "Land",
+		"lotSize": 685199,
+		"status": "Active",
+		"price": 1200000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.909Z",
+		"daysOnMarket": 277,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646152",
+		"listingAgent": {
+			"name": "Stephen Foran",
+			"phone": "2075904813",
+			"email": "1stmaine@maine.rr.com",
+			"website": "http://www.1stmainerealestate.com"
+		},
+		"listingOffice": {
+			"name": "First Maine Real Estate",
+			"phone": "2072827588",
+			"email": "1stmaine@maine.rr.com",
+			"website": "www.1stmainerealestate.com"
+		},
+		"history": {
+			"2023-04-10": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2023-04-10T00:00:00.000Z",
+				"removedDate": "2025-04-11T00:00:00.000Z",
+				"daysOnMarket": 732
+			},
+			"2025-12-10": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 277
+			}
+		}
+	},
+	{
+		"id": "650-Pool-St,-Biddeford,-ME-04005",
+		"formattedAddress": "650 Pool St, Biddeford, ME 04005",
+		"addressLine1": "650 Pool St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.447656,
+		"longitude": -70.389487,
+		"propertyType": "Land",
+		"lotSize": 900385,
+		"status": "Active",
+		"price": 750000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.909Z",
+		"daysOnMarket": 277,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646155",
+		"listingAgent": {
+			"name": "Stephen Foran",
+			"phone": "2075904813",
+			"email": "1stmaine@maine.rr.com",
+			"website": "http://www.1stmainerealestate.com"
+		},
+		"listingOffice": {
+			"name": "First Maine Real Estate",
+			"phone": "2072827588",
+			"email": "1stmaine@maine.rr.com",
+			"website": "www.1stmainerealestate.com"
+		},
+		"history": {
+			"2023-04-07": {
+				"event": "Sale Listing",
+				"price": 1900000,
+				"listingType": "Standard",
+				"listedDate": "2023-04-07T00:00:00.000Z",
+				"removedDate": "2025-12-10T00:00:00.000Z",
+				"daysOnMarket": 978
+			},
+			"2025-12-10": {
+				"event": "Sale Listing",
+				"price": 750000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 277
+			}
+		}
+	},
+	{
+		"id": "20-Upper-Falls-Rd,-Unit-501,-Biddeford,-ME-04005",
+		"formattedAddress": "20 Upper Falls Rd, Unit 501, Biddeford, ME 04005",
+		"addressLine1": "20 Upper Falls Rd",
+		"addressLine2": "Unit 501",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.497147,
+		"longitude": -70.453323,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 836,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 271
+		},
+		"status": "Active",
+		"price": 409000,
+		"listingType": "New Construction",
+		"listedDate": "2026-02-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.905Z",
+		"daysOnMarket": 221,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651058",
+		"listingAgent": {
+			"name": "David Marsden",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com",
+			"website": "https://www.marsdenrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Marsden Real Estate",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com"
+		},
+		"history": {
+			"2025-02-06": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "New Construction",
+				"listedDate": "2025-02-06T00:00:00.000Z",
+				"removedDate": "2026-02-02T00:00:00.000Z",
+				"daysOnMarket": 361
+			},
+			"2026-02-04": {
+				"event": "Sale Listing",
+				"price": 409000,
+				"listingType": "New Construction",
+				"listedDate": "2026-02-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 221
+			}
+		}
+	},
+	{
+		"id": "26-Upper-Falls-Rd,-Unit-108,-Biddeford,-ME-04005",
+		"formattedAddress": "26 Upper Falls Rd, Unit 108, Biddeford, ME 04005",
+		"addressLine1": "26 Upper Falls Rd",
+		"addressLine2": "Unit 108",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.49699,
+		"longitude": -70.454619,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1714,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 425
+		},
+		"status": "Active",
+		"price": 659000,
+		"listingType": "New Construction",
+		"listedDate": "2026-02-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-10-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.905Z",
+		"daysOnMarket": 215,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651545",
+		"listingAgent": {
+			"name": "David Marsden",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com",
+			"website": "https://www.marsdenrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Marsden Real Estate",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com"
+		},
+		"history": {
+			"2024-10-28": {
+				"event": "Sale Listing",
+				"price": 775000,
+				"listingType": "New Construction",
+				"listedDate": "2024-10-28T00:00:00.000Z",
+				"removedDate": "2025-02-01T00:00:00.000Z",
+				"daysOnMarket": 96
+			},
+			"2025-02-03": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-03T00:00:00.000Z",
+				"removedDate": "2026-02-02T00:00:00.000Z",
+				"daysOnMarket": 364
+			},
+			"2026-02-10": {
+				"event": "Sale Listing",
+				"price": 659000,
+				"listingType": "New Construction",
+				"listedDate": "2026-02-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 215
+			}
+		}
+	},
+	{
+		"id": "99-Mile-Stretch-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "99 Mile Stretch Rd, Biddeford, ME 04005",
+		"addressLine1": "99 Mile Stretch Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.44181,
+		"longitude": -70.356266,
+		"propertyType": "Land",
+		"lotSize": 9148,
+		"status": "Active",
+		"price": 18500,
+		"listingType": "Standard",
+		"listedDate": "2026-02-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.895Z",
+		"daysOnMarket": 202,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1652478",
+		"listingAgent": {
+			"name": "Bryce Hamilton",
+			"phone": "2077731990",
+			"email": "bryce.hamilton@nemoves.com",
+			"website": "http://brycehamilton.us"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-02-23": {
+				"event": "Sale Listing",
+				"price": 18500,
+				"listingType": "Standard",
+				"listedDate": "2026-02-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 202
+			}
+		}
+	},
+	{
+		"id": "26-Meetinghouse-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "26 Meetinghouse Rd, Biddeford, ME 04005",
+		"addressLine1": "26 Meetinghouse Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.471736,
+		"longitude": -70.414338,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2337,
+		"lotSize": 22216,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 975000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-12-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.877Z",
+		"daysOnMarket": 180,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654477",
+		"listingAgent": {
+			"name": "Deb Bateman",
+			"phone": "2077306871",
+			"email": "debra.bateman73@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-03-17": {
+				"event": "Sale Listing",
+				"price": 975000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 180
+			}
+		}
+	},
+	{
+		"id": "20-Clifford-St,-Biddeford,-ME-04005",
+		"formattedAddress": "20 Clifford St, Biddeford, ME 04005",
+		"addressLine1": "20 Clifford St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.490031,
+		"longitude": -70.447255,
+		"propertyType": "Land",
+		"lotSize": 16553,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-09-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.876Z",
+		"daysOnMarket": 180,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654554",
+		"listingAgent": {
+			"name": "Isabella Fleurent",
+			"phone": "2074233924",
+			"email": "bella@conlonrealtors.com"
+		},
+		"listingOffice": {
+			"name": "Conlon Realty",
+			"phone": "2074233924",
+			"email": "conlonrealty@gmail.com"
+		},
+		"history": {
+			"2026-03-17": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 180
+			}
+		}
+	},
+	{
+		"id": "20-Upper-Falls-Rd,-Unit-406,-Biddeford,-ME-04005",
+		"formattedAddress": "20 Upper Falls Rd, Unit 406, Biddeford, ME 04005",
+		"addressLine1": "20 Upper Falls Rd",
+		"addressLine2": "Unit 406",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.497147,
+		"longitude": -70.453323,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 941,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 305
+		},
+		"status": "Active",
+		"price": 469000,
+		"listingType": "New Construction",
+		"listedDate": "2026-03-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.869Z",
+		"daysOnMarket": 178,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1654743",
+		"listingAgent": {
+			"name": "David Marsden",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com",
+			"website": "https://www.marsdenrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Marsden Real Estate",
+			"phone": "2073296997",
+			"email": "davidm@marsdenrealestate.com"
+		},
+		"history": {
+			"2026-03-19": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 178
+			}
+		}
+	},
+	{
+		"id": "50-Mason-St,-Biddeford,-ME-04005",
+		"formattedAddress": "50 Mason St, Biddeford, ME 04005",
+		"addressLine1": "50 Mason St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.492093,
+		"longitude": -70.464568,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 2766,
+		"lotSize": 7405,
+		"yearBuilt": 1899,
+		"status": "Active",
+		"price": 565900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.425Z",
+		"daysOnMarket": 146,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658490",
+		"listingAgent": {
+			"name": "Kathy Jo Apon",
+			"phone": "2076715496",
+			"email": "kjoapon@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Greater Portland Realty",
+			"phone": "2077977777",
+			"email": "webbaudet@aol.com",
+			"website": "www.greaterportlandrealty.com"
+		},
+		"history": {
+			"2026-04-20": {
+				"event": "Sale Listing",
+				"price": 565900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 146
+			}
+		}
+	},
+	{
+		"id": "7-Saint-Marys-St,-Biddeford,-ME-04005",
+		"formattedAddress": "7 Saint Marys St, Biddeford, ME 04005",
+		"addressLine1": "7 Saint Marys St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.495275,
+		"longitude": -70.459261,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 6270,
+		"lotSize": 5663,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 1050000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.391Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659078",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 1050000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "350-Main-St,-Biddeford,-ME-04005",
+		"formattedAddress": "350 Main St, Biddeford, ME 04005",
+		"addressLine1": "350 Main St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.495639,
+		"longitude": -70.460954,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 3503,
+		"lotSize": 5663,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 950000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.387Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659073",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 950000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "46-48-St,-Marys,-Biddeford,-ME-04005",
+		"formattedAddress": "46-48 St, Marys, Biddeford, ME 04005",
+		"addressLine1": "46-48 St",
+		"addressLine2": "Marys",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.496002,
+		"longitude": -70.460582,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 5108,
+		"lotSize": 5227,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 990000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.386Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659076",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 990000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "365-Main-St,-Biddeford,-ME-04005",
+		"formattedAddress": "365 Main St, Biddeford, ME 04005",
+		"addressLine1": "365 Main St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.495463,
+		"longitude": -70.46158,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 3705,
+		"lotSize": 6534,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 940000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.382Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659075",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 940000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "79-W-Cutts-St,-Biddeford,-ME-04005",
+		"formattedAddress": "79 W Cutts St, Biddeford, ME 04005",
+		"addressLine1": "79 W Cutts St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.495771,
+		"longitude": -70.464658,
+		"propertyType": "Multi-Family",
+		"bathrooms": 10,
+		"squareFootage": 8808,
+		"lotSize": 47916,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 2750000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.378Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659566",
+		"listingAgent": {
+			"name": "David Dunn",
+			"phone": "2078076038",
+			"email": "david@tresmaine.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 2750000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "6-Proctor-Rd,-Unit-A,-Biddeford,-ME-04005",
+		"formattedAddress": "6 Proctor Rd, Unit A, Biddeford, ME 04005",
+		"addressLine1": "6 Proctor Rd",
+		"addressLine2": "Unit A",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.447083,
+		"longitude": -70.439964,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 4911,
+		"lotSize": 47916,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 1100000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.376Z",
+		"daysOnMarket": 130,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1643996",
+		"listingAgent": {
+			"name": "John Krouse",
+			"phone": "2079290956",
+			"email": "john.krouse@exprealty.com",
+			"website": "http://www.nextkeyme.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-11-20": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-20T00:00:00.000Z",
+				"removedDate": "2026-02-14T00:00:00.000Z",
+				"daysOnMarket": 86
+			},
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 1100000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 130
+			}
+		}
+	},
+	{
+		"id": "6-Proctor-Rd,-Unit-B,-Biddeford,-ME-04005",
+		"formattedAddress": "6 Proctor Rd, Unit B, Biddeford, ME 04005",
+		"addressLine1": "6 Proctor Rd",
+		"addressLine2": "Unit B",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.447014,
+		"longitude": -70.439987,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"squareFootage": 4911,
+		"lotSize": 47916,
+		"yearBuilt": 1941,
+		"status": "Active",
+		"price": 1100000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.373Z",
+		"daysOnMarket": 130,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1644089",
+		"listingAgent": {
+			"name": "John Krouse",
+			"phone": "2079290956",
+			"email": "john.krouse@exprealty.com",
+			"website": "http://www.nextkeyme.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-11-21": {
+				"event": "Sale Listing",
+				"price": 1200000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-21T00:00:00.000Z",
+				"removedDate": "2026-02-14T00:00:00.000Z",
+				"daysOnMarket": 85
+			},
+			"2026-05-06": {
+				"event": "Sale Listing",
+				"price": 1100000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 130
+			}
+		}
+	},
+	{
+		"id": "88-90-Old-Pool-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "88-90 Old Pool Rd, Biddeford, ME 04005",
+		"addressLine1": "88-90 Old Pool Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.44524,
+		"longitude": -70.379898,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3800,
+		"lotSize": 177289,
+		"yearBuilt": 1853,
+		"status": "Active",
+		"price": 1449000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-01-15T10:39:39.030Z",
+		"lastSeenDate": "2026-09-12T09:49:40.350Z",
+		"daysOnMarket": 124,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661738",
+		"listingAgent": {
+			"name": "Lisa Smith",
+			"phone": "2074007677",
+			"email": "lisasmith@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2025-11-14": {
+				"event": "Sale Listing",
+				"price": 1875000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-14T00:00:00.000Z",
+				"removedDate": "2026-01-15T00:00:00.000Z",
+				"daysOnMarket": 62
+			},
+			"2026-02-06": {
+				"event": "Sale Listing",
+				"price": 1625000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-06T00:00:00.000Z",
+				"removedDate": "2026-04-06T00:00:00.000Z",
+				"daysOnMarket": 59
+			},
+			"2026-05-12": {
+				"event": "Sale Listing",
+				"price": 1449000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 124
+			}
+		}
+	},
+	{
+		"id": "391-West-St,-Unit-2,-Biddeford,-ME-04005",
+		"formattedAddress": "391 West St, Unit 2, Biddeford, ME 04005",
+		"addressLine1": "391 West St",
+		"addressLine2": "Unit 2",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444103,
+		"longitude": -70.411026,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 792,
+		"yearBuilt": 1980,
+		"status": "Active",
+		"price": 64900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-06-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.341Z",
+		"daysOnMarket": 125,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661592",
+		"listingAgent": {
+			"name": "David Dunn",
+			"phone": "2078076038",
+			"email": "david@tresmaine.com"
+		},
+		"listingOffice": {
+			"name": "The Real Estate Store",
+			"phone": "2078834327",
+			"email": "kevinmurphy207@gmail.com",
+			"website": "www.tresmaine.com"
+		},
+		"history": {
+			"2025-06-02": {
+				"event": "Sale Listing",
+				"price": 67900,
+				"listingType": "Standard",
+				"listedDate": "2025-06-02T00:00:00.000Z",
+				"removedDate": "2025-12-01T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-05-11": {
+				"event": "Sale Listing",
+				"price": 64900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 125
+			}
+		}
+	},
+	{
+		"id": "527-Pool-St,-Biddeford,-ME-04005",
+		"formattedAddress": "527 Pool St, Biddeford, ME 04005",
+		"addressLine1": "527 Pool St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.464279,
+		"longitude": -70.39879,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1836,
+		"lotSize": 93218,
+		"yearBuilt": 1938,
+		"status": "Active",
+		"price": 855000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-16T09:17:21.914Z",
+		"lastSeenDate": "2026-09-12T09:45:41.740Z",
+		"daysOnMarket": 117,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662789",
+		"listingAgent": {
+			"name": "Bryan Flewelling",
+			"phone": "2079675444",
+			"email": "bryan.flewelling@oceanviewproperties.net"
+		},
+		"listingOffice": {
+			"name": "Century 21 North East",
+			"phone": "8008447653",
+			"email": "rdamico@brandsbyintegra.com",
+			"website": "www.c21newengland.com"
+		},
+		"history": {
+			"2025-10-29": {
+				"event": "Sale Listing",
+				"price": 879000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-29T00:00:00.000Z",
+				"removedDate": "2025-12-13T00:00:00.000Z",
+				"daysOnMarket": 45
+			},
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 855000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 117
+			}
+		}
+	},
+	{
+		"id": "3-Scadlock-Mill-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "3 Scadlock Mill Rd, Biddeford, ME 04005",
+		"addressLine1": "3 Scadlock Mill Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.421786,
+		"longitude": -70.403883,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1364,
+		"lotSize": 126760,
+		"yearBuilt": 2020,
+		"status": "Active",
+		"price": 869900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.693Z",
+		"daysOnMarket": 102,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665170",
+		"listingAgent": {
+			"name": "Joey Radford",
+			"phone": "2072296134",
+			"email": "joe.radford@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"listingOffice": {
+			"name": "OceanView Properties",
+			"phone": "2072821732",
+			"email": "info@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"history": {
+			"2026-06-03": {
+				"event": "Sale Listing",
+				"price": 869900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 102
+			}
+		}
+	},
+	{
+		"id": "149-Summer-St,-Biddeford,-ME-04005",
+		"formattedAddress": "149 Summer St, Biddeford, ME 04005",
+		"addressLine1": "149 Summer St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.485447,
+		"longitude": -70.457492,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1227,
+		"lotSize": 8712,
+		"yearBuilt": 1946,
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-10-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.692Z",
+		"daysOnMarket": 121,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662476",
+		"listingAgent": {
+			"name": "Avery Galarraga",
+			"phone": "2077731990",
+			"email": "avery.galarraga@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2077731990",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/portland/office/portland/oid_3587/"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 121
+			}
+		}
+	},
+	{
+		"id": "114-Mile-Stretch-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "114 Mile Stretch Rd, Biddeford, ME 04005",
+		"addressLine1": "114 Mile Stretch Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.443394,
+		"longitude": -70.352795,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 3.5,
+		"squareFootage": 3804,
+		"lotSize": 19602,
+		"yearBuilt": 1913,
+		"status": "Active",
+		"price": 2395000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.653Z",
+		"daysOnMarket": 109,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664142",
+		"listingAgent": {
+			"name": "Adrienne Robinson",
+			"phone": "2079670934",
+			"email": "arobinson@legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2024-05-02": {
+				"event": "Sale Listing",
+				"price": 2250000,
+				"listingType": "Standard",
+				"listedDate": "2024-05-02T00:00:00.000Z",
+				"removedDate": "2024-10-29T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-05-27": {
+				"event": "Sale Listing",
+				"price": 2395000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 109
+			}
+		}
+	},
+	{
+		"id": "19-Lessard-Ave,-Biddeford,-ME-04005",
+		"formattedAddress": "19 Lessard Ave, Biddeford, ME 04005",
+		"addressLine1": "19 Lessard Ave",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.488815,
+		"longitude": -70.468309,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2268,
+		"lotSize": 10890,
+		"yearBuilt": 1951,
+		"status": "Active",
+		"price": 575000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.648Z",
+		"daysOnMarket": 108,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1664372",
+		"listingAgent": {
+			"name": "Peggy Hill",
+			"phone": "2074234123",
+			"email": "peggy.hill@nemoves.com",
+			"website": "http://peggyhill.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2079679900",
+			"email": "matt.vire@nemoves.com",
+			"website": "https://www.coldwellbankerhomes.com//me/kennebunk/office/kennebunk/oid_3586/"
+		},
+		"history": {
+			"2025-11-24": {
+				"event": "Sale Listing",
+				"price": 615000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-24T00:00:00.000Z",
+				"removedDate": "2026-05-23T00:00:00.000Z",
+				"daysOnMarket": 180
+			},
+			"2026-05-28": {
+				"event": "Sale Listing",
+				"price": 575000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 108
+			}
+		}
+	},
+	{
+		"id": "1-St-Martins-Ln,-Biddeford,-ME-04005",
+		"formattedAddress": "1 St Martins Ln, Biddeford, ME 04005",
+		"addressLine1": "1 St Martins Ln",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.446019,
+		"longitude": -70.344733,
+		"propertyType": "Land",
+		"lotSize": 27007,
+		"status": "Active",
+		"price": 2950000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.613Z",
+		"daysOnMarket": 96,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666240",
+		"listingAgent": {
+			"name": "Peter Mcpheeters",
+			"phone": "2074681704",
+			"email": "peter@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net/"
+		},
+		"listingOffice": {
+			"name": "OceanView Properties",
+			"phone": "2072821732",
+			"email": "info@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"history": {
+			"2026-06-09": {
+				"event": "Sale Listing",
+				"price": 2950000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 96
+			}
+		}
+	},
+	{
+		"id": "66-Graham-St,-Biddeford,-ME-04005",
+		"formattedAddress": "66 Graham St, Biddeford, ME 04005",
+		"addressLine1": "66 Graham St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.489481,
+		"longitude": -70.461837,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1640,
+		"lotSize": 6098,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 469000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.607Z",
+		"daysOnMarket": 90,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667287",
+		"listingAgent": {
+			"name": "Abigail Douris, Broker/owner",
+			"phone": "2072521944",
+			"email": "abigail@abigaildouris.com",
+			"website": "http://www.abigaildourisrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Abigail Douris Real EstateLLC",
+			"phone": "2072521944",
+			"email": "abigail@abigaildouris.com"
+		},
+		"history": {
+			"2025-12-13": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-13T00:00:00.000Z",
+				"removedDate": "2026-06-15T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2026-06-15": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 90
+			}
+		}
+	},
+	{
+		"id": "353-Pool-St,-Biddeford,-ME-04005",
+		"formattedAddress": "353 Pool St, Biddeford, ME 04005",
+		"addressLine1": "353 Pool St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.479076,
+		"longitude": -70.422251,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4,
+		"squareFootage": 3791,
+		"lotSize": 57064,
+		"yearBuilt": 2023,
+		"status": "Active",
+		"price": 1979999,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.677Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669797",
+		"listingAgent": {
+			"name": "Cady Toussaint",
+			"phone": "2076042389",
+			"email": "cadytoussaint@portsidereg.com",
+			"website": "http://www.cadytoussaint.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2024-08-14": {
+				"event": "Sale Listing",
+				"price": 2300000,
+				"listingType": "New Construction",
+				"listedDate": "2024-08-14T00:00:00.000Z",
+				"removedDate": "2024-11-01T00:00:00.000Z",
+				"daysOnMarket": 79
+			},
+			"2024-11-01": {
+				"event": "Sale Listing",
+				"price": 2099995,
+				"listingType": "New Construction",
+				"listedDate": "2024-11-01T00:00:00.000Z",
+				"removedDate": "2025-02-01T00:00:00.000Z",
+				"daysOnMarket": 92
+			},
+			"2025-02-19": {
+				"event": "Sale Listing",
+				"price": 2099995,
+				"listingType": "New Construction",
+				"listedDate": "2025-02-19T00:00:00.000Z",
+				"removedDate": "2025-05-29T00:00:00.000Z",
+				"daysOnMarket": 99
+			},
+			"2026-03-02": {
+				"event": "Sale Listing",
+				"price": 1999999,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-02T00:00:00.000Z",
+				"removedDate": "2026-06-27T00:00:00.000Z",
+				"daysOnMarket": 117
+			},
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 1979999,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "6-Lafayette-St,-Unit-1,-Biddeford,-ME-04005",
+		"formattedAddress": "6 Lafayette St, Unit 1, Biddeford, ME 04005",
+		"addressLine1": "6 Lafayette St",
+		"addressLine2": "Unit 1",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.489292,
+		"longitude": -70.440376,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1284,
+		"lotSize": 8712,
+		"yearBuilt": 1920,
+		"hoa": {
+			"fee": 345
+		},
+		"status": "Active",
+		"price": 334900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.659Z",
+		"daysOnMarket": 88,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667672",
+		"listingAgent": {
+			"name": "Kim Carignan",
+			"phone": "2078928100",
+			"email": "kimcarignan@masiello.com",
+			"website": "https://kimcarignan.masiello.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2026-06-17": {
+				"event": "Sale Listing",
+				"price": 334900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 88
+			}
+		}
+	},
+	{
+		"id": "475-South-St,-Biddeford,-ME-04005",
+		"formattedAddress": "475 South St, Biddeford, ME 04005",
+		"addressLine1": "475 South St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.487074,
+		"longitude": -70.508923,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 4,
+		"squareFootage": 3554,
+		"lotSize": 830689,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 1375000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.654Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667809",
+		"listingAgent": {
+			"name": "Thomas Gadbois, Agent",
+			"phone": "2074098339",
+			"email": "tom@tomsellsmaine.com",
+			"website": "http://www.fobaileyrealestate.com/agents/8666-thomas-gadbois"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 1375000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "446-Pool-St,-Biddeford,-ME-04005",
+		"formattedAddress": "446 Pool St, Biddeford, ME 04005",
+		"addressLine1": "446 Pool St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.465239,
+		"longitude": -70.41054,
+		"propertyType": "Land",
+		"lotSize": 914760,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.649Z",
+		"daysOnMarket": 87,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1667973",
+		"listingAgent": {
+			"name": "Peter Mcpheeters",
+			"phone": "2074681704",
+			"email": "peter@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net/"
+		},
+		"listingOffice": {
+			"name": "OceanView Properties",
+			"phone": "2072821732",
+			"email": "info@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"history": {
+			"2026-06-18": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 87
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-18-501,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 18-501, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 18-501",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493415,
+		"longitude": -70.451259,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 3235,
+		"lotSize": 22216,
+		"yearBuilt": 1848,
+		"hoa": {
+			"fee": 909
+		},
+		"status": "Active",
+		"price": 1499000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.605Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669753",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-03-09": {
+				"event": "Sale Listing",
+				"price": 1499000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-09T00:00:00.000Z",
+				"removedDate": "2026-06-01T00:00:00.000Z",
+				"daysOnMarket": 84
+			},
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 1499000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-15-310,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 15-310, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 15-310",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493645,
+		"longitude": -70.450694,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1102,
+		"lotSize": 22216,
+		"yearBuilt": 1848,
+		"hoa": {
+			"fee": 318
+		},
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-07-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.598Z",
+		"daysOnMarket": 74,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669799",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2025-07-25": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-25T00:00:00.000Z",
+				"removedDate": "2025-11-01T00:00:00.000Z",
+				"daysOnMarket": 99
+			},
+			"2025-11-04": {
+				"event": "Sale Listing",
+				"price": 515000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-04T00:00:00.000Z",
+				"removedDate": "2026-01-03T00:00:00.000Z",
+				"daysOnMarket": 60
+			},
+			"2026-07-01": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 74
+			}
+		}
+	},
+	{
+		"id": "12-Lamothe-Ave,-Biddeford,-ME-04005",
+		"formattedAddress": "12 Lamothe Ave, Biddeford, ME 04005",
+		"addressLine1": "12 Lamothe Ave",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.489531,
+		"longitude": -70.466613,
+		"propertyType": "Land",
+		"lotSize": 8712,
+		"status": "Active",
+		"price": 129900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.596Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670094",
+		"listingAgent": {
+			"name": "Heather Motes",
+			"phone": "2074233421",
+			"email": "hmotes@sanddollarrealestate.com",
+			"website": "http://www.sanddollarrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Sand Dollar Real Estate",
+			"phone": "2079673421",
+			"email": "hmotes@sanddollarrealestate.com",
+			"website": "http://www.sanddollarrealestate.com"
+		},
+		"history": {
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 129900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Ste-17-410,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Ste 17-410, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Ste 17-410",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.49379,
+		"longitude": -70.451881,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1000,
+		"lotSize": 22216,
+		"yearBuilt": 1848,
+		"hoa": {
+			"fee": 271
+		},
+		"status": "Active",
+		"price": 470000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-06-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.590Z",
+		"daysOnMarket": 73,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669989",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2025-06-04": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-04T00:00:00.000Z",
+				"removedDate": "2025-09-01T00:00:00.000Z",
+				"daysOnMarket": 89
+			},
+			"2025-09-12": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-12T00:00:00.000Z",
+				"removedDate": "2025-12-01T00:00:00.000Z",
+				"daysOnMarket": 80
+			},
+			"2026-07-02": {
+				"event": "Sale Listing",
+				"price": 470000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 73
+			}
+		}
+	},
+	{
+		"id": "12-14-Bayview-Ave,-Biddeford,-ME-04005",
+		"formattedAddress": "12-14 Bayview Ave, Biddeford, ME 04005",
+		"addressLine1": "12-14 Bayview Ave",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.447079,
+		"longitude": -70.350435,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 3,
+		"squareFootage": 2218,
+		"lotSize": 40511,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 3950000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.584Z",
+		"daysOnMarket": 75,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669581",
+		"listingAgent": {
+			"name": "Jane Chase",
+			"phone": "2073517529",
+			"email": "jchase@landvest.com",
+			"website": "https://www.landvest.com/real-estate-agent/701/jane-chase"
+		},
+		"listingOffice": {
+			"name": "Landvest, Inc.",
+			"phone": "2074145299",
+			"email": "tbourgeois@landvest.com"
+		},
+		"history": {
+			"2026-06-30": {
+				"event": "Sale Listing",
+				"price": 3950000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 75
+			}
+		}
+	},
+	{
+		"id": "35-Wentworth-St,-Biddeford,-ME-04005",
+		"formattedAddress": "35 Wentworth St, Biddeford, ME 04005",
+		"addressLine1": "35 Wentworth St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.491124,
+		"longitude": -70.461664,
+		"propertyType": "Multi-Family",
+		"bedrooms": 8,
+		"bathrooms": 4,
+		"squareFootage": 3764,
+		"lotSize": 6534,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 759000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-04-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.582Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670606",
+		"listingAgent": {
+			"name": "John Fitzsimons",
+			"phone": "2072338314",
+			"email": "jfitzsimons@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 759000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "310-Hill-St,-Apt-34,-Biddeford,-ME-04005",
+		"formattedAddress": "310 Hill St, Apt 34, Biddeford, ME 04005",
+		"addressLine1": "310 Hill St",
+		"addressLine2": "Apt 34",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.477282,
+		"longitude": -70.467492,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 977,
+		"yearBuilt": 1999,
+		"hoa": {
+			"fee": 275
+		},
+		"status": "Active",
+		"price": 349000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.961Z",
+		"daysOnMarket": 63,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671454",
+		"listingAgent": {
+			"name": "Shawn Boissonneault",
+			"phone": "2077560649",
+			"email": "shawn@myhomesinmaine.com",
+			"website": "http://www.myhomesinmaine.com"
+		},
+		"listingOffice": {
+			"name": "Verrill Real Estate, Inc",
+			"phone": "2073297755",
+			"email": "verrip1@gmail.com"
+		},
+		"history": {
+			"2026-07-12": {
+				"event": "Sale Listing",
+				"price": 349000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 63
+			}
+		}
+	},
+	{
+		"id": "9-Brook-St,-Biddeford,-ME-04005",
+		"formattedAddress": "9 Brook St, Biddeford, ME 04005",
+		"addressLine1": "9 Brook St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.494937,
+		"longitude": -70.477739,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1204,
+		"lotSize": 9583,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 524900,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.955Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671594",
+		"listingAgent": {
+			"name": "Tia Chambers",
+			"phone": "2072825988",
+			"email": "tia.chambers@cbrealty.com",
+			"website": "https://tiachambersrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2025-12-02": {
+				"event": "Sale Listing",
+				"price": 159900,
+				"listingType": "Standard",
+				"listedDate": "2025-12-02T00:00:00.000Z",
+				"removedDate": "2026-02-11T00:00:00.000Z",
+				"daysOnMarket": 71
+			},
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 524900,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "61-South-St,-Biddeford,-ME-04005",
+		"formattedAddress": "61 South St, Biddeford, ME 04005",
+		"addressLine1": "61 South St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.492359,
+		"longitude": -70.460342,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1967,
+		"lotSize": 4792,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 459000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.931Z",
+		"daysOnMarket": 58,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672348",
+		"listingAgent": {
+			"name": "Brit Vitalius",
+			"phone": "2075413755",
+			"email": "brit@vitalius.com",
+			"website": "https://vitalius.com/"
+		},
+		"listingOffice": {
+			"name": "Vitalius Real Estate Group, Llc",
+			"phone": "2075413755",
+			"email": "brit@vitalius.com",
+			"website": "vitalius.com"
+		},
+		"history": {
+			"2026-07-17": {
+				"event": "Sale Listing",
+				"price": 459000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 58
+			}
+		}
+	},
+	{
+		"id": "43-Granite-St,-Biddeford,-ME-04005",
+		"formattedAddress": "43 Granite St, Biddeford, ME 04005",
+		"addressLine1": "43 Granite St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.484681,
+		"longitude": -70.454795,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1406,
+		"lotSize": 10454,
+		"yearBuilt": 1955,
+		"status": "Active",
+		"price": 424900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.901Z",
+		"daysOnMarket": 51,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673403",
+		"listingAgent": {
+			"name": "Adam Parent",
+			"phone": "2076044624",
+			"email": "adam@luxgroupmaine.com",
+			"website": "https://www.adamparent.com/"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-07-24": {
+				"event": "Sale Listing",
+				"price": 424900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 51
+			}
+		}
+	},
+	{
+		"id": "1-Willow-Ridge-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "1 Willow Ridge Rd, Biddeford, ME 04005",
+		"addressLine1": "1 Willow Ridge Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.45463,
+		"longitude": -70.382542,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3210,
+		"lotSize": 22651,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 1099000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.891Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672938",
+		"listingAgent": {
+			"name": "Stephen Foran",
+			"phone": "2075904813",
+			"email": "1stmaine@maine.rr.com",
+			"website": "http://www.1stmainerealestate.com"
+		},
+		"listingOffice": {
+			"name": "First Maine Real Estate",
+			"phone": "2072827588",
+			"email": "1stmaine@maine.rr.com",
+			"website": "www.1stmainerealestate.com"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 1099000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "1-Baxter-Blvd,-Biddeford,-ME-04005",
+		"formattedAddress": "1 Baxter Blvd, Biddeford, ME 04005",
+		"addressLine1": "1 Baxter Blvd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.511507,
+		"longitude": -70.465522,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1422,
+		"lotSize": 12632,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 575
+		},
+		"status": "Active",
+		"price": 489900,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.885Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672853",
+		"listingAgent": {
+			"name": "Matthew G Chamberlain",
+			"phone": "2074507653",
+			"email": "matthewc@maine.rr.com",
+			"website": "http://www.realtyformaine.com/"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2025-10-19": {
+				"event": "Sale Listing",
+				"price": 469000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-19T00:00:00.000Z",
+				"removedDate": "2026-03-01T00:00:00.000Z",
+				"daysOnMarket": 133
+			},
+			"2026-03-17": {
+				"event": "Sale Listing",
+				"price": 479900,
+				"listingType": "New Construction",
+				"listedDate": "2026-03-17T00:00:00.000Z",
+				"removedDate": "2026-07-18T00:00:00.000Z",
+				"daysOnMarket": 123
+			},
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 489900,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "7-Jordan-Dr,-Biddeford,-ME-04005",
+		"formattedAddress": "7 Jordan Dr, Biddeford, ME 04005",
+		"addressLine1": "7 Jordan Dr",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.476663,
+		"longitude": -70.451746,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 3304,
+		"lotSize": 24829,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 774900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.884Z",
+		"daysOnMarket": 49,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673576",
+		"listingAgent": {
+			"name": "Patricia Gallant",
+			"phone": "2077731990",
+			"email": "pattie.gallant@cbrealty.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-07-26": {
+				"event": "Sale Listing",
+				"price": 774900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 49
+			}
+		}
+	},
+	{
+		"id": "18-22-Fortunes-Rocks-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "18-22 Fortunes Rocks Rd, Biddeford, ME 04005",
+		"addressLine1": "18-22 Fortunes Rocks Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.435663,
+		"longitude": -70.371691,
+		"propertyType": "Multi-Family",
+		"bedrooms": 6,
+		"bathrooms": 3,
+		"squareFootage": 2232,
+		"lotSize": 60548,
+		"yearBuilt": 1950,
+		"status": "Active",
+		"price": 2100000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.877Z",
+		"daysOnMarket": 53,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673011",
+		"listingAgent": {
+			"name": "Paula Standley",
+			"phone": "2076465131",
+			"email": "paulastandley@masiello.com",
+			"website": "http://www.paulabelairstandley.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2076465131",
+			"email": "wells@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 2100000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 53
+			}
+		}
+	},
+	{
+		"id": "Bristol-St,-Biddeford,-ME-04005",
+		"formattedAddress": "Bristol St, Biddeford, ME 04005",
+		"addressLine1": "Bristol St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.48971,
+		"longitude": -70.448563,
+		"propertyType": "Land",
+		"lotSize": 6534,
+		"status": "Active",
+		"price": 84900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.868Z",
+		"daysOnMarket": 48,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673691",
+		"listingAgent": {
+			"name": "Jenna Segal",
+			"phone": "2072336652",
+			"email": "jenna.segal@atlanticrealestatenetwork.com"
+		},
+		"listingOffice": {
+			"name": "The Atlantic Real Estate Network",
+			"phone": "2078788800",
+			"email": "joe.flynn@atlanticrealestatenetwork.com"
+		},
+		"history": {
+			"2026-07-27": {
+				"event": "Sale Listing",
+				"price": 84900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 48
+			}
+		}
+	},
+	{
+		"id": "7-Emmons-Pl,-Biddeford,-ME-04005",
+		"formattedAddress": "7 Emmons Pl, Biddeford, ME 04005",
+		"addressLine1": "7 Emmons Pl",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.486272,
+		"longitude": -70.464102,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 3180,
+		"lotSize": 8276,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 825000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.865Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673817",
+		"listingAgent": {
+			"name": "Tomazin Goff Realty",
+			"phone": "2075427563",
+			"email": "info@tg207.com",
+			"website": "http://www.tg207.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 825000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "26-Miller-Ave,-Biddeford,-ME-04005",
+		"formattedAddress": "26 Miller Ave, Biddeford, ME 04005",
+		"addressLine1": "26 Miller Ave",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.488097,
+		"longitude": -70.442509,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1258,
+		"lotSize": 6970,
+		"yearBuilt": 1953,
+		"status": "Active",
+		"price": 444444,
+		"listingType": "Standard",
+		"listedDate": "2026-07-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.863Z",
+		"daysOnMarket": 50,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673486",
+		"listingAgent": {
+			"name": "Heather Anderson",
+			"phone": "2072297116",
+			"email": "heatheranderson@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-07-25": {
+				"event": "Sale Listing",
+				"price": 444444,
+				"listingType": "Standard",
+				"listedDate": "2026-07-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 50
+			}
+		}
+	},
+	{
+		"id": "71-Old-Pool-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "71 Old Pool Rd, Biddeford, ME 04005",
+		"addressLine1": "71 Old Pool Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.448781,
+		"longitude": -70.377733,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 4192,
+		"lotSize": 42253,
+		"yearBuilt": 1953,
+		"status": "Active",
+		"price": 1899000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-18T09:19:51.020Z",
+		"lastSeenDate": "2026-09-12T08:13:10.892Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674218",
+		"listingAgent": {
+			"name": "Cady Toussaint",
+			"phone": "2076042389",
+			"email": "cadytoussaint@portsidereg.com",
+			"website": "http://www.cadytoussaint.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 2100000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": "2026-07-31T00:00:00.000Z",
+				"daysOnMarket": 51
+			},
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 1899000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-15-418,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 15-418, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 15-418",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493645,
+		"longitude": -70.450694,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 695,
+		"lotSize": 22216,
+		"yearBuilt": 1848,
+		"hoa": {
+			"fee": 201
+		},
+		"status": "Active",
+		"price": 365000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.877Z",
+		"daysOnMarket": 42,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674442",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-02": {
+				"event": "Sale Listing",
+				"price": 365000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 42
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-15-518,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 15-518, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 15-518",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493645,
+		"longitude": -70.450694,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 725,
+		"lotSize": 22216,
+		"yearBuilt": 1848,
+		"hoa": {
+			"fee": 209
+		},
+		"status": "Active",
+		"price": 405000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.876Z",
+		"daysOnMarket": 42,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674443",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-02": {
+				"event": "Sale Listing",
+				"price": 405000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 42
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-35-107,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 35-107, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 35-107",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.4939,
+		"longitude": -70.452025,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 850,
+		"lotSize": 740520,
+		"yearBuilt": 1859,
+		"hoa": {
+			"fee": 230
+		},
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.855Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674782",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "37-Old-Pool-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "37 Old Pool Rd, Biddeford, ME 04005",
+		"addressLine1": "37 Old Pool Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.45354,
+		"longitude": -70.383268,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1685,
+		"lotSize": 81893,
+		"yearBuilt": 2022,
+		"status": "Active",
+		"price": 799000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.853Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674821",
+		"listingAgent": {
+			"name": "Stephen Foran",
+			"phone": "2075904813",
+			"email": "1stmaine@maine.rr.com",
+			"website": "http://www.1stmainerealestate.com"
+		},
+		"listingOffice": {
+			"name": "First Maine Real Estate",
+			"phone": "2072827588",
+			"email": "1stmaine@maine.rr.com",
+			"website": "www.1stmainerealestate.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "25-Clifford-St,-Biddeford,-ME-04005",
+		"formattedAddress": "25 Clifford St, Biddeford, ME 04005",
+		"addressLine1": "25 Clifford St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.490298,
+		"longitude": -70.446927,
+		"propertyType": "Multi-Family",
+		"bathrooms": 3,
+		"squareFootage": 3429,
+		"lotSize": 7405,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.842Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674878",
+		"listingAgent": {
+			"name": "Justin Douglass",
+			"phone": "2073185582",
+			"email": "justin@justinwdouglass.com",
+			"website": "http://www.justinwdouglass.com"
+		},
+		"listingOffice": {
+			"name": "Albert Neal Real Estate Company",
+			"phone": "2073185582",
+			"email": "justindouglass207@gmail.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "8-Moxie-Ln,-Biddeford,-ME-04005",
+		"formattedAddress": "8 Moxie Ln, Biddeford, ME 04005",
+		"addressLine1": "8 Moxie Ln",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.458568,
+		"longitude": -70.424028,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 2507,
+		"lotSize": 130680,
+		"yearBuilt": 2015,
+		"status": "Active",
+		"price": 949900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.826Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675681",
+		"listingAgent": {
+			"name": "Briana Fecteau",
+			"phone": "2072825988",
+			"email": "briana.fecteau@cbrealty.com",
+			"website": "http://www.teamletellier.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 949900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "130-River-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "130 River Rd, Biddeford, ME 04005",
+		"addressLine1": "130 River Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.513904,
+		"longitude": -70.525535,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1104,
+		"lotSize": 40946,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 560000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.824Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675005",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2025-11-04": {
+				"event": "Sale Listing",
+				"price": 150000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-04T00:00:00.000Z",
+				"removedDate": "2025-11-30T00:00:00.000Z",
+				"daysOnMarket": 26
+			},
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 560000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "9-Third-St,-Biddeford,-ME-04006",
+		"formattedAddress": "9 Third St, Biddeford, ME 04006",
+		"addressLine1": "9 Third St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04006",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.444427,
+		"longitude": -70.342433,
+		"propertyType": "Single Family",
+		"bedrooms": 6,
+		"bathrooms": 5.5,
+		"squareFootage": 4209,
+		"lotSize": 10019,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 3575000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.805Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676058",
+		"listingAgent": {
+			"name": "Peter Mcpheeters",
+			"phone": "2074681704",
+			"email": "peter@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net/"
+		},
+		"listingOffice": {
+			"name": "OceanView Properties",
+			"phone": "2072821732",
+			"email": "info@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 3575000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "57-Pike-St,-Unit-1,-Biddeford,-ME-04005",
+		"formattedAddress": "57 Pike St, Unit 1, Biddeford, ME 04005",
+		"addressLine1": "57 Pike St",
+		"addressLine2": "Unit 1",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.489401,
+		"longitude": -70.449475,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1536,
+		"lotSize": 12197,
+		"yearBuilt": 2023,
+		"hoa": {
+			"fee": 125
+		},
+		"status": "Active",
+		"price": 458000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-07-07T12:04:57.619Z",
+		"lastSeenDate": "2026-09-12T07:35:34.782Z",
+		"daysOnMarket": 28,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676458",
+		"listingAgent": {
+			"name": "Kerry Lee Hall",
+			"phone": "2076918008",
+			"email": "kerry@catesre.com",
+			"website": "http://www.catesre.com/"
+		},
+		"listingOffice": {
+			"name": "Cates Real Estate",
+			"phone": "2077015600",
+			"email": "info@catesre.com",
+			"website": "http://www.catesre.com"
+		},
+		"history": {
+			"2026-08-16": {
+				"event": "Sale Listing",
+				"price": 458000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 28
+			}
+		}
+	},
+	{
+		"id": "166-Hill-St,-Biddeford,-ME-04005",
+		"formattedAddress": "166 Hill St, Biddeford, ME 04005",
+		"addressLine1": "166 Hill St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.486351,
+		"longitude": -70.456339,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1458,
+		"lotSize": 8712,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.766Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676671",
+		"listingAgent": {
+			"name": "Tom Landry",
+			"phone": "2079390185",
+			"email": "landryteam@benchmarkmaine.com",
+			"website": "http://www.benchmarkmaine.com"
+		},
+		"listingOffice": {
+			"name": "\tBenchmark Real Estate",
+			"phone": "2077750248",
+			"email": "landryteam@benchmarkmaine.com",
+			"website": "http://www.benchmarkmaine.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-35-206,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 35-206, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 35-206",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.4939,
+		"longitude": -70.452025,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 770,
+		"lotSize": 740520,
+		"yearBuilt": 1859,
+		"hoa": {
+			"fee": 208
+		},
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.750Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676944",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "12-Baxter-Blvd,-Biddeford,-ME-04005",
+		"formattedAddress": "12 Baxter Blvd, Biddeford, ME 04005",
+		"addressLine1": "12 Baxter Blvd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493341,
+		"longitude": -70.501265,
+		"propertyType": "Manufactured",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1260,
+		"lotSize": 12197,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 575
+		},
+		"status": "Active",
+		"price": 409900,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.741Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677009",
+		"listingAgent": {
+			"name": "Matthew G Chamberlain",
+			"phone": "2074507653",
+			"email": "matthewc@maine.rr.com",
+			"website": "http://www.realtyformaine.com/"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 409900,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "42-Summer-St,-Biddeford,-ME-04005",
+		"formattedAddress": "42 Summer St, Biddeford, ME 04005",
+		"addressLine1": "42 Summer St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.489556,
+		"longitude": -70.454395,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 2327,
+		"lotSize": 4356,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 384900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.711Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676896",
+		"listingAgent": {
+			"name": "Julie Chandler",
+			"phone": "2076508927",
+			"email": "julie@pogorealty.com",
+			"website": "http://www.pogorealty.com"
+		},
+		"listingOffice": {
+			"name": "Po-Go Realty",
+			"phone": "2078393309",
+			"email": "peter@pogorealty.com",
+			"website": "www.pogorealty.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 384900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "292-Hill-St,-Biddeford,-ME-04005",
+		"formattedAddress": "292 Hill St, Biddeford, ME 04005",
+		"addressLine1": "292 Hill St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.478017,
+		"longitude": -70.463973,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1284,
+		"lotSize": 14810,
+		"yearBuilt": 1981,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.705Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677034",
+		"listingAgent": {
+			"name": "Rachel Grignon",
+			"phone": "2077796731"
+		},
+		"listingOffice": {
+			"name": "Hearth & Key Realty",
+			"phone": "2072412327",
+			"email": "jeff.emmert21@outlook.com"
+		},
+		"history": {
+			"2025-05-13": {
+				"event": "Sale Listing",
+				"price": 429900,
+				"listingType": "Standard",
+				"listedDate": "2025-05-13T00:00:00.000Z",
+				"removedDate": "2025-05-21T00:00:00.000Z",
+				"daysOnMarket": 8
+			},
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "10-Belmont-Ave,-Biddeford,-ME-04005",
+		"formattedAddress": "10 Belmont Ave, Biddeford, ME 04005",
+		"addressLine1": "10 Belmont Ave",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.481668,
+		"longitude": -70.462413,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1728,
+		"lotSize": 9583,
+		"yearBuilt": 1981,
+		"status": "Active",
+		"price": 485000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-03-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.703Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677001",
+		"listingAgent": {
+			"name": "Mandy Wheeler",
+			"phone": "2073331050",
+			"email": "realtormandylou@gmail.com",
+			"website": "https://www.uandrrealestate.com/mandy-wheeler"
+		},
+		"listingOffice": {
+			"name": "U&R Real Estate",
+			"phone": "2073331050",
+			"email": "uandrrealestate@gmail.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 485000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "45-Western-Ave,-Apt-310,-Biddeford,-ME-04005",
+		"formattedAddress": "45 Western Ave, Apt 310, Biddeford, ME 04005",
+		"addressLine1": "45 Western Ave",
+		"addressLine2": "Apt 310",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.494855,
+		"longitude": -70.465784,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 664,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 467
+		},
+		"status": "Active",
+		"price": 240000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.688Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677104",
+		"listingAgent": {
+			"name": "Andrew Snyder",
+			"phone": "2078319471",
+			"email": "andrewsnyder@benchmarkmaine.com",
+			"website": "http://www.exceptionalportlandrealestate.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 240000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "13-W-Loop-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "13 W Loop Rd, Biddeford, ME 04005",
+		"addressLine1": "13 W Loop Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.465579,
+		"longitude": -70.443262,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1592,
+		"lotSize": 21780,
+		"yearBuilt": 2019,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.686Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677280",
+		"listingAgent": {
+			"name": "Daniel Letellier",
+			"phone": "2072825988",
+			"email": "dan.letellier@cbrealty.com",
+			"website": "http://teamletellier.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "21-Cathedral-Oaks-Dr,-Biddeford,-ME-04005",
+		"formattedAddress": "21 Cathedral Oaks Dr, Biddeford, ME 04005",
+		"addressLine1": "21 Cathedral Oaks Dr",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493407,
+		"longitude": -70.488648,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 3100,
+		"lotSize": 29621,
+		"yearBuilt": 1992,
+		"status": "Active",
+		"price": 699000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.682Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677809",
+		"listingAgent": {
+			"name": "Greg Robert",
+			"phone": "2072864782",
+			"email": "greg.robert@nemoves.com",
+			"website": "http://gregrobert.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "2-Jay-Dr,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Jay Dr, Biddeford, ME 04005",
+		"addressLine1": "2 Jay Dr",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.491829,
+		"longitude": -70.48255,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2705,
+		"lotSize": 13939,
+		"yearBuilt": 1988,
+		"status": "Active",
+		"price": 665000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.681Z",
+		"daysOnMarket": 20,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677572",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-08-24": {
+				"event": "Sale Listing",
+				"price": 665000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 20
+			}
+		}
+	},
+	{
+		"id": "8-Debbie-Ave,-Biddeford,-ME-04005",
+		"formattedAddress": "8 Debbie Ave, Biddeford, ME 04005",
+		"addressLine1": "8 Debbie Ave",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.47817,
+		"longitude": -70.460219,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1,
+		"squareFootage": 1406,
+		"lotSize": 7405,
+		"yearBuilt": 1971,
+		"status": "Active",
+		"price": 427000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.679Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677741",
+		"listingAgent": {
+			"name": "James Erickson",
+			"phone": "2072825988",
+			"email": "jamessellsme@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 427000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "361-Elm-St,-Biddeford,-ME-04005",
+		"formattedAddress": "361 Elm St, Biddeford, ME 04005",
+		"addressLine1": "361 Elm St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.484947,
+		"longitude": -70.468969,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2250,
+		"lotSize": 11761,
+		"yearBuilt": 1925,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.674Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677787",
+		"listingAgent": {
+			"name": "Joey Radford",
+			"phone": "2072296134",
+			"email": "joe.radford@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"listingOffice": {
+			"name": "OceanView Properties",
+			"phone": "2072821732",
+			"email": "info@oceanviewproperties.net",
+			"website": "http://www.oceanviewproperties.net"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "Blackberry-Ln,-Biddeford,-ME-04005",
+		"formattedAddress": "Blackberry Ln, Biddeford, ME 04005",
+		"addressLine1": "Blackberry Ln",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.486353,
+		"longitude": -70.489072,
+		"propertyType": "Land",
+		"lotSize": 41818,
+		"status": "Active",
+		"price": 139000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.746Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678050",
+		"listingAgent": {
+			"name": "Heidi Buda",
+			"phone": "2072864403",
+			"email": "heidi.buda@beangroup.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 139000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "15-Decary-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "15 Decary Rd, Biddeford, ME 04005",
+		"addressLine1": "15 Decary Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.48311,
+		"longitude": -70.427596,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 1829,
+		"lotSize": 98881,
+		"yearBuilt": 1962,
+		"status": "Active",
+		"price": 545000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.737Z",
+		"daysOnMarket": 16,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678094",
+		"listingAgent": {
+			"name": "Roz Anton",
+			"phone": "2074503230",
+			"email": "roz@rozanton.com",
+			"website": "https://roslindanton.exprealty.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-28": {
+				"event": "Sale Listing",
+				"price": 545000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 16
+			}
+		}
+	},
+	{
+		"id": "5-Jessie-Ln,-Biddeford,-ME-04005",
+		"formattedAddress": "5 Jessie Ln, Biddeford, ME 04005",
+		"addressLine1": "5 Jessie Ln",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.470329,
+		"longitude": -70.506555,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"squareFootage": 3182,
+		"lotSize": 38333,
+		"yearBuilt": 2005,
+		"status": "Active",
+		"price": 725000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.722Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678397",
+		"listingAgent": {
+			"name": "Adam Parent",
+			"phone": "2076044624",
+			"email": "adam@luxgroupmaine.com",
+			"website": "https://www.adamparent.com/"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 725000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "2-Little-River-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Little River Rd, Biddeford, ME 04005",
+		"addressLine1": "2 Little River Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.420839,
+		"longitude": -70.390867,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2694,
+		"lotSize": 87120,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 1250000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.709Z",
+		"daysOnMarket": 12,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678636",
+		"listingAgent": {
+			"name": "Stephen Foran",
+			"phone": "2075904813",
+			"email": "1stmaine@maine.rr.com",
+			"website": "http://www.1stmainerealestate.com"
+		},
+		"listingOffice": {
+			"name": "First Maine Real Estate",
+			"phone": "2072827588",
+			"email": "1stmaine@maine.rr.com",
+			"website": "www.1stmainerealestate.com"
+		},
+		"history": {
+			"2024-06-04": {
+				"event": "Sale Listing",
+				"price": 1030000,
+				"listingType": "Standard",
+				"listedDate": "2024-06-04T00:00:00.000Z",
+				"removedDate": "2024-09-26T00:00:00.000Z",
+				"daysOnMarket": 114
+			},
+			"2025-09-11": {
+				"event": "Sale Listing",
+				"price": 875000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-11T00:00:00.000Z",
+				"removedDate": "2025-10-21T00:00:00.000Z",
+				"daysOnMarket": 40
+			},
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 1250000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 12
+			}
+		}
+	},
+	{
+		"id": "6-Buckleys-Ct,-Biddeford,-ME-04005",
+		"formattedAddress": "6 Buckleys Ct, Biddeford, ME 04005",
+		"addressLine1": "6 Buckleys Ct",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.490115,
+		"longitude": -70.448512,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1512,
+		"lotSize": 6534,
+		"yearBuilt": 2002,
+		"status": "Active",
+		"price": 419000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.703Z",
+		"daysOnMarket": 13,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678571",
+		"listingAgent": {
+			"name": "Jonathan Safford",
+			"phone": "2076465131",
+			"email": "jonsafford@masiello.com",
+			"website": "www.jonsafford.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-08-31": {
+				"event": "Sale Listing",
+				"price": 419000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 13
+			}
+		}
+	},
+	{
+		"id": "458-Pool-St,-Biddeford,-ME-04005",
+		"formattedAddress": "458 Pool St, Biddeford, ME 04005",
+		"addressLine1": "458 Pool St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.465824,
+		"longitude": -70.405101,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1624,
+		"lotSize": 65340,
+		"yearBuilt": 1974,
+		"status": "Active",
+		"price": 615000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.700Z",
+		"daysOnMarket": 9,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679241",
+		"listingAgent": {
+			"name": "Carol Papale, Broker Associate",
+			"phone": "2072057707",
+			"email": "carolpapale@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "2077761620",
+			"email": "melindatorrensrealestate@gmail.com",
+			"website": "http://www.mehomelist.com"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 615000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 9
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-35-106,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 35-106, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 35-106",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.4939,
+		"longitude": -70.452025,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1.5,
+		"squareFootage": 732,
+		"lotSize": 740520,
+		"yearBuilt": 1859,
+		"hoa": {
+			"fee": 199
+		},
+		"status": "Active",
+		"price": 425000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.694Z",
+		"daysOnMarket": 11,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678963",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-09-02": {
+				"event": "Sale Listing",
+				"price": 425000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 11
+			}
+		}
+	},
+	{
+		"id": "Andrews-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "Andrews Rd, Biddeford, ME 04005",
+		"addressLine1": "Andrews Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.485486,
+		"longitude": -70.526688,
+		"propertyType": "Land",
+		"lotSize": 1524600,
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.693Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679086",
+		"listingAgent": {
+			"name": "Harrison Smith",
+			"phone": "2079560872",
+			"email": "harrison.smith@exprealty.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "261-West-St,-Biddeford,-ME-04005",
+		"formattedAddress": "261 West St, Biddeford, ME 04005",
+		"addressLine1": "261 West St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.45705,
+		"longitude": -70.430915,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1227,
+		"lotSize": 25265,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.678Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679130",
+		"listingAgent": {
+			"name": "Katherine Az Ashley Lutkoff",
+			"phone": "2078850500",
+			"email": "info@alhomesmaine.com"
+		},
+		"listingOffice": {
+			"name": "Signature Homes Real Estate Group",
+			"phone": "2077303071",
+			"email": "info@scovillefoleyhomes.com",
+			"website": "http://www.scovillefoleyhomes.com"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-35-108,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 35-108, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 35-108",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.4939,
+		"longitude": -70.452025,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1.5,
+		"squareFootage": 754,
+		"lotSize": 740520,
+		"yearBuilt": 1859,
+		"hoa": {
+			"fee": 204
+		},
+		"status": "Active",
+		"price": 430000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-02-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.170Z",
+		"daysOnMarket": 6,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679570",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2025-02-05": {
+				"event": "Sale Listing",
+				"price": 420000,
+				"listingType": "Standard",
+				"listedDate": "2025-02-05T00:00:00.000Z",
+				"removedDate": "2025-05-17T00:00:00.000Z",
+				"daysOnMarket": 101
+			},
+			"2026-09-07": {
+				"event": "Sale Listing",
+				"price": 430000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 6
+			}
+		}
+	},
+	{
+		"id": "2-Main-St,-Unit-18-504,-Biddeford,-ME-04005",
+		"formattedAddress": "2 Main St, Unit 18-504, Biddeford, ME 04005",
+		"addressLine1": "2 Main St",
+		"addressLine2": "Unit 18-504",
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493415,
+		"longitude": -70.451259,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1648,
+		"lotSize": 740520,
+		"yearBuilt": 1848,
+		"hoa": {
+			"fee": 464
+		},
+		"status": "Active",
+		"price": 799000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.161Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679753",
+		"listingAgent": {
+			"name": "Mindy Phillips",
+			"phone": "9073152621",
+			"email": "mindy@maineliferealestate.com",
+			"website": "https://www.maineliferealty.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 799000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "12-Waco-Dr,-Biddeford,-ME-04005",
+		"formattedAddress": "12 Waco Dr, Biddeford, ME 04005",
+		"addressLine1": "12 Waco Dr",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.474845,
+		"longitude": -70.475987,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 1952,
+		"lotSize": 13939,
+		"yearBuilt": 1977,
+		"status": "Active",
+		"price": 560000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.158Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679761",
+		"listingAgent": {
+			"name": "Tammy Laflamme",
+			"phone": "2072825988",
+			"email": "tammy.laflamme@nemoves.com",
+			"website": "http://tammylaflamme.cbintouch.com"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 560000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "22-Raymond-St,-Biddeford,-ME-04005",
+		"formattedAddress": "22 Raymond St, Biddeford, ME 04005",
+		"addressLine1": "22 Raymond St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.480197,
+		"longitude": -70.458848,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1619,
+		"lotSize": 12197,
+		"yearBuilt": 1930,
+		"status": "Active",
+		"price": 439900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.141Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680020",
+		"listingAgent": {
+			"name": "Luke Morris",
+			"phone": "6034015858"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-05-15": {
+				"event": "Sale Listing",
+				"price": 435000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-15T00:00:00.000Z",
+				"removedDate": "2026-07-09T00:00:00.000Z",
+				"daysOnMarket": 55
+			},
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 439900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "15-Westfield-St,-Biddeford,-ME-04005",
+		"formattedAddress": "15 Westfield St, Biddeford, ME 04005",
+		"addressLine1": "15 Westfield St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.484084,
+		"longitude": -70.460039,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1776,
+		"lotSize": 6098,
+		"yearBuilt": 1940,
+		"status": "Active",
+		"price": 465000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.134Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679851",
+		"listingAgent": {
+			"name": "Carol Rico",
+			"phone": "2076152273",
+			"email": "crico@maine.rr.com",
+			"website": "http://www.southernmainerealestate.net"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 465000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "1-Sokokis-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "1 Sokokis Rd, Biddeford, ME 04005",
+		"addressLine1": "1 Sokokis Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.469715,
+		"longitude": -70.408573,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1144,
+		"lotSize": 32670,
+		"yearBuilt": 1933,
+		"status": "Active",
+		"price": 519000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.127Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679977",
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2072040465",
+			"email": "mikelepage@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 519000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "11-King-St,-Biddeford,-ME-04005",
+		"formattedAddress": "11 King St, Biddeford, ME 04005",
+		"addressLine1": "11 King St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.491094,
+		"longitude": -70.453396,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 3853,
+		"lotSize": 3920,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 894900,
+		"listingType": "Standard",
+		"listedDate": "2025-10-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:54:50.630Z",
+		"daysOnMarket": 336,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640594",
+		"listingAgent": {
+			"name": "Danielle Lape",
+			"phone": "2077302476",
+			"email": "danielle@kingrealestate.com",
+			"website": "http://www.kingrealestate.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2025-10-11": {
+				"event": "Sale Listing",
+				"price": 894900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 336
+			}
+		}
+	},
+	{
+		"id": "4-Kossuth-St,-Biddeford,-ME-04005",
+		"formattedAddress": "4 Kossuth St, Biddeford, ME 04005",
+		"addressLine1": "4 Kossuth St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.49355,
+		"longitude": -70.459213,
+		"propertyType": "Multi-Family",
+		"bathrooms": 5,
+		"squareFootage": 4129,
+		"lotSize": 3920,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 894900,
+		"listingType": "Standard",
+		"listedDate": "2025-10-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-10-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:54:50.630Z",
+		"daysOnMarket": 336,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1640590",
+		"listingAgent": {
+			"name": "Danielle Lape",
+			"phone": "2077302476",
+			"email": "danielle@kingrealestate.com",
+			"website": "http://www.kingrealestate.com"
+		},
+		"listingOffice": {
+			"name": "KRE Brokerage Group",
+			"phone": "2077812958",
+			"email": "jacobson@kingrealestate.com",
+			"website": "www.kingrealestate.com"
+		},
+		"history": {
+			"2025-10-11": {
+				"event": "Sale Listing",
+				"price": 894900,
+				"listingType": "Standard",
+				"listedDate": "2025-10-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 336
+			}
+		}
+	},
+	{
+		"id": "8-Days-Lndg,-Biddeford,-ME-04005",
+		"formattedAddress": "8 Days Lndg, Biddeford, ME 04005",
+		"addressLine1": "8 Days Lndg",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.448588,
+		"longitude": -70.376019,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 2793,
+		"lotSize": 20038,
+		"yearBuilt": 2001,
+		"status": "Active",
+		"price": 825500,
+		"listingType": "Standard",
+		"listedDate": "2026-02-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-11-13T13:20:22.986Z",
+		"lastSeenDate": "2026-09-11T10:54:50.562Z",
+		"daysOnMarket": 212,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1651752",
+		"listingAgent": {
+			"name": "Paula Standley",
+			"phone": "2076465131",
+			"email": "paulastandley@masiello.com",
+			"website": "http://www.paulabelairstandley.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2076465131",
+			"email": "wells@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2025-06-07": {
+				"event": "Sale Listing",
+				"price": 899000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-07T00:00:00.000Z",
+				"removedDate": "2025-11-21T00:00:00.000Z",
+				"daysOnMarket": 167
+			},
+			"2026-02-12": {
+				"event": "Sale Listing",
+				"price": 825500,
+				"listingType": "Standard",
+				"listedDate": "2026-02-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 212
+			}
+		}
+	},
+	{
+		"id": "1-Willow-Rdg,-Biddeford,-ME-04005",
+		"formattedAddress": "1 Willow Rdg, Biddeford, ME 04005",
+		"addressLine1": "1 Willow Rdg",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.45463,
+		"longitude": -70.382542,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3210,
+		"lotSize": 22651,
+		"yearBuilt": 1979,
+		"status": "Active",
+		"price": 1099000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:27:42.488Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672938",
+		"listingAgent": {
+			"name": "Stephen Foran",
+			"phone": "2075904813",
+			"email": "1stmaine@maine.rr.com",
+			"website": "http://www.1stmainerealestate.com"
+		},
+		"listingOffice": {
+			"name": "First Maine Real Estate",
+			"phone": "2072827588",
+			"email": "1stmaine@maine.rr.com",
+			"website": "www.1stmainerealestate.com"
+		},
+		"history": {
+			"2025-11-21": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-21T00:00:00.000Z",
+				"removedDate": "2026-02-19T00:00:00.000Z",
+				"daysOnMarket": 90
+			},
+			"2026-07-22": {
+				"event": "Sale Listing",
+				"price": 1099000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "238-242-Hills-Beach-Rd,-Biddeford,-ME-04005",
+		"formattedAddress": "238-242 Hills Beach Rd, Biddeford, ME 04005",
+		"addressLine1": "238-242 Hills Beach Rd",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.449768,
+		"longitude": -70.361061,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1573,
+		"lotSize": 7841,
+		"yearBuilt": 1991,
+		"status": "Active",
+		"price": 1050000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T08:03:14.359Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679279",
+		"listingAgent": {
+			"name": "Christina Stone",
+			"phone": "2079670934",
+			"email": "cstone@legacysir.com",
+			"website": "http://www.legacysir.com"
+		},
+		"listingOffice": {
+			"name": "Legacy Properties Sotheby's International Realty",
+			"phone": "2079670934",
+			"email": "info@legacysir.com",
+			"website": "http://www.legacysir.com/"
+		},
+		"history": {
+			"2026-09-04": {
+				"event": "Sale Listing",
+				"price": 1050000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "332-Pool-St,-Biddeford,-ME-04005",
+		"formattedAddress": "332 Pool St, Biddeford, ME 04005",
+		"addressLine1": "332 Pool St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.480346,
+		"longitude": -70.426092,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1872,
+		"lotSize": 19602,
+		"yearBuilt": 1970,
+		"status": "Active",
+		"price": 449900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:56:46.262Z",
+		"daysOnMarket": 29,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676136",
+		"listingAgent": {
+			"name": "Ann Lapierre, Broker/owner",
+			"phone": "2073242860",
+			"email": "ann@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 449900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 29
+			}
+		}
+	},
+	{
+		"id": "352-Granite-St-Ext,-Biddeford,-ME-04005",
+		"formattedAddress": "352 Granite St Ext, Biddeford, ME 04005",
+		"addressLine1": "352 Granite St Ext",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.460023,
+		"longitude": -70.472511,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 960,
+		"lotSize": 20038,
+		"yearBuilt": 1984,
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T07:46:12.095Z",
+		"daysOnMarket": 10,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678584",
+		"listingAgent": {
+			"name": "Suzanne Prou Daniel Schneider",
+			"phone": "2075726474",
+			"email": "teamschneider@masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2075604683",
+			"email": "southportland@masiello.com",
+			"website": "http://www.masiello.com"
+		},
+		"history": {
+			"2026-09-01": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 10
+			}
+		}
+	},
+	{
+		"id": "332-Granite-St,-Biddeford,-ME-04005",
+		"formattedAddress": "332 Granite St, Biddeford, ME 04005",
+		"addressLine1": "332 Granite St",
+		"addressLine2": null,
+		"city": "Biddeford",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04005",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.462547,
+		"longitude": -70.470895,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2318,
+		"lotSize": 20473,
+		"yearBuilt": 1978,
+		"status": "Active",
+		"price": 535000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-03T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-04T00:00:00.000Z",
+		"lastSeenDate": "2026-09-10T06:59:52.360Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679161",
+		"listingAgent": {
+			"name": "Nicolas Dulac",
+			"phone": "2077306557"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty - Portsmouth",
+			"phone": "6033341900",
+			"email": "900601.lead@leads.leadrouter.com",
+			"website": "https://www.coldwellbankerhomes.com/nh/portsmouth/office/portsmouth/oid_4375/"
+		},
+		"history": {
+			"2026-09-03": {
+				"event": "Sale Listing",
+				"price": 535000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-03T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	}
+]

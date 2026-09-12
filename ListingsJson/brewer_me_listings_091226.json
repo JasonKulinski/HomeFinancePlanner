@@ -1,0 +1,1842 @@
+[
+	{
+		"id": "651-S-Main-St,-Brewer,-ME-04412",
+		"formattedAddress": "651 S Main St, Brewer, ME 04412",
+		"addressLine1": "651 S Main St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.76574,
+		"longitude": -68.783884,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2200,
+		"lotSize": 15246,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 334900,
+		"listingType": "Standard",
+		"listedDate": "2025-12-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-08-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:14.150Z",
+		"daysOnMarket": 264,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1647112",
+		"listingAgent": {
+			"name": "Linda Williams",
+			"phone": "2079428261",
+			"email": "homevision1@aol.com",
+			"website": "http://www.realtor.com/maine/lindawilliams"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway Home Services Northeast Real Estate",
+			"phone": "2079428261",
+			"email": "bangor@bhhsnere.com",
+			"website": "http://www.bhhsnortheastrealestate.com"
+		},
+		"history": {
+			"2025-12-23": {
+				"event": "Sale Listing",
+				"price": 334900,
+				"listingType": "Standard",
+				"listedDate": "2025-12-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 264
+			}
+		}
+	},
+	{
+		"id": "Clisham-Rd,-Brewer,-ME-04412",
+		"formattedAddress": "Clisham Rd, Brewer, ME 04412",
+		"addressLine1": "Clisham Rd",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.782426,
+		"longitude": -68.747511,
+		"propertyType": "Land",
+		"lotSize": 1869595,
+		"status": "Active",
+		"price": 289000,
+		"listingType": "Standard",
+		"listedDate": "2025-05-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-17T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:14.143Z",
+		"daysOnMarket": 485,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1622949",
+		"listingAgent": {
+			"name": "Jennifer Kha Airlia Brit",
+			"phone": "2075737400",
+			"email": "info@andersonball.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2025-05-16": {
+				"event": "Sale Listing",
+				"price": 289000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 485
+			}
+		}
+	},
+	{
+		"id": "Wilson-L1-St,-Unit-M2,-Brewer,-ME-04412",
+		"formattedAddress": "Wilson L1 St, Unit M2, Brewer, ME 04412",
+		"addressLine1": "Wilson L1 St",
+		"addressLine2": "Unit M2",
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.767105,
+		"longitude": -68.714449,
+		"propertyType": "Land",
+		"lotSize": 264845,
+		"status": "Active",
+		"price": 68000,
+		"listingType": "Standard",
+		"listedDate": "2025-12-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-12-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:32:14.117Z",
+		"daysOnMarket": 275,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1646471",
+		"listingAgent": {
+			"name": "Ekaterina Cammack",
+			"phone": "2075737400",
+			"email": "katyacammack.nexthome@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2025-12-12": {
+				"event": "Sale Listing",
+				"price": 68000,
+				"listingType": "Standard",
+				"listedDate": "2025-12-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 275
+			}
+		}
+	},
+	{
+		"id": "192-Wilson-St,-Brewer,-ME-04412",
+		"formattedAddress": "192 Wilson St, Brewer, ME 04412",
+		"addressLine1": "192 Wilson St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.792947,
+		"longitude": -68.762557,
+		"propertyType": "Multi-Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1352,
+		"lotSize": 3485,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 285000,
+		"listingType": "Standard",
+		"listedDate": "2026-01-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-05-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:01:54.924Z",
+		"daysOnMarket": 234,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1650071",
+		"listingAgent": {
+			"name": "Timothy Bush",
+			"phone": "2079510747",
+			"email": "timbushrealestate@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2025-05-13": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2025-05-13T00:00:00.000Z",
+				"removedDate": "2026-01-01T00:00:00.000Z",
+				"daysOnMarket": 233
+			},
+			"2026-01-22": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-01-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 234
+			}
+		}
+	},
+	{
+		"id": "21-Rosebud-Ln,-Brewer,-ME-04412",
+		"formattedAddress": "21 Rosebud Ln, Brewer, ME 04412",
+		"addressLine1": "21 Rosebud Ln",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.815005,
+		"longitude": -68.717111,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"squareFootage": 3852,
+		"lotSize": 50094,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 17
+		},
+		"status": "Active",
+		"price": 659000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-03-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:01:54.906Z",
+		"daysOnMarket": 186,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1653967",
+		"listingAgent": {
+			"name": "Kortnie Mullins",
+			"phone": "2079914924",
+			"email": "kortnie@chezreneeteam.com",
+			"website": "http://www.chezreneeteam.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Bangor",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-03-11": {
+				"event": "Sale Listing",
+				"price": 659000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 186
+			}
+		}
+	},
+	{
+		"id": "128-Union-St,-Brewer,-ME-04412",
+		"formattedAddress": "128 Union St, Brewer, ME 04412",
+		"addressLine1": "128 Union St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.793449,
+		"longitude": -68.762139,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1212,
+		"lotSize": 4356,
+		"yearBuilt": 1902,
+		"status": "Active",
+		"price": 98000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-10T09:01:01.904Z",
+		"lastSeenDate": "2026-09-12T09:01:54.895Z",
+		"daysOnMarket": 172,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655284",
+		"listingAgent": {
+			"name": "Cash Wiseman",
+			"phone": "2078799800",
+			"email": "cashwiseman@kw.com",
+			"website": "http://www.cashwiseman.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-07-19": {
+				"event": "Sale Listing",
+				"price": 82000,
+				"listingType": "Standard",
+				"listedDate": "2025-07-19T00:00:00.000Z",
+				"removedDate": "2026-01-19T00:00:00.000Z",
+				"daysOnMarket": 184
+			},
+			"2026-03-25": {
+				"event": "Sale Listing",
+				"price": 98000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 172
+			}
+		}
+	},
+	{
+		"id": "91-Pierce-Rd,-Brewer,-ME-04412",
+		"formattedAddress": "91 Pierce Rd, Brewer, ME 04412",
+		"addressLine1": "91 Pierce Rd",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.781515,
+		"longitude": -68.731207,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1740,
+		"lotSize": 340639,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 450000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:01:54.876Z",
+		"daysOnMarket": 155,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657471",
+		"listingAgent": {
+			"name": "Tricia Quirk",
+			"phone": "2079443361",
+			"email": "triciaquirk@eradawson.com",
+			"website": "http://www.triciaquirk.com"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-04-11": {
+				"event": "Sale Listing",
+				"price": 450000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 155
+			}
+		}
+	},
+	{
+		"id": "Wiswell-Rd,-Lot-6,-Brewer,-ME-04412",
+		"formattedAddress": "Wiswell Rd, Lot 6, Brewer, ME 04412",
+		"addressLine1": "Wiswell Rd",
+		"addressLine2": "Lot 6",
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.744991,
+		"longitude": -68.744043,
+		"propertyType": "Land",
+		"lotSize": 2395800,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:01:54.856Z",
+		"daysOnMarket": 151,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657809",
+		"listingAgent": {
+			"name": "Nik Carter",
+			"phone": "2074788335",
+			"email": "mrnikcarter@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-04-15": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 151
+			}
+		}
+	},
+	{
+		"id": "156-N-Main-St,-Brewer,-ME-04412",
+		"formattedAddress": "156 N Main St, Brewer, ME 04412",
+		"addressLine1": "156 N Main St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.796236,
+		"longitude": -68.763766,
+		"propertyType": "Multi-Family",
+		"bathrooms": 1,
+		"squareFootage": 4782,
+		"lotSize": 13504,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 529900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:01:54.854Z",
+		"daysOnMarket": 138,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659609",
+		"listingAgent": {
+			"name": "Tara Roy",
+			"phone": "2079918272",
+			"email": "realestatetara@outlook.com",
+			"website": "http://www.tararoy.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-04-28": {
+				"event": "Sale Listing",
+				"price": 529900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 138
+			}
+		}
+	},
+	{
+		"id": "12-School-St,-Brewer,-ME-04412",
+		"formattedAddress": "12 School St, Brewer, ME 04412",
+		"addressLine1": "12 School St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.792841,
+		"longitude": -68.766644,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1734,
+		"lotSize": 5663,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 224444,
+		"listingType": "Standard",
+		"listedDate": "2026-05-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-09-16T14:22:01.507Z",
+		"lastSeenDate": "2026-09-12T08:34:40.902Z",
+		"daysOnMarket": 120,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662518",
+		"listingAgent": {
+			"name": "Scott Basso",
+			"phone": "2072995158",
+			"email": "scottbasso@masiello.com",
+			"website": "https://www.quinnrealestate.net"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2079426711",
+			"email": "bangor@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-05-16": {
+				"event": "Sale Listing",
+				"price": 224444,
+				"listingType": "Standard",
+				"listedDate": "2026-05-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 120
+			}
+		}
+	},
+	{
+		"id": "6-Chamberlain-St,-Brewer,-ME-04412",
+		"formattedAddress": "6 Chamberlain St, Brewer, ME 04412",
+		"addressLine1": "6 Chamberlain St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.798868,
+		"longitude": -68.759001,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2200,
+		"lotSize": 6098,
+		"yearBuilt": 1921,
+		"status": "Active",
+		"price": 299000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-08-30T09:01:39.532Z",
+		"lastSeenDate": "2026-09-12T08:34:40.746Z",
+		"daysOnMarket": 100,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665838",
+		"listingAgent": {
+			"name": "Rochelle Dow",
+			"phone": "2079426310",
+			"email": "rochelle.dow.realtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Bangor",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-06-05": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 100
+			}
+		}
+	},
+	{
+		"id": "143-Chamberlain-St,-Brewer,-ME-04412",
+		"formattedAddress": "143 Chamberlain St, Brewer, ME 04412",
+		"addressLine1": "143 Chamberlain St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.791959,
+		"longitude": -68.755415,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1712,
+		"lotSize": 36155,
+		"yearBuilt": 1916,
+		"status": "Active",
+		"price": 299900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.743Z",
+		"daysOnMarket": 97,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666151",
+		"listingAgent": {
+			"name": "Elaine Pelletier",
+			"phone": "2079426711",
+			"email": "epelletier81@gmail.com",
+			"website": "http://www.elainepelletier.@masiello.com"
+		},
+		"listingOffice": {
+			"name": "Better Homes and Gardens Real Estate The Masiello Group",
+			"phone": "2079426711",
+			"email": "bangor@masiello.com",
+			"website": "http://www.masiello.com/"
+		},
+		"history": {
+			"2026-06-08": {
+				"event": "Sale Listing",
+				"price": 299900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 97
+			}
+		}
+	},
+	{
+		"id": "15-Harbor-Dr,-Unit-15,-Brewer,-ME-04412",
+		"formattedAddress": "15 Harbor Dr, Unit 15, Brewer, ME 04412",
+		"addressLine1": "15 Harbor Dr",
+		"addressLine2": "Unit 15",
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.766841,
+		"longitude": -68.78506,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 4750,
+		"lotSize": 3049,
+		"yearBuilt": 2005,
+		"hoa": {
+			"fee": 616
+		},
+		"status": "Active",
+		"price": 699000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:34:40.733Z",
+		"daysOnMarket": 93,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666998",
+		"listingAgent": {
+			"name": "Joshua Cottrell",
+			"phone": "2074613478",
+			"email": "jcottrell@eradawson.com",
+			"website": "https://eradawson-bradfordcorealtors.sites.erarealestate.com/directory/agents/joshua-cottrell"
+		},
+		"listingOffice": {
+			"name": "ERA Dawson-Bradford Co.",
+			"phone": "2079476788",
+			"email": "jondawson@eradawson.com",
+			"website": "www.eradawson.com"
+		},
+		"history": {
+			"2026-06-12": {
+				"event": "Sale Listing",
+				"price": 699000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 93
+			}
+		}
+	},
+	{
+		"id": "M33-140-Prospect-St,-Brewer,-ME-04412",
+		"formattedAddress": "M33-140 Prospect St, Brewer, ME 04412",
+		"addressLine1": "M33-140 Prospect St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.799785,
+		"longitude": -68.757188,
+		"propertyType": "Land",
+		"lotSize": 301000,
+		"status": "Active",
+		"price": 489000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.944Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668091",
+		"listingAgent": {
+			"name": "Jennifer Kha Airlia Brit",
+			"phone": "2075737400",
+			"email": "info@andersonball.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2025-03-23": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-23T00:00:00.000Z",
+				"removedDate": "2026-03-19T00:00:00.000Z",
+				"daysOnMarket": 361
+			},
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 489000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "22-Pendleton-St,-Brewer,-ME-04412",
+		"formattedAddress": "22 Pendleton St, Brewer, ME 04412",
+		"addressLine1": "22 Pendleton St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.777839,
+		"longitude": -68.775418,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1316,
+		"lotSize": 5663,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 213000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-22T10:35:28.200Z",
+		"lastSeenDate": "2026-09-12T08:30:28.927Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668458",
+		"listingAgent": {
+			"name": "Lisa Caron",
+			"phone": "2077455568",
+			"email": "lisacaronrealtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 213000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "722-N-Main-St,-Brewer,-ME-04412",
+		"formattedAddress": "722 N Main St, Brewer, ME 04412",
+		"addressLine1": "722 N Main St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.810947,
+		"longitude": -68.735847,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1204,
+		"lotSize": 10890,
+		"yearBuilt": 1948,
+		"status": "Active",
+		"price": 259900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-12T10:57:27.940Z",
+		"lastSeenDate": "2026-09-12T08:30:28.867Z",
+		"daysOnMarket": 68,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1670696",
+		"listingAgent": {
+			"name": "Stephanie Henry",
+			"phone": "2078520521",
+			"email": "stephaniehenry.realtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-07-07": {
+				"event": "Sale Listing",
+				"price": 259900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 68
+			}
+		}
+	},
+	{
+		"id": "656-S-Main-St,-Brewer,-ME-04412",
+		"formattedAddress": "656 S Main St, Brewer, ME 04412",
+		"addressLine1": "656 S Main St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.765366,
+		"longitude": -68.782727,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 1685,
+		"lotSize": 17424,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:30:28.850Z",
+		"daysOnMarket": 66,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671045",
+		"listingAgent": {
+			"name": "David Giroux",
+			"phone": "2077458118",
+			"email": "dave@prorealestate.com",
+			"website": "http://www.remax.com"
+		},
+		"listingOffice": {
+			"name": "Pro Realty",
+			"phone": "2079476463",
+			"email": "prorealty@midmaine.com",
+			"website": "http://www.prorealestate.com"
+		},
+		"history": {
+			"2026-07-09": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 66
+			}
+		}
+	},
+	{
+		"id": "42-Capri-St,-Brewer,-ME-04412",
+		"formattedAddress": "42 Capri St, Brewer, ME 04412",
+		"addressLine1": "42 Capri St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.793901,
+		"longitude": -68.749069,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1332,
+		"lotSize": 9148,
+		"yearBuilt": 1964,
+		"status": "Active",
+		"price": 132500,
+		"listingType": "Standard",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.309Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672791",
+		"listingAgent": {
+			"name": "Elizabeth Garner",
+			"phone": "2072894387",
+			"email": "elizabethgarnerrealty@gmail.com",
+			"website": "https://onpointrealtyme.com/"
+		},
+		"listingOffice": {
+			"name": "On Point Realty",
+			"phone": "2077545058",
+			"email": "tashamasseyrealty@gmail.com"
+		},
+		"history": {
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 132500,
+				"listingType": "Standard",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "103-Chamberlain-St,-Brewer,-ME-04412",
+		"formattedAddress": "103 Chamberlain St, Brewer, ME 04412",
+		"addressLine1": "103 Chamberlain St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.793893,
+		"longitude": -68.756216,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1585,
+		"lotSize": 9148,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 284900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-23T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-24T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.296Z",
+		"daysOnMarket": 52,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673146",
+		"listingAgent": {
+			"name": "Sarah Ryan",
+			"phone": "2072402093",
+			"email": "sarahryan0622@gmail.com",
+			"website": "https://sarahryan.mynexthomeexperience.com/"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-07-23": {
+				"event": "Sale Listing",
+				"price": 284900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-23T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 52
+			}
+		}
+	},
+	{
+		"id": "31-Wiswell-Rd,-Brewer,-ME-04412",
+		"formattedAddress": "31 Wiswell Rd, Brewer, ME 04412",
+		"addressLine1": "31 Wiswell Rd",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.758119,
+		"longitude": -68.752433,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1715,
+		"lotSize": 1158696,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 389500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.283Z",
+		"daysOnMarket": 42,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674475",
+		"listingAgent": {
+			"name": "Cameron Burpee",
+			"phone": "2079424618",
+			"email": "cameronburpee@c21queencity.com",
+			"website": "http://cameron.burpee.pinepoint.me"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Queen City Real Estate",
+			"phone": "2079424618",
+			"email": "almjhm@hotmail.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 399500,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": "2026-07-19T00:00:00.000Z",
+				"daysOnMarket": 30
+			},
+			"2026-08-02": {
+				"event": "Sale Listing",
+				"price": 389500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 42
+			}
+		}
+	},
+	{
+		"id": "15-Brochu-Ln,-Brewer,-ME-04412",
+		"formattedAddress": "15 Brochu Ln, Brewer, ME 04412",
+		"addressLine1": "15 Brochu Ln",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.769649,
+		"longitude": -68.775677,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3903,
+		"lotSize": 40511,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 560000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2020-10-14T11:05:26.944Z",
+		"lastSeenDate": "2026-09-12T07:54:08.282Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674315",
+		"listingAgent": {
+			"name": "Kim Mcpheters",
+			"phone": "2077357618",
+			"email": "400005.lead@leads.leadrouter.com",
+			"website": "http://www.kimmcpheters.masiello.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 560000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "8-Bald-Eagle-Dr,-Unit-8,-Brewer,-ME-04412",
+		"formattedAddress": "8 Bald Eagle Dr, Unit 8, Brewer, ME 04412",
+		"addressLine1": "8 Bald Eagle Dr",
+		"addressLine2": "Unit 8",
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.76725,
+		"longitude": -68.784064,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2745,
+		"lotSize": 3049,
+		"yearBuilt": 2008,
+		"hoa": {
+			"fee": 761
+		},
+		"status": "Active",
+		"price": 389900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.278Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674222",
+		"listingAgent": {
+			"name": "Lisa Richards",
+			"phone": "2079492069"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 389900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "40-Pendleton-St,-Brewer,-ME-04412",
+		"formattedAddress": "40 Pendleton St, Brewer, ME 04412",
+		"addressLine1": "40 Pendleton St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.777363,
+		"longitude": -68.773641,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1132,
+		"lotSize": 13068,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-01T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-02-24T05:50:24.367Z",
+		"lastSeenDate": "2026-09-12T07:54:08.259Z",
+		"daysOnMarket": 43,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674398",
+		"listingAgent": {
+			"name": "Michael And Lauryn Hamilton",
+			"phone": "2075708998",
+			"email": "info@homesweetmaine.com",
+			"website": "http://homesweetmaine.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-10-15": {
+				"event": "Sale Listing",
+				"price": 360000,
+				"listingType": "Standard",
+				"listedDate": "2025-10-15T00:00:00.000Z",
+				"removedDate": "2025-12-07T00:00:00.000Z",
+				"daysOnMarket": 53
+			},
+			"2026-08-01": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-01T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 43
+			}
+		}
+	},
+	{
+		"id": "Central-Ave,-Lot-11,-Brewer,-ME-04412",
+		"formattedAddress": "Central Ave, Lot 11, Brewer, ME 04412",
+		"addressLine1": "Central Ave",
+		"addressLine2": "Lot 11",
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.769844,
+		"longitude": -68.770577,
+		"propertyType": "Land",
+		"lotSize": 32234,
+		"status": "Active",
+		"price": 29000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.257Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674067",
+		"listingAgent": {
+			"name": "Katelyn Trask",
+			"phone": "2074034123",
+			"email": "katelyntraskrealtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 29000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "130-Oak-Grove-Dr,-Brewer,-ME-04412",
+		"formattedAddress": "130 Oak Grove Dr, Brewer, ME 04412",
+		"addressLine1": "130 Oak Grove Dr",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.792352,
+		"longitude": -68.740256,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 3772,
+		"lotSize": 25265,
+		"yearBuilt": 1995,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.251Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674970",
+		"listingAgent": {
+			"name": "Xiaorong Sharon Horton",
+			"phone": "2072797058",
+			"email": "xiaorong@northfork.net",
+			"website": "http://horton-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Realty of Maine - Dover Foxcroft",
+			"phone": "2079426310",
+			"email": "info@realtyofmaine.com",
+			"website": "http://www.realtyofmaine.com"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "90-State-St,-Brewer,-ME-04412",
+		"formattedAddress": "90 State St, Brewer, ME 04412",
+		"addressLine1": "90 State St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.794185,
+		"longitude": -68.758728,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2063,
+		"lotSize": 7405,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 275000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.251Z",
+		"daysOnMarket": 37,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675119",
+		"listingAgent": {
+			"name": "Mark Beal",
+			"phone": "2072620023",
+			"email": "mark@bealrealty.com",
+			"website": "http://bealrealty.com"
+		},
+		"listingOffice": {
+			"name": "Beal Realty",
+			"phone": "2072620023",
+			"email": "bealrealty@helpusell.com",
+			"website": "www.helpusell.com/bealrealty"
+		},
+		"history": {
+			"2026-08-07": {
+				"event": "Sale Listing",
+				"price": 275000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 37
+			}
+		}
+	},
+	{
+		"id": "80-Chamberlain-St,-Brewer,-ME-04412",
+		"formattedAddress": "80 Chamberlain St, Brewer, ME 04412",
+		"addressLine1": "80 Chamberlain St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.795352,
+		"longitude": -68.756574,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2666,
+		"lotSize": 10890,
+		"yearBuilt": 1835,
+		"status": "Active",
+		"price": 350000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-06T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:54:08.248Z",
+		"daysOnMarket": 38,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675001",
+		"listingAgent": {
+			"name": "Katrina Meucci",
+			"phone": "2077455161",
+			"email": "realtybykatrina@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-08-06": {
+				"event": "Sale Listing",
+				"price": 350000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-06T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 38
+			}
+		}
+	},
+	{
+		"id": "43-State-St,-Brewer,-ME-04412",
+		"formattedAddress": "43 State St, Brewer, ME 04412",
+		"addressLine1": "43 State St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.796276,
+		"longitude": -68.761071,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2037,
+		"lotSize": 3049,
+		"yearBuilt": 1890,
+		"status": "Active",
+		"price": 247000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-09T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:51:41.191Z",
+		"daysOnMarket": 36,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675348",
+		"listingAgent": {
+			"name": "Virginia Rush",
+			"phone": "2072403225",
+			"email": "gingarmarden.realtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-08-08": {
+				"event": "Sale Listing",
+				"price": 247000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 36
+			}
+		}
+	},
+	{
+		"id": "18-Kings-Ct,-Brewer,-ME-04412",
+		"formattedAddress": "18 Kings Ct, Brewer, ME 04412",
+		"addressLine1": "18 Kings Ct",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.773465,
+		"longitude": -68.778241,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2068,
+		"lotSize": 15246,
+		"yearBuilt": 1995,
+		"status": "Active",
+		"price": 375000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-03-07T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:51:41.170Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675845",
+		"listingAgent": {
+			"name": "Timothy Bush",
+			"phone": "2079510747",
+			"email": "timbushrealestate@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 375000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "87-Eastern-Ave,-Brewer,-ME-04412",
+		"formattedAddress": "87 Eastern Ave, Brewer, ME 04412",
+		"addressLine1": "87 Eastern Ave",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.790085,
+		"longitude": -68.749197,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 1.5,
+		"squareFootage": 2157,
+		"lotSize": 22216,
+		"yearBuilt": 1957,
+		"status": "Active",
+		"price": 249000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:51:41.167Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675907",
+		"listingAgent": {
+			"name": "Katrina Meucci",
+			"phone": "2077455161",
+			"email": "realtybykatrina@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "16-Derusha-Ln,-Brewer,-ME-04412",
+		"formattedAddress": "16 Derusha Ln, Brewer, ME 04412",
+		"addressLine1": "16 Derusha Ln",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.772422,
+		"longitude": -68.778509,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1150,
+		"lotSize": 14375,
+		"yearBuilt": 1910,
+		"status": "Active",
+		"price": 284000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:51:41.124Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676589",
+		"listingAgent": {
+			"name": "Christopher Pepin",
+			"phone": "2079424618",
+			"email": "cpepin@gmail.com"
+		},
+		"listingOffice": {
+			"name": "CENTURY 21 Queen City Real Estate",
+			"phone": "2079424618",
+			"email": "almjhm@hotmail.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 284000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "276-Wilson-St,-Brewer,-ME-04412",
+		"formattedAddress": "276 Wilson St, Brewer, ME 04412",
+		"addressLine1": "276 Wilson St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.789446,
+		"longitude": -68.758413,
+		"propertyType": "Multi-Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2329,
+		"lotSize": 4792,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 304000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-06-05T10:30:18.976Z",
+		"lastSeenDate": "2026-09-12T06:51:41.120Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676785",
+		"listingAgent": {
+			"name": "Sarah Ryan",
+			"phone": "2072402093",
+			"email": "sarahryan0622@gmail.com",
+			"website": "https://sarahryan.mynexthomeexperience.com/"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 304000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "22-Cross-St,-Brewer,-ME-04412",
+		"formattedAddress": "22 Cross St, Brewer, ME 04412",
+		"addressLine1": "22 Cross St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.776207,
+		"longitude": -68.773771,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1443,
+		"lotSize": 14375,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 125000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-18T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-19T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:51:41.083Z",
+		"daysOnMarket": 26,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676653",
+		"listingAgent": {
+			"name": "Bethany Warde",
+			"phone": "2075698873",
+			"email": "bethanywarderealty@gmail.com"
+		},
+		"listingOffice": {
+			"name": "On Point Realty",
+			"phone": "2077545058",
+			"email": "tashamasseyrealty@gmail.com"
+		},
+		"history": {
+			"2026-08-18": {
+				"event": "Sale Listing",
+				"price": 125000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-18T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 26
+			}
+		}
+	},
+	{
+		"id": "33-Black-Bear-Rd,-Brewer,-ME-04412",
+		"formattedAddress": "33 Black Bear Rd, Brewer, ME 04412",
+		"addressLine1": "33 Black Bear Rd",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.808934,
+		"longitude": -68.708802,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 924,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 550
+		},
+		"status": "Active",
+		"price": 94000,
+		"listingType": "New Construction",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.970Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679456",
+		"listingAgent": {
+			"name": "Virginia Rush",
+			"phone": "2072403225",
+			"email": "gingarmarden.realtor@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Nexthome Experience",
+			"phone": "2075737400",
+			"email": "nexthomeexperience@gmail.com",
+			"website": "mynexthomeexperience.com/homes-for-sale"
+		},
+		"history": {
+			"2026-04-20": {
+				"event": "Sale Listing",
+				"price": 94000,
+				"listingType": "New Construction",
+				"listedDate": "2026-04-20T00:00:00.000Z",
+				"removedDate": "2026-07-17T00:00:00.000Z",
+				"daysOnMarket": 88
+			},
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 94000,
+				"listingType": "New Construction",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "6-Russett-St,-Brewer,-ME-04412",
+		"formattedAddress": "6 Russett St, Brewer, ME 04412",
+		"addressLine1": "6 Russett St",
+		"addressLine2": null,
+		"city": "Brewer",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04412",
+		"county": "Penobscot",
+		"countyFips": "019",
+		"latitude": 44.801276,
+		"longitude": -68.74679,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1859,
+		"lotSize": 10890,
+		"yearBuilt": 1968,
+		"status": "Active",
+		"price": 379000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-02-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:40:16.961Z",
+		"daysOnMarket": 5,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679598",
+		"listingAgent": {
+			"name": "Jermaine Walker",
+			"phone": "2016938356",
+			"email": "jermaine.walker@exprealty.com",
+			"website": "http://jermainewalker.exprealty.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-02-07": {
+				"event": "Sale Listing",
+				"price": 105000,
+				"listingType": "Standard",
+				"listedDate": "2026-02-07T00:00:00.000Z",
+				"removedDate": "2026-02-11T00:00:00.000Z",
+				"daysOnMarket": 4
+			},
+			"2026-09-08": {
+				"event": "Sale Listing",
+				"price": 379000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 5
+			}
+		}
+	}
+]
