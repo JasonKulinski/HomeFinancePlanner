@@ -1,4 +1,3 @@
-import AffordabilityCalculator from './components/AffordabilityCalculator'
 import { Cartesian3, Ion } from 'cesium'
 import { Entity, EntityDescription, PointGraphics, Viewer } from 'resium'
 
@@ -7,16 +6,14 @@ Ion.defaultAccessToken =
 const position = Cartesian3.fromDegrees(-74.0707383, 40.7117244, 100)
 const pointGraphics = { pixelSize: 100 }
 
-export default function App() {
+export default function Map() {
     return (
         <main className='page'>
             <header className='page-header'>
-                <h1>Ledger</h1>
-                <p className='tagline'>Work out what a home in your area actually costs you — to save for, and to keep.</p>
+                <h1>Map</h1>
+                <p className='tagline'>Find homes you're interested in.</p>
             </header>
-            <AffordabilityCalculator />
             <Viewer
-                // full
                 timeline={false}
                 navigationHelpButton={false}
                 // geocoder={IonGeocodeProviderType.GOOGLE}
@@ -29,7 +26,7 @@ export default function App() {
                 <Entity position={position} point={pointGraphics}>
                     <PointGraphics pixelSize={10} />
                     <EntityDescription>
-                        <h1>Hello, world.</h1>
+                        <h1>Hello, moon.</h1>
                         <p>JSX is available here!</p>
                     </EntityDescription>
                 </Entity>
