@@ -1,0 +1,3335 @@
+[
+	{
+		"id": "9-Heritage-Way,-Unit-5,-Saco,-ME-04072",
+		"formattedAddress": "9 Heritage Way, Unit 5, Saco, ME 04072",
+		"addressLine1": "9 Heritage Way",
+		"addressLine2": "Unit 5",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.500256,
+		"longitude": -70.4245,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 933,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 150
+		},
+		"status": "Active",
+		"price": 528000,
+		"listingType": "New Construction",
+		"listedDate": "2024-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T10:02:21.916Z",
+		"daysOnMarket": 792,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1596776",
+		"listingAgent": {
+			"name": "Kathleen Mccallum",
+			"phone": "2072942505",
+			"email": "kmcc@maine.rr.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2024-07-13": {
+				"event": "Sale Listing",
+				"price": 528000,
+				"listingType": "New Construction",
+				"listedDate": "2024-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 792
+			}
+		}
+	},
+	{
+		"id": "38-Pine-Ridge-Rd,-Saco,-ME-04072",
+		"formattedAddress": "38 Pine Ridge Rd, Saco, ME 04072",
+		"addressLine1": "38 Pine Ridge Rd",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.489316,
+		"longitude": -70.428543,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 3.5,
+		"squareFootage": 4026,
+		"lotSize": 188179,
+		"yearBuilt": 1985,
+		"status": "Active",
+		"price": 2265000,
+		"listingType": "Standard",
+		"listedDate": "2025-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.978Z",
+		"daysOnMarket": 396,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1634111",
+		"listingAgent": {
+			"name": "Roz Anton",
+			"phone": "2074503230",
+			"email": "roz@rozanton.com",
+			"website": "https://roslindanton.exprealty.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2025-08-13": {
+				"event": "Sale Listing",
+				"price": 2265000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 396
+			}
+		}
+	},
+	{
+		"id": "3-Walker-Dr,-Unit-101,-Saco,-ME-04072",
+		"formattedAddress": "3 Walker Dr, Unit 101, Saco, ME 04072",
+		"addressLine1": "3 Walker Dr",
+		"addressLine2": "Unit 101",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.480483,
+		"longitude": -70.404817,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1865,
+		"lotSize": 18295,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 21
+		},
+		"status": "Active",
+		"price": 975000,
+		"listingType": "New Construction",
+		"listedDate": "2026-01-15T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-01-16T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.903Z",
+		"daysOnMarket": 241,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1649445",
+		"listingAgent": {
+			"name": "Matthew G Chamberlain",
+			"phone": "2074507653",
+			"email": "matthewc@maine.rr.com",
+			"website": "http://www.realtyformaine.com/"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-01-15": {
+				"event": "Sale Listing",
+				"price": 975000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-15T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 241
+			}
+		}
+	},
+	{
+		"id": "16-Ocean-Greens-Dr,-Saco,-ME-04072",
+		"formattedAddress": "16 Ocean Greens Dr, Saco, ME 04072",
+		"addressLine1": "16 Ocean Greens Dr",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.493179,
+		"longitude": -70.417285,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 7863,
+		"lotSize": 48787,
+		"yearBuilt": 2006,
+		"status": "Active",
+		"price": 1670000,
+		"listingType": "Standard",
+		"listedDate": "2026-03-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-03-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:54:55.898Z",
+		"daysOnMarket": 172,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1655334",
+		"listingAgent": {
+			"name": "Luke Morris",
+			"phone": "6034015858"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2025-03-28": {
+				"event": "Sale Listing",
+				"price": 1989000,
+				"listingType": "Standard",
+				"listedDate": "2025-03-28T00:00:00.000Z",
+				"removedDate": "2025-08-18T00:00:00.000Z",
+				"daysOnMarket": 143
+			},
+			"2026-03-25": {
+				"event": "Sale Listing",
+				"price": 1670000,
+				"listingType": "Standard",
+				"listedDate": "2026-03-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 172
+			}
+		}
+	},
+	{
+		"id": "60-North-St,-Saco,-ME-04072",
+		"formattedAddress": "60 North St, Saco, ME 04072",
+		"addressLine1": "60 North St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.502551,
+		"longitude": -70.445396,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2,
+		"squareFootage": 2074,
+		"lotSize": 6970,
+		"yearBuilt": 1860,
+		"status": "Active",
+		"price": 655000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.447Z",
+		"daysOnMarket": 153,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1657648",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2026-04-13": {
+				"event": "Sale Listing",
+				"price": 655000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 153
+			}
+		}
+	},
+	{
+		"id": "15-Thunder-Rd,-Saco,-ME-04072",
+		"formattedAddress": "15 Thunder Rd, Saco, ME 04072",
+		"addressLine1": "15 Thunder Rd",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.48808,
+		"longitude": -70.427883,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 3807,
+		"lotSize": 252212,
+		"yearBuilt": 1987,
+		"status": "Active",
+		"price": 1895000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-08-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.430Z",
+		"daysOnMarket": 150,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1658106",
+		"listingAgent": {
+			"name": "David Banks, Agent",
+			"phone": "2077732345",
+			"email": "dbanks@davidbanksteam.com",
+			"website": "http://www.davidbanksteam.com"
+		},
+		"listingOffice": {
+			"name": "Remax By The Bay",
+			"phone": "2077732345",
+			"email": "banks7610@gmail.com",
+			"website": "by-the-bay-portland-me.remax.com"
+		},
+		"history": {
+			"2025-08-22": {
+				"event": "Sale Listing",
+				"price": 1999000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-22T00:00:00.000Z",
+				"removedDate": "2026-03-01T00:00:00.000Z",
+				"daysOnMarket": 191
+			},
+			"2026-04-16": {
+				"event": "Sale Listing",
+				"price": 1895000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 150
+			}
+		}
+	},
+	{
+		"id": "22-Ocean-Park-Rd,-Unit-136,-Saco,-ME-04072",
+		"formattedAddress": "22 Ocean Park Rd, Unit 136, Saco, ME 04072",
+		"addressLine1": "22 Ocean Park Rd",
+		"addressLine2": "Unit 136",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510266,
+		"longitude": -70.429432,
+		"propertyType": "Condo",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 2016,
+		"lotSize": 139392,
+		"yearBuilt": 2007,
+		"hoa": {
+			"fee": 586
+		},
+		"status": "Active",
+		"price": 396000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.383Z",
+		"daysOnMarket": 139,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659449",
+		"listingAgent": {
+			"name": "James Kelly",
+			"phone": "2079391170"
+		},
+		"listingOffice": {
+			"name": "Charlene's Coastal Properties",
+			"phone": "2079378084",
+			"email": "charlene@charlenescoastalproperties.com",
+			"website": "http://www.charlenescoastalproperties.com"
+		},
+		"history": {
+			"2025-04-24": {
+				"event": "Sale Listing",
+				"price": 405000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-24T00:00:00.000Z",
+				"removedDate": "2026-01-01T00:00:00.000Z",
+				"daysOnMarket": 252
+			},
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 396000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 139
+			}
+		}
+	},
+	{
+		"id": "22-Ocean-Park-Rd,-Unit-133,-Saco,-ME-04072",
+		"formattedAddress": "22 Ocean Park Rd, Unit 133, Saco, ME 04072",
+		"addressLine1": "22 Ocean Park Rd",
+		"addressLine2": "Unit 133",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510274,
+		"longitude": -70.429432,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 576,
+		"lotSize": 139392,
+		"yearBuilt": 1992,
+		"hoa": {
+			"fee": 293
+		},
+		"status": "Active",
+		"price": 189000,
+		"listingType": "Standard",
+		"listedDate": "2026-04-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-02-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.375Z",
+		"daysOnMarket": 139,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659388",
+		"listingAgent": {
+			"name": "James Kelly",
+			"phone": "2079391170"
+		},
+		"listingOffice": {
+			"name": "Charlene's Coastal Properties",
+			"phone": "2079378084",
+			"email": "charlene@charlenescoastalproperties.com",
+			"website": "http://www.charlenescoastalproperties.com"
+		},
+		"history": {
+			"2025-04-24": {
+				"event": "Sale Listing",
+				"price": 192000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-24T00:00:00.000Z",
+				"removedDate": "2026-01-01T00:00:00.000Z",
+				"daysOnMarket": 252
+			},
+			"2026-04-27": {
+				"event": "Sale Listing",
+				"price": 189000,
+				"listingType": "Standard",
+				"listedDate": "2026-04-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 139
+			}
+		}
+	},
+	{
+		"id": "1-Village-Green-Dr,-Apt-5,-Saco,-ME-04072",
+		"formattedAddress": "1 Village Green Dr, Apt 5, Saco, ME 04072",
+		"addressLine1": "1 Village Green Dr",
+		"addressLine2": "Apt 5",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.514027,
+		"longitude": -70.450818,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 960,
+		"lotSize": 5663,
+		"yearBuilt": 1981,
+		"hoa": {
+			"fee": 325
+		},
+		"status": "Active",
+		"price": 278900,
+		"listingType": "Standard",
+		"listedDate": "2026-04-24T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-04-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.370Z",
+		"daysOnMarket": 142,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1659173",
+		"listingAgent": {
+			"name": "Roz Anton",
+			"phone": "2074503230",
+			"email": "roz@rozanton.com",
+			"website": "https://roslindanton.exprealty.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-04-24": {
+				"event": "Sale Listing",
+				"price": 278900,
+				"listingType": "Standard",
+				"listedDate": "2026-04-24T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 142
+			}
+		}
+	},
+	{
+		"id": "Sawyer-St,-Saco,-ME-04072",
+		"formattedAddress": "Sawyer St, Saco, ME 04072",
+		"addressLine1": "Sawyer St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.504144,
+		"longitude": -70.446978,
+		"propertyType": "Land",
+		"lotSize": 10890,
+		"status": "Active",
+		"price": 224900,
+		"listingType": "Standard",
+		"listedDate": "2026-05-04T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-05-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.347Z",
+		"daysOnMarket": 132,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1660446",
+		"listingAgent": {
+			"name": "Christopher Cronkhite",
+			"phone": "2072848000",
+			"email": "chriscronkhite@gmail.com",
+			"website": "www.seabreezerealestate.net"
+		},
+		"listingOffice": {
+			"name": "Sea Breeze Real Estate",
+			"phone": "2072848000",
+			"email": "chriscronkhite@gmail.com",
+			"website": "http://www.seabreezerealestate.net"
+		},
+		"history": {
+			"2024-05-29": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2024-05-29T00:00:00.000Z",
+				"removedDate": "2025-01-31T00:00:00.000Z",
+				"daysOnMarket": 247
+			},
+			"2025-04-15": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2025-04-15T00:00:00.000Z",
+				"removedDate": "2026-04-15T00:00:00.000Z",
+				"daysOnMarket": 365
+			},
+			"2026-05-04": {
+				"event": "Sale Listing",
+				"price": 224900,
+				"listingType": "Standard",
+				"listedDate": "2026-05-04T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 132
+			}
+		}
+	},
+	{
+		"id": "Smutty-Ln,-Lot-3,-Saco,-ME-04072",
+		"formattedAddress": "Smutty Ln, Lot 3, Saco, ME 04072",
+		"addressLine1": "Smutty Ln",
+		"addressLine2": "Lot 3",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.527044,
+		"longitude": -70.507533,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1964,
+		"lotSize": 104108,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 799900,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-08T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.340Z",
+		"daysOnMarket": 128,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661184",
+		"listingAgent": {
+			"name": "Angie Adrien",
+			"phone": "6038179113",
+			"email": "angie@heartandhomere.com",
+			"website": "https://hearthomere.com"
+		},
+		"listingOffice": {
+			"name": "Heart & Home Realty",
+			"phone": "2076049880",
+			"email": "angie@heartandhomere.com"
+		},
+		"history": {
+			"2026-05-08": {
+				"event": "Sale Listing",
+				"price": 799900,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-08T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 128
+			}
+		}
+	},
+	{
+		"id": "7-Memory-Ln,-Saco,-ME-04072",
+		"formattedAddress": "7 Memory Ln, Saco, ME 04072",
+		"addressLine1": "7 Memory Ln",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.585251,
+		"longitude": -70.457966,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2551,
+		"lotSize": 108029,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 33
+		},
+		"status": "Active",
+		"price": 1099999,
+		"listingType": "New Construction",
+		"listedDate": "2026-05-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-05-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:49:40.338Z",
+		"daysOnMarket": 123,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1661877",
+		"listingAgent": {
+			"name": "Cady Toussaint",
+			"phone": "2076042389",
+			"email": "cadytoussaint@portsidereg.com",
+			"website": "http://www.cadytoussaint.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2075364222",
+			"email": "info@portsidereg.com"
+		},
+		"history": {
+			"2026-05-13": {
+				"event": "Sale Listing",
+				"price": 1099999,
+				"listingType": "New Construction",
+				"listedDate": "2026-05-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 123
+			}
+		}
+	},
+	{
+		"id": "3-Island-View-Ave,-Saco,-ME-04072",
+		"formattedAddress": "3 Island View Ave, Saco, ME 04072",
+		"addressLine1": "3 Island View Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.470295,
+		"longitude": -70.385601,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 600,
+		"lotSize": 4356,
+		"yearBuilt": 1971,
+		"status": "Active",
+		"price": 559000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-09T10:49:39.201Z",
+		"lastSeenDate": "2026-09-12T09:45:41.732Z",
+		"daysOnMarket": 117,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1662888",
+		"listingAgent": {
+			"name": "Lisa Hughes",
+			"phone": "2072825988",
+			"email": "lisa.hughes@cbrealty.com",
+			"website": "https://lisahughesrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2025-06-25": {
+				"event": "Sale Listing",
+				"price": 610000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-25T00:00:00.000Z",
+				"removedDate": "2025-09-12T00:00:00.000Z",
+				"daysOnMarket": 79
+			},
+			"2025-09-19": {
+				"event": "Sale Listing",
+				"price": 604000,
+				"listingType": "Standard",
+				"listedDate": "2025-09-19T00:00:00.000Z",
+				"removedDate": "2025-10-03T00:00:00.000Z",
+				"daysOnMarket": 14
+			},
+			"2026-05-19": {
+				"event": "Sale Listing",
+				"price": 559000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 117
+			}
+		}
+	},
+	{
+		"id": "295-Buxton-Rd,-Saco,-ME-04072",
+		"formattedAddress": "295 Buxton Rd, Saco, ME 04072",
+		"addressLine1": "295 Buxton Rd",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.556052,
+		"longitude": -70.493024,
+		"propertyType": "Single Family",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 778,
+		"lotSize": 399010,
+		"yearBuilt": 1942,
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-05-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-06-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.677Z",
+		"daysOnMarket": 110,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1663893",
+		"listingAgent": {
+			"name": "Kaitlyn Mooers",
+			"phone": "2072825988",
+			"email": "kaitlyn.mooers@nemoves.com",
+			"website": "http://kaitlynmooers.cbintouch.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2025-06-25": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2025-06-25T00:00:00.000Z",
+				"removedDate": "2025-12-24T00:00:00.000Z",
+				"daysOnMarket": 182
+			},
+			"2026-05-26": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-05-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 110
+			}
+		}
+	},
+	{
+		"id": "18-Park-St,-Unit-405,-Saco,-ME-04072",
+		"formattedAddress": "18 Park St, Unit 405, Saco, ME 04072",
+		"addressLine1": "18 Park St",
+		"addressLine2": "Unit 405",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.506119,
+		"longitude": -70.450285,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 3000,
+		"yearBuilt": 1900,
+		"hoa": {
+			"fee": 860
+		},
+		"status": "Active",
+		"price": 649000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.631Z",
+		"daysOnMarket": 95,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666532",
+		"listingAgent": {
+			"name": "Tom Landry",
+			"phone": "2079390185",
+			"email": "landryteam@benchmarkmaine.com",
+			"website": "http://www.benchmarkmaine.com"
+		},
+		"listingOffice": {
+			"name": "\tBenchmark Real Estate",
+			"phone": "2077750248",
+			"email": "landryteam@benchmarkmaine.com",
+			"website": "http://www.benchmarkmaine.com"
+		},
+		"history": {
+			"2026-06-10": {
+				"event": "Sale Listing",
+				"price": 649000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 95
+			}
+		}
+	},
+	{
+		"id": "131-Beach-St,-Saco,-ME-04072",
+		"formattedAddress": "131 Beach St, Saco, ME 04072",
+		"addressLine1": "131 Beach St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.498877,
+		"longitude": -70.436024,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 2066,
+		"lotSize": 7841,
+		"yearBuilt": 1900,
+		"status": "Active",
+		"price": 495000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-02T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-03T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.622Z",
+		"daysOnMarket": 103,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1665042",
+		"listingAgent": {
+			"name": "Jason Saphire",
+			"phone": "8772495478",
+			"email": "entryonly.lead@gmail.com",
+			"website": "http://www.entryonly.com/"
+		},
+		"listingOffice": {
+			"name": "HomeZu.com",
+			"phone": "8772495478",
+			"email": "listings@homezu.com",
+			"website": "http://www.homezu.com"
+		},
+		"history": {
+			"2026-06-02": {
+				"event": "Sale Listing",
+				"price": 495000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-02T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 103
+			}
+		}
+	},
+	{
+		"id": "84-Jenkins-Rd,-Saco,-ME-04072",
+		"formattedAddress": "84 Jenkins Rd, Saco, ME 04072",
+		"addressLine1": "84 Jenkins Rd",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.53731,
+		"longitude": -70.457126,
+		"propertyType": "Land",
+		"lotSize": 23087,
+		"status": "Active",
+		"price": 219900,
+		"listingType": "Standard",
+		"listedDate": "2026-06-07T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-08T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T09:45:41.617Z",
+		"daysOnMarket": 98,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1666000",
+		"listingAgent": {
+			"name": "Matthew G Chamberlain",
+			"phone": "2074507653",
+			"email": "matthewc@maine.rr.com",
+			"website": "http://www.realtyformaine.com/"
+		},
+		"listingOffice": {
+			"name": "Regency Realty Group",
+			"phone": "2072531500",
+			"email": "matthewc@maine.rr.com",
+			"website": "www.regencyme.com"
+		},
+		"history": {
+			"2026-06-07": {
+				"event": "Sale Listing",
+				"price": 219900,
+				"listingType": "Standard",
+				"listedDate": "2026-06-07T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 98
+			}
+		}
+	},
+	{
+		"id": "91-Bradley-St,-Saco,-ME-04072",
+		"formattedAddress": "91 Bradley St, Saco, ME 04072",
+		"addressLine1": "91 Bradley St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.504997,
+		"longitude": -70.453964,
+		"propertyType": "Multi-Family",
+		"bathrooms": 6,
+		"squareFootage": 6321,
+		"lotSize": 34412,
+		"yearBuilt": 1892,
+		"status": "Active",
+		"price": 1550000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.674Z",
+		"daysOnMarket": 79,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1669203",
+		"listingAgent": {
+			"name": "Keeley Mann"
+		},
+		"listingOffice": {
+			"name": "Meservier & Associates",
+			"phone": "2077842525",
+			"email": "sue@meservier.com",
+			"website": "https://meservier.com"
+		},
+		"history": {
+			"2025-11-14": {
+				"event": "Sale Listing",
+				"price": 1790000,
+				"listingType": "Standard",
+				"listedDate": "2025-11-14T00:00:00.000Z",
+				"removedDate": "2026-02-05T00:00:00.000Z",
+				"daysOnMarket": 83
+			},
+			"2026-06-26": {
+				"event": "Sale Listing",
+				"price": 1550000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 79
+			}
+		}
+	},
+	{
+		"id": "11-Academy-Pl,-Apt-36,-Saco,-ME-04072",
+		"formattedAddress": "11 Academy Pl, Apt 36, Saco, ME 04072",
+		"addressLine1": "11 Academy Pl",
+		"addressLine2": "Apt 36",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.507026,
+		"longitude": -70.433769,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 891,
+		"lotSize": 4792,
+		"yearBuilt": 1985,
+		"hoa": {
+			"fee": 475
+		},
+		"status": "Active",
+		"price": 289000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2023-05-25T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.647Z",
+		"daysOnMarket": 86,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668048",
+		"listingAgent": {
+			"name": "Skye Bemis",
+			"phone": "2075727471",
+			"email": "skyesellsmaine@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Experts",
+			"phone": "2076422100",
+			"email": "info@mainerealestateexperts.com",
+			"website": "www.mainerealestateexperts.com"
+		},
+		"history": {
+			"2026-06-19": {
+				"event": "Sale Listing",
+				"price": 289000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 86
+			}
+		}
+	},
+	{
+		"id": "22-Ocean-Park-Rd,-Unit-139,-Saco,-ME-04072",
+		"formattedAddress": "22 Ocean Park Rd, Unit 139, Saco, ME 04072",
+		"addressLine1": "22 Ocean Park Rd",
+		"addressLine2": "Unit 139",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510266,
+		"longitude": -70.429432,
+		"propertyType": "Condo",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 1696,
+		"lotSize": 139392,
+		"yearBuilt": 2007,
+		"hoa": {
+			"fee": 586
+		},
+		"status": "Active",
+		"price": 410000,
+		"listingType": "Standard",
+		"listedDate": "2026-06-22T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-06-23T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:50:22.637Z",
+		"daysOnMarket": 83,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1668401",
+		"listingAgent": {
+			"name": "Deb Bateman",
+			"phone": "2077306871",
+			"email": "debra.bateman73@gmail.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-06-22": {
+				"event": "Sale Listing",
+				"price": 410000,
+				"listingType": "Standard",
+				"listedDate": "2026-06-22T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 83
+			}
+		}
+	},
+	{
+		"id": "9-Oakland-St,-Saco,-ME-04072",
+		"formattedAddress": "9 Oakland St, Saco, ME 04072",
+		"addressLine1": "9 Oakland St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.509,
+		"longitude": -70.46339,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1344,
+		"lotSize": 17860,
+		"yearBuilt": 2026,
+		"status": "Active",
+		"price": 570000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.962Z",
+		"daysOnMarket": 64,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671434",
+		"listingAgent": {
+			"name": "Angie Adrien",
+			"phone": "6038179113",
+			"email": "angie@heartandhomere.com",
+			"website": "https://hearthomere.com"
+		},
+		"listingOffice": {
+			"name": "Heart & Home Realty",
+			"phone": "2076049880",
+			"email": "angie@heartandhomere.com"
+		},
+		"history": {
+			"2026-07-11": {
+				"event": "Sale Listing",
+				"price": 570000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 64
+			}
+		}
+	},
+	{
+		"id": "994-Portland-Rd,-Unit-2,-Saco,-ME-04072",
+		"formattedAddress": "994 Portland Rd, Unit 2, Saco, ME 04072",
+		"addressLine1": "994 Portland Rd",
+		"addressLine2": "Unit 2",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.553882,
+		"longitude": -70.406716,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 540,
+		"lotSize": 2614,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 200
+		},
+		"status": "Active",
+		"price": 285000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-10-20T09:47:47.446Z",
+		"lastSeenDate": "2026-09-12T08:46:44.953Z",
+		"daysOnMarket": 62,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1671621",
+		"listingAgent": {
+			"name": "Deja Lett",
+			"phone": "2074158204",
+			"email": "deja@tophomesgroup.com",
+			"website": "http://www.topmainehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2025-08-04": {
+				"event": "Sale Listing",
+				"price": 299000,
+				"listingType": "Standard",
+				"listedDate": "2025-08-04T00:00:00.000Z",
+				"removedDate": "2025-09-13T00:00:00.000Z",
+				"daysOnMarket": 40
+			},
+			"2026-07-13": {
+				"event": "Sale Listing",
+				"price": 285000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 62
+			}
+		}
+	},
+	{
+		"id": "25-Green-St,-Saco,-ME-04072",
+		"formattedAddress": "25 Green St, Saco, ME 04072",
+		"addressLine1": "25 Green St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.500347,
+		"longitude": -70.450263,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 1626,
+		"lotSize": 7841,
+		"yearBuilt": 1958,
+		"status": "Active",
+		"price": 520000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-16T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-04-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.936Z",
+		"daysOnMarket": 59,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672259",
+		"listingAgent": {
+			"name": "Mandy Wheeler",
+			"phone": "2073331050",
+			"email": "realtormandylou@gmail.com",
+			"website": "https://www.uandrrealestate.com/mandy-wheeler"
+		},
+		"listingOffice": {
+			"name": "U&R Real Estate",
+			"phone": "2073331050",
+			"email": "uandrrealestate@gmail.com"
+		},
+		"history": {
+			"2024-07-18": {
+				"event": "Sale Listing",
+				"price": 400000,
+				"listingType": "Standard",
+				"listedDate": "2024-07-18T00:00:00.000Z",
+				"removedDate": "2024-10-26T00:00:00.000Z",
+				"daysOnMarket": 100
+			},
+			"2024-10-28": {
+				"event": "Sale Listing",
+				"price": 395000,
+				"listingType": "Standard",
+				"listedDate": "2024-10-28T00:00:00.000Z",
+				"removedDate": "2025-01-22T00:00:00.000Z",
+				"daysOnMarket": 86
+			},
+			"2026-07-16": {
+				"event": "Sale Listing",
+				"price": 520000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-16T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 59
+			}
+		}
+	},
+	{
+		"id": "39-Cumberland-Ave,-Saco,-ME-04072",
+		"formattedAddress": "39 Cumberland Ave, Saco, ME 04072",
+		"addressLine1": "39 Cumberland Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.505011,
+		"longitude": -70.4248,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 1017,
+		"lotSize": 13504,
+		"yearBuilt": 1920,
+		"status": "Active",
+		"price": 364900,
+		"listingType": "Standard",
+		"listedDate": "2026-07-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2021-07-27T09:13:37.243Z",
+		"lastSeenDate": "2026-09-12T08:46:44.893Z",
+		"daysOnMarket": 48,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673648",
+		"listingAgent": {
+			"name": "Janisa Geyer",
+			"phone": "2079398163",
+			"email": "janisa.geyer@verani.com"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2026-07-27": {
+				"event": "Sale Listing",
+				"price": 364900,
+				"listingType": "Standard",
+				"listedDate": "2026-07-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 48
+			}
+		}
+	},
+	{
+		"id": "11-Heritage-Way,-Unit-6,-Saco,-ME-04072",
+		"formattedAddress": "11 Heritage Way, Unit 6, Saco, ME 04072",
+		"addressLine1": "11 Heritage Way",
+		"addressLine2": "Unit 6",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.500439,
+		"longitude": -70.424522,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 1164,
+		"lotSize": 6534,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 159
+		},
+		"status": "Active",
+		"price": 532000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-12-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.883Z",
+		"daysOnMarket": 54,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1672716",
+		"listingAgent": {
+			"name": "Cristina Eugen",
+			"phone": "2077101477",
+			"email": "cristinaeugen@kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2024-10-01": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "New Construction",
+				"listedDate": "2024-10-01T00:00:00.000Z",
+				"removedDate": "2025-06-12T00:00:00.000Z",
+				"daysOnMarket": 254
+			},
+			"2026-07-21": {
+				"event": "Sale Listing",
+				"price": 532000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 54
+			}
+		}
+	},
+	{
+		"id": "2-Wood-Ave,-Saco,-ME-04072",
+		"formattedAddress": "2 Wood Ave, Saco, ME 04072",
+		"addressLine1": "2 Wood Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.500107,
+		"longitude": -70.431246,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 2024,
+		"lotSize": 13504,
+		"yearBuilt": 1952,
+		"status": "Active",
+		"price": 530000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-28T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-29T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.874Z",
+		"daysOnMarket": 47,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673739",
+		"listingAgent": {
+			"name": "Joseph Penna",
+			"phone": "2077811111",
+			"email": "joe@fobailey.com"
+		},
+		"listingOffice": {
+			"name": "F.O. Bailey Real Estate",
+			"phone": "2077811111",
+			"email": "info@fobailey.com",
+			"website": "http://www.fobaileyrealestate.com"
+		},
+		"history": {
+			"2026-07-28": {
+				"event": "Sale Listing",
+				"price": 530000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-28T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 47
+			}
+		}
+	},
+	{
+		"id": "New-County-Rd,-Unit-102,-Saco,-ME-04072",
+		"formattedAddress": "New County Rd, Unit 102, Saco, ME 04072",
+		"addressLine1": "New County Rd",
+		"addressLine2": "Unit 102",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.516347,
+		"longitude": -70.474932,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 3.5,
+		"squareFootage": 4000,
+		"lotSize": 351529,
+		"yearBuilt": 2026,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 2250000,
+		"listingType": "New Construction",
+		"listedDate": "2026-07-29T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-30T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:46:44.857Z",
+		"daysOnMarket": 46,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673917",
+		"listingAgent": {
+			"name": "Victoria Bedard",
+			"phone": "2077101908",
+			"email": "victoria.bedardrealty@gmail.com",
+			"website": "http://www.bedardhomesandrealty.com/"
+		},
+		"listingOffice": {
+			"name": "Bedard Homes and Realty",
+			"phone": "2077101908",
+			"email": "victoria.bedardrealty@gmail.com"
+		},
+		"history": {
+			"2026-07-29": {
+				"event": "Sale Listing",
+				"price": 2250000,
+				"listingType": "New Construction",
+				"listedDate": "2026-07-29T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 46
+			}
+		}
+	},
+	{
+		"id": "10-Aspen-Dr,-Saco,-ME-04072",
+		"formattedAddress": "10 Aspen Dr, Saco, ME 04072",
+		"addressLine1": "10 Aspen Dr",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.514121,
+		"longitude": -70.462373,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1713,
+		"lotSize": 10454,
+		"yearBuilt": 1999,
+		"status": "Active",
+		"price": 650000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.894Z",
+		"daysOnMarket": 45,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674151",
+		"listingAgent": {
+			"name": "Mandy Wheeler",
+			"phone": "2073331050",
+			"email": "realtormandylou@gmail.com",
+			"website": "https://www.uandrrealestate.com/mandy-wheeler"
+		},
+		"listingOffice": {
+			"name": "U&R Real Estate",
+			"phone": "2073331050",
+			"email": "uandrrealestate@gmail.com"
+		},
+		"history": {
+			"2026-07-30": {
+				"event": "Sale Listing",
+				"price": 650000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 45
+			}
+		}
+	},
+	{
+		"id": "98-Shadagee-Rd,-Saco,-ME-04072",
+		"formattedAddress": "98 Shadagee Rd, Saco, ME 04072",
+		"addressLine1": "98 Shadagee Rd",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.51371,
+		"longitude": -70.46844,
+		"propertyType": "Land",
+		"lotSize": 13939,
+		"status": "Active",
+		"price": 224000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.889Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674254",
+		"listingAgent": {
+			"name": "Christina Connell",
+			"phone": "2074237292",
+			"email": "tina.connell@verani.com",
+			"website": "http://www.gregandtinateam.com/"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 224000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "144-Surf-St,-Saco,-ME-04072",
+		"formattedAddress": "144 Surf St, Saco, ME 04072",
+		"addressLine1": "144 Surf St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.474086,
+		"longitude": -70.384324,
+		"propertyType": "Multi-Family",
+		"bedrooms": 7,
+		"bathrooms": 3,
+		"squareFootage": 2370,
+		"lotSize": 16553,
+		"yearBuilt": 1954,
+		"status": "Active",
+		"price": 2200000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.887Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674257",
+		"listingAgent": {
+			"name": "Laura Sosnowski",
+			"phone": "2075173100",
+			"email": "laura@mainehomeconnection.com",
+			"website": "https://www.mainehomeconnection.com"
+		},
+		"listingOffice": {
+			"name": "Maine Home Connection",
+			"phone": "2075173100",
+			"email": "info@mainehomeconnection.com",
+			"website": "http://www.mainehomeconnection.com"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 2200000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "100-Shadagee-Rd,-Saco,-ME-04072",
+		"formattedAddress": "100 Shadagee Rd, Saco, ME 04072",
+		"addressLine1": "100 Shadagee Rd",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.513871,
+		"longitude": -70.468195,
+		"propertyType": "Land",
+		"lotSize": 12632,
+		"status": "Active",
+		"price": 224000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-31T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-01T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.886Z",
+		"daysOnMarket": 44,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674260",
+		"listingAgent": {
+			"name": "Christina Connell",
+			"phone": "2074237292",
+			"email": "tina.connell@verani.com",
+			"website": "http://www.gregandtinateam.com/"
+		},
+		"listingOffice": {
+			"name": " Berkshire Hathaway HomeServices Verani Realty",
+			"phone": "8887230306",
+			"email": "clientcare@verani.com",
+			"website": "http://www.verani.com/"
+		},
+		"history": {
+			"2026-07-31": {
+				"event": "Sale Listing",
+				"price": 224000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-31T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 44
+			}
+		}
+	},
+	{
+		"id": "284-Bradley-St,-Unit-3,-Saco,-ME-04072",
+		"formattedAddress": "284 Bradley St, Unit 3, Saco, ME 04072",
+		"addressLine1": "284 Bradley St",
+		"addressLine2": "Unit 3",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.51028,
+		"longitude": -70.4645,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1741,
+		"lotSize": 5227,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 250
+		},
+		"status": "Active",
+		"price": 624000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-06T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.837Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674866",
+		"listingAgent": {
+			"name": "John Fitzsimons",
+			"phone": "2072338314",
+			"email": "jfitzsimons@portsidereg.com"
+		},
+		"listingOffice": {
+			"name": "Portside Real Estate Group",
+			"phone": "2076197571",
+			"email": "info@portsidereg.com",
+			"website": "http://www.portsiderealestategroup.com"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 624000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "5-Blaine-St,-Unit-101,-Saco,-ME-04072",
+		"formattedAddress": "5 Blaine St, Unit 101, Saco, ME 04072",
+		"addressLine1": "5 Blaine St",
+		"addressLine2": "Unit 101",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.510644,
+		"longitude": -70.444156,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1630,
+		"lotSize": 104544,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 140
+		},
+		"status": "Active",
+		"price": 544000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2025-11-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.829Z",
+		"daysOnMarket": 39,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1674797",
+		"listingAgent": {
+			"name": "Kate Tracy Scamman",
+			"phone": "2072050066",
+			"email": "kate@valentinodevelopment.com",
+			"website": "https://www.instagram.com/bradleygreens_saco"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-05": {
+				"event": "Sale Listing",
+				"price": 544000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 39
+			}
+		}
+	},
+	{
+		"id": "13-Bay-Ave,-Saco,-ME-04072",
+		"formattedAddress": "13 Bay Ave, Saco, ME 04072",
+		"addressLine1": "13 Bay Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.463,
+		"longitude": -70.380828,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1332,
+		"lotSize": 4792,
+		"yearBuilt": 1971,
+		"status": "Active",
+		"price": 850000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-11T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-06-30T13:25:23.490Z",
+		"lastSeenDate": "2026-09-12T08:13:10.819Z",
+		"daysOnMarket": 33,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675710",
+		"listingAgent": {
+			"name": "Janice Pompeo",
+			"phone": "2073294534",
+			"email": "janice.pompeo@beangroup.com",
+			"website": "https://beangroup.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Group",
+			"email": "janice@themainerealestategroup.com"
+		},
+		"history": {
+			"2026-08-11": {
+				"event": "Sale Listing",
+				"price": 850000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-11T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 33
+			}
+		}
+	},
+	{
+		"id": "421-Ferry-Rd,-Saco,-ME-04072",
+		"formattedAddress": "421 Ferry Rd, Saco, ME 04072",
+		"addressLine1": "421 Ferry Rd",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.47861,
+		"longitude": -70.398139,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2370,
+		"lotSize": 13068,
+		"yearBuilt": 1779,
+		"status": "Active",
+		"price": 599900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-13T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.816Z",
+		"daysOnMarket": 32,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1675891",
+		"listingAgent": {
+			"name": "Jen Whitehead",
+			"phone": "2074058503",
+			"email": "jen@dreamhomemaine.com",
+			"website": "http://www.dreamhomemaine.com"
+		},
+		"listingOffice": {
+			"name": "Dream Home Realty LLC",
+			"phone": "2073004663",
+			"email": "lisalistsmaine@gmail.com"
+		},
+		"history": {
+			"2026-08-12": {
+				"event": "Sale Listing",
+				"price": 599900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 32
+			}
+		}
+	},
+	{
+		"id": "334-Lincoln-St,-Unit-2,-Saco,-ME-04072",
+		"formattedAddress": "334 Lincoln St, Unit 2, Saco, ME 04072",
+		"addressLine1": "334 Lincoln St",
+		"addressLine2": "Unit 2",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.501685,
+		"longitude": -70.465534,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 1659,
+		"lotSize": 11761,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 270
+		},
+		"status": "Active",
+		"price": 565000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-11-08T09:50:47.442Z",
+		"lastSeenDate": "2026-09-12T08:13:10.807Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676033",
+		"listingAgent": {
+			"name": "Ann Lapierre, Broker/owner",
+			"phone": "2073242860",
+			"email": "ann@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"listingOffice": {
+			"name": "Town Square Realty Group",
+			"phone": "2073242860",
+			"email": "office@townsquarerg.com",
+			"website": "http://www.townsquarerealtygroup.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 565000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "1-Ura-St,-Saco,-ME-04072",
+		"formattedAddress": "1 Ura St, Saco, ME 04072",
+		"addressLine1": "1 Ura St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50823,
+		"longitude": -70.453993,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 2431,
+		"lotSize": 7841,
+		"yearBuilt": 2017,
+		"status": "Active",
+		"price": 695000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-10-07T11:44:22.497Z",
+		"lastSeenDate": "2026-09-12T08:13:10.806Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676103",
+		"listingAgent": {
+			"name": "Mandy Wheeler",
+			"phone": "2073331050",
+			"email": "realtormandylou@gmail.com",
+			"website": "https://www.uandrrealestate.com/mandy-wheeler"
+		},
+		"listingOffice": {
+			"name": "U&R Real Estate",
+			"phone": "2073331050",
+			"email": "uandrrealestate@gmail.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 695000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "3-Roaring-Rock-Rd,-Unit-0,-Saco,-ME-04072",
+		"formattedAddress": "3 Roaring Rock Rd, Unit 0, Saco, ME 04072",
+		"addressLine1": "3 Roaring Rock Rd",
+		"addressLine2": "Unit 0",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.551701,
+		"longitude": -70.399055,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1302,
+		"yearBuilt": 2024,
+		"hoa": {
+			"fee": 350
+		},
+		"status": "Active",
+		"price": 695000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-13T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-14T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.804Z",
+		"daysOnMarket": 31,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676065",
+		"listingAgent": {
+			"name": "Kayla Brown",
+			"phone": "2075722483",
+			"email": "kayla@kwlifestyleproperties.com",
+			"website": "http://www.kwlifestyleproperties.com"
+		},
+		"listingOffice": {
+			"name": "Maine Real Estate Co",
+			"phone": "2072921030",
+			"email": "bailey@merealestateco.com"
+		},
+		"history": {
+			"2026-08-13": {
+				"event": "Sale Listing",
+				"price": 695000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-13T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 31
+			}
+		}
+	},
+	{
+		"id": "372-Main-St,-Apt-203,-Saco,-ME-04072",
+		"formattedAddress": "372 Main St, Apt 203, Saco, ME 04072",
+		"addressLine1": "372 Main St",
+		"addressLine2": "Apt 203",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.501614,
+		"longitude": -70.442558,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 1054,
+		"lotSize": 3485,
+		"yearBuilt": 2022,
+		"hoa": {
+			"fee": 225
+		},
+		"status": "Active",
+		"price": 337500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T08:13:10.800Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676222",
+		"listingAgent": {
+			"name": "Melanie Cran Michael Navarro",
+			"phone": "2072039022",
+			"email": "michael@elevatemaine.com"
+		},
+		"listingOffice": {
+			"name": "Elevate Realty LLC",
+			"phone": "2073314565",
+			"email": "info@elevatemaine.com"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 337500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "41-Hall-Ave,-Saco,-ME-04072",
+		"formattedAddress": "41 Hall Ave, Saco, ME 04072",
+		"addressLine1": "41 Hall Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.495659,
+		"longitude": -70.435494,
+		"propertyType": "Single Family",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 831,
+		"lotSize": 9583,
+		"yearBuilt": 1957,
+		"status": "Active",
+		"price": 349900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-14T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-15T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.791Z",
+		"daysOnMarket": 30,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676319",
+		"listingAgent": {
+			"name": "Michelle Berry",
+			"phone": "2076514398",
+			"website": "https://www.beangroup.com/agents/michelleberry"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-14": {
+				"event": "Sale Listing",
+				"price": 349900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-14T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 30
+			}
+		}
+	},
+	{
+		"id": "994-Portland-Rd,-Unit-29,-Saco,-ME-04072",
+		"formattedAddress": "994 Portland Rd, Unit 29, Saco, ME 04072",
+		"addressLine1": "994 Portland Rd",
+		"addressLine2": "Unit 29",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.55389,
+		"longitude": -70.406717,
+		"propertyType": "Condo",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"squareFootage": 722,
+		"lotSize": 2614,
+		"yearBuilt": 2021,
+		"hoa": {
+			"fee": 200
+		},
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.778Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676510",
+		"listingAgent": {
+			"name": "Deja Lett",
+			"phone": "2074158204",
+			"email": "deja@tophomesgroup.com",
+			"website": "http://www.topmainehomes.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "14-Cori-Dr,-Saco,-ME-04072",
+		"formattedAddress": "14 Cori Dr, Saco, ME 04072",
+		"addressLine1": "14 Cori Dr",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.529447,
+		"longitude": -70.454593,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 2.5,
+		"squareFootage": 2912,
+		"lotSize": 56628,
+		"yearBuilt": 2004,
+		"status": "Active",
+		"price": 767000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-17T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-18T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.778Z",
+		"daysOnMarket": 27,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676509",
+		"listingAgent": {
+			"name": "Ralph M. Harvey Iii",
+			"phone": "8554564945",
+			"email": "support@listwithfreedom.com"
+		},
+		"listingOffice": {
+			"name": "List With Freedom.Com",
+			"phone": "8554564945",
+			"email": "ralph@listwithfreedom.com",
+			"website": "listwithfreedom.com"
+		},
+		"history": {
+			"2026-08-17": {
+				"event": "Sale Listing",
+				"price": 767000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-17T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 27
+			}
+		}
+	},
+	{
+		"id": "12-Bradley-St,-Saco,-ME-04072",
+		"formattedAddress": "12 Bradley St, Saco, ME 04072",
+		"addressLine1": "12 Bradley St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.502622,
+		"longitude": -70.451023,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1407,
+		"lotSize": 4356,
+		"yearBuilt": 1850,
+		"status": "Active",
+		"price": 399000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-01-21T09:30:45.497Z",
+		"lastSeenDate": "2026-09-12T07:35:34.751Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676817",
+		"listingAgent": {
+			"name": "Caroline Smith",
+			"phone": "2074403002",
+			"email": "caroline@smithcorealty.com",
+			"website": "https://www.carolinesmithrealtor.com"
+		},
+		"listingOffice": {
+			"name": "Smith & Company Realty",
+			"phone": "2074758480",
+			"email": "cyndi@oceanexposure.com"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 399000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "7-Isle-Ave,-Unit-101,-Saco,-ME-04072",
+		"formattedAddress": "7 Isle Ave, Unit 101, Saco, ME 04072",
+		"addressLine1": "7 Isle Ave",
+		"addressLine2": "Unit 101",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.470296,
+		"longitude": -70.385239,
+		"propertyType": "Condo",
+		"bedrooms": 4,
+		"bathrooms": 4.5,
+		"squareFootage": 3300,
+		"lotSize": 239580,
+		"yearBuilt": 2025,
+		"hoa": {
+			"fee": 586
+		},
+		"status": "Active",
+		"price": 1299000,
+		"listingType": "New Construction",
+		"listedDate": "2026-08-20T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2024-08-21T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.715Z",
+		"daysOnMarket": 24,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677099",
+		"listingAgent": {
+			"name": "Alissa Saulnier",
+			"phone": "2075714882",
+			"email": "alissa@saulniersales.com"
+		},
+		"listingOffice": {
+			"name": "Forge Real Estate",
+			"phone": "9788956384",
+			"email": "alissasaulnier@gmail.com"
+		},
+		"history": {
+			"2025-04-15": {
+				"event": "Sale Listing",
+				"price": 1349000,
+				"listingType": "New Construction",
+				"listedDate": "2025-04-15T00:00:00.000Z",
+				"removedDate": "2025-09-17T00:00:00.000Z",
+				"daysOnMarket": 155
+			},
+			"2026-01-07": {
+				"event": "Sale Listing",
+				"price": 1395000,
+				"listingType": "New Construction",
+				"listedDate": "2026-01-07T00:00:00.000Z",
+				"removedDate": "2026-08-02T00:00:00.000Z",
+				"daysOnMarket": 207
+			},
+			"2026-08-20": {
+				"event": "Sale Listing",
+				"price": 1299000,
+				"listingType": "New Construction",
+				"listedDate": "2026-08-20T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 24
+			}
+		}
+	},
+	{
+		"id": "18-Dyer-St,-Saco,-ME-04072",
+		"formattedAddress": "18 Dyer St, Saco, ME 04072",
+		"addressLine1": "18 Dyer St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.502148,
+		"longitude": -70.451763,
+		"propertyType": "Single Family",
+		"bedrooms": 5,
+		"bathrooms": 2,
+		"squareFootage": 2384,
+		"lotSize": 5227,
+		"yearBuilt": 1870,
+		"status": "Active",
+		"price": 525000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-19T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-20T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.701Z",
+		"daysOnMarket": 25,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1676898",
+		"listingAgent": {
+			"name": "Trey Woodbrey"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-19": {
+				"event": "Sale Listing",
+				"price": 525000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-19T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 25
+			}
+		}
+	},
+	{
+		"id": "64-Ocean-Park-Rd,-Apt-2,-Saco,-ME-04072",
+		"formattedAddress": "64 Ocean Park Rd, Apt 2, Saco, ME 04072",
+		"addressLine1": "64 Ocean Park Rd",
+		"addressLine2": "Apt 2",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.508309,
+		"longitude": -70.423332,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 1.5,
+		"squareFootage": 990,
+		"lotSize": 29621,
+		"yearBuilt": 2019,
+		"hoa": {
+			"fee": 200
+		},
+		"status": "Active",
+		"price": 339500,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.695Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677185",
+		"listingAgent": {
+			"name": "Lindsay Book",
+			"phone": "2072529120",
+			"email": "lwbook207@gmail.com",
+			"website": "http://www.mainely207homes.com"
+		},
+		"listingOffice": {
+			"name": "The Maine Real Estate Experience",
+			"phone": "2073452207",
+			"email": "jason.becvar@gmail.com"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 339500,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "22-Cleveland-St,-Saco,-ME-04072",
+		"formattedAddress": "22 Cleveland St, Saco, ME 04072",
+		"addressLine1": "22 Cleveland St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.502523,
+		"longitude": -70.437815,
+		"propertyType": "Land",
+		"lotSize": 8276,
+		"status": "Active",
+		"price": 249000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-21T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-22T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.694Z",
+		"daysOnMarket": 23,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677285",
+		"listingAgent": {
+			"name": "Trey Woodbrey"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-08-21": {
+				"event": "Sale Listing",
+				"price": 249000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-21T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 23
+			}
+		}
+	},
+	{
+		"id": "1-Saco-Island-Ter,-Unit-307,-Saco,-ME-04072",
+		"formattedAddress": "1 Saco Island Ter, Unit 307, Saco, ME 04072",
+		"addressLine1": "1 Saco Island Ter",
+		"addressLine2": "Unit 307",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.539093,
+		"longitude": -70.462478,
+		"propertyType": "Condo",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1672,
+		"lotSize": 1742,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 863
+		},
+		"status": "Active",
+		"price": 580000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T07:35:34.673Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677815",
+		"listingAgent": {
+			"name": "Adrian Ramsdell",
+			"phone": "2077764247",
+			"email": "adrianramsdell@kw.com",
+			"website": "http://theramsdellteam.kw.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 580000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "2-Sullivan-Ln,-Saco,-ME-04072",
+		"formattedAddress": "2 Sullivan Ln, Saco, ME 04072",
+		"addressLine1": "2 Sullivan Ln",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.531857,
+		"longitude": -70.457013,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1356,
+		"lotSize": 26572,
+		"yearBuilt": 1998,
+		"status": "Active",
+		"price": 638000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.773Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677855",
+		"listingAgent": {
+			"name": "Dawn Marston",
+			"phone": "2072892355",
+			"email": "dawn@fontaineteam.com",
+			"website": "http://www.brendafontaine.com"
+		},
+		"listingOffice": {
+			"name": "RE/MAX Shoreline",
+			"phone": "2075537500",
+			"email": "derrickbuckspan@homesinmaine.com",
+			"website": "http://www.homesinmaine.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 638000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "Owls-Nest-Way,-Saco,-ME-04072",
+		"formattedAddress": "Owls Nest Way, Saco, ME 04072",
+		"addressLine1": "Owls Nest Way",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.564242,
+		"longitude": -70.503757,
+		"propertyType": "Land",
+		"lotSize": 93654,
+		"status": "Active",
+		"price": 221900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-26T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-27T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.763Z",
+		"daysOnMarket": 18,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677925",
+		"listingAgent": {
+			"name": "Michael Morong",
+			"phone": "2072866489",
+			"email": "southernmainerealestate@gmail.com"
+		},
+		"listingOffice": {
+			"name": "Plowman Realty Group",
+			"phone": "2077762130",
+			"email": "joshplowman1@gmail.com"
+		},
+		"history": {
+			"2026-08-26": {
+				"event": "Sale Listing",
+				"price": 221900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-26T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 18
+			}
+		}
+	},
+	{
+		"id": "20-North-St,-Saco,-ME-04072",
+		"formattedAddress": "20 North St, Saco, ME 04072",
+		"addressLine1": "20 North St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.501379,
+		"longitude": -70.444013,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 3,
+		"squareFootage": 2388,
+		"lotSize": 3049,
+		"yearBuilt": 1851,
+		"status": "Active",
+		"price": 499900,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2022-05-26T11:05:49.073Z",
+		"lastSeenDate": "2026-09-12T06:55:56.760Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1677997",
+		"listingAgent": {
+			"name": "Chris Lavoie",
+			"phone": "2075532604",
+			"email": "chris@domaine-realestate.com",
+			"website": "http://www.domaine-realestate.com"
+		},
+		"listingOffice": {
+			"name": "Keller Williams Realty Greater Portland",
+			"phone": "2078799800",
+			"email": "klrw318@kw.com",
+			"website": "www.kwmaine.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 499900,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "17-Riverside-Ave-Unit-A,-Saco,-ME-04072",
+		"formattedAddress": "17 Riverside Ave Unit A, Saco, ME 04072",
+		"addressLine1": "17 Riverside Ave Unit A",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.464935,
+		"longitude": -70.382381,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2148,
+		"lotSize": 17424,
+		"yearBuilt": 2016,
+		"status": "Active",
+		"price": 1300000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.751Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678024",
+		"listingAgent": {
+			"name": "Ed Gardner",
+			"phone": "2074273368",
+			"email": "ed@gardnerregroup.com",
+			"website": "http://www.edgardner.website"
+		},
+		"listingOffice": {
+			"name": "Gardner Real Estate Group",
+			"phone": "2074273637",
+			"email": "marcchad@gmail.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 1300000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "17-23-Eastern-Ave,-Saco,-ME-04072",
+		"formattedAddress": "17-23 Eastern Ave, Saco, ME 04072",
+		"addressLine1": "17-23 Eastern Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.463909,
+		"longitude": -70.381065,
+		"propertyType": "Multi-Family",
+		"bathrooms": 2,
+		"squareFootage": 1866,
+		"lotSize": 6970,
+		"yearBuilt": 1917,
+		"status": "Active",
+		"price": 1175000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.747Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678045",
+		"listingAgent": {
+			"name": "Luke Morris",
+			"phone": "6034015858"
+		},
+		"listingOffice": {
+			"name": "Real Broker",
+			"phone": "2072723984",
+			"email": "julie.perrino@therealbrokerage.com"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 1175000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "4-Shari-Ln,-Saco,-ME-04072",
+		"formattedAddress": "4 Shari Ln, Saco, ME 04072",
+		"addressLine1": "4 Shari Ln",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.486128,
+		"longitude": -70.399599,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2.5,
+		"squareFootage": 2507,
+		"lotSize": 44867,
+		"yearBuilt": 1996,
+		"status": "Active",
+		"price": 985000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-27T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-28T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.746Z",
+		"daysOnMarket": 17,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678048",
+		"listingAgent": {
+			"name": "Amanda Billing",
+			"phone": "2072159301"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-27": {
+				"event": "Sale Listing",
+				"price": 985000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-27T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 17
+			}
+		}
+	},
+	{
+		"id": "32-Shannon-Ln,-Unit-32,-Saco,-ME-04072",
+		"formattedAddress": "32 Shannon Ln, Unit 32, Saco, ME 04072",
+		"addressLine1": "32 Shannon Ln",
+		"addressLine2": "Unit 32",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.505393,
+		"longitude": -70.431414,
+		"propertyType": "Townhouse",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1520,
+		"lotSize": 16117,
+		"yearBuilt": 2006,
+		"hoa": {
+			"fee": 570
+		},
+		"status": "Active",
+		"price": 499000,
+		"listingType": "Standard",
+		"listedDate": "2026-08-30T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-08-31T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:55:56.710Z",
+		"daysOnMarket": 14,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1678355",
+		"listingAgent": {
+			"name": "Roz Anton",
+			"phone": "2074503230",
+			"email": "roz@rozanton.com",
+			"website": "https://roslindanton.exprealty.com/"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-08-30": {
+				"event": "Sale Listing",
+				"price": 499000,
+				"listingType": "Standard",
+				"listedDate": "2026-08-30T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 14
+			}
+		}
+	},
+	{
+		"id": "60-Shadagee-Rd,-Unit-11,-Saco,-ME-04072",
+		"formattedAddress": "60 Shadagee Rd, Unit 11, Saco, ME 04072",
+		"addressLine1": "60 Shadagee Rd",
+		"addressLine2": "Unit 11",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.515843,
+		"longitude": -70.464011,
+		"propertyType": "Townhouse",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"squareFootage": 1790,
+		"yearBuilt": 2003,
+		"hoa": {
+			"fee": 380
+		},
+		"status": "Active",
+		"price": 480000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-05T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-05T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.178Z",
+		"daysOnMarket": 8,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679432",
+		"listingAgent": {
+			"name": "Christine Pemberton",
+			"phone": "2077494711",
+			"email": "gr8fulmaine@gmail.com",
+			"website": "http://www.pembertonmaine.com/"
+		},
+		"listingOffice": {
+			"name": "Pemberton Real Estate",
+			"phone": "2077494711",
+			"email": "gr8fulmaine@gmail.com"
+		},
+		"history": {
+			"2026-09-05": {
+				"event": "Sale Listing",
+				"price": 480000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-05T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 8
+			}
+		}
+	},
+	{
+		"id": "17-Wood-Ave,-Saco,-ME-04072",
+		"formattedAddress": "17 Wood Ave, Saco, ME 04072",
+		"addressLine1": "17 Wood Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.50085,
+		"longitude": -70.429698,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1.5,
+		"squareFootage": 1532,
+		"lotSize": 18731,
+		"yearBuilt": 1937,
+		"status": "Active",
+		"price": 529000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.152Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680100",
+		"listingAgent": {
+			"name": "Priscilla Ford",
+			"phone": "2077524446",
+			"email": "priscillaford@kw.com",
+			"website": "http://newenglandcoastal.yourkwoffice.com/mcj/agent/priscillaford"
+		},
+		"listingOffice": {
+			"name": "The Aland Realty Group, LLC",
+			"phone": "2077030813",
+			"email": "chris@alandrealty.com"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 529000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "5-Vivian-St,-Saco,-ME-04072",
+		"formattedAddress": "5 Vivian St, Saco, ME 04072",
+		"addressLine1": "5 Vivian St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.509418,
+		"longitude": -70.430746,
+		"propertyType": "Multi-Family",
+		"bathrooms": 4,
+		"squareFootage": 2192,
+		"lotSize": 13504,
+		"yearBuilt": 2003,
+		"status": "Active",
+		"price": 599000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-09T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-10T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.150Z",
+		"daysOnMarket": 4,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1679785",
+		"listingAgent": {
+			"name": "David Trottier",
+			"phone": "2072527474",
+			"email": "david@davidtrottier.net",
+			"website": "http://www.davidtrottier.net"
+		},
+		"listingOffice": {
+			"name": "Realty Sales Inc",
+			"phone": "2072527474",
+			"email": "dtrottier3@gmail.com",
+			"website": "http://realtysales.biz/"
+		},
+		"history": {
+			"2026-09-09": {
+				"event": "Sale Listing",
+				"price": 599000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-09T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 4
+			}
+		}
+	},
+	{
+		"id": "131-Common-St,-Saco,-ME-04072",
+		"formattedAddress": "131 Common St, Saco, ME 04072",
+		"addressLine1": "131 Common St",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.496082,
+		"longitude": -70.43996,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"squareFootage": 1395,
+		"lotSize": 9148,
+		"yearBuilt": 1880,
+		"status": "Active",
+		"price": 325000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.118Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680006",
+		"listingAgent": {
+			"name": "Sabine Mcelrath",
+			"phone": "2074158730",
+			"email": "sabine@fastmail.com"
+		},
+		"listingOffice": {
+			"name": "EXP Realty, LLC",
+			"phone": "8884398743",
+			"email": "me.broker@exprealty.net"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 325000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "2-Fairhaven-Ave,-Saco,-ME-04072",
+		"formattedAddress": "2 Fairhaven Ave, Saco, ME 04072",
+		"addressLine1": "2 Fairhaven Ave",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.469268,
+		"longitude": -70.385505,
+		"propertyType": "Single Family",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"squareFootage": 720,
+		"lotSize": 2178,
+		"yearBuilt": 1966,
+		"status": "Active",
+		"price": 475000,
+		"listingType": "Standard",
+		"listedDate": "2026-09-10T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-11T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.117Z",
+		"daysOnMarket": 3,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680029",
+		"listingAgent": {
+			"name": "Lisa Hughes",
+			"phone": "2072825988",
+			"email": "lisa.hughes@cbrealty.com",
+			"website": "https://lisahughesrealtor.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-09-10": {
+				"event": "Sale Listing",
+				"price": 475000,
+				"listingType": "Standard",
+				"listedDate": "2026-09-10T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 3
+			}
+		}
+	},
+	{
+		"id": "32-Tall-Pines-Dr,-Saco,-ME-04072",
+		"formattedAddress": "32 Tall Pines Dr, Saco, ME 04072",
+		"addressLine1": "32 Tall Pines Dr",
+		"addressLine2": null,
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.546746,
+		"longitude": -70.48424,
+		"propertyType": "Single Family",
+		"bedrooms": 4,
+		"bathrooms": 1.5,
+		"squareFootage": 1400,
+		"lotSize": 29185,
+		"yearBuilt": 1981,
+		"status": "Active",
+		"price": 549900,
+		"listingType": "Standard",
+		"listedDate": "2026-09-12T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-09-12T00:00:00.000Z",
+		"lastSeenDate": "2026-09-12T06:33:44.108Z",
+		"daysOnMarket": 1,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1680309",
+		"listingAgent": {
+			"name": "Christian Steppe",
+			"phone": "2072825988",
+			"email": "c.steppe@cbrealty.com",
+			"website": "http://www.christiansteppesells.com/"
+		},
+		"listingOffice": {
+			"name": "Coldwell Banker Realty",
+			"phone": "2072825988",
+			"email": "kendra.wright@cbrealty.com",
+			"website": "https://www.coldwellbankerhomes.com//me/saco/office/saco/oid_3589/"
+		},
+		"history": {
+			"2026-09-12": {
+				"event": "Sale Listing",
+				"price": 549900,
+				"listingType": "Standard",
+				"listedDate": "2026-09-12T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 1
+			}
+		}
+	},
+	{
+		"id": "1-Saco-Island-Ter,-Unit-139,-Saco,-ME-04072",
+		"formattedAddress": "1 Saco Island Ter, Unit 139, Saco, ME 04072",
+		"addressLine1": "1 Saco Island Ter",
+		"addressLine2": "Unit 139",
+		"city": "Saco",
+		"state": "ME",
+		"stateFips": "23",
+		"zipCode": "04072",
+		"county": "York",
+		"countyFips": "031",
+		"latitude": 43.494484,
+		"longitude": -70.450218,
+		"propertyType": "Condo",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"squareFootage": 580,
+		"yearBuilt": 1987,
+		"hoa": {
+			"fee": 301
+		},
+		"status": "Active",
+		"price": 269000,
+		"listingType": "Standard",
+		"listedDate": "2026-07-25T00:00:00.000Z",
+		"removedDate": null,
+		"createdDate": "2026-07-26T00:00:00.000Z",
+		"lastSeenDate": "2026-09-11T10:27:42.449Z",
+		"daysOnMarket": 49,
+		"mlsName": "MaineListings",
+		"mlsNumber": "1673506",
+		"listingAgent": {
+			"name": "Matthew Dibiase",
+			"phone": "2077757653",
+			"email": "matt@landinghomesmaine.com",
+			"website": "https://landinghomesmaine.com/agent/matt-dibiase/"
+		},
+		"listingOffice": {
+			"name": "Landing Real Estate",
+			"phone": "2077757653",
+			"email": "info@landinghomesmaine.com",
+			"website": "http://www.landinghomesmaine.com"
+		},
+		"history": {
+			"2026-07-25": {
+				"event": "Sale Listing",
+				"price": 269000,
+				"listingType": "Standard",
+				"listedDate": "2026-07-25T00:00:00.000Z",
+				"removedDate": null,
+				"daysOnMarket": 49
+			}
+		}
+	}
+]
