@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.9.12120.119 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeFinancePlanner.Web", "src\HomeFinancePlanner.Web\HomeFinancePlanner.Web.csproj", "{961607E0-2A5D-4A01-B2A9-17C36C3F527B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeFinancePlanner.Services", "src\HomeFinancePlanner.Services\HomeFinancePlanner.Services.csproj", "{B80E6C1D-0B14-43E0-995D-8BF281C9DC3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeFinancePlanner.Data", "src\HomeFinancePlanner.Data\HomeFinancePlanner.Data.csproj", "{5858ADB0-812C-4DE6-9031-4E28D0EED8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeFinancePlanner.Models", "src\HomeFinancePlanner.Models\HomeFinancePlanner.Models.csproj", "{04AB9C2B-E1B1-4969-B350-9A81B3B48BBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30CC1C81-CBE3-4651-B497-7F314697F3CA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{961607E0-2A5D-4A01-B2A9-17C36C3F527B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961607E0-2A5D-4A01-B2A9-17C36C3F527B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961607E0-2A5D-4A01-B2A9-17C36C3F527B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961607E0-2A5D-4A01-B2A9-17C36C3F527B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80E6C1D-0B14-43E0-995D-8BF281C9DC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80E6C1D-0B14-43E0-995D-8BF281C9DC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80E6C1D-0B14-43E0-995D-8BF281C9DC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80E6C1D-0B14-43E0-995D-8BF281C9DC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5858ADB0-812C-4DE6-9031-4E28D0EED8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5858ADB0-812C-4DE6-9031-4E28D0EED8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5858ADB0-812C-4DE6-9031-4E28D0EED8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5858ADB0-812C-4DE6-9031-4E28D0EED8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AB9C2B-E1B1-4969-B350-9A81B3B48BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AB9C2B-E1B1-4969-B350-9A81B3B48BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AB9C2B-E1B1-4969-B350-9A81B3B48BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AB9C2B-E1B1-4969-B350-9A81B3B48BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F80C1CCA-ADD0-4542-B462-9E7DA04593CE}
+	EndGlobalSection
+EndGlobal

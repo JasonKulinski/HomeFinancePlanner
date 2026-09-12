@@ -1,0 +1,17 @@
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\bin\Debug\net8.0\HomeFinancePlanner.Services.deps.json
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\bin\Debug\net8.0\HomeFinancePlanner.Services.dll
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\bin\Debug\net8.0\HomeFinancePlanner.Services.pdb
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\bin\Debug\net8.0\HomeFinancePlanner.Data.dll
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\bin\Debug\net8.0\HomeFinancePlanner.Models.dll
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\bin\Debug\net8.0\HomeFinancePlanner.Models.pdb
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\bin\Debug\net8.0\HomeFinancePlanner.Data.pdb
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFinancePlanner.Services.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFinancePlanner.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFinancePlanner.Services.AssemblyInfoInputs.cache
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFinancePlanner.Services.AssemblyInfo.cs
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFinancePlanner.Services.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFina.A51C4E25.Up2Date
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFinancePlanner.Services.dll
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\refint\HomeFinancePlanner.Services.dll
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\HomeFinancePlanner.Services.pdb
+C:\Users\hunte\OneDrive\Desktop\MSVS Projects\HomeFinancePlanner\HomeFinancePlanner\src\HomeFinancePlanner.Services\obj\Debug\net8.0\ref\HomeFinancePlanner.Services.dll

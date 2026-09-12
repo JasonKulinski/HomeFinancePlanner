@@ -1,0 +1,10 @@
+@{
+    ViewData["Title"] = "Home Affordability Planner";
+    Layout = "_Layout";
+}
+
+@* In dev, ClientApp runs separately via Vite (npm run dev) and this view
+   is only used for the production build, where the built bundle from
+   ClientApp/dist is published alongside wwwroot. *@
+<div id="root"></div>
+<script type="module" src="~/dist/main.js"></script>
