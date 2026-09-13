@@ -62,12 +62,6 @@ namespace HomeFinancePlanner.Data.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<decimal>("AnnualHomeInsurance")
-                        .HasColumnType("TEXT");
-
-                    b.Property<decimal>("AnnualPropertyTax")
-                        .HasColumnType("TEXT");
-
                     b.Property<int>("Bathrooms")
                         .HasColumnType("INTEGER");
 
@@ -76,9 +70,6 @@ namespace HomeFinancePlanner.Data.Migrations
 
                     b.Property<string>("City")
                         .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<decimal?>("HoaMonthlyFee")
                         .HasColumnType("TEXT");
 
                     b.Property<decimal>("ListPrice")
@@ -95,7 +86,19 @@ namespace HomeFinancePlanner.Data.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.HasKey("Id");
+					b.Property<int>("LotSize")
+	                    .IsRequired()
+                        .HasColumnType("INTEGER");
+
+					b.Property<string>("Latitude")
+						.IsRequired()
+						.HasColumnType("FLOAT");
+
+					b.Property<string>("Longitude")
+						.IsRequired()
+						.HasColumnType("FLOAT");
+
+					b.HasKey("Id");
 
                     b.HasIndex("ZipCode");
 
