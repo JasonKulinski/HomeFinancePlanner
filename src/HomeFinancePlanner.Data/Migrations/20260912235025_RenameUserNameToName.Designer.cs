@@ -3,6 +3,7 @@ using System;
 using HomeFinancePlanner.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HomeFinancePlanner.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260912235025_RenameUserNameToName")]
+    partial class RenameUserNameToName
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.8");
@@ -62,6 +65,12 @@ namespace HomeFinancePlanner.Data.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<decimal>("AnnualHomeInsurance")
+                        .HasColumnType("TEXT");
+
+                    b.Property<decimal>("AnnualPropertyTax")
+                        .HasColumnType("TEXT");
+
                     b.Property<int>("Bathrooms")
                         .HasColumnType("INTEGER");
 
@@ -70,6 +79,9 @@ namespace HomeFinancePlanner.Data.Migrations
 
                     b.Property<string>("City")
                         .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<decimal?>("HoaMonthlyFee")
                         .HasColumnType("TEXT");
 
                     b.Property<decimal>("ListPrice")
@@ -86,19 +98,7 @@ namespace HomeFinancePlanner.Data.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-					b.Property<int>("LotSize")
-						.IsRequired()
-                        .HasColumnType("INTEGER");
-
-					b.Property<string>("Latitude")
-						.IsRequired()
-						.HasColumnType("FLOAT");
-
-					b.Property<string>("Longitude")
-						.IsRequired()
-						.HasColumnType("FLOAT");
-
-					b.HasKey("Id");
+                    b.HasKey("Id");
 
                     b.HasIndex("ZipCode");
 
