@@ -11,20 +11,20 @@ public class FinanceProfile
 
     public string? Name { get; set; }
 
-    public decimal CurrentSavings { get; set; }
+    public string CurrentSavings { get; set; }
 
-    public decimal MonthlySavingsContribution { get; set; }
+    public string MonthlySavingsContribution { get; set; }
 
-    public decimal AnnualGrossIncome { get; set; }
+    public string AnnualGrossIncome { get; set; }
 
-    public decimal MonthlyDebtPayments { get; set; }
+    public string MonthlyDebtPayments { get; set; }
 
     /// <summary>Fraction of price to put down, e.g. 0.20 for 20%.</summary>
-    public decimal TargetDownPaymentPercent { get; set; } = 0.20m;
+    public string TargetDownPaymentPercent { get; set; } = "0.20";
 
     /// <summary>Loan term in years, e.g. 30.</summary>
     public int LoanTermYears { get; set; } = 30;
 
     /// <summary>Annual interest rate as a fraction, e.g. 0.065 for 6.5%.</summary>
-    public decimal AnnualInterestRate { get; set; }
+    public string AnnualInterestRate { get; set; }
 }

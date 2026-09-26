@@ -3,24 +3,24 @@ const BASE_URL = 'https://localhost:50391/api/financeprofiles'
 export interface FinanceProfile {
 	id: number
 	name?: string
-	currentSavings: number
-	monthlySavingsContribution: number
-	annualGrossIncome: number
-	monthlyDebtPayments: number
-	targetDownPaymentPercent: number
-	loanTermYears: number
-	annualInterestRate: number
+	currentSavings: string
+	monthlySavingsContribution: string
+	annualGrossIncome: string
+	monthlyDebtPayments: string
+	targetDownPaymentPercent: string
+	loanTermYears: string
+	annualInterestRate: string
 }
 
 export interface CreateFinanceProfileRequest {
 	name: string
-	currentSavings?: number
-	monthlySavingsContribution?: number
-	annualGrossIncome?: number
-	monthlyDebtPayments?: number
-	targetDownPaymentPercent?: number
-	loanTermYears?: number
-	annualInterestRate?: number
+	currentSavings?: string
+	monthlySavingsContribution?: string
+	annualGrossIncome?: string
+	monthlyDebtPayments?: string
+	targetDownPaymentPercent?: string
+	loanTermYears?: string
+	annualInterestRate?: string
 }
 
 /** POST /api/financeprofiles */

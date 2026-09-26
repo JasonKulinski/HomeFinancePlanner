@@ -20,7 +20,7 @@ public class Home
 
     public string ZipCode { get; set; } = string.Empty;
 
-    public decimal ListPrice { get; set; }
+    public string ListPrice { get; set; }
 
     public int Bedrooms { get; set; }
 
@@ -30,7 +30,9 @@ public class Home
 
     public int LotSize { get; set; }
 
-    public float Latitude { get; set; }
+    [Required]
+    public string Latitude { get; set; }
 
-    public float Longitude { get; set; }
+    [Required]
+    public string Longitude { get; set; }
 }

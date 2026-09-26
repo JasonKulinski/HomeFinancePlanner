@@ -16,13 +16,13 @@ namespace HomeFinancePlanner.Data.Migrations
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    CurrentSavings = table.Column<decimal>(type: "TEXT", nullable: false),
-                    MonthlySavingsContribution = table.Column<decimal>(type: "TEXT", nullable: false),
-                    AnnualGrossIncome = table.Column<decimal>(type: "TEXT", nullable: false),
-                    MonthlyDebtPayments = table.Column<decimal>(type: "TEXT", nullable: false),
-                    TargetDownPaymentPercent = table.Column<decimal>(type: "TEXT", nullable: false),
+                    CurrentSavings = table.Column<string>(type: "TEXT", nullable: false),
+                    MonthlySavingsContribution = table.Column<string>(type: "TEXT", nullable: false),
+                    AnnualGrossIncome = table.Column<string>(type: "TEXT", nullable: false),
+                    MonthlyDebtPayments = table.Column<string>(type: "TEXT", nullable: false),
+                    TargetDownPaymentPercent = table.Column<string>(type: "TEXT", nullable: false),
                     LoanTermYears = table.Column<int>(type: "INTEGER", nullable: false),
-                    AnnualInterestRate = table.Column<decimal>(type: "TEXT", nullable: false)
+                    AnnualInterestRate = table.Column<string>(type: "TEXT", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -39,13 +39,13 @@ namespace HomeFinancePlanner.Data.Migrations
                     City = table.Column<string>(type: "TEXT", nullable: false),
                     State = table.Column<string>(type: "TEXT", nullable: false),
                     ZipCode = table.Column<string>(type: "TEXT", nullable: false),
-                    ListPrice = table.Column<decimal>(type: "TEXT", nullable: false),
+                    ListPrice = table.Column<string>(type: "TEXT", nullable: false),
                     Bedrooms = table.Column<int>(type: "INTEGER", nullable: true),
                     Bathrooms = table.Column<int>(type: "INTEGER", nullable: true),
                     SquareFeet = table.Column<int>(type: "INTEGER", nullable: true),
                     LotSize = table.Column<int>(type: "INTEGER", nullable: true),
-                    Latitude = table.Column<decimal>(type: "FLOAT", nullable: false),
-                    Longitude = table.Column<decimal>(type: "Float", nullable: false)
+                    Latitude = table.Column<string>(type: "FLOAT", nullable: false),
+                    Longitude = table.Column<string>(type: "Float", nullable: false)
 				},
                 constraints: table =>
                 {

@@ -30,13 +30,13 @@ public class FinanceProfilesApiController : ControllerBase
         var profile = new FinanceProfile
         {
             Name = request.Name,
-            CurrentSavings = request.CurrentSavings ?? 0,
-            MonthlySavingsContribution = request.MonthlySavingsContribution ?? 0,
-            AnnualGrossIncome = request.AnnualGrossIncome ?? 0,
-            MonthlyDebtPayments = request.MonthlyDebtPayments ?? 0,
-            TargetDownPaymentPercent = request.TargetDownPaymentPercent ?? 0.20m,
+            CurrentSavings = request.CurrentSavings ?? "0",
+            MonthlySavingsContribution = request.MonthlySavingsContribution ?? "0",
+            AnnualGrossIncome = request.AnnualGrossIncome ?? "0",
+            MonthlyDebtPayments = request.MonthlyDebtPayments ?? "0",
+            TargetDownPaymentPercent = request.TargetDownPaymentPercent ?? "0.20m",
             LoanTermYears = request.LoanTermYears ?? 30,
-            AnnualInterestRate = request.AnnualInterestRate ?? 0,
+            AnnualInterestRate = request.AnnualInterestRate ?? "0",
         };
 
         _db.FinanceProfiles.Add(profile);
@@ -87,11 +87,11 @@ public class FinanceProfilesApiController : ControllerBase
 public class CreateFinanceProfileRequest
 {
     public string? Name { get; set; }
-    public decimal? CurrentSavings { get; set; }
-    public decimal? MonthlySavingsContribution { get; set; }
-    public decimal? AnnualGrossIncome { get; set; }
-    public decimal? MonthlyDebtPayments { get; set; }
-    public decimal? TargetDownPaymentPercent { get; set; }
+    public string? CurrentSavings { get; set; }
+    public string? MonthlySavingsContribution { get; set; }
+    public string? AnnualGrossIncome { get; set; }
+    public string? MonthlyDebtPayments { get; set; }
+    public string? TargetDownPaymentPercent { get; set; }
     public int? LoanTermYears { get; set; }
-    public decimal? AnnualInterestRate { get; set; }
+    public string? AnnualInterestRate { get; set; }
 }

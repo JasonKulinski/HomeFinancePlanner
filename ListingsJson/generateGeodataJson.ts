@@ -33,11 +33,12 @@ const currencyFormatter = new Intl.NumberFormat('en-US', {
 })
 
 // Put all the listings in the correct form for Cesium
+let i = 0
 for (const house of inputJson) {
     houses.features.push({
         type: 'Feature',
         properties: {
-            id: house.id,
+            id: i,
             price: currencyFormatter.format(house.price),
         },
         geometry: {
@@ -45,6 +46,7 @@ for (const house of inputJson) {
             coordinates: [house.longitude, house.latitude],
         },
     })
+    i++
 }
 
 Bun.write('housing_geodata.json', JSON.stringify(houses))

@@ -13,7 +13,7 @@ VALUES `
 // Put all the listings in the correct form for SQL
 let i = 0
 for (const house of inputJson) {
-    let row = `(${i},'${house.formattedAddress === undefined ? 'NULL' : house.formattedAddress}','${house.city === undefined ? 'NULL' : house.city}','${house.state === undefined ? 'NULL' : house.state}','${house.zipCode === undefined ? 'NULL' : house.zipCode}',${house.price === undefined ? 'NULL' : house.price},${house.bedrooms === undefined ? 'NULL' : house.bedrooms},${house.bathrooms === undefined ? 'NULL' : house.bathrooms},${house.squareFootage === undefined ? 'NULL' : house.squareFootage},${house.latitude === undefined ? 'NULL' : house.latitude},${house.longitude === undefined ? 'NULL' : house.longitude},${house.lotSize === undefined ? 'NULL' : house.lotSize})`
+    let row = `(${i},'${house.formattedAddress === undefined ? 'NULL' : house.formattedAddress}','${house.city === undefined ? 'NULL' : house.city}','${house.state === undefined ? 'NULL' : house.state}','${house.zipCode === undefined ? 'NULL' : house.zipCode}',${house.price === undefined ? 'NULL' : `'${house.price}'`},${house.bedrooms === undefined ? 'NULL' : house.bedrooms},${house.bathrooms === undefined ? 'NULL' : house.bathrooms},${house.squareFootage === undefined ? 'NULL' : house.squareFootage},${house.latitude === undefined ? 'NULL' : `'${house.latitude}'`},${house.longitude === undefined ? 'NULL' : `'${house.longitude}'`},${house.lotSize === undefined ? 'NULL' : house.lotSize})`
     if (i === inputJson.length - 1) row += ';'
     else row += ','
     row += '\n'

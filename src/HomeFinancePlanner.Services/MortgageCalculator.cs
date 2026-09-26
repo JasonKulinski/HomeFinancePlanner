@@ -20,33 +20,27 @@ public class MortgageCalculator : IMortgageCalculator
 
     public async Task<AffordabilityResult> CalculateAsync(Home home, FinanceProfile profile)
     {
-        var downPayment = home.ListPrice * profile.TargetDownPaymentPercent;
-        var monthsToDownPayment = MonthsToSave(downPayment, profile.CurrentSavings, profile.MonthlySavingsContribution);
+        var downPayment = decimal.Parse(home.ListPrice) * decimal.Parse(profile.TargetDownPaymentPercent);
+        var monthsToDownPayment = MonthsToSave(downPayment, decimal.Parse(profile.CurrentSavings), decimal.Parse(profile.MonthlySavingsContribution));
 
-        var loanAmount = home.ListPrice - downPayment;
-        var monthlyPrincipalAndInterest = MonthlyPayment(loanAmount, profile.AnnualInterestRate, profile.LoanTermYears);
+        var loanAmount = decimal.Parse(home.ListPrice) - downPayment;
+        var monthlyPrincipalAndInterest = MonthlyPayment(loanAmount, decimal.Parse(profile.AnnualInterestRate), profile.LoanTermYears);
 
         //var monthlyTaxesInsuranceHoa =
         //    (home.AnnualPropertyTax + home.AnnualHomeInsurance) / 12m;
 
         var totalMonthlyPayment = monthlyPrincipalAndInterest /*+ monthlyTaxesInsuranceHoa*/;
 
-        var monthlyGrossIncome = profile.AnnualGrossIncome / 12m;
+        var monthlyGrossIncome = decimal.Parse(profile.AnnualGrossIncome) / 12m;
         var debtToIncome = monthlyGrossIncome == 0
             ? 0m
-            : (profile.MonthlyDebtPayments + totalMonthlyPayment) / monthlyGrossIncome;
-
-        var cheapestNearbyRent = await _db.RentalListings
-            .Where(r => r.ZipCode == home.ZipCode)
-            .OrderBy(r => r.MonthlyRent)
-            .Select(r => (decimal?)r.MonthlyRent)
-            .FirstOrDefaultAsync();
+            : (decimal.Parse(profile.MonthlyDebtPayments) + totalMonthlyPayment) / monthlyGrossIncome;
 
         return new AffordabilityResult
         {
             HomeId = home.Id,
             Address = home.Address,
-            ListPrice = home.ListPrice,
+            ListPrice = decimal.Parse(home.ListPrice),
             RequiredDownPayment = downPayment,
             MonthsToDownPayment = monthsToDownPayment,
             EstimatedMonthlyPrincipalAndInterest = Round(monthlyPrincipalAndInterest),
@@ -54,10 +48,8 @@ public class MortgageCalculator : IMortgageCalculator
             EstimatedTotalMonthlyPayment = Round(totalMonthlyPayment),
             DebtToIncomeRatioAfterPurchase = Round(debtToIncome, 4),
             LooksAffordable = debtToIncome <= MaxHealthyDebtToIncome,
-            CheapestNearbyRent = cheapestNearbyRent,
-            MonthlySavingsIfRentingInstead = cheapestNearbyRent.HasValue
-                ? Round(totalMonthlyPayment - cheapestNearbyRent.Value)
-                : null,
+            CheapestNearbyRent = 1,
+            MonthlySavingsIfRentingInstead = 1
         };
     }
 

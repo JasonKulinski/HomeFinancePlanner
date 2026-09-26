@@ -30,6 +30,7 @@ public class MapAPIController : ControllerBase
         if (home == null || profile == null) {
             return NotFound("Home or profile not found");
         }
+        Console.WriteLine("hi");
 
         var result = await _calculator.CalculateAsync(home, profile);
         return Ok(result);
@@ -47,5 +48,19 @@ public class MapAPIController : ControllerBase
         }
 
         return Ok(profile);
+    }
+
+    [HttpGet("home")]
+    public async Task<ActionResult<Home>> GetByHomeId([FromQuery] int id)
+    {
+        Expression<Func<Home, bool>> predicate = p => p.Id.Equals(id);
+        var home = await _db.Homes.FirstOrDefaultAsync(predicate);
+
+        if (home is null)
+        {
+            return NotFound($"No home found with that id.");
+        }
+
+        return Ok(home);
     }
 }
